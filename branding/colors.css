@@ -1,0 +1,30 @@
+/* Neo-Forensic Cyberstructuralism Accent Palette */
+
+/* Base mandatory colors */
+:root {
+  --nfcs-bg-black: #000000;
+  --nfcs-white: #FFFFFF;
+}
+
+/* Primary Accent Modes */
+:root {
+  --nfcs-axiom-blue: #33B8FF;
+  --nfcs-protocol-red: #FF2444;
+  --nfcs-signal-orange: #FF7A26;
+  --nfcs-spectral-violet: #A88CFF;
+  --nfcs-archive-gold: #FFCE54;
+}
+
+/* Secondary Accent Modes (optional) */
+:root {
+  --nfcs-delta-teal: #00D4C7;
+  --nfcs-infrared-ruby: #FF1155;
+  --nfcs-ion-yellow: #F9E46B;
+  --nfcs-ghostline-silver: #C0D0FF;
+  --nfcs-entropy-indigo: #4A46A3;
+}
+
+/* Glow helpers */
+.glow {
+  filter: drop-shadow(0 0 6px currentColor);
+}
