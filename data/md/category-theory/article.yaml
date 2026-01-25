@@ -1,0 +1,71 @@
+---
+title: "Category Theory: Origins, Reception, and Early Development"
+subtitle: "From Natural Equivalences to a Unifying Mathematical Language (c. 1935–1965)"
+author:
+  - name: "Salvador Guzman"
+lang: "en-US"
+date: "2026-01-25"
+license: "CC0-1.0"
+rights: "To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work (CC0 1.0)."
+
+# Publishing/site hints (safe to ignore if unused by your pipeline)
+type: "article"
+status: "final"
+draft: false
+slug: "category-theory-origins-1935-1965"
+
+description: >
+  A historical and conceptual report on the emergence of category theory in the 1940s,
+  its precursors in structural algebra and logic, its early reception as “abstract nonsense,”
+  and its consolidation through homological algebra, Grothendieck’s algebraic geometry,
+  and Lawvere’s categorical foundations.
+
+keywords:
+  - "category theory"
+  - "Eilenberg"
+  - "Mac Lane"
+  - "natural transformation"
+  - "functor"
+  - "mathematical structuralism"
+  - "homological algebra"
+  - "algebraic topology"
+  - "Grothendieck"
+  - "Lawvere"
+  - "Bourbaki"
+  - "foundations of mathematics"
+  - "history of mathematics"
+  - "1940s mathematics"
+  - "20th century mathematics"
+
+categories:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Foundations"
+
+tags:
+  - "history"
+  - "foundations"
+  - "algebra"
+  - "topology"
+  - "logic"
+
+abstract: >
+  Category theory emerged in the 1940s as a framework for expressing “naturality” across
+  mathematical constructions. Introduced by Samuel Eilenberg and Saunders Mac Lane in
+  the mid-1940s, it reframed mathematics around objects and morphisms, functors between
+  contexts, and natural transformations expressing uniform relationships. This article
+  traces the 1930s intellectual precursors (set-theoretic foundations debates, Bourbaki
+  structuralism, and parallel currents in logic and type theory), analyzes the founding
+  papers and motivations, documents early skepticism and the “abstract nonsense” label,
+  and explains how decisive applications in algebraic topology and homological algebra
+  helped establish legitimacy. It then follows the expansion of categorical methods via
+  Grothendieck’s abelian categories and Lawvere’s foundational program, situating category
+  theory among competing foundational frameworks and summarizing its lasting influence on
+  modern mathematics and theoretical computer science.
+
+# Optional Pandoc knobs (remove if your build system sets these elsewhere)
+toc: true
+toc-depth: 3
+number-sections: true
+reference-section-title: "References"
+...
