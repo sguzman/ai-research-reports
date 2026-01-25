@@ -37,5 +37,5 @@ type: book
 format: epub
 toc-title: "Contents"
 epub-chapter-level: 2
-epub-cover-image: "christian-socialism-cover.png"
+epub-cover-image: "cover.png"
 ---
