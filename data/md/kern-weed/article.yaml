@@ -1,0 +1,52 @@
+# article.yaml (override)
+title: "Cannabis Dispensary Feasibility"
+subtitle: "A practical, compliance-first plan for opening a retail cannabis business in Kern County, California"
+author:
+  - "Salvador Guzman"
+date: "2026-01-25"
+lang: "en-US"
+
+# EPUB / pandoc conventions
+description: |
+  A feasibility report for launching a licensed cannabis dispensary in Kern County, California.
+  Covers state licensing (DCC), local zoning constraints, security and compliance requirements,
+  market and demand dynamics, competitive landscape (delivery vs storefront), site selection,
+  operations and staffing, startup costs and revenue scenarios, marketing/community relations,
+  risk mitigation, and a phased 12-month timeline from permitting to launch.
+subject:
+  - "Cannabis regulation"
+  - "Small business feasibility"
+  - "Retail operations"
+  - "Local government and zoning"
+  - "California"
+
+keywords:
+  - "Kern County"
+  - "Bakersfield"
+  - "Arvin"
+  - "California City"
+  - "California Department of Cannabis Control"
+  - "DCC"
+  - "Type 10"
+  - "Type 9"
+  - "Metrc"
+  - "track-and-trace"
+  - "dispensary"
+  - "cannabis retail"
+  - "zoning"
+  - "conditional use permit"
+  - "security plan"
+  - "startup costs"
+  - "financial model"
+  - "loyalty program"
+  - "delivery"
+
+categories:
+  - "Business"
+  - "Policy"
+  - "Operations"
+
+# If your base YAML sets these globally, keep them there; override only if needed.
+cover-image: "cover.png"
+rights: "CC0-1.0"
+publisher: "Salvador Guzman"
