@@ -1,0 +1,30 @@
+# article.yaml (override)
+title: "Topology"
+subtitle: "From 18th-Century Precursors to Present-Day Frontiers"
+
+author: "Salvador Guzman"
+date: "2026-01-25"
+lang: "en-US"
+
+rights: "CC0-1.0"
+publisher: "Salvador Guzman"
+
+description: >
+  A comprehensive, graduate-level narrative of topology’s development from Euler and
+  Poincaré through 20th-century point-set and algebraic topology, culminating in
+  modern frontiers and cross-disciplinary applications (physics, CS, data science),
+  with key concepts, subfields, case studies, and open problems.
+
+keywords:
+  - topology
+  - point-set topology
+  - algebraic topology
+  - homotopy
+  - homology
+  - manifolds
+  - knot theory
+  - topological data analysis
+  - history of mathematics
+
+# pandoc / epub hooks
+epub-cover-image: "cover.png"
