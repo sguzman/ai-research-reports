@@ -1,0 +1,55 @@
+---
+title: "Chartists & Radical Republicans, 1840-1865"
+subtitle: "Franchise, Socialism, and the Limits of Alliance"
+author:
+  - "Salvador Guzman"
+date: "2026-01-25"
+lang: "en-US"
+
+publisher: "Salvador Guzman"
+rights: "CC0-1.0"
+
+# For Pandoc -> EPUB
+epub-title-page: false
+epub-cover-image: "cover.png"
+
+description: >
+  A court-document-style research dossier tracing how British Chartism and
+  Radical Liberal reformers, alongside U.S. Radical Republicans, navigated
+  the franchise question amid recurring press panics over “socialism” and
+  “Red Republicanism,” and why alliances between political democrats and
+  socialist currents repeatedly hit hard limits.
+
+keywords:
+  - Chartism
+  - People’s Charter
+  - franchise reform
+  - Feargus O’Connor
+  - Ernest Jones
+  - George Julian Harney
+  - Red Republicanism
+  - John Bright
+  - Richard Cobden
+  - Radical Republicans
+  - Thaddeus Stevens
+  - Charles Sumner
+  - abolition
+  - Reconstruction
+  - political economy
+  - press panic
+  - 1848 revolutions
+
+subjects:
+  - "Political science -- Political ideologies"
+  - "Great Britain -- Politics and government -- 19th century"
+  - "United States -- Politics and government -- Civil War and Reconstruction, 1861-1877"
+  - "Suffrage -- History"
+  - "Abolitionists -- United States -- History"
+  - "History of economic thought"
+
+# Optional series bookkeeping (harmless if ignored)
+series-title: "Inventing Socialism"
+series-number: 4
+report-number: "004"
+edition: "Research report"
+...
