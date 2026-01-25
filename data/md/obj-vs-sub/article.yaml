@@ -1,0 +1,45 @@
+# article.yaml — override metadata for this one report
+
+title: "Objectivity vs. Subjectivity"
+subtitle: "Philosophical Debate and Implications"
+
+author:
+  - "Salvador Guzman"
+
+lang: "en-US"
+
+# If you like stamping compile dates, keep it; otherwise delete this line.
+date: "2026-01-25"
+
+rights: "CC0-1.0"
+license: "CC0-1.0"
+
+# Pandoc EPUB cover key (you said you want this exact filename)
+epub-cover-image: "cover.png"
+
+# Optional but useful for library apps / audiobook pipelines
+keywords:
+  - "epistemology"
+  - "objectivity"
+  - "subjectivity"
+  - "intersubjectivity"
+  - "relativism"
+  - "philosophy of science"
+  - "journalism ethics"
+  - "law and evidence"
+  - "public trust"
+  - "AI bias"
+  - "post-truth"
+
+description: >
+  A comprehensive survey of the objectivity–subjectivity debate from classical
+  philosophy through modern science, media, law, and AI, arguing for a reflexive,
+  intersubjective approach to objectivity grounded in procedures, transparency,
+  and empirical feedback.
+
+# Optional identifiers (safe to delete if you don't use them)
+identifier:
+  - scheme: "slug"
+    text: "objectivity-vs-subjectivity"
+  - scheme: "author"
+    text: "salvador-guzman"
