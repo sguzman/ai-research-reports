@@ -1,0 +1,50 @@
+# article.yaml (metadata override for Pandoc -> EPUB)
+title: "Complex Analysis as a Universal Canvas (Euler to Today): A Research Report"
+author:
+  - "Salvador Guzman"
+lang: "en-US"
+date: "2026-01-31"
+
+# EPUB package metadata
+description: >
+  A research report arguing that complex analysis acts as a universal problem-solving
+  canvas: by reformulating problems as analytic functions on canonical domains, one
+  can leverage holomorphic rigidity, integral formulas, and conformal geometry to
+  extract global structure from sparse information. Includes historical development
+  (Euler, Cauchy, Riemann, Weierstrass to modern advances) and case-study victories
+  spanning number theory, PDEs, geometry, and probability.
+
+keywords:
+  - complex analysis
+  - holomorphic functions
+  - Cauchy integral theorem
+  - residues
+  - conformal mapping
+  - Riemann surfaces
+  - uniformization
+  - analytic number theory
+  - Riemann zeta function
+  - prime number theorem
+  - Hardy spaces
+  - Nevanlinna theory
+  - operator theory
+  - Bieberbach conjecture
+  - corona problem
+  - Schramm-Loewner evolution
+
+subjects:
+  - Mathematics
+  - Complex Analysis
+  - History of Mathematics
+
+rights: "CC0-1.0"
+license: "CC0-1.0"
+publisher: "Salvador Guzman"
+
+# Tell Pandoc which image file to use as the EPUB cover
+cover-image: "cover.png"
+
+# Optional: stable identifier you can keep consistent across rebuilds
+identifier:
+  - scheme: "uuid"
+    text: "b5c61f08-2c18-4a87-9f63-6f5d3a9a1c3f"

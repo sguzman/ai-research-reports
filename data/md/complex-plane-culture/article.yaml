@@ -1,0 +1,56 @@
+---
+title: "Imagining the Imaginary"
+subtitle: "A Cultural-Intellectual History of the Complex Plane (1748–2025)"
+author: "Salvador Guzman"
+lang: "en-US"
+date: "2026-01-31"
+
+cover-image: "cover.png"
+
+description: >
+  A cultural-intellectual history tracing how the “imaginary” unit i evolved from an algebraic
+  convenience into the geometric complex plane, then into a foundational tool for physics,
+  engineering, computation, and modern visual culture. Covers the shift from symbolic manipulation
+  (Euler) to geometric interpretation (Wessel, Argand, Gauss), the rise of complex analysis (Cauchy,
+  Riemann), industrial-era applications (phasors, circuits), quantum mechanics, and the postwar
+  explosion of computer visualization and fractals (Julia/Fatou, Mandelbrot), ending with contemporary
+  uses in quantum computing and machine learning.
+
+keywords:
+  - complex numbers
+  - imaginary unit
+  - complex plane
+  - Argand diagram
+  - Caspar Wessel
+  - Jean-Robert Argand
+  - Carl Friedrich Gauss
+  - Leonhard Euler
+  - Cauchy
+  - Riemann surfaces
+  - complex analysis
+  - conformal mapping
+  - phasors
+  - AC circuits
+  - quantum mechanics
+  - wave function
+  - Fourier transform
+  - fractals
+  - Julia set
+  - Mandelbrot set
+  - computer visualization
+  - signal processing
+  - quantum computing
+  - complex embeddings
+  - history of mathematics
+  - philosophy of mathematics
+  - science and culture
+
+subject:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Science and Technology Studies"
+
+rights: "CC0-1.0"
+license: "CC0-1.0"
+publisher: "Salvador Guzman"
+---
