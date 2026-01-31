@@ -1,41 +1,109 @@
 ---
-title: "Inventing Socialism"
-subtitle: "How Owenites, Saint-Simonians, Fourierists, and Icarians forged a new political vocabulary (1820–1840)"
-date: "2026-01-24"
-
-# EPUB metadata fields (Dublin Core-ish)
-description: >
-  A document-driven overview of how “socialism” and “socialist” first emerged and
-  stabilized as political terms between 1820 and 1840, tracing early usage in the
-  British Owenite movement and French Saint-Simonian and Fourierist circles, and
-  situating Étienne Cabet’s Icarian communism within the same formative semantic field.
-subject:
-  - "History of political thought"
-  - "Socialism — Origins"
-  - "Utopian socialism"
-  - "Nineteenth century — Europe"
+abstract: A document-driven overview of how "socialism" and "socialist" emerged and stabilized as political terms between 1820 and 1840. It traces early English usage in the British Owenite movement, follows early French "socialisme" in Saint-Simonian and Fourierist circles, and situates Etienne Cabet's Icarian communism within the same formative semantic field. The piece highlights how, by the late 1830s, observers increasingly treated these currents as a shared family of critiques of competitive "individualism," while noting persistent tensions over authority, religion, and strategy that foreshadowed later splits in socialist politics.
+author:
+- Salvador Guzman
+categories:
+- history
+- political-thought
+- concept-history
+- socialism
+- utopian-socialism
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: sguzman:research-report:inventing-socialism:2026-01-24
+date: '2026-01-24'
+description: 'A document-driven overview of how "socialism" and "socialist" first emerged and stabilized as political terms between 1820 and 1840, tracing early usage in the British Owenite movement and French Saint-Simonian and Fourierist circles, and situating Étienne Cabet’s Icarian communism within the same formative semantic field.'
+draft: false
+edition: '1'
+epub-chapter-level: 1
+epub-cover-image: cover.png
+epub-title-page: false
+epub_cover_image: cover.png
+format: text/markdown
+identifier: sguzman:research-report:inventing-socialism:2026-01-24
 keywords:
-  - socialism
-  - socialist
-  - Robert Owen
-  - Owenism
-  - Saint-Simon
-  - Saint-Simonianism
-  - Charles Fourier
-  - Fourierism
-  - Étienne Cabet
-  - Icaria
-  - utopian socialism
-  - individualism
-  - association
-  - industrialization
-  - 1820s
-  - 1830s
-  - 1840
-
-# Strongly recommended: unique per-EPUB identifier (prevents reader/library collisions)
-identifier: "sguzman:research-report:inventing-socialism:2026-01-24"
-
-# Per-book cover image filename (you generate this)
-epub-cover-image: "cover.jpg"
+- socialism
+- socialist
+- Robert Owen
+- Owenism
+- Saint-Simon
+- Saint-Simonianism
+- Charles Fourier
+- Fourierism
+- Étienne Cabet
+- Icaria
+- utopian socialism
+- individualism
+- association
+- industrialization
+- 1820s
+- 1830s
+- '1840'
+- political vocabulary
+- concept history
+- etymology
+lang: en
+language: English
+library_of_congress_classification:
+  scheme: LCC
+  class: H
+  subclass: HX
+  code: HX
+  label: Socialism. Communism. Anarchism
+  note: Heuristic classification; refine if you maintain more granular call numbers.
+license: CC0-1.0
+number-sections: true
+plate_id: inventing-socialism-cover
+publisher: Salvador Guzman
+reference-section-title: Bibliography
+report:
+  kind: research-report
+  topic: Origins and early semantics of the term 'socialism' (1820-1840)
+  time_window:
+    start: 1820
+    end: 1840
+  source_format: markdown
+  source_file: main.md
+  generated_for: EPUB conversion (pandoc)
+report-no: RR-2026-01-24
+report-number: '2026-01-24'
+report-year: '2026'
+report_no: 20260124
+report_year: 2026
+revision: 2026-01-24-r1
+rights: CC0-1.0 (Public Domain Dedication)
+series: Research Reports
+series-number: 0
+series-title: Research Reports
+slug: inventing-socialism
+status: complete
+subject:
+- History of political thought
+- Socialism - Origins
+- Utopian socialism
+- Nineteenth century - Europe
+subjects:
+- History of political thought
+- Socialism - Origins
+- Utopian socialism
+- Nineteenth century - Europe
+subtitle: How Owenites, Saint-Simonians, Fourierists, and Icarians forged a new political vocabulary (1820-1840)
+tags:
+- socialism
+- origin-of-terms
+- 19th-century
+- utopian-socialism
+- robert-owen
+- saint-simonianism
+- fourierism
+- etienne-cabet
+- icaria
+- political-vocabulary
+title: Inventing Socialism
+toc: true
+toc-depth: 3
+toc-title: Contents
+type: research-article
 ...
