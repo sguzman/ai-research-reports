@@ -1,4 +1,3 @@
----
 abstract: >-
   A research-oriented, end-to-end history of CSS (Cascading Style Sheets) from its
   1994 origins through the 2020s, treating CSS as the co-evolution of (1) formal
@@ -86,4 +85,3 @@ toc: true
 toc-depth: 3
 toc-title: "Table of Contents"
 type: "research-article"
-...
