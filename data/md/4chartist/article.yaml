@@ -1,43 +1,135 @@
 ---
-title: "Chartists & Radical Republicans, 1840-1865"
-subtitle: "Franchise, Socialism, and the Limits of Alliance"
+abstract: >
+  This research dossier traces a recurring mid-19th-century pattern in Anglo-American
+  politics: mass franchise movements that framed themselves as constitutional and moral
+  reform were repeatedly portrayed as the thin edge of a socialist wedge. Focusing on
+  British Chartism and allied Radical Liberal reform currents alongside U.S. Radical
+  Republicans, it follows how opponents and popular media used pejoratives like "Red
+  Republicanism" to link demands for political democracy (expanded suffrage, broader
+  participation, equal civil status) to the specter of social revolution, atheism, or
+  confiscatory "agrarian" redistribution.
+  The report tracks key episodes from the 1840s through the Civil War era, with special
+  attention to the 1848 European revolutions as an accelerant for panic narratives, and
+  compares the strategic constraints these narratives imposed: coalition fragility,
+  reputational policing, and repeated pressure on reformers to disavow "socialism" to
+  retain legitimacy. The result is a comparative map of how enfranchisement politics
+  interacted with early socialist language, and why alliances between political democrats
+  and socialist currents often reached hard limits under conditions of press hostility,
+  elite suspicion, and fears of disorder.
+
 author:
   - "Salvador Guzman"
+
+categories:
+  - "History"
+  - "Political history"
+  - "Modern political movements"
+  - "History of socialism"
+  - "Suffrage and franchise reform"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: "inventing-socialism-004"
+
 date: "2026-01-25"
-lang: "en-US"
-
-publisher: "Salvador Guzman"
-rights: "CC0-1.0"
-
-# For Pandoc -> EPUB
-epub-title-page: false
-epub-cover-image: "cover.png"
 
 description: >
   A court-document-style research dossier tracing how British Chartism and
   Radical Liberal reformers, alongside U.S. Radical Republicans, navigated
-  the franchise question amid recurring press panics over “socialism” and
-  “Red Republicanism,” and why alliances between political democrats and
+  the franchise question amid recurring press panics over "socialism" and
+  "Red Republicanism," and why alliances between political democrats and
   socialist currents repeatedly hit hard limits.
 
+draft: false
+
+edition: "Research report"
+
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+
+format: "text/markdown"
+
+identifier: "urn:sguzman:inventing-socialism:004:chartists-radical-republicans"
+
 keywords:
-  - Chartism
-  - People’s Charter
-  - franchise reform
-  - Feargus O’Connor
-  - Ernest Jones
-  - George Julian Harney
-  - Red Republicanism
-  - John Bright
-  - Richard Cobden
-  - Radical Republicans
-  - Thaddeus Stevens
-  - Charles Sumner
-  - abolition
-  - Reconstruction
-  - political economy
-  - press panic
-  - 1848 revolutions
+  - "Chartism"
+  - "People's Charter"
+  - "franchise reform"
+  - "Feargus O'Connor"
+  - "Ernest Jones"
+  - "George Julian Harney"
+  - "Red Republicanism"
+  - "John Bright"
+  - "Richard Cobden"
+  - "Radical Republicans"
+  - "Thaddeus Stevens"
+  - "Charles Sumner"
+  - "abolition"
+  - "Reconstruction"
+  - "political economy"
+  - "press panic"
+  - "1848 revolutions"
+
+lang: "en-US"
+language: "English (United States)"
+
+library_of_congress_classification:
+  primary: "HX (socialism, communism, anarchism)"
+  additional:
+    - "DA (Great Britain history, 19th century)"
+    - "E668 (United States Reconstruction)"
+  note: "Non-authoritative shelfing hints for personal library organization."
+
+license: "CC0-1.0"
+
+number-sections: false
+
+plate_id: "is-004"
+
+publisher: "Salvador Guzman"
+
+reference-section-title: "Bibliography (Primary and Secondary Sources)"
+
+report:
+  series_title: "Inventing Socialism"
+  series_number: 4
+  report_number: "004"
+  report_year: 2026
+  kind: "research dossier"
+  style: "court-document"
+  scope: "Great Britain and United States, 1840-1865"
+
+report-no: "004"
+report-number: "004"
+report-year: "2026"
+
+report_no: 4
+report_year: 2026
+
+revision: "2026-01-25"
+
+rights: "CC0-1.0"
+
+series: "inventing-socialism"
+series-number: 4
+series-title: "Inventing Socialism"
+
+slug: "chartists-and-radical-republicans-1840-1865"
+
+status: "complete"
+
+subject:
+  - "Chartism"
+  - "Radical Republicanism"
+  - "Franchise and suffrage"
+  - "Press and political panic"
+  - "Comparative political movements"
 
 subjects:
   - "Political science -- Political ideologies"
@@ -47,9 +139,32 @@ subjects:
   - "Abolitionists -- United States -- History"
   - "History of economic thought"
 
-# Optional series bookkeeping (harmless if ignored)
-series-title: "Inventing Socialism"
-series-number: 4
-report-number: "004"
-edition: "Research report"
+subtitle: "Franchise, Socialism, and the Limits of Alliance"
+
+tags:
+  - "chartism"
+  - "peoples-charter"
+  - "franchise-reform"
+  - "feargus-oconnor"
+  - "ernest-jones"
+  - "george-julian-harney"
+  - "red-republicanism"
+  - "john-bright"
+  - "richard-cobden"
+  - "radical-republicans"
+  - "thaddeus-stevens"
+  - "charles-sumner"
+  - "abolition"
+  - "reconstruction"
+  - "political-economy"
+  - "press-panic"
+  - "revolutions-of-1848"
+
+title: "Chartists & Radical Republicans, 1840-1865"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+
+type: "research-report"
 ...

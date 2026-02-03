@@ -1,0 +1,89 @@
+---
+abstract: >-
+  A research-oriented, end-to-end history of CSS (Cascading Style Sheets) from its
+  1994 origins through the 2020s, treating CSS as the co-evolution of (1) formal
+  standardization through the W3C CSS Working Group and modular specifications,
+  and (2) informal developer practice shaped by browser engines, tooling, and
+  large-scale maintainability needs. The article argues that CSS’s “real” history
+  is a feedback loop: specs enable new practice, and practice pressure-tests
+  patterns that later reappear as standardized primitives.
+
+  It surveys key standardization milestones (CSS1, CSS2, CSS2.1, modular “CSS3”,
+  and the Snapshot model), the browser-implementation era from the “browser wars”
+  to evergreen release cycles, and community technique waves (table layouts,
+  float-era grids, resets/normalize, OOCSS/BEM/SMACSS, preprocessors, PostCSS and
+  Autoprefixer, CSS-in-JS, and utility-first frameworks). It closes by mapping
+  modern features (flexbox, grid, custom properties, cascade layers, :has(),
+  container queries, and native nesting) to the long-standing pain points they
+  were designed to resolve, providing a timeline (1994–2025) and institutional
+  context for understanding “why CSS is the way it is.”
+author:
+  - "Salvador Guzman"
+categories:
+  - "web-development"
+  - "css"
+  - "web-standards"
+  - "software-history"
+  - "frontend-engineering"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: "css-history-1994-2025"
+date: "2026-02-02"
+description: >-
+  A comprehensive history of CSS across W3C specs, browser implementation eras,
+  and developer practice (frameworks, methodologies, and modern features), with
+  a detailed timeline from 1994 to 2025.
+draft: false
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+series-number: 0
+series-title: "Markdown Research Library"
+slug: "comprehensive-history-of-css"
+status: "published"
+subject:
+  - "Cascading Style Sheets (CSS)"
+  - "W3C specifications"
+  - "Browser interoperability"
+  - "Front-end engineering practices"
+subjects:
+  - "Cascading Style Sheets (CSS)"
+  - "W3C specifications"
+  - "Browser interoperability"
+  - "Front-end engineering practices"
+subtitle: "Institutions, Specs, and Practice"
+tags:
+  - "css"
+  - "w3c"
+  - "web-standards"
+  - "browser-compatibility"
+  - "css2.1"
+  - "css3-modules"
+  - "css-snapshots"
+  - "vendor-prefixes"
+  - "autoprefixer"
+  - "postcss"
+  - "sass"
+  - "less"
+  - "oocss"
+  - "bem"
+  - "smacss"
+  - "bootstrap"
+  - "tailwind"
+  - "css-in-js"
+  - "responsive-design"
+  - "flexbox"
+  - "css-grid"
+  - "custom-properties"
+  - "cascade-layers"
+  - "has-selector"
+  - "container-queries"
+  - "css-nesting"
+title: "A Comprehensive History of CSS"
+toc: true
+toc-depth: 3
+toc-title: "Table of Contents"
+type: "research-article"
+...
