@@ -1,0 +1,118 @@
+---
+abstract: >-
+  A structured, era-by-era history of JavaScript from 1995 to 2025 that
+  integrates formal developments (ECMA-262/TC39 standardization, browser engine
+  advances, governance bodies) with informal evolution (libraries, frameworks,
+  tooling waves, community norms), emphasizing the feedback loop between
+  practice and standards.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Computing"
+  - "Programming Languages"
+  - "Web History"
+  - "Software Ecosystems"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: "js-history-1995-2025"
+date: "2026-02-12"
+description: >-
+  The formal and informal history of JavaScript (1995--2025): standards bodies
+  and governance (TC39/WHATWG/W3C/OpenJS), engine breakthroughs, platform APIs,
+  tooling revolutions, framework epochs, and JavaScript’s expansion beyond the
+  browser—treated as a co-evolving technical, institutional, and cultural system.
+draft: true
+edition: "1"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: true
+epub_cover_image: "cover.png"
+format: "text/markdown"
+identifier: "urn:gva:article:js-history-1995-2025"
+keywords:
+  - "JavaScript"
+  - "ECMAScript"
+  - "ECMA-262"
+  - "TC39"
+  - "browser wars"
+  - "DOM"
+  - "AJAX"
+  - "JSON"
+  - "V8"
+  - "SpiderMonkey"
+  - "JavaScriptCore"
+  - "Chakra"
+  - "Node.js"
+  - "Deno"
+  - "Bun"
+  - "npm"
+  - "jQuery"
+  - "frameworks"
+  - "tooling"
+  - "standards governance"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  scheme: "LCC"
+  class: "QA76.73.J39"
+  description: "JavaScript (Computer program language)"
+license: "CC0-1.0"
+number-sections: true
+plate_id: "plate-js-history-1995-2025"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "Endnotes"
+report:
+  kind: "technical report"
+  topic: "history of javascript"
+  scope: "formal and informal evolution"
+  period: "1995-2025"
+  notes: "Standards, engines, platform APIs, tooling waves, frameworks, and governance."
+report-no: "GVA-TR-2026-001"
+report-number: "001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "r1"
+rights: "Released into the public domain under CC0-1.0."
+series: "web-technology-histories"
+series-number: 1
+series-title: "Web Technology Histories"
+slug: "javascript-history-1995-2025"
+status: "draft"
+subject:
+  - "JavaScript (Computer program language) -- History"
+  - "Web browsers -- History"
+  - "Web applications -- Development"
+subjects:
+  - "JavaScript (Computer program language) -- History"
+  - "ECMAScript -- Standards"
+  - "Standards organizations -- TC39"
+  - "World Wide Web -- Standards"
+  - "Web browsers -- History"
+  - "Software tools -- History"
+  - "Open source software -- Communities"
+subtitle: "Standards, engines, frameworks, tooling, and culture across three decades"
+tags:
+  - "javascript"
+  - "ecmascript"
+  - "tc39"
+  - "web"
+  - "browser-wars"
+  - "dom"
+  - "ajax"
+  - "json"
+  - "v8"
+  - "spidermonkey"
+  - "nodejs"
+  - "npm"
+  - "frameworks"
+  - "tooling"
+  - "governance"
+title: "The Formal and Informal History of JavaScript (1995--2025)"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...
