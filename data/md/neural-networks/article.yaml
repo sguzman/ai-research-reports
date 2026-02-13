@@ -1,0 +1,101 @@
+---
+abstract: An annotated history of artificial neural networks in computing from the 1940s
+  through 2026. It traces the ideas that shaped the field - neurons as logical units,
+  perceptrons, gradient-based learning, convolution, recurrent models, and attention -
+  and shows how they cycled in and out of favor as compute, data, and evaluation
+  practices changed. Along the way it highlights the social and institutional context
+  (cybernetics, connectionism, the AI winters, and the deep-learning boom), and explains
+  why certain results became decisive turning points. The goal is to give a coherent
+  timeline plus enough mathematical and engineering intuition to understand what each
+  wave added, what it failed to solve, and how later work reframed earlier limitations.
+author:
+- Salvador Guzman
+categories:
+- Artificial Intelligence
+- Computer Science
+- History of Computing
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: nn-history-1940s-2026
+date: '2026-02-12'
+description: A detailed timeline and conceptual history of neural networks in computing
+  (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional
+  'AI cycles'.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-title-page: false
+epub_cover_image: cover.png
+format: markdown
+identifier: gva:nn-history-1940s-2026
+keywords:
+- neural networks
+- deep learning
+- machine learning
+- artificial intelligence
+- backpropagation
+- perceptron
+- convolutional neural networks
+- transformers
+- cybernetics
+- AI winter
+- GPU computing
+- history of computing
+lang: en-US
+language: en
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: true
+plate_id: plate_nn_history_1940s_2026
+publisher: Gold, Velvet and Ashes
+reference-section-title: Bibliography
+report:
+  name: Gold, Velvet and Ashes
+  type: research note
+  number: 1
+  year: 2026
+report-no: GVA-2026-NN-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_year: 2026
+revision: '2026-02-12'
+rights: CC0-1.0
+series: Computing & AI Histories
+series-number: 1
+series-title: Gold, Velvet and Ashes - Research Series
+slug: history-of-neural-networks-in-computing
+status: published
+subject:
+- Artificial intelligence
+- Neural networks (Computer science)
+- Machine learning
+- Deep learning
+- History of computing
+- Cybernetics
+subjects:
+- Artificial intelligence
+- Neural networks (Computer science)
+- Machine learning
+- Deep learning
+- History of computing
+- Cybernetics
+subtitle: From cybernetics and connectionism to deep learning and the transformer era
+tags:
+- neural-networks
+- deep-learning
+- machine-learning
+- ai-history
+- computing-history
+- backpropagation
+- cnn
+- transformers
+- gpu
+title: History of Neural Networks in Computing (1940s--2026)
+toc: true
+toc-depth: 3
+toc-title: Contents
+type: article
