@@ -1,0 +1,133 @@
+---
+# Filled from template.yaml for the article in main.md (Category Theory report).
+
+abstract: >
+  A historical and conceptual survey of category theory from its precursors in 1930s structural mathematics
+  to its invention in the 1940s by Eilenberg and Mac Lane, and its consolidation through the mid-1960s.
+  The report explains why “naturality” and functorial thinking mattered in algebraic topology, how categories,
+  functors, and natural transformations reframed structure, and how later figures (notably Grothendieck and
+  Lawvere) helped establish categorical methods as a central language in modern mathematics.
+
+author:
+  - "Salvador Guzman"
+
+categories:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Foundations"
+
+cover-image: ""
+cover_image: ""
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: "gva-category-theory-origins-1935-1965"
+
+date: "2026-02-12"
+
+description: >
+  A historically grounded overview of category theory’s origins (1935–1965), from the foundations crisis and
+  structuralism to Eilenberg–Mac Lane’s definitions and later expansion via Grothendieck and Lawvere.
+
+draft: false
+
+edition: "1"
+
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+
+format: "article"
+
+identifier: "gva:category-theory-origins-1935-1965:v1"
+
+keywords:
+  - "category theory"
+  - "functor"
+  - "natural transformation"
+  - "algebraic topology"
+  - "structuralism"
+  - "foundations of mathematics"
+  - "Eilenberg"
+  - "Mac Lane"
+  - "Grothendieck"
+  - "Lawvere"
+  - "history of mathematics"
+  - "1935-1965"
+
+lang: "en"
+language: "English"
+
+library_of_congress_classification: {}
+
+license: "CC0-1.0"
+
+number-sections: true
+
+plate_id: ""
+
+publisher: "Gold, Velvet and Ashes"
+
+reference-section-title: "Bibliography"
+
+report:
+  kind: "historical survey"
+  scope_years: "1935-1965"
+  focus:
+    - "intellectual precursors (structuralism, foundations debates)"
+    - "founding definitions (categories, functors, natural transformations)"
+    - "early reception and spread"
+    - "mid-century consolidation (Grothendieck, Lawvere)"
+  discipline: "mathematics"
+  subdiscipline: "category theory"
+
+report-no: "GVA-CT-2026-001"
+report-number: "001"
+report-year: "2026"
+
+report_no: 1
+report_year: 2026
+
+revision: "1"
+
+rights: "CC0-1.0"
+
+series: ""
+series-number: 0
+series-title: ""
+
+slug: "category-theory-origins-1935-1965"
+
+status: "complete"
+
+subject:
+  - "Category theory"
+  - "Foundations of mathematics"
+  - "History of mathematics"
+
+subjects:
+  - "Category theory -- History -- 20th century"
+  - "Mathematics -- Philosophy"
+  - "Algebraic topology -- History"
+  - "Structuralism (Philosophy of mathematics)"
+
+subtitle: "Origins, invention, and early reception (1935-1965)"
+
+tags:
+  - "math"
+  - "category-theory"
+  - "history"
+  - "foundations"
+  - "algebraic-topology"
+  - "structuralism"
+
+title: "Category Theory: Origins, Invention, and Early Reception (1935-1965)"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+
+type: "article"
+...
