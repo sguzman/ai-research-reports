@@ -1,0 +1,144 @@
+---
+# Metadata template covering every key currently used across articles.
+# Remove or override entries that don't apply to the piece you're working on.
+
+abstract: >-
+  A comprehensive, historically grounded survey of topology: its 18th-century
+  precursors (Euler and early structural problems), its formal birth in the late
+  19th century (Poincare and analysis situs), its 20th-century axiomatization and
+  algebraic revolution (point-set topology, homology, homotopy), and its modern
+  frontiers and applications (manifold theory, low-dimensional topology, and
+  topological methods in data science, physics, and engineering). The piece
+  emphasizes topology’s qualitative viewpoint - invariance under continuous
+  deformation - and maps major subfields and conceptual bridges to geometry and
+  analysis.
+
+author:
+  - "Salvador Guzman"
+
+categories:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Topology"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: "gva-essay-topology-2026-02-12"
+
+date: "2026-02-12"
+
+description: >-
+  A longform history-and-concepts guide to topology, from Euler and Poincare to
+  modern manifold theory and topological data analysis.
+
+draft: false
+
+edition: "1"
+
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+
+format: "text/markdown"
+
+identifier: "gva:article:topology:2026-02-12"
+
+keywords:
+  - "topology"
+  - "history of topology"
+  - "point-set topology"
+  - "topological space"
+  - "open sets"
+  - "continuity"
+  - "homeomorphism"
+  - "algebraic topology"
+  - "fundamental group"
+  - "homology"
+  - "cohomology"
+  - "homotopy"
+  - "manifolds"
+  - "knot theory"
+  - "low-dimensional topology"
+  - "geometric topology"
+  - "differential topology"
+  - "Jones polynomial"
+  - "persistent homology"
+  - "topological data analysis"
+
+lang: "en"
+language: "English"
+
+library_of_congress_classification:
+  class: "QA611"
+  label: "Topology"
+
+license: "CC0-1.0"
+
+number-sections: true
+
+plate_id: ""
+
+publisher: "Gold, Velvet and Ashes"
+
+reference-section-title: "References"
+
+report:
+  kind: "longform research essay"
+  domain: "mathematics"
+  topic: "topology"
+  scope: "history + core concepts + subfields + applications"
+  audience: "general mathematically literate reader"
+
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+
+revision: "1.0.0"
+
+rights: "CC0-1.0"
+
+series: "gold-velvet-and-ashes"
+series-number: 0
+series-title: "Gold, Velvet and Ashes"
+
+slug: "topology"
+
+status: "complete"
+
+subject:
+  - "Mathematics"
+  - "Topology"
+  - "History of Mathematics"
+
+subjects:
+  - "Mathematics"
+  - "Topology"
+  - "History of Mathematics"
+
+subtitle: "From 18th-Century Precursors to Present-Day Frontiers"
+
+tags:
+  - "topology"
+  - "math-history"
+  - "algebraic-topology"
+  - "point-set-topology"
+  - "manifolds"
+  - "knot-theory"
+  - "tda"
+  - "persistent-homology"
+
+title: "Topology"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+
+type: "article"
+...
