@@ -1,0 +1,152 @@
+---
+# Metadata template covering every key currently used across articles.
+# Remove or override entries that don't apply to the piece you're working on.
+
+abstract: >-
+  A comprehensive survey of the objectivity–subjectivity debate from classical philosophy to the
+  contemporary “post-truth” and AI era. The report clarifies core definitions (objectivity,
+  subjectivity, intersubjectivity, relativism), traces historical milestones (Plato vs. Protagoras,
+  medieval realism vs. nominalism, Descartes and Kant, positivism and hermeneutics, Kuhn/Popper,
+  feminist standpoint theory), and shows how different disciplines operationalize “objectivity” via
+  procedures rather than pure neutrality. It argues that many real-world practices aim at
+  *intersubjective objectivity*: robust agreement produced by reproducible methods, peer scrutiny,
+  transparency, and diverse critical perspectives. The conclusion rejects both naive “view from
+  nowhere” objectivism and cynical “everything is opinion” relativism, recommending epistemic rigor
+  paired with reflexive awareness of standpoint—especially in science communication, journalism,
+  law, and algorithmic governance.
+
+author:
+  - "Salvador Guzman"
+
+categories:
+  - "philosophy"
+  - "epistemology"
+  - "philosophy of science"
+  - "media studies"
+  - "technology ethics"
+
+cover-image: ""
+cover_image: ""
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: "gva.objectivity-vs-subjectivity.2026-02-12"
+
+date: "2026-02-12"
+
+description: >-
+  A long-form report mapping the philosophical and practical tensions between objectivity and
+  subjectivity—historically and across disciplines (science, social science, journalism, law,
+  aesthetics, and AI)—with an emphasis on intersubjective procedures as the real engine of reliable
+  knowledge.
+
+draft: false
+
+edition: "1"
+
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: true
+epub_cover_image: ""
+
+format: "markdown"
+
+identifier: "gva:objectivity-vs-subjectivity:2026-02-12"
+
+keywords:
+  - "objectivity"
+  - "subjectivity"
+  - "intersubjectivity"
+  - "relativism"
+  - "scientific objectivity"
+  - "replication crisis"
+  - "peer review"
+  - "standpoint epistemology"
+  - "Lorraine Daston"
+  - "Peter Galison"
+  - "Thomas Kuhn"
+  - "Karl Popper"
+  - "Donna Haraway"
+  - "journalistic objectivity"
+  - "view from nowhere"
+  - "algorithmic bias"
+  - "AI ethics"
+  - "post-truth"
+  - "expert authority"
+
+lang: "en"
+language: "English"
+
+library_of_congress_classification: {}
+
+license: "CC0-1.0"
+
+number-sections: true
+
+plate_id: "gva-objsubj-2026-02-12"
+
+publisher: "Gold, Velvet and Ashes"
+
+reference-section-title: "References"
+
+report: {}
+
+report-no: "GVA-REPORT-2026-OBJ-SUBJ"
+report-number: "OBJ-SUBJ"
+report-year: "2026"
+report_no: 0
+report_year: 2026
+
+revision: "r1"
+
+rights: "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+
+series: "philosophy-reports"
+series-number: 0
+series-title: "Philosophy Reports"
+
+slug: "objectivity-vs-subjectivity"
+
+status: "complete"
+
+subject:
+  - "Objectivity"
+  - "Subjectivity"
+  - "Epistemology"
+  - "Philosophy of Science"
+  - "Relativism"
+  - "Intersubjectivity"
+  - "Media Trust"
+  - "AI Bias"
+
+subjects:
+  - "Philosophy"
+  - "Epistemology"
+  - "Science and technology studies"
+  - "Journalism ethics"
+  - "Legal philosophy"
+  - "Technology ethics"
+
+subtitle: "From Plato to AI, and why intersubjective methods matter"
+
+tags:
+  - "epistemology"
+  - "philosophy"
+  - "science"
+  - "journalism"
+  - "law"
+  - "ai"
+  - "bias"
+  - "relativism"
+  - "intersubjectivity"
+  - "post-truth"
+
+title: "Objectivity vs. Subjectivity: Philosophical Debate and Implications"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+
+type: "report"
+...
