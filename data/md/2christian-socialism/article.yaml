@@ -1,144 +1,104 @@
 ---
 abstract: >-
-  This report reconstructs the mid-Victorian "Christian Socialist" current centered on
-  Anglican theologian F. D. Maurice and priest-novelist Charles Kingsley, situating their
-  1848-1854 activism and its 1860s afterlives within the pressures of industrial Britain,
-  Chartism, and urban public-health crisis. It explains how Maurice and Kingsley reworked
-  "socialism" into a Christian language of cooperative association rather than class war,
-  and how they translated doctrine into institutions: co-operative workshops, adult
-  education, and church reform. The report emphasizes (1) Maurice's ecclesiology (the
-  Church as a universal society grounding social duty), (2) Kingsley's incarnational and
-  moral rhetoric ("muscular Christianity") as a popular vehicle for social conscience,
-  and (3) the movement's practical constraints and legacies, including later Anglican
-  social mission, co-operative legal recognition, and the normalization of "social"
-  Christianity in the Church of England.
+  In mid-Victorian Britain, Anglican priests Frederick Denison Maurice and Charles
+  Kingsley advanced “Christian Socialism” as a theological response to industrial
+  poverty and the revolutionary anxieties of 1848. Grounding social reform in the
+  doctrines of God’s Fatherhood and the resulting brotherhood of humanity, they
+  argued that Christianity’s core claims demand concrete social duties in wages,
+  education, housing, and public health.
+
+  This article maps the movement’s key texts and events (1848–1865), profiles its
+  principal figures, and explains how Maurice and Kingsley re-framed “socialism”
+  as voluntary Christian cooperation rather than atheistic revolution. It also
+  traces their institutional experiments (co-operatives, workingmen’s education)
+  and assesses their legacy in Anglican social thought and later Christian labor
+  movements.
 author:
-  - "ChatGPT (compiled research report)"
+  - "Salvador Guzmán"
 categories:
-  - history
-  - religion
-  - political-theology
-  - social-movements
+  - "History"
+  - "Political Thought"
+  - "Religion"
+  - "Victorian Britain"
 cover-image: "cover.png"
 cover_image: "cover.png"
 creator:
-  - role: author
-    text: "ChatGPT (compiled research report)"
-  - role: editor
-    text: "Salvador Guzman"
-dataset_id: "sguzman:dataset:research-reports:0002"
-date: "2026-01-24"
+  - "Salvador Guzmán"
+dataset_id: "gva.christian-socialism"
+date: "2026-02-12"
 description: >-
-  A court-document-style historical briefing on mid-Victorian "Christian Socialism":
-  Maurice's Fatherhood-of-God / Brotherhood-of-Man theology, Kingsley's incarnational
-  "muscular Christianity," and their practical experiments in co-operatives, adult
-  education, and Church reform amid the social crises of 1848-1865.
+  A research note on mid-Victorian Anglican “Christian Socialism,” focusing on
+  F. D. Maurice and Charles Kingsley, their theological rationale, key texts,
+  and practical experiments in co-operation and adult education.
 draft: false
 edition: "1"
 epub-chapter-level: 2
 epub-cover-image: "cover.png"
-epub-title-page: false
+epub-title-page: true
 epub_cover_image: "cover.png"
-format: "epub"
-identifier: "sguzman-reports-0002-christian-socialism"
+format: "markdown"
+identifier: "gva:christian-socialism"
 keywords:
-  - christian socialism
-  - anglicanism
-  - broad church
-  - frederick denison maurice
-  - charles kingsley
-  - j. m. ludlow
-  - chartism
-  - politics for the people
-  - parson lot
-  - co-operative movement
-  - cooperatives
-  - working men's college
-  - adult education
-  - industrial and provident societies act (1852)
-  - sanitary reform
-  - public health act
-  - nuisances removal acts
-  - victorian church
-  - social reform
+  - "Christian Socialism"
+  - "Frederick Denison Maurice"
+  - "Charles Kingsley"
+  - "Anglicanism"
+  - "Victorian Britain"
+  - "Chartism"
+  - "co-operatives"
+  - "Working Men's College"
+  - "social reform"
+  - "political theology"
 lang: "en"
-language: "en"
+language: "English"
 library_of_congress_classification:
-  primary:
-    code: "BX"
-    description: "Christian denominations - Anglican Communion - social ethics / social mission"
-  secondary:
-    - code: "HX"
-      description: "Socialism and related movements"
-    - code: "DA"
-      description: "Great Britain - 19th century history"
-  suggested_call_number: "BX5195.S6 M38 2026"
-  confidence: "low"
-  notes: "Provisional cataloging for personal library use; verify against LoC schedules if needed."
+  class: "BR115.S6"
+  note: "Christianity and social problems / social justice (closest LoC fit for this topic)"
 license: "CC0-1.0"
-number-sections: false
-plate_id: "research-report-plate-v1"
-publisher: "Personal Research Library"
+number-sections: true
+plate_id: "gva-plate-christian-socialism"
+publisher: "Gold, Velvet and Ashes"
 reference-section-title: "Bibliography"
 report:
-  id: "sguzman-reports-0002"
-  no: "0002"
-  number: 2
+  no: "GVA-RN-2026-CS-01"
+  number: 1
   year: 2026
-  series: "sguzman-reports"
-  kind: "research-report"
-  title: "Christian Socialism"
-  subtitle: "F. D. Maurice, Charles Kingsley, and the Anglican Social Conscience (1848-1865)"
-report-no: "0002"
-report-number: "2"
+  type: "Research Note"
+report-no: "GVA-RN-2026-CS-01"
+report-number: "01"
 report-year: "2026"
-report_no: 2
+report_no: 1
 report_year: 2026
 revision: "r1"
-rights: "CC0-1.0"
-series: "sguzman-reports"
-series-number: 2
-series-title: "Research Reports"
-slug: "christian-socialism-maurice-kingsley-1848-1865"
-status: "final"
+rights: "CC0-1.0 (public domain dedication)"
+series: "political-theology-notes"
+series-number: 1
+series-title: "Political Theology Notes"
+slug: "christian-socialism"
+status: "published"
 subject:
   - "Christian Socialism"
   - "Anglicanism"
-  - "Victorian Britain"
-  - "Frederick Denison Maurice"
-  - "Charles Kingsley"
-  - "Co-operative movement"
-  - "Working Men's College"
+  - "Social reform"
+  - "Victorian era"
 subjects:
   - "Christian Socialism"
   - "Anglicanism"
-  - "Victorian Britain"
-  - "Frederick Denison Maurice"
-  - "Charles Kingsley"
-  - "Co-operative movement"
-  - "Working Men's College"
-subtitle: "F. D. Maurice, Charles Kingsley, and the Anglican Social Conscience (1848-1865)"
+  - "Social reform"
+  - "Victorian era"
+subtitle: "Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)"
 tags:
-  - christian-socialism
-  - anglicanism
-  - broad-church
-  - frederick-denison-maurice
-  - charles-kingsley
-  - j-m-ludlow
-  - chartism
-  - politics-for-the-people
-  - parson-lot
-  - cooperative-movement
-  - working-mens-college
-  - adult-education
-  - victorian-britain
-  - victorian-church
-  - muscular-christianity
-  - sanitary-reform
-  - social-reform
-title: "Christian Socialism"
+  - "christian-socialism"
+  - "anglicanism"
+  - "victorian-britain"
+  - "maurice"
+  - "kingsley"
+  - "chartism"
+  - "cooperatives"
+  - "working-mens-college"
+title: "Christian Socialism in Mid-Victorian Britain"
 toc: true
-toc-depth: 3
+toc-depth: 2
 toc-title: "Contents"
-type: "book"
----
+type: "article"
+...

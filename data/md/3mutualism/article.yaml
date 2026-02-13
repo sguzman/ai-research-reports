@@ -1,149 +1,91 @@
 ---
-# Fully-populated metadata for: Mutualism (Inventing Socialism, Report 003)
-
-abstract: >-
-  This report reconstructs Pierre-Joseph Proudhon’s mutualism as a distinctive
-  strand of nineteenth-century socialism: anti-state, market-affirming, and
-  explicitly opposed to capitalist privilege. It focuses on Proudhon’s core
-  distinction between “property” (absentee, exploitative ownership backed by
-  legal privilege) and “possession” (use-rights grounded in occupancy and labor),
-  and on his attempt to preserve exchange while eliminating profit, rent, and
-  usury through institutional redesign rather than state seizure. The centerpiece
-  is Proudhon’s mutual-credit program, especially the Banque du Peuple (People’s
-  Bank) experiment of 1849, which aimed to universalize access to credit at
-  administrative cost, thereby “socializing” the effects of capital without
-  nationalization. The report situates mutualism in its historical setting
-  (1840-1870), tracks key texts and events, clarifies the internal logic of the
-  mutual-credit blueprint, and notes later influence on libertarian socialism
-  and anarchist traditions alongside contemporaneous critiques.
-
+abstract: 'Mutualism is Pierre-Joseph Proudhon''s anti-state form of socialism:
+  markets without capitalism, where reciprocity, possession over property, and mutual
+  credit aim to neutralize profit, rent, and usury without state ownership.'
 author:
-  - "Salvador Guzman"
-
+- Salvador Guzman
 categories:
-  - "political theory"
-  - "history of socialism"
-  - "history of economic thought"
-  - "anarchism and libertarian socialism"
-
-cover-image: "cover.png"
-cover_image: "cover.png"
-
+- Political economy
+- History of socialism
+- Anarchism
+cover-image: cover.png
+cover_image: cover.png
 creator:
-  - role: "author"
-    text: "Salvador Guzman"
-
-dataset_id: "inventing-socialism:report-003:mutualism"
-date: "2026-01-24"
-
-description: >-
-  Pierre-Joseph Proudhon reconceives socialism as anti-state and market-friendly,
-  distinguishing property from possession and proposing "markets without capitalism"
-  through federated worker associations and mutual credit institutions, including
-  the People's Bank experiment.
-
+- Salvador Guzman
+dataset_id: ideology-studies
+date: '2026-02-12'
+description: 'A historical and conceptual study of Proudhon''s mutualism: property
+  vs possession, the cost principle, mutual banking, and its relationship to cooperative
+  experiments.'
 draft: false
-edition: "Report No. 003"
-
+edition: '1'
 epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: true
-epub_cover_image: "cover.png"
-
-format: "epub"
-
-identifier: "sguzman:research-report:inventing-socialism:003:mutualism:2026-01-24"
-
+epub-cover-image: cover.png
+epub-title-page: false
+epub_cover_image: cover.png
+format: markdown
+identifier: gva-mutualism-2026-001
 keywords:
-  - "mutualism"
-  - "Pierre-Joseph Proudhon"
-  - "anarchism"
-  - "libertarian socialism"
-  - "political economy"
-  - "property and possession"
-  - "mutual credit"
-  - "People's Bank"
-  - "free credit"
-  - "cost-price exchange"
-  - "labor value"
-  - "market socialism"
-  - "19th century France"
-
-lang: "en-US"
-language: "en"
-
+- mutualism
+- Pierre-Joseph Proudhon
+- mutual banking
+- People's Bank
+- property is theft
+- possession
+- reciprocity
+- market socialism
+- libertarian socialism
+- cooperative movement
+lang: en
+language: English
 library_of_congress_classification:
-  primary: "HX"
-  suggested: "HX (socialism, communism, anarchism)"
-  note: "Approximate LoC class for internal cataloging; refine to a specific call number if desired."
-
-license: "CC0-1.0"
+  class: HX
+  description: Socialism. Communism. Anarchism
+license: CC0-1.0
 number-sections: true
-
-plate_id: "inventing-socialism-003"
-
-publisher: "Salvador Guzman"
-reference-section-title: "Bibliography"
-
+plate_id: gva-ideology-mutualism
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
 report:
-  series_title: "Inventing Socialism"
-  series_number: 3
-  report_number: "003"
-  report_year: 2026
-  edition: "Report No. 003"
-  short_title: "Mutualism"
-  subtitle: "Markets Without Capitalism: Proudhon and Mutual Credit (1840-1870)"
-
-report-no: "Report No. 003"
-report-number: "003"
-report-year: "2026"
-report_no: 3
+  kind: ideology-study
+  series: Ideology Studies
+report-no: GVA-2026-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
 report_year: 2026
-
-revision: "1"
-rights: "CC0-1.0"
-
-series: "Inventing Socialism"
-series-number: 3
-series-title: "Inventing Socialism"
-
-slug: "inventing-socialism-003-mutualism"
-status: "ready"
-
+revision: 1.0.0
+rights: CC0-1.0
+series: Ideology Studies
+series-number: 1
+series-title: Ideology Studies
+slug: mutualism
+status: published
 subject:
-  - "Mutualism"
-  - "Pierre-Joseph Proudhon"
-  - "Anarchism"
-  - "Libertarian socialism"
-  - "Political economy"
-  - "Mutual credit"
-
+- Mutualism (Proudhon)
+- Pierre-Joseph Proudhon
+- Anarchism
+- Socialism
+- Mutual credit
 subjects:
-  - "Political science -- Political ideologies"
-  - "Economics -- History of economic thought"
-  - "Anarchism and libertarian socialism"
-
-subtitle: "Markets Without Capitalism: Proudhon and Mutual Credit (1840-1870)"
-
+- Mutualism (Proudhon)
+- Pierre-Joseph Proudhon
+- Anarchism
+- Socialism
+- Mutual credit
+subtitle: Proudhon's anti-state market socialism and mutual credit
 tags:
-  - "mutualism"
-  - "proudhon"
-  - "anarchism"
-  - "libertarian-socialism"
-  - "mutual-credit"
-  - "peoples-bank"
-  - "property"
-  - "possession"
-  - "political-economy"
-  - "market-socialism"
-  - "inventing-socialism"
-  - "report-003"
-
-title: "Mutualism"
-
+- mutualism
+- proudhon
+- anarchism
+- socialism
+- market socialism
+- mutual banking
+- cooperatives
+- 19th century
+- france
+title: 'Mutualism: Markets Without Capitalism'
 toc: true
-toc-depth: 2
-toc-title: "Contents"
-
-type: "book"
-...
+toc-depth: 3
+toc-title: Contents
+type: article
