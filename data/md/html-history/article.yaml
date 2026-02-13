@@ -1,0 +1,102 @@
+---
+abstract: >
+  A chronological and thematic history of HTML from 1990 to 2025, tracing its
+  evolution from a small SGML-inspired markup language into a sprawling “living
+  standard.” Covers the shift in governance across the IETF, W3C, and WHATWG;
+  the browser wars and the emergence of JavaScript, CSS, and the DOM; the XHTML
+  detour and the eventual consolidation around HTML5; and later eras focused on
+  parsing rules, semantic enrichment, accessibility, metadata practices, and the
+  broader cultural and economic forces shaping the Web. Includes appendices on
+  tag evolution, doctypes and parsing modes, accessibility guidance, metadata
+  standards, and HTML email.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Computing"
+  - "Web"
+  - "Internet History"
+  - "Standards"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: "html-history"
+date: "2026-02-12"
+description: >
+  A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML,
+  HTML5, parsing, semantics, accessibility, and modern web platform practice.
+draft: false
+edition: "1"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+format: "article"
+identifier: "urn:gva:html-history"
+keywords:
+  - "HTML"
+  - "World Wide Web"
+  - "W3C"
+  - "WHATWG"
+  - "IETF"
+  - "HTML5"
+  - "XHTML"
+  - "Browser wars"
+  - "Web standards"
+  - "DOM"
+  - "JavaScript"
+  - "CSS"
+  - "Parsing"
+  - "Accessibility"
+  - "Metadata"
+lang: "en"
+language: "English"
+library_of_congress_classification: {}
+license: "CC0-1.0"
+number-sections: true
+plate_id: "gva-html-history"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  series: "Gold, Velvet and Ashes Reports"
+  number: "HTML-001"
+  year: 2026
+report-no: "HTML-001"
+report-number: "HTML-001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "1.0.0"
+rights: "CC0-1.0"
+series: "web-histories"
+series-number: 1
+series-title: "Web Histories"
+slug: "html-history"
+status: "published"
+subject:
+  - "HTML"
+  - "Web standards"
+  - "Internet history"
+subjects:
+  - "HyperText Markup Language"
+  - "World Wide Web"
+  - "Web browsers"
+  - "Standards organizations"
+  - "Document formats"
+subtitle: "From SGML Roots to the Living Standard"
+tags:
+  - "html"
+  - "web"
+  - "internet"
+  - "standards"
+  - "w3c"
+  - "whatwg"
+  - "ietf"
+  - "html5"
+  - "xhtml"
+  - "browsers"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...
