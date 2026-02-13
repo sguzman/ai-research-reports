@@ -1,0 +1,107 @@
+---
+abstract: >-
+  A long-form historical and conceptual survey of Marxism’s evolution from the 1840s to the
+  present: its major phases (classical Marxism, Leninism, Stalin-era Marxism–Leninism,
+  Maoism, Western Marxism, Eurocommunism, post-1989 currents), its recurring internal
+  disputes (reform vs. revolution, vanguard vs. spontaneity, internationalism vs. “socialism
+  in one country,” markets vs. planning), and the way real-world state power, geopolitical
+  conflict, and economic crises reshaped the theory’s practical meaning.
+author:
+  - Salvador Guzman
+categories:
+  - political-theory
+  - intellectual-history
+  - modern-history
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - Salvador Guzman
+dataset_id: "gva.marx-evolution"
+date: "2026-02-12"
+description: >-
+  How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism,
+  Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
+draft: false
+edition: "1"
+epub-chapter-level: 0
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+format: "article"
+identifier: "gva:article:marx-evolution:2026-02-12"
+keywords:
+  - Marxism
+  - Karl Marx
+  - Friedrich Engels
+  - communism
+  - socialism
+  - Leninism
+  - Bolsheviks
+  - Soviet Union
+  - Stalinism
+  - Trotskyism
+  - Maoism
+  - Western Marxism
+  - Frankfurt School
+  - Gramsci
+  - Eurocommunism
+  - social democracy
+  - Cold War
+  - planned economy
+  - market reforms
+  - 2008 financial crisis
+  - political history
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  primary: "HX"
+license: "CC0-1.0"
+number-sections: false
+plate_id: "plate.marx-evolution"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report: {}
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+revision: "1"
+rights: "CC0-1.0"
+series: ""
+series-number: 0
+series-title: ""
+slug: "marx-evolution"
+status: "published"
+subject:
+  - History of Marxism
+  - Socialist movements
+  - Communist movements
+  - Political ideologies
+subjects:
+  - History of Marxism
+  - Socialist movements
+  - Communist movements
+  - Political ideologies
+subtitle: "A timeline and conceptual map (1840s–2026)"
+tags:
+  - marxism
+  - marx
+  - engels
+  - lenin
+  - stalin
+  - trotsky
+  - mao
+  - comintern
+  - eurocommunism
+  - western-marxism
+  - social-democracy
+  - cold-war
+  - political-theory
+  - timeline
+title: "Evolution of Marxism"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "essay"
+...
