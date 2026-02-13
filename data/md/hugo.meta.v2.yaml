@@ -1,0 +1,38 @@
+title: <text>
+linkTitle: <text>
+description: <text>
+summary: <text>
+slug: <text>
+url: <text>
+aliases: []
+date: <text>
+publishDate: <text>
+lastmod: <text>
+expiryDate: <text>
+draft: false
+authors:
+  - <text>
+layout: <text>
+weight: 0
+categories:
+  - <text>
+tags:
+  - <text>
+keywords:
+  - <text>
+markup: <text>
+outputs:
+  - <text>
+headless: false
+isCJKLanguage: false
+translationKey: <text>
+resources: []
+build:
+  list: <text>
+  render: <text>
+  publishResources: false
+cascade: {}
+sitemap:
+  changefreq: <text>
+  priority: 0
+  filename: <text>
