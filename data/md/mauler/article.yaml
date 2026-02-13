@@ -1,0 +1,93 @@
+---
+abstract: >-
+  This paper formulates an ad hoc "Maulerian School" of film criticism by distilling
+  the implicit framework behind YouTube critic MauLer's long-form reviews (2016–present).
+  It argues that internal narrative consistency and logical integrity are treated as primary,
+  evidence-checkable determinants of a work’s quality, and it systematizes the school’s axioms,
+  toolkit, and major objections using case studies and comparative theory touchpoints.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Media criticism"
+  - "Film theory"
+  - "Internet culture"
+  - "YouTube essays"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: ""
+date: "2026-02-12"
+description: >-
+  A structured, neutral reconstruction of MauLer’s implicit critical framework—an
+  “ad hoc Maulerian School”—centered on internal narrative logic, canon consistency,
+  and evidence-first argumentation in long-form YouTube criticism.
+draft: false
+edition: "1"
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: "urn:gva:essay:maulerian-school-of-film-criticism:v1"
+keywords:
+  - "MauLer"
+  - "EFAP"
+  - "Every Frame A Pause"
+  - "film criticism"
+  - "video essays"
+  - "objectivity"
+  - "subjectivity"
+  - "plot holes"
+  - "narrative coherence"
+  - "internal consistency"
+  - "canon"
+  - "formalism"
+  - "argumentation"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  primary: "PN1995.9.C7"
+  description: "Motion pictures—Criticism"
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "Works Cited"
+report: {}
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+revision: "1.0.0"
+rights: "CC0-1.0"
+series: ""
+series-number: 0
+series-title: ""
+slug: "maulerian-school-of-film-criticism"
+status: "published"
+subject:
+  - "Film criticism"
+  - "Media studies"
+  - "Online culture"
+  - "YouTube"
+subjects:
+  - "Film criticism"
+  - "Media studies"
+  - "Online culture"
+  - "YouTube"
+subtitle: "Toward an ad hoc formalist revival in long-form YouTube critique"
+tags:
+  - "mauler"
+  - "efap"
+  - "video-essays"
+  - "film-theory"
+  - "objectivity"
+  - "narrative-logic"
+title: "Ad Hoc \"Maulerian School of Film Criticism\""
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "article"
+...
