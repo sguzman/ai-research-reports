@@ -1,0 +1,159 @@
+---
+abstract: >-
+  This essay argues that some multi-generational, place-attached rural regional cultures
+  (e.g., Appalachia / the Upland South) function like durable “land-rooted” ethnocultures
+  with tight kinship, church-centered institutions, and honor-and-loyalty moral codes.
+  It then analyzes how modern national elites (media, universities, corporations, federal
+  agencies, and tech platforms) increasingly standardize a single prestige culture via
+  professional gatekeeping, HR compliance regimes, curricula, and content policy.
+  The resulting mismatch is experienced by many traditional rural communities as cultural
+  domination and status displacement, producing institutional distrust and fueling
+  recurring right-wing dissidence (from mainstream conservatism to populist revolt and
+  fringe radicalization). The piece maps competing explanatory frameworks, proposes
+  operational definitions and measurable indicators, and emphasizes falsifiable predictions
+  alongside alternative hypotheses.
+
+author:
+  - "Salvador Guzman"
+
+categories:
+  - "politics"
+  - "sociology"
+  - "political psychology"
+  - "culture"
+  - "regionalism"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: "land-rooted-ethnos"
+
+date: "2026-02-12"
+
+description: >-
+  A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent
+  right dissidence under elite cultural standardization, with operational definitions,
+  competing frameworks, and testable implications.
+
+draft: false
+
+edition: "1"
+
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+
+format: "article"
+
+identifier: "land-rooted-ethnos"
+
+keywords:
+  - "ethnoculture"
+  - "regional identity"
+  - "Appalachia"
+  - "Upland South"
+  - "rural sociology"
+  - "culture of honor"
+  - "kinship networks"
+  - "evangelicalism"
+  - "elite institutions"
+  - "professional-managerial class"
+  - "cultural standardization"
+  - "status threat"
+  - "rural consciousness"
+  - "institutional distrust"
+  - "populism"
+  - "right-wing dissidence"
+  - "radicalization"
+  - "culture war"
+  - "social movement theory"
+
+lang: "en"
+language: "English"
+
+library_of_congress_classification:
+  primary: "HN"          # Social history and conditions. Social problems. Social reform.
+  secondary:
+    - "JK"               # Political institutions and public administration (U.S.).
+    - "E"                # History of the Americas (contextual relevance).
+  notes: >-
+    Provisional classification for an interdisciplinary essay on U.S. rural political
+    culture, status politics, and institutional conflict.
+
+license: "CC0-1.0"
+
+number-sections: true
+
+plate_id: "gva.land-rooted-ethnos.2026-02-12"
+
+publisher: "Gold, Velvet and Ashes"
+
+reference-section-title: "References"
+
+report:
+  is_report: false
+  series: ""
+  number: ""
+  year: ""
+
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+
+revision: "r1"
+
+rights: "CC0-1.0"
+
+series: ""
+series-number: 0
+series-title: ""
+
+slug: "land-rooted-ethnos"
+
+status: "published"
+
+subject:
+  - "U.S. political culture"
+  - "rural identity"
+  - "elite-mass conflict"
+  - "status politics"
+  - "institutional trust"
+
+subjects:
+  - "rural sociology"
+  - "Appalachian studies"
+  - "social identity theory"
+  - "social movement theory"
+  - "political resentment"
+  - "culture war dynamics"
+
+subtitle: "Place-based identity, prestige norms, and the mechanisms of recurring right backlash"
+
+tags:
+  - "appalachia"
+  - "rural"
+  - "identity"
+  - "status-threat"
+  - "resentment"
+  - "institutions"
+  - "pmc"
+  - "culture-war"
+  - "populism"
+  - "dissidence"
+  - "operationalization"
+  - "falsifiable-claims"
+
+title: "Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+
+type: "research-essay"
+...
