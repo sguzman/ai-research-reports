@@ -1,0 +1,115 @@
+---
+abstract: >-
+  A historical and conceptual survey of what mathematicians have meant by
+  "analysis" from the Newton–Leibniz era to the present. The essay traces how
+  analysis shifted from a general method of discovery contrasted with synthesis
+  into a distinct discipline centered on limits, continuity, infinite processes,
+  and the continuum. It follows key semantic pivots driven by calculus,
+  the rise of the function concept, the 19th-century program of rigor
+  (Cauchy, Weierstrass), and later expansions into complex, Fourier,
+  functional, and modern applied/abstract analysis, highlighting how boundaries
+  with algebra, geometry, topology, probability, and computation repeatedly
+  blurred and re-formed.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Mathematical Analysis"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: ""
+date: "2026-02-12"
+description: >-
+  A long-form historical account of the changing meaning of "analysis" in
+  mathematics—from analysis vs. synthesis to calculus, rigor, and the modern
+  theory of continuous phenomena.
+draft: false
+edition: "1"
+epub-chapter-level: 0
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+format: "text/markdown"
+identifier: "analysis-semantics"
+keywords:
+  - "analysis"
+  - "mathematical analysis"
+  - "analysis vs synthesis"
+  - "calculus"
+  - "infinitesimals"
+  - "limits"
+  - "continuity"
+  - "convergence"
+  - "rigor"
+  - "epsilon-delta"
+  - "function"
+  - "differential equations"
+  - "power series"
+  - "real analysis"
+  - "complex analysis"
+  - "Fourier analysis"
+  - "measure theory"
+  - "functional analysis"
+  - "topology"
+  - "Newton"
+  - "Leibniz"
+  - "Euler"
+  - "Cauchy"
+  - "Weierstrass"
+  - "Hilbert"
+  - "Bourbaki"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  primary: "QA300"
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report: {}
+report-no: "GVA-ANALYSIS-SEMANTICS-2026-01"
+report-number: "GVA-ANALYSIS-SEMANTICS-2026-01"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "1"
+rights: "CC0-1.0"
+series: ""
+series-number: 0
+series-title: ""
+slug: "analysis-semantics"
+status: "published"
+subject:
+  - "Mathematics"
+  - "Philosophy of Mathematics"
+  - "History of Mathematics"
+  - "Mathematical Analysis"
+subjects:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Mathematical Analysis"
+  - "Foundations and Rigor"
+subtitle: "Newton → Present (Europe & the United States)"
+tags:
+  - "analysis"
+  - "semantics"
+  - "history"
+  - "calculus"
+  - "rigor"
+  - "continuum"
+  - "limits"
+  - "Newton"
+  - "Leibniz"
+  - "Euler"
+  - "Cauchy"
+  - "Weierstrass"
+title: "The Semantics of \"Analysis\" in Mathematics"
+toc: true
+toc-depth: 3
+toc-title: "Table of Contents"
+type: "article"
+...
