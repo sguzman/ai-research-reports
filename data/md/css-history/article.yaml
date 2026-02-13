@@ -1,0 +1,152 @@
+---
+# Metadata template covering every key currently used across articles.
+# Remove or override entries that don't apply to the piece you're working on.
+
+abstract: >
+  CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content
+  from presentation into a mature, modular platform for layout, typography,
+  interaction, and responsive design. This essay traces CSS along two coupled
+  histories: the formal arc of standards (W3C Recommendations, snapshots, and
+  module levels) and the informal arc of real-world practice (browser wars,
+  interoperability pain, community patterns like OOCSS/BEM/SMACSS, and major
+  demonstrations such as CSS Zen Garden and responsive design). It emphasizes
+  how implementation constraints shaped the spec process (notably the long
+  CSS2.1 stabilization) and how developer needs pushed new capabilities (Flexbox,
+  Grid, media queries, tooling, and design systems). The result is a coherent
+  timeline of institutions, specs, and practice that explains not only what
+  modern CSS can do, but why the ecosystem evolved the way it did.
+
+author:
+  - "Salvador Guzman"
+
+categories:
+  - "web"
+  - "css"
+  - "web-standards"
+  - "software-history"
+  - "front-end"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: ""
+
+date: "2026-02-12"
+
+description: >
+  A detailed, timeline-driven history of CSS that connects W3C specifications
+  and browser implementation realities with community practice (from early
+  standards and the browser wars to responsive design, Flexbox, Grid, and
+  modern CSS architecture).
+
+draft: false
+
+edition: "1"
+
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: true
+epub_cover_image: "cover.png"
+
+format: "markdown"
+
+identifier: "gva-history-of-css-2026-02-12"
+
+keywords:
+  - "CSS"
+  - "Cascading Style Sheets"
+  - "W3C"
+  - "CSS Working Group"
+  - "web standards"
+  - "browser interoperability"
+  - "CSS1"
+  - "CSS2"
+  - "CSS2.1"
+  - "CSS3 modules"
+  - "Flexbox"
+  - "Grid"
+  - "media queries"
+  - "responsive design"
+  - "CSS architecture"
+  - "BEM"
+  - "OOCSS"
+  - "SMACSS"
+  - "CSS Zen Garden"
+
+lang: "en"
+language: "en"
+
+library_of_congress_classification: {}
+
+license: "CC0-1.0"
+
+number-sections: false
+
+plate_id: ""
+
+publisher: "Gold, Velvet and Ashes"
+
+reference-section-title: "Annotated Bibliography and Further Reading"
+
+report:
+  no: 0
+  year: 2026
+
+report-no: "0"
+report-number: "0"
+report-year: "2026"
+report_no: 0
+report_year: 2026
+
+revision: "r1"
+
+rights: "CC0-1.0"
+
+series: "Gold, Velvet and Ashes"
+series-number: 0
+series-title: "Gold, Velvet and Ashes"
+
+slug: "history-of-css"
+
+status: "complete"
+
+subject:
+  - "Cascading Style Sheets (CSS)"
+  - "Web standards"
+  - "Software and internet history"
+  - "Browser interoperability"
+  - "Front-end engineering"
+
+subjects:
+  - "Cascading Style Sheets (CSS)"
+  - "W3C specifications"
+  - "CSS Working Group"
+  - "Web development practices"
+  - "Design systems and CSS architecture"
+
+subtitle: "Institutions, Specs, and Practice"
+
+tags:
+  - "css"
+  - "web"
+  - "w3c"
+  - "standards"
+  - "front-end"
+  - "history"
+  - "browsers"
+  - "responsive-design"
+  - "flexbox"
+  - "grid"
+  - "css-architecture"
+
+title: "A Comprehensive History of CSS"
+
+toc: true
+toc-depth: 2
+toc-title: "Contents"
+
+type: "article"
+...
