@@ -1,0 +1,107 @@
+---
+abstract: >-
+  A cultural-intellectual history of the complex plane from the mid-18th century to the
+  mid-2020s, tracing how “imaginary” numbers moved from disputed algebraic fictions to a
+  stable geometric picture and then into the practical core of physics, engineering, computing,
+  and visual culture. The essay follows key conceptual shifts (symbol → plane → toolkit → canvas),
+  highlights major historical actors and applications, and argues that the complex plane became a
+  durable bridge between abstraction and reality.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Mathematics"
+  - "History of Mathematics"
+  - "Complex Analysis"
+  - "Mathematical Culture"
+  - "Philosophy of Mathematics"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: "gva.article.complex-plane-culture.v1"
+date: "2026-02-12"
+description: >-
+  A cultural-intellectual history of the complex plane (1748--2025): from Euler’s symbolic i to
+  Argand diagrams, modern physics, computation, and the aesthetics of fractals.
+draft: false
+edition: "1"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+format: "text/markdown"
+identifier: "gva:complex-plane-culture:2026-02-12"
+keywords:
+  - "complex plane"
+  - "complex numbers"
+  - "imaginary numbers"
+  - "Argand diagram"
+  - "Euler"
+  - "Gauss"
+  - "history of mathematics"
+  - "complex analysis"
+  - "Fourier analysis"
+  - "quantum mechanics"
+  - "electrical engineering"
+  - "fractals"
+  - "mathematical aesthetics"
+  - "mathematical visualization"
+lang: "en-US"
+language: "English"
+library_of_congress_classification:
+  primary: "QA331.7"
+  note: "Complex analysis / functions of a complex variable"
+license: "CC0-1.0"
+number-sections: true
+plate_id: "complex-plane-culture"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "Sources"
+report:
+  kind: ""
+  number: ""
+  year: 0
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+revision: "2026-02-12"
+rights: "CC0-1.0 (Public Domain Dedication)"
+series: "Complex Plane"
+series-number: 1
+series-title: "Complex Plane Essays"
+slug: "complex-plane-culture"
+status: "published"
+subject:
+  - "Complex numbers"
+  - "Complex plane"
+  - "History of mathematics"
+  - "Mathematical visualization"
+  - "Mathematics in culture"
+subjects:
+  - "Complex analysis"
+  - "Argand plane"
+  - "Euler's formula"
+  - "Mathematics and physics"
+  - "Mathematics and technology"
+  - "Mathematics and art"
+  - "Fractals"
+  - "Quantum phase"
+subtitle: "A Cultural-Intellectual History of the Complex Plane (1748--2025)"
+tags:
+  - "complex-plane"
+  - "complex-numbers"
+  - "history"
+  - "culture"
+  - "visualization"
+  - "complex-analysis"
+  - "euler"
+  - "gauss"
+  - "fractals"
+  - "quantum"
+title: "Imagining the Imaginary"
+toc: true
+toc-depth: 3
+toc-title: "Table of Contents"
+type: "posts"
+...
