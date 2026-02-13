@@ -1,0 +1,96 @@
+---
+abstract: |-
+  This report analyzes Hasan "HasanAbi" Piker as a flagship case of Twitch-native political influence: a commentator who fuses live, high-volume news reaction with community co-presence to produce durable attention, identity affiliation, and agenda-setting power. Using a mixed-method approach (career narrative reconstruction, platform-metric interpretation, controversy/moderation timeline review, and audience/brand framing), the report explains how HasanAbi’s growth and persistence are driven by (1) platform mechanics (categorization, recommendations, clip/YouTube feedback loops), (2) performance style (informality, humor, antagonistic debate posture, and “hanging out” affect), and (3) community dynamics (parasocial trust, shared language, and collective sense-making during major news cycles).
+  The analysis also treats controversy as part of the product: boundary-testing rhetoric, recurring conflicts with critics, and intermittent enforcement events function as both risk and attention amplifier. The report evaluates reputational and platform-governance risks (policy changes, advertiser pressure, coordinated reporting, and cross-platform blowback), and sketches plausible scenarios for the brand’s trajectory. Overall, HasanAbi is presented less as a traditional “pundit” than as an interactive media system: a personality-mediated forum where political identity, entertainment, and platform incentives co-produce outcomes at scale.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Politics"
+  - "Media Studies"
+  - "Internet Culture"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: "gva-hasan-piker-profile-report"
+date: "2026-02-12"
+description: "A mixed-method profile of Hasan \"HasanAbi\" Piker: career arc, popularity mechanics, audience formation, controversy/moderation dynamics, and forward-looking platform risk."
+draft: false
+edition: "1.0"
+epub-chapter-level: 0
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "markdown"
+identifier: "gva-hasan-piker-2026-02-12"
+keywords:
+  - "Hasan Piker"
+  - "HasanAbi"
+  - "Twitch"
+  - "political livestreaming"
+  - "political influencer"
+  - "platform governance"
+  - "content moderation"
+  - "algorithmic visibility"
+  - "parasocial relationships"
+  - "online political communication"
+  - "internet culture"
+  - "audience community formation"
+lang: "en-US"
+language: "English"
+library_of_congress_classification: {}
+license: "CC0-1.0"
+number-sections: false
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "profile"
+  subject: "Hasan \"HasanAbi\" Piker"
+  focus: "platform-native political influence"
+report-no: "001"
+report-number: "001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "2026-02-12"
+rights: "CC0-1.0"
+series: ""
+series-number: 0
+series-title: ""
+slug: "hasan-piker"
+status: "draft"
+subject:
+  - "Political communication"
+  - "Livestreaming"
+  - "Twitch.tv"
+  - "Internet influencers"
+  - "Platform governance"
+  - "Content moderation"
+subjects:
+  - "Political communication"
+  - "Livestreaming"
+  - "Twitch.tv"
+  - "Internet influencers"
+  - "Platform governance"
+  - "Content moderation"
+subtitle: "Career narrative, popularity mechanics, controversy, and platform risk in Twitch-era politics"
+tags:
+  - "hasanabi"
+  - "hasan-piker"
+  - "twitch"
+  - "livestreaming"
+  - "political-commentary"
+  - "influencers"
+  - "internet-culture"
+  - "platform-moderation"
+  - "algorithms"
+  - "parasociality"
+  - "left-politics"
+  - "new-media"
+title: "HasanAbi as a Platform-Native Political Brand"
+toc: false
+toc-depth: 0
+toc-title: ""
+type: "report"
+...
