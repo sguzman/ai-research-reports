@@ -1,0 +1,114 @@
+---
+abstract: >-
+  A graduate-level survey of algebra’s evolution from ancient, rhetorical problem-solving traditions to
+  modern abstract and structural formulations. It traces key historical milestones (e.g., the rise of
+  symbolic notation, the solution of higher-degree equations, and the 19th-century emergence of group
+  and Galois theory), maps major contemporary subfields (groups, rings, fields, modules, representation
+  theory, Lie/Hopf algebras, homological algebra, category-adjacent viewpoints), and highlights
+  interdisciplinary applications in science and technology. The report also examines philosophical and
+  pedagogical debates around abstraction and “structuralism,” and sketches forward-looking frontiers
+  such as higher algebra, quantum/categorical methods, and computer/AI-assisted discovery.
+author:
+  - Salvador Guzman
+categories:
+  - Mathematics
+  - Algebra
+  - History of Mathematics
+  - Mathematical Structures
+cover-image: ""
+cover_image: ""
+creator:
+  - Salvador Guzman
+dataset_id: "gva-algebra-evolution"
+date: "2026-02-12"
+description: >-
+  A comprehensive historical and conceptual report on algebra’s development, major structures,
+  applications, and future directions.
+draft: true
+edition: "1"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: true
+epub_cover_image: "cover.png"
+format: "markdown"
+identifier: "gva:evolution-and-frontiers-of-algebra"
+keywords:
+  - algebra
+  - history of algebra
+  - abstract algebra
+  - symbolic notation
+  - group theory
+  - ring theory
+  - field theory
+  - Galois theory
+  - linear algebra
+  - representation theory
+  - Lie algebra
+  - Hopf algebra
+  - homological algebra
+  - algebraic geometry
+  - category theory
+  - computational algebra
+  - Groebner bases
+  - cryptography
+  - coding theory
+  - symmetry
+  - Langlands program
+lang: "en"
+language: "English"
+library_of_congress_classification: {}
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "survey"
+  level: "graduate"
+  topic: "algebra"
+  scope: "history, concepts, subfields, applications, philosophy, future"
+report-no: "GVA-MATH-ALG-2026-001"
+report-number: "001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "1"
+rights: "CC0-1.0"
+series: "Gold, Velvet and Ashes"
+series-number: 1
+series-title: "Reports"
+slug: "evolution-and-frontiers-of-algebra"
+status: "draft"
+subject:
+  - Algebra
+subjects:
+  - Algebra
+  - History of Mathematics
+  - Abstract Structures
+subtitle: "A Comprehensive Historical and Conceptual Analysis"
+tags:
+  - algebra
+  - history
+  - abstract-algebra
+  - group-theory
+  - ring-theory
+  - field-theory
+  - galois-theory
+  - linear-algebra
+  - representation-theory
+  - lie-algebras
+  - hopf-algebras
+  - homological-algebra
+  - algebraic-geometry
+  - category-theory
+  - computational-algebra
+  - groebner-bases
+  - cryptography
+  - coding-theory
+  - langlands
+title: "The Evolution and Frontiers of Algebra"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...
