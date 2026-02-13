@@ -1,0 +1,114 @@
+---
+abstract: >
+  A plain-language, end-to-end field guide to the global semiconductor (computer chip)
+  industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs),
+  the design flow (specs, architecture, verification, EDA tools, reusable IP), and the
+  manufacturing flow (fabs, lithography, nodes, yield economics). Explains packaging and
+  test, industry structure (fabless vs foundry vs IDM), market segmentation, pricing and
+  cyclicality, current supply-chain bottlenecks for AI-era chips, and the geopolitics and
+  policy environment shaping the industry.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Technology"
+  - "Semiconductors"
+  - "Industry"
+  - "Supply Chains"
+  - "Geopolitics"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: "gva-chip-industry-field-guide"
+date: "2026-02-12"
+description: >
+  A non-technical field guide to how the worldwide chip industry works: design, fabs,
+  packaging/test, market structure, cycles, bottlenecks, and geopolitics.
+draft: false
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: true
+epub_cover_image: "cover.png"
+format: "markdown"
+identifier: "gva-chip-industry-field-guide-2026-02-12"
+keywords:
+  - "semiconductors"
+  - "computer chips"
+  - "chip industry"
+  - "semiconductor supply chain"
+  - "fabless"
+  - "foundry"
+  - "IDM"
+  - "EDA"
+  - "photolithography"
+  - "process nodes"
+  - "advanced packaging"
+  - "HBM"
+  - "CoWoS"
+  - "OSAT"
+  - "GPUs"
+  - "AI accelerators"
+  - "export controls"
+  - "CHIPS Act"
+  - "geopolitics"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  assigned: false
+  note: "Unclassified; set if you want LoC/LC call numbers."
+license: "CC0-1.0"
+number-sections: true
+plate_id: "gva-chip-industry-field-guide"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "field guide"
+  audience: "non-technical"
+  domain: "semiconductor industry"
+  scope: "global"
+  version: "1.0"
+report-no: "GVA-TFG-0001"
+report-number: "0001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "1"
+rights: "CC0-1.0"
+series: "technology-field-guides"
+series-number: 1
+series-title: "Technology Field Guides"
+slug: "worldwide-computer-chip-industry"
+status: "published"
+subject:
+  - "Semiconductor industry"
+  - "Technology supply chains"
+  - "Industrial organization"
+  - "Geopolitics"
+subjects:
+  - "Semiconductor industry"
+  - "Technology supply chains"
+  - "Industrial organization"
+  - "Geopolitics"
+subtitle: "A Non-Technical Field Guide"
+tags:
+  - "chips"
+  - "semiconductors"
+  - "tsmc"
+  - "intel"
+  - "nvidia"
+  - "amd"
+  - "asml"
+  - "eda"
+  - "fabs"
+  - "packaging"
+  - "hbm"
+  - "supply-chain"
+  - "export-controls"
+  - "chips-act"
+title: "The Worldwide Computer Chip Industry"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...
