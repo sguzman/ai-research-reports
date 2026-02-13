@@ -1,0 +1,102 @@
+---
+abstract: >-
+  A cultural and historical essay arguing that matrices are not merely a piece of
+  mathematics but a practical “technology of complexity” that helped humans
+  represent many relationships at once, scale institutions, and operate modern
+  machines. Beginning with early table-based methods and the institutional spread
+  of linear algebra, the piece traces how matrix thinking became a lingua franca
+  of science, engineering, computing, and data. It then maps the word “matrix”
+  into a set of recurring cultural motifs—mother/source, grid, network, and
+  simulation—showing how each motif produces hopes (creation, order, connection,
+  imaginative freedom) and fears (dehumanization, bureaucracy, surveillance,
+  unreality). The essay closes by arguing that these mythic frames shape policy
+  and public intuition about technology, and that understanding them is part of
+  navigating the “future matrix” we are building.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Mathematics"
+  - "Technology"
+  - "History"
+  - "Culture"
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - "Salvador Guzman"
+dataset_id: "matrix-culture.v1"
+date: "2026-02-12"
+description: >-
+  A mythical and social history of matrices as a cultural technology—how matrix
+  thinking scaled science, industry, and computation, and why “the Matrix” became
+  a modern metaphor for control, networks, and simulation.
+draft: false
+edition: "1"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: true
+epub_cover_image: "cover.png"
+format: "markdown"
+identifier: "gva.matrix-culture.2026-02-12"
+keywords:
+  - "matrix"
+  - "matrices"
+  - "linear algebra"
+  - "Gaussian elimination"
+  - "determinants"
+  - "cultural technology"
+  - "history of mathematics"
+  - "scientific institutions"
+  - "computing"
+  - "data centers"
+  - "machine learning"
+  - "matrix multiplication"
+  - "myth"
+  - "metaphor"
+  - "simulation"
+  - "networks"
+lang: "en"
+language: "English"
+library_of_congress_classification: {}
+license: "CC0-1.0"
+number-sections: true
+plate_id: "matrix-culture"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "Further Reading"
+report: {}
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+revision: "1"
+rights: "CC0-1.0"
+series: "essays"
+series-number: 0
+series-title: "Gold, Velvet and Ashes"
+slug: "matrix-culture"
+status: "stable"
+subject:
+  - "Matrices (Mathematics)"
+  - "Linear algebra"
+  - "History of mathematics"
+  - "Science and technology studies"
+subjects:
+  - "Matrices as cultural technology"
+  - "Institutional spread of linear algebra"
+  - "Matrix mythology: mother, grid, network, simulation"
+  - "Computing, data centers, and AI as matrix engines"
+subtitle: "A Mythical & Social History"
+tags:
+  - "matrix-culture"
+  - "linear-algebra"
+  - "history-of-math"
+  - "technology"
+  - "culture"
+  - "computing"
+  - "ai"
+title: "The Matrix as Cultural Technology"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "essay"
+...
