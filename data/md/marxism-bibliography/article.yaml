@@ -1,0 +1,104 @@
+---
+abstract: >
+  A comprehensive, annotated, and hierarchically structured bibliography of Marxist
+  literature from the 1840s through 2025. Organized chronologically and thematically,
+  it aims to be exhaustive across regions, ideological currents, media, and major
+  scholarly languages, and includes methodology notes designed for transparent,
+  reproducible updating.
+author:
+  - Salvador Guzman
+categories:
+  - marxism
+  - bibliography
+  - political-theory
+  - intellectual-history
+  - research-guide
+cover-image: "cover.png"
+cover_image: "cover.png"
+creator:
+  - Salvador Guzman
+dataset_id: "gva-marx-bibliography-2026-02-12"
+date: "2026-02-12"
+description: >
+  An annotated research guide and reading list of Marxist literature (primary and
+  secondary) from 1840 to 2025, arranged to track both historical development and
+  major thematic currents.
+draft: false
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: true
+epub_cover_image: "cover.png"
+format: "article"
+identifier: "gva:article:marx-bibliography:2026-02-12"
+keywords:
+  - Karl Marx
+  - Friedrich Engels
+  - Marxism
+  - Marxist literature
+  - annotated bibliography
+  - reading list
+  - intellectual history
+  - political economy
+  - socialism
+  - communism
+  - Western Marxism
+  - Leninism
+  - Maoism
+  - Frankfurt School
+  - critical theory
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  class: "HX"
+  description: "Socialism, Communism, Anarchism"
+  notes:
+    - "Marxism and Marxist schools; bibliography / research guide"
+license: "CC0-1.0"
+number-sections: true
+plate_id: "plate-marx-bibliography"
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "annotated bibliography"
+  scope_years: "1840-2025"
+  organization: "chronological + thematic"
+  intent: "research guide"
+report-no: "GVA-RPT-0001"
+report-number: "GVA-RPT-0001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "rev-1"
+rights: "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+series: "Gold, Velvet and Ashes - Research Library"
+series-number: 0
+series-title: "Gold, Velvet and Ashes"
+slug: "marx-bibliography"
+status: "complete"
+subject:
+  - Marxism
+  - Bibliography
+  - Political economy
+  - Intellectual history
+subjects:
+  - Marxism
+  - Marxist literature
+  - Annotated bibliography
+  - Research methodology
+subtitle: "An Annotated Bibliography and Research Guide"
+tags:
+  - marx
+  - engels
+  - marxism
+  - bibliography
+  - reading-list
+  - critical-theory
+  - socialism
+  - communism
+title: "Comprehensive Marxist Literature (1840--2025)"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "research"
+...
