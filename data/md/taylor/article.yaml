@@ -1,0 +1,83 @@
+---
+abstract: >
+  An annotated bibliography on Taylor Lorenz and the surrounding controversies in
+  internet-era journalism: harassment, doxxing debates, newsroom standards, and
+  trust in media.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Media"
+  - "Journalism"
+  - "Internet Culture"
+  - "Online Harassment"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: "gva-taylor-lorenz-bibliography"
+date: "2026-02-12"
+description: >
+  Source list and reading trail focused on Taylor Lorenz and disputes about
+  internet-culture reporting, doxxing/identification ethics, newsroom corrections,
+  platform dynamics, and public trust in media.
+draft: false
+edition: "1"
+epub-chapter-level: 0
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: "gva:taylor-lorenz-bibliography:2026-02-12"
+keywords:
+  - "Taylor Lorenz"
+  - "internet culture"
+  - "journalism ethics"
+  - "doxxing"
+  - "online harassment"
+  - "media trust"
+  - "newsroom standards"
+  - "platform politics"
+lang: "en"
+language: "English"
+library_of_congress_classification: {}
+license: "CC0-1.0"
+number-sections: false
+plate_id: "plate-taylor-lorenz-bibliography"
+publisher: "Salvador Guzman"
+reference-section-title: "References"
+report: {}
+report-no: "GVA-REPORT-2026-001"
+report-number: "001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+revision: "1"
+rights: "CC0 1.0 Universal (CC0-1.0)"
+series: "internet-culture-bibliographies"
+series-number: 1
+series-title: "Internet Culture Bibliographies"
+slug: "taylor-lorenz-bibliography"
+status: "complete"
+subject:
+  - "Journalism"
+  - "Media ethics"
+  - "Internet culture"
+subjects:
+  - "Journalism"
+  - "Media ethics"
+  - "Internet culture"
+subtitle: "Sources on controversy, ethics, and internet-era reporting"
+tags:
+  - "taylor-lorenz"
+  - "journalism"
+  - "ethics"
+  - "doxxing"
+  - "harassment"
+  - "media"
+  - "internet-culture"
+title: "Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)"
+toc: false
+toc-depth: 0
+toc-title: ""
+type: "bibliography"
+...
