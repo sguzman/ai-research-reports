@@ -1,0 +1,163 @@
+---
+abstract: >-
+  Male suicide has become a critical public health issue in the United States, accounting for the vast
+  majority of suicide deaths. This report provides a comprehensive graduate-level analysis of U.S. male
+  suicide trends from 2000 to the present, synthesizing recent epidemiological data and peer-reviewed
+  literature. It reviews national trends and demographic disparities, examines risk and protective factors,
+  analyzes temporal events and policy influences, surveys intervention evidence, presents case studies of
+  distinct high-risk male subpopulations, and projects rates to 2030 under baseline versus intervention
+  scenarios, concluding with evidence-based recommendations and crisis resources.
+
+author:
+  - "Salvador Guzman"
+
+categories:
+  - "public health"
+  - "mental health"
+  - "epidemiology"
+  - "policy"
+  - "united states"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+
+creator:
+  - "Salvador Guzman"
+
+dataset_id: "male-suicide-us-2000-present"
+
+date: "2026-02-12"
+
+description: >-
+  A comprehensive graduate-level synthesis of U.S. male suicide trends since 2000, integrating mortality
+  data, demographic disparities, risk/protective factors, policy context, intervention evidence, case studies,
+  and projections to 2030.
+
+draft: false
+
+edition: "1"
+
+epub-chapter-level: 2
+epub-cover-image: "cover.png"
+epub-title-page: false
+epub_cover_image: "cover.png"
+
+format: "markdown"
+
+identifier: "gva:male-suicide-us-2000-present"
+
+keywords:
+  - "male suicide"
+  - "suicide mortality"
+  - "United States"
+  - "CDC WONDER"
+  - "WISQARS"
+  - "NVSS"
+  - "NSDUH"
+  - "YRBS"
+  - "NVDRS"
+  - "veterans"
+  - "rural health"
+  - "firearms"
+  - "lethal means safety"
+  - "means restriction"
+  - "depression"
+  - "PTSD"
+  - "substance use disorder"
+  - "opioid epidemic"
+  - "economic stress"
+  - "divorce"
+  - "social isolation"
+  - "help-seeking"
+  - "masculinity norms"
+  - "988 lifeline"
+  - "time-series projection"
+  - "suicide prevention"
+
+lang: "en-US"
+language: "English"
+
+library_of_congress_classification:
+  primary: "RA790.6"
+  secondary:
+    - "RC569.5.S9"
+    - "HV6548.U6"
+  notes: >-
+    Provisional LoC classification for a U.S.-focused public-health report on suicide epidemiology,
+    prevention policy, and mental health determinants.
+
+license: "CC0-1.0"
+
+number-sections: true
+
+plate_id: "gva-plate-male-suicide-us-2000-present"
+
+publisher: "Gold, Velvet and Ashes"
+
+reference-section-title: "References"
+
+report:
+  no: "MENTAL-001"
+  number: "001"
+  year: "2026"
+
+report-no: "MENTAL-001"
+report-number: "001"
+report-year: "2026"
+report_no: 1
+report_year: 2026
+
+revision: "1"
+
+rights: "CC0-1.0"
+
+series: ""
+series-number: 0
+series-title: ""
+
+slug: "male-suicide-us-2000-present"
+
+status: "published"
+
+subject:
+  - "Male suicide epidemiology"
+  - "Suicide prevention"
+  - "Mental health policy"
+  - "Lethal means safety"
+  - "Demographic and geographic disparities"
+
+subjects:
+  - "Public health surveillance"
+  - "Injury epidemiology"
+  - "Behavioral health services"
+  - "Veteran mental health"
+  - "Rural health"
+  - "Firearm policy and safety"
+  - "Social determinants of health"
+
+subtitle: "Trends, disparities, drivers, interventions, and projections"
+
+tags:
+  - "male-suicide"
+  - "suicide"
+  - "public-health"
+  - "epidemiology"
+  - "mental-health"
+  - "us"
+  - "firearms"
+  - "means-safety"
+  - "veterans"
+  - "rural"
+  - "risk-factors"
+  - "prevention"
+  - "988"
+  - "projections"
+
+title: "Male Suicide in the United States (2000--Present)"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+
+type: "report"
+...
