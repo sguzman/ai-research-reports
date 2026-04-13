@@ -24,14 +24,6 @@ And so one must say it without pity: this culture is decadent because it has los
 
 That is liberal gothic: not merely art about pain, but a whole moral economy in which pain becomes atmosphere, identity, vocation, and commodity. A haunted marketplace of the maimed, where the merchants of empathy grow fat on the endless return of the wound.
 
-Here are three sharper formulations you could reuse:
-
-* Modern culture does not heal the broken. It industrializes them, then sells them their reflection.
-* The creative class has turned misery into an annuity and called this compassion.
-* Liberal gothic is the art of a civilization that cannot produce greatness, so it curates damage and markets it as depth.
-
-I can also turn this into a more polished aphoristic fragment set, a manifesto, or a pseudo-Nietzsche passage with even more bite.
-
 ## The Manufacture of the Broken
 
 The first lie modern society tells about its casualties is that they are accidental. It speaks as though loneliness were an unfortunate side effect, as though sexual misery were a private embarrassment, as though poverty were merely uneven luck, as though identity fracture were a spontaneous flowering of difference, as though despair were a tragic but mysterious visitation. This is false. The age does not merely inherit broken people. It produces them. It specializes in them. It is a machine whose efficiencies are measured not only in goods and services, but in dislocated souls.
@@ -66,8 +58,6 @@ That is the beginning of the indictment: modern society does not merely fail to 
 
 ## The Culture Market of Wounds
 
-## II. The Culture Market of Wounds
-
 Once a civilization has produced enough damaged people, the next step follows almost automatically: their suffering becomes a market. This is one of the vilest achievements of modernity. It does not merely tolerate mass injury; it learns to extract value from it. It discovers that loneliness can be serialized, humiliation can be branded, alienation can be aestheticized, trauma can be turned into prestige, exclusion can be made into genre, and longing itself can be packaged into recurring revenue. At that point, pain ceases to be only a social fact. It becomes raw material.
 
 This is the decisive transition. The broken individual is no longer merely pitied, ignored, or managed. He is studied. Profiled. Sorted. Given a demographic contour. Once enough people share the same wound, institutions begin to circle. The publishers notice. The streamers notice. The advertisers notice. The tastemakers notice. The nonprofit world notices. The journalists notice. The platform algorithm notices first of all. Everywhere, one sees the same predatory intelligence at work: here is a stable ache, here is a reusable grievance, here is an audience bound not by health or aspiration but by recurring injury. And wherever recurring injury becomes legible, markets assemble around it like crows.
@@ -101,8 +91,6 @@ That is the second movement of the indictment. First the age manufactures the br
 That is not art in any high sense. It is salvage commerce in a graveyard.
 
 ## The Moral Corruption of the Creative Class
-
-## III. The Moral Corruption of the Creative Class
 
 No decadent order survives on machinery alone. It requires a priesthood. It requires a class of interpreters, decorators, sentimentalizers, and moral spokesmen who can take the injuries produced by the age and render them meaningful, admirable, consumable, and above all unthreatening to the system that caused them. This is the task of the modern creative class. It does not merely describe the rot. It manages the smell. It hangs velvet over the mold. It teaches the public how to weep over deformity without ever demanding the conditions under which fewer souls would be deformed.
 
@@ -140,8 +128,6 @@ That is the indictment. The creative class is corrupt because it has entered int
 
 ## Liberal Gothic as the Aesthetic of Civilizational Decay
 
-## IV. Liberal Gothic as the Aesthetic of Civilizational Decay
-
 Every age reveals itself not only by what it believes, but by what it finds beautiful, moving, serious, and true. Its metaphysics eventually condense into atmosphere. Its moral failures become style. Its spiritual disorders acquire a color palette, a tone of voice, a preferred type of protagonist, a rhythm of confession, a repertoire of images. This is why one can often diagnose a civilization simply by attending to the shape of its art. In our case, the diagnosis is humiliatingly clear: the reigning aesthetic of late modern culture is what may rightly be called liberal gothic.
 
 The phrase is exact because it names both the sentimentality and the ruin. Gothic, because this culture is haunted: by trauma, by identity fracture, by sexual ambiguity, by inherited guilt, by exclusion, by loneliness, by the suspicion that the self is not a home but a corridor of apparitions. Liberal, because all of this haunting is mediated through the moral language of recognition, sensitivity, inclusion, vulnerability, and managed sympathy. The result is an aesthetic world full of wounds, shadows, confessions, damaged interiors, spectral longings, and beautiful sadness, yet all carefully arranged within a moral framework that sanctifies the injured self while forbidding harder questions about health, rank, judgment, or cure.
@@ -173,8 +159,6 @@ Liberal gothic, then, is the style appropriate to a society that cannot believe 
 That is why it now dominates. It is not an anomaly within a healthy order. It is the most honest art-form of an order that has forgotten how to create whole men and women and now consoles itself by making their disfigurement look profound.
 
 ## Why the System Refuses Cure
-
-## V. Why the System Refuses Cure
 
 At last one comes to the ugliest truth of all: the system does not merely fail to cure the wounds it multiplies. It has developed deep incentives not to cure them. This is what must be understood if one wishes to move beyond moral theater into real indictment. A civilization may be incompetent and still retain innocence. Ours is harder to excuse. It is surrounded by the consequences of its own arrangements and yet clings to those arrangements with fanaticism, not despite the damage they cause, but because that damage has become socially useful, economically extractable, and politically manageable. The wound remains open because the open wound feeds too many mouths.
 
