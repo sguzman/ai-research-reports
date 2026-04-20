@@ -1,0 +1,60 @@
+---
+abstract: Electric motors have evolved from 19th-century experiments to today’s high-performance drives.
+  Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation[\[1\]](https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20rotating%20device%20driven,Barlow%27s%20Wheel)[\[2\]](https://en.wikipedia.org/wiki/Timeline_of_the_electric_motor#:~:text=1871%E2%80%931873%2C%C2%A0Z%C3%A9nobe%20Th%C3%A9ophile%20Gramme%20%20,laminated%20magnetic%20cores%20of%20insulated).
+  Motors operate on basic electromagnetic laws (Lorentz force and Faraday’s law), yielding torque \$τ=K_t
+  I\$ and back‐EMF \$E=K_e \omega\$[\[3\]](https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1…
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-04-04'
+description: Electric motors have evolved from 19th-century experiments to today’s high-performance drives.
+  Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation[\[1\]](https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: electric-motors-v2.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: electric-motors-v2
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: electric-motors-v2
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...

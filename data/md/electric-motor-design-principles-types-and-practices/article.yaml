@@ -1,0 +1,63 @@
+---
+abstract: '**Executive Summary:** Electric motors – devices that convert electrical energy to mechanical
+  torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration
+  of electromagnetic rotation[\[1\]](https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field)
+  through Tesla’s 1888 AC induction motor patents[\[2\]](https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and)
+  to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals,
+  machine types, performance trade-offs, materials, control electroni…'
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-04-04'
+description: '**Executive Summary:** Electric motors – devices that convert electrical energy to mechanical
+  torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration
+  of electromagnetic rotation[\[1\]](https…'
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: Electric Motor Design_ Principles, Types, and Practices.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: electric-motor-design-principles-types-and-practices
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: Electric Motor Design_ Principles, Types, and Practices
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...

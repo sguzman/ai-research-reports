@@ -1,0 +1,65 @@
+---
+abstract: 'We define **Managerial Yankee White Supremacy** as a paternalistic ideology in which (Northern)
+  white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other
+  races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric
+  to justify control, denying agency to subordinated groups, and exempting themselves from critiques of
+  racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation
+  of *others’* racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and
+  (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century
+  supports many elements of this pattern. For example, Reconstruction-era bureaucra…'
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-02-27'
+description: We define **Managerial Yankee White Supremacy** as a paternalistic ideology in which (Northern)
+  white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other
+  races. In practice they frame racial h…
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: yankee-white-supremacy.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: yankee-white-supremacy
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: yankee-white-supremacy
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...

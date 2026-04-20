@@ -1,0 +1,64 @@
+---
+abstract: 'Thomas Piketty’s *Capital in the Twenty-First Century* emphasizes that the explosion of inequality
+  in recent decades has been driven **not by impersonal market forces alone but by an unprecedented surge
+  in top managers’ earnings**. Piketty documents that in the U.S. roughly 60–70% of incomes in the top
+  0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes[\[1\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that).
+  He attributes this to corporate governance failures: today’s top executives effectively **set their
+  own pay**. “These top managers by and large have the power to set their own remuneration, in some cases
+  without limit,” Pik…'
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-03-22'
+description: Thomas Piketty’s *Capital in the Twenty-First Century* emphasizes that the explosion of inequality
+  in recent decades has been driven **not by impersonal market forces alone but by an unprecedented surge
+  in top managers’ earnings**. Piketty…
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: piketty-liberal-pmc-critique.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: piketty-liberal-pmc-critique
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: piketty-liberal-pmc-critique
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...

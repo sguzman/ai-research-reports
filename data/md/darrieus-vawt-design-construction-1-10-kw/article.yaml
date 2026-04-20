@@ -1,0 +1,65 @@
+---
+abstract: '**Executive Summary:** This report reviews the principles and practical steps for designing,
+  building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic
+  theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor
+  geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural
+  design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist,
+  passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics),
+  mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing,
+  safety/maintenance, modeling/simulation (CFD, blade-element), a build p…'
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-04-04'
+description: '**Executive Summary:** This report reviews the principles and practical steps for designing,
+  building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic
+  theory (lift vs. drag, tip-speed ratio,…'
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: Darrieus VAWT Design & Construction (1–10 kW).docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: darrieus-vawt-design-construction-1-10-kw
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: Darrieus VAWT Design & Construction (1–10 kW)
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...

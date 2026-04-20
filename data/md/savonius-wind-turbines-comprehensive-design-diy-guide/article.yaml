@@ -1,0 +1,61 @@
+---
+abstract: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named for
+  Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)[\[2\]](https://hackaday.com/2018/08/14/diy-wind-turbine-for-where-the-sun-doesnt-shine/#:~:text=The%20wind%20turbine%20that%20,Finnish%20engineer%20Sigurd%20Johannes%20Savonius).
+  They spin with simple “S”-shaped or semi-cylindrical scoops that catch wind on the concave side and
+  rotate (Fig. 1). Their chief virtues are **simplicity, ruggedness, and omni-directionality** – no yaw
+  mechanism is needed, and they self-start at very low wind speeds[\[3\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=to%20rotate%20in%20the%20direction,wind%20turbines%…'
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-04-04'
+description: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named
+  for Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…'
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: Savonius Wind Turbines – Comprehensive Design & DIY Guide.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: savonius-wind-turbines-comprehensive-design-diy-guide
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...

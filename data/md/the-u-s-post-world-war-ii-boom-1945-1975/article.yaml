@@ -1,0 +1,56 @@
+---
+abstract: The U.S. Post–World War II Boom, 1945–1975
+author:
+- Salvador Guzman
+categories: []
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-03-21'
+description: The U.S. Post–World War II Boom, 1945–1975
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-title-page: false
+epub_cover_image: ''
+format: markdown
+identifier: ''
+keywords: []
+lang: ''
+language: ''
+library_of_congress_classification: {}
+license: CC0-1.0
+number-sections: false
+plate_id: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  conversion:
+    source_docx: The U.S. Post–World War II Boom, 1945–1975.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_year: 0
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+slug: the-u-s-post-world-war-ii-boom-1945-1975
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+tags: []
+title: The U.S. Post–World War II Boom, 1945–1975
+toc: false
+toc-depth: 0
+toc-title: ''
+type: ''
+...
