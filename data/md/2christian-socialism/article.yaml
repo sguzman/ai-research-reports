@@ -1,104 +1,169 @@
 ---
-abstract: >-
-  In mid-Victorian Britain, Anglican priests Frederick Denison Maurice and Charles
-  Kingsley advanced “Christian Socialism” as a theological response to industrial
-  poverty and the revolutionary anxieties of 1848. Grounding social reform in the
-  doctrines of God’s Fatherhood and the resulting brotherhood of humanity, they
-  argued that Christianity’s core claims demand concrete social duties in wages,
-  education, housing, and public health.
+title: Christian Socialism in Mid-Victorian Britain
+subtitle: Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)
+linkTitle: ''
+description: A research note on mid-Victorian Anglican “Christian Socialism,” focusing on F. D. Maurice
+  and Charles Kingsley, their theological rationale, key texts, and practical experiments in co-operation
+  and adult education.
+summary: ''
+abstract: 'In mid-Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley advanced
+  “Christian Socialism” as a theological response to industrial poverty and the revolutionary anxieties
+  of 1848. Grounding social reform in the doctrines of God’s Fatherhood and the resulting brotherhood
+  of humanity, they argued that Christianity’s core claims demand concrete social duties in wages, education,
+  housing, and public health.
 
-  This article maps the movement’s key texts and events (1848–1865), profiles its
-  principal figures, and explains how Maurice and Kingsley re-framed “socialism”
-  as voluntary Christian cooperation rather than atheistic revolution. It also
-  traces their institutional experiments (co-operatives, workingmen’s education)
-  and assesses their legacy in Anglican social thought and later Christian labor
-  movements.
-author:
-  - "Salvador Guzmán"
-categories:
-  - "History"
-  - "Political Thought"
-  - "Religion"
-  - "Victorian Britain"
-cover-image: "cover.png"
-cover_image: "cover.png"
-creator:
-  - "Salvador Guzmán"
-dataset_id: "gva.christian-socialism"
-date: "2026-02-12"
-description: >-
-  A research note on mid-Victorian Anglican “Christian Socialism,” focusing on
-  F. D. Maurice and Charles Kingsley, their theological rationale, key texts,
-  and practical experiments in co-operation and adult education.
+  This article maps the movement’s key texts and events (1848–1865), profiles its principal figures, and
+  explains how Maurice and Kingsley re-framed “socialism” as voluntary Christian cooperation rather than
+  atheistic revolution. It also traces their institutional experiments (co-operatives, workingmen’s education)
+  and assesses their legacy in Anglican social thought and later Christian labor movements.'
+slug: christian-socialism
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-edition: "1"
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: true
-epub_cover_image: "cover.png"
-format: "markdown"
-identifier: "gva:christian-socialism"
-keywords:
-  - "Christian Socialism"
-  - "Frederick Denison Maurice"
-  - "Charles Kingsley"
-  - "Anglicanism"
-  - "Victorian Britain"
-  - "Chartism"
-  - "co-operatives"
-  - "Working Men's College"
-  - "social reform"
-  - "political theology"
-lang: "en"
-language: "English"
-library_of_congress_classification:
-  class: "BR115.S6"
-  note: "Christianity and social problems / social justice (closest LoC fit for this topic)"
-license: "CC0-1.0"
-number-sections: true
-plate_id: "gva-plate-christian-socialism"
-publisher: "Gold, Velvet and Ashes"
-reference-section-title: "Bibliography"
-report:
-  no: "GVA-RN-2026-CS-01"
-  number: 1
-  year: 2026
-  type: "Research Note"
-report-no: "GVA-RN-2026-CS-01"
-report-number: "01"
-report-year: "2026"
-report_no: 1
-report_year: 2026
-revision: "r1"
-rights: "CC0-1.0 (public domain dedication)"
-series: "political-theology-notes"
-series-number: 1
-series-title: "Political Theology Notes"
-slug: "christian-socialism"
-status: "published"
-subject:
-  - "Christian Socialism"
-  - "Anglicanism"
-  - "Social reform"
-  - "Victorian era"
-subjects:
-  - "Christian Socialism"
-  - "Anglicanism"
-  - "Social reform"
-  - "Victorian era"
-subtitle: "Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)"
+status: published
+edition: '1'
+revision: r1
+author:
+- Salvador Guzmán
+authors: []
+creator:
+- Salvador Guzmán
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0 (public domain dedication)
+license: CC0-1.0
+lang: en
+language: English
+identifier: gva:christian-socialism
+dataset_id: gva.christian-socialism
+plate_id: gva-plate-christian-socialism
+type: article
+format: markdown
+reference-section-title: Bibliography
+categories:
+- History
+- Political Thought
+- Religion
+- Victorian Britain
 tags:
-  - "christian-socialism"
-  - "anglicanism"
-  - "victorian-britain"
-  - "maurice"
-  - "kingsley"
-  - "chartism"
-  - "cooperatives"
-  - "working-mens-college"
-title: "Christian Socialism in Mid-Victorian Britain"
+- christian-socialism
+- anglicanism
+- victorian-britain
+- maurice
+- kingsley
+- chartism
+- cooperatives
+- working-mens-college
+keywords:
+- Christian Socialism
+- Frederick Denison Maurice
+- Charles Kingsley
+- Anglicanism
+- Victorian Britain
+- Chartism
+- co-operatives
+- Working Men's College
+- social reform
+- political theology
+subject:
+- Christian Socialism
+- Anglicanism
+- Social reform
+- Victorian era
+subjects:
+- Christian Socialism
+- Anglicanism
+- Social reform
+- Victorian era
+library_of_congress_classification:
+  class: BR115.S6
+  label: ''
+  description: ''
+  note: Christianity and social problems / social justice (closest LoC fit for this topic)
+series: political-theology-notes
+series-title: Political Theology Notes
+series-number: 1
+series_title: Political Theology Notes
+series_number: 1
+report-no: GVA-RN-2026-CS-01
+report-number: '01'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+layout: ''
+markup: ''
 toc: true
 toc-depth: 2
-toc-title: "Contents"
-type: "article"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: true
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: 1
+  year: 2026
+  version: ''
+  kind: ''
+  type: Research Note
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
+  false: GVA-RN-2026-CS-01
 ...

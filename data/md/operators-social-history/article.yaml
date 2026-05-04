@@ -1,157 +1,192 @@
 ---
-abstract: >-
-  A chronological, social-intellectual history of how “operators” moved from being
-  informal calculation procedures (differentiate, integrate, take differences) to
-  fully legitimate mathematical objects with their own algebra, classification, and
-  theories. The essay tracks the reification of actions into entities through
-  notation, pedagogy, and disciplinary conflict: early operational calculus and the
-  symbolic D; the 19th-century rise of matrices and linear transformations; debates
-  between quaternionists and vector analysts; engineers’ pragmatic operator methods
-  (notably Heaviside) versus demands for rigor; and the early 20th-century
-  consolidation of operator theory inside functional analysis (Fredholm, Hilbert,
-  Riesz), culminating in the central role of operators in modern physics and
-  computation.
-
-author:
-  - "Salvador Guzman"
-
-categories:
-  - "mathematics"
-  - "history of mathematics"
-  - "functional analysis"
-  - "mathematical physics"
-  - "notation and pedagogy"
-  - "intellectual history"
-
-cover-image: "cover.png"
-cover_image: "cover.png"
-
-creator:
-  - "Salvador Guzman"
-
-dataset_id: ""
-
-date: "2026-02-12"
-
-description: >-
-  A social history of the mathematical “operator”: how actions like differentiation
-  became objects you can manipulate, classify, and build theories around—shaped by
-  notation, education, disciplinary disputes, and the demands of physics and engineering.
-
+title: A Social History of "Operators" in Mathematics
+subtitle: How actions became objects
+linkTitle: ''
+description: 'A social history of the mathematical “operator”: how actions like differentiation became
+  objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary
+  disputes, and the demands of physics and engineering.'
+summary: ''
+abstract: 'A chronological, social-intellectual history of how “operators” moved from being informal calculation
+  procedures (differentiate, integrate, take differences) to fully legitimate mathematical objects with
+  their own algebra, classification, and theories. The essay tracks the reification of actions into entities
+  through notation, pedagogy, and disciplinary conflict: early operational calculus and the symbolic D;
+  the 19th-century rise of matrices and linear transformations; debates between quaternionists and vector
+  analysts; engineers’ pragmatic operator methods (notably Heaviside) versus demands for rigor; and the
+  early 20th-century consolidation of operator theory inside functional analysis (Fredholm, Hilbert, Riesz),
+  culminating in the central role of operators in modern physics and computation.'
+slug: operator-social-history
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-
-edition: ""
-
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: false
-epub_cover_image: "cover.png"
-
-format: "markdown"
-
-identifier: "gva:operator-social-history-mathematics"
-
-keywords:
-  - "operators"
-  - "operational calculus"
-  - "calculus of operations"
-  - "differential operator"
-  - "integral operator"
-  - "finite difference"
-  - "matrix theory"
-  - "linear transformation"
-  - "eigenvalues"
-  - "spectrum"
-  - "functional analysis"
-  - "Hilbert space"
-  - "Fredholm theory"
-  - "Heaviside operational calculus"
-  - "vector analysis"
-  - "quaternions"
-  - "notation"
-  - "mathematics education"
-  - "history of science"
-  - "mathematical physics"
-
-lang: "en-US"
-language: "English"
-
-library_of_congress_classification: {}
-
-license: "CC0-1.0"
-
-number-sections: true
-
-plate_id: ""
-
-publisher: "Gold, Velvet and Ashes"
-
-reference-section-title: "References"
-
-report: {}
-
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_year: 0
-
-revision: "1"
-
-rights: "CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication"
-
-series: ""
-series-number: 0
-series-title: ""
-
-slug: "operator-social-history"
-
-status: "published"
-
-subject:
-  - "Operator theory"
-  - "Functional analysis"
-  - "History of mathematics"
-  - "Mathematical physics"
-  - "Scientific notation"
-  - "Engineering mathematics"
-
-subjects:
-  - "Operator theory"
-  - "Functional analysis"
-  - "History of mathematics"
-  - "Mathematical physics"
-  - "Scientific notation"
-  - "Engineering mathematics"
-
-subtitle: "How actions became objects"
-
+status: published
+edition: ''
+revision: '1'
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication
+license: CC0-1.0
+lang: en-US
+language: English
+identifier: gva:operator-social-history-mathematics
+dataset_id: ''
+plate_id: ''
+type: article
+format: markdown
+reference-section-title: References
+categories:
+- mathematics
+- history of mathematics
+- functional analysis
+- mathematical physics
+- notation and pedagogy
+- intellectual history
 tags:
-  - "operators"
-  - "D operator"
-  - "operational calculus"
-  - "finite differences"
-  - "Laplace transform"
-  - "matrices"
-  - "linear algebra"
-  - "Cayley"
-  - "Hamilton"
-  - "Gibbs"
-  - "Heaviside"
-  - "Fredholm"
-  - "Hilbert"
-  - "Riesz"
-  - "spectrum"
-  - "notation"
-  - "pedagogy"
-  - "disciplinary conflict"
-  - "mathematical physics"
-
-title: "A Social History of \"Operators\" in Mathematics"
-
+- operators
+- D operator
+- operational calculus
+- finite differences
+- Laplace transform
+- matrices
+- linear algebra
+- Cayley
+- Hamilton
+- Gibbs
+- Heaviside
+- Fredholm
+- Hilbert
+- Riesz
+- spectrum
+- notation
+- pedagogy
+- disciplinary conflict
+- mathematical physics
+keywords:
+- operators
+- operational calculus
+- calculus of operations
+- differential operator
+- integral operator
+- finite difference
+- matrix theory
+- linear transformation
+- eigenvalues
+- spectrum
+- functional analysis
+- Hilbert space
+- Fredholm theory
+- Heaviside operational calculus
+- vector analysis
+- quaternions
+- notation
+- mathematics education
+- history of science
+- mathematical physics
+subject:
+- Operator theory
+- Functional analysis
+- History of mathematics
+- Mathematical physics
+- Scientific notation
+- Engineering mathematics
+subjects:
+- Operator theory
+- Functional analysis
+- History of mathematics
+- Mathematical physics
+- Scientific notation
+- Engineering mathematics
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+series: ''
+series-title: ''
+series-number: 0
+series_title: ''
+series_number: 0
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-
-type: "article"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

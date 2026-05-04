@@ -1,156 +1,190 @@
 ---
-abstract: >-
-  A structured overview of gender-affirming hormone therapy (GAHT) for people assigned male
-  at birth (AMAB), focusing on physiologic effects, risk tradeoffs, and how outcomes differ
-  by age of initiation (including puberty suppression with GnRHa). Summarizes expected
-  changes in body composition, breast development, skin/hair, fertility and sexual function,
-  bone density considerations, cardiovascular and thromboembolic risks by estrogen route,
-  and psychosocial outcomes, while emphasizing evidence limitations and open research gaps.
-
-author:
-  - "Salvador Guzman"
-
-categories:
-  - "Health"
-  - "Endocrinology"
-  - "Gender"
-  - "Public Policy"
-
-cover-image: "cover.png"
-cover_image: "cover.png"
-
-creator:
-  - "Salvador Guzman"
-
-dataset_id: ""
-
-date: "2026-02-12"
-
-description: >-
-  An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected
-  physiologic changes, risks and benefits, timing (early vs late initiation), monitoring
-  themes, and key knowledge gaps.
-
+title: Gender and GAHT
+subtitle: Physiological Effects, Risks, and Timing
+linkTitle: ''
+description: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected
+  physiologic changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key
+  knowledge gaps.'
+summary: ''
+abstract: A structured overview of gender-affirming hormone therapy (GAHT) for people assigned male at
+  birth (AMAB), focusing on physiologic effects, risk tradeoffs, and how outcomes differ by age of initiation
+  (including puberty suppression with GnRHa). Summarizes expected changes in body composition, breast
+  development, skin/hair, fertility and sexual function, bone density considerations, cardiovascular and
+  thromboembolic risks by estrogen route, and psychosocial outcomes, while emphasizing evidence limitations
+  and open research gaps.
+slug: gender-and-gaht
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-
-edition: "1"
-
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: false
-epub_cover_image: "cover.png"
-
-format: "markdown"
-
-identifier: "gva-gender-and-gaht-2026-02-12"
-
-keywords:
-  - "GAHT"
-  - "gender-affirming hormone therapy"
-  - "gender dysphoria"
-  - "AMAB"
-  - "estradiol"
-  - "anti-androgens"
-  - "spironolactone"
-  - "GnRHa"
-  - "puberty blockers"
-  - "Tanner staging"
-  - "body composition"
-  - "breast development"
-  - "bone mineral density"
-  - "DEXA"
-  - "lipids"
-  - "VTE"
-  - "thromboembolism"
-  - "transdermal estrogen"
-  - "fertility preservation"
-  - "sperm banking"
-  - "psychosocial outcomes"
-  - "WPATH"
-  - "Endocrine Society"
-
-lang: "en"
-language: "English"
-
-library_of_congress_classification: {}
-
-license: "CC0-1.0"
-
-number-sections: false
-
-plate_id: "gender-and-gaht"
-
-publisher: "Gold, Velvet and Ashes"
-
-reference-section-title: "References"
-
-report:
-  kind: "health overview"
-  population_focus: "AMAB feminizing GAHT"
-  scope:
-    - "physiologic effects"
-    - "age of initiation (early vs late)"
-    - "risks and benefits"
-    - "monitoring themes"
-    - "evidence gaps"
-  stance: "non-prescriptive summary"
-
-report-no: "GVA-HEALTH-2026-001"
-report-number: "001"
-report-year: "2026"
-report_no: 1
-report_year: 2026
-
-revision: "r1"
-
-rights: "CC0-1.0"
-
-series: "health-reports"
-series-number: 1
-series-title: "Gold, Velvet and Ashes Health Reports"
-
-slug: "gender-and-gaht"
-
-status: "complete"
-
-subject:
-  - "Gender-affirming care"
-  - "Hormone therapy"
-  - "Endocrinology"
-  - "Adolescent health"
-  - "Risk assessment"
-
-subjects:
-  - "Gender-affirming hormone therapy"
-  - "Estrogen therapy"
-  - "Androgen suppression"
-  - "Puberty suppression (GnRHa)"
-  - "Bone health and BMD"
-  - "Cardiovascular and thromboembolic risk"
-  - "Fertility preservation"
-  - "Mental health and quality of life"
-
-subtitle: "Physiological Effects, Risks, and Timing"
-
+status: complete
+edition: '1'
+revision: r1
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: gva-gender-and-gaht-2026-02-12
+dataset_id: ''
+plate_id: gender-and-gaht
+type: report
+format: markdown
+reference-section-title: References
+categories:
+- Health
+- Endocrinology
+- Gender
+- Public Policy
 tags:
-  - "gaht"
-  - "gender"
-  - "endocrinology"
-  - "health"
-  - "puberty-blockers"
-  - "estradiol"
-  - "antiandrogens"
-  - "bone-health"
-  - "vte-risk"
-  - "fertility"
-  - "mental-health"
-  - "policy"
-
-title: "Gender and GAHT"
-
+- gaht
+- gender
+- endocrinology
+- health
+- puberty-blockers
+- estradiol
+- antiandrogens
+- bone-health
+- vte-risk
+- fertility
+- mental-health
+- policy
+keywords:
+- GAHT
+- gender-affirming hormone therapy
+- gender dysphoria
+- AMAB
+- estradiol
+- anti-androgens
+- spironolactone
+- GnRHa
+- puberty blockers
+- Tanner staging
+- body composition
+- breast development
+- bone mineral density
+- DEXA
+- lipids
+- VTE
+- thromboembolism
+- transdermal estrogen
+- fertility preservation
+- sperm banking
+- psychosocial outcomes
+- WPATH
+- Endocrine Society
+subject:
+- Gender-affirming care
+- Hormone therapy
+- Endocrinology
+- Adolescent health
+- Risk assessment
+subjects:
+- Gender-affirming hormone therapy
+- Estrogen therapy
+- Androgen suppression
+- Puberty suppression (GnRHa)
+- Bone health and BMD
+- Cardiovascular and thromboembolic risk
+- Fertility preservation
+- Mental health and quality of life
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+series: health-reports
+series-title: Gold, Velvet and Ashes Health Reports
+series-number: 1
+series_title: Gold, Velvet and Ashes Health Reports
+series_number: 1
+report-no: GVA-HEALTH-2026-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-
-type: "report"
+toc-title: Contents
+number-sections: false
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: health overview
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope:
+  - physiologic effects
+  - age of initiation (early vs late)
+  - risks and benefits
+  - monitoring themes
+  - evidence gaps
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: AMAB feminizing GAHT
+  stance: non-prescriptive summary
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

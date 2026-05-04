@@ -1,20 +1,14 @@
 ---
-title: tyler-and-jews
+title: ''
 subtitle: ''
 linkTitle: ''
-description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox
-  population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video
-  (“Jewish Invasion”) went viral (2.2M+ views),…
+description: ''
 summary: ''
-abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population
-  growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish
-  Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned[\[1\]](https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)[\[2\]](https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public).
-  Independent fact-checks find *some* isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted
-  for ~\$2M fraud[\[3\]](https://abc7ny.com/post/mugsh…
-slug: tyler-and-jews
+abstract: ''
+slug: ''
 url: ''
 aliases: []
-date: '2026-03-03'
+date: ''
 publishDate: ''
 lastmod: ''
 expiryDate: ''
@@ -22,21 +16,19 @@ draft: false
 status: ''
 edition: ''
 revision: ''
-author:
-- Salvador Guzman
+author: []
 authors: []
-creator:
-- Salvador Guzman
-publisher: Marginalia
-rights: CC0-1.0
-license: CC0-1.0
+creator: []
+publisher: ''
+rights: ''
+license: ''
 lang: ''
 language: ''
 identifier: ''
 dataset_id: ''
 plate_id: ''
 type: ''
-format: markdown
+format: ''
 reference-section-title: ''
 categories: []
 tags: []
@@ -60,17 +52,17 @@ report_number: 0
 report_year: 0
 layout: ''
 markup: ''
-toc: false
-toc-depth: 0
-toc-title: ''
-number-sections: false
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
 weight: 0
 cover-image: ''
 cover_image: ''
 epub-cover-image: ''
 epub_cover_image: ''
 epub-title-page: false
-epub-chapter-level: 0
+epub-chapter-level: 2
 epub-stylesheet: epub.css
 highlight-style: tango
 outputs: []
@@ -126,7 +118,7 @@ report:
   is_report: true
   notes: ''
   conversion:
-    source_docx: tyler-and-jews.docx
-    tool: pandoc 3.6
-    date: '2026-04-20'
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

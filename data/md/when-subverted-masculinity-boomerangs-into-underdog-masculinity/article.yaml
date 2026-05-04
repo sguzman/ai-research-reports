@@ -1,56 +1,126 @@
 ---
+title: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+subtitle: ''
+linkTitle: ''
+description: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+summary: ''
 abstract: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+slug: when-subverted-masculinity-boomerangs-into-underdog-masculinity
+url: ''
+aliases: []
+date: '2026-02-15'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
+draft: false
+status: ''
+edition: ''
+revision: ''
 author:
 - Salvador Guzman
-categories: []
-cover-image: ''
-cover_image: ''
+authors: []
 creator:
 - Salvador Guzman
-dataset_id: ''
-date: '2026-02-15'
-description: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
-draft: false
-edition: ''
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-title-page: false
-epub_cover_image: ''
-format: markdown
-identifier: ''
-keywords: []
+publisher: Marginalia
+rights: CC0-1.0
+license: CC0-1.0
 lang: ''
 language: ''
-library_of_congress_classification: {}
-license: CC0-1.0
-number-sections: false
+identifier: ''
+dataset_id: ''
 plate_id: ''
-publisher: Marginalia
+type: ''
+format: markdown
 reference-section-title: ''
-report:
-  conversion:
-    source_docx: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”.docx
-    tool: pandoc 3.6
-    date: '2026-04-20'
+categories: []
+tags: []
+keywords: []
+subject: []
+subjects: []
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+series: ''
+series-title: ''
+series-number: 0
+series_title: ''
+series_number: 0
 report-no: ''
 report-number: ''
 report-year: ''
 report_no: 0
+report_number: 0
 report_year: 0
-revision: ''
-rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-slug: when-subverted-masculinity-boomerangs-into-underdog-masculinity
-status: ''
-subject: []
-subjects: []
-subtitle: ''
-tags: []
-title: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+layout: ''
+markup: ''
 toc: false
 toc-depth: 0
 toc-title: ''
-type: ''
+number-sections: false
+weight: 0
+cover-image: ''
+cover_image: ''
+epub-cover-image: ''
+epub_cover_image: ''
+epub-title-page: false
+epub-chapter-level: 0
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
 ...

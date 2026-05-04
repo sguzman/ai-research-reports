@@ -1,107 +1,175 @@
 ---
-abstract: >-
-  A cultural-intellectual history of the complex plane from the mid-18th century to the
-  mid-2020s, tracing how “imaginary” numbers moved from disputed algebraic fictions to a
-  stable geometric picture and then into the practical core of physics, engineering, computing,
-  and visual culture. The essay follows key conceptual shifts (symbol → plane → toolkit → canvas),
-  highlights major historical actors and applications, and argues that the complex plane became a
-  durable bridge between abstraction and reality.
-author:
-  - "Salvador Guzman"
-categories:
-  - "Mathematics"
-  - "History of Mathematics"
-  - "Complex Analysis"
-  - "Mathematical Culture"
-  - "Philosophy of Mathematics"
-cover-image: "cover.png"
-cover_image: "cover.png"
-creator:
-  - "Salvador Guzman"
-dataset_id: "gva.article.complex-plane-culture.v1"
-date: "2026-02-12"
-description: >-
-  A cultural-intellectual history of the complex plane (1748--2025): from Euler’s symbolic i to
-  Argand diagrams, modern physics, computation, and the aesthetics of fractals.
+title: Imagining the Imaginary
+subtitle: A Cultural-Intellectual History of the Complex Plane (1748--2025)
+linkTitle: ''
+description: 'A cultural-intellectual history of the complex plane (1748--2025): from Euler’s symbolic
+  i to Argand diagrams, modern physics, computation, and the aesthetics of fractals.'
+summary: ''
+abstract: A cultural-intellectual history of the complex plane from the mid-18th century to the mid-2020s,
+  tracing how “imaginary” numbers moved from disputed algebraic fictions to a stable geometric picture
+  and then into the practical core of physics, engineering, computing, and visual culture. The essay follows
+  key conceptual shifts (symbol → plane → toolkit → canvas), highlights major historical actors and applications,
+  and argues that the complex plane became a durable bridge between abstraction and reality.
+slug: complex-plane-culture
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-edition: "1"
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: false
-epub_cover_image: "cover.png"
-format: "text/markdown"
-identifier: "gva:complex-plane-culture:2026-02-12"
-keywords:
-  - "complex plane"
-  - "complex numbers"
-  - "imaginary numbers"
-  - "Argand diagram"
-  - "Euler"
-  - "Gauss"
-  - "history of mathematics"
-  - "complex analysis"
-  - "Fourier analysis"
-  - "quantum mechanics"
-  - "electrical engineering"
-  - "fractals"
-  - "mathematical aesthetics"
-  - "mathematical visualization"
-lang: "en-US"
-language: "English"
-library_of_congress_classification:
-  primary: "QA331.7"
-  note: "Complex analysis / functions of a complex variable"
-license: "CC0-1.0"
-number-sections: true
-plate_id: "complex-plane-culture"
-publisher: "Gold, Velvet and Ashes"
-reference-section-title: "Sources"
-report:
-  kind: ""
-  number: ""
-  year: 0
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_year: 0
-revision: "2026-02-12"
-rights: "CC0-1.0 (Public Domain Dedication)"
-series: "Complex Plane"
-series-number: 1
-series-title: "Complex Plane Essays"
-slug: "complex-plane-culture"
-status: "published"
-subject:
-  - "Complex numbers"
-  - "Complex plane"
-  - "History of mathematics"
-  - "Mathematical visualization"
-  - "Mathematics in culture"
-subjects:
-  - "Complex analysis"
-  - "Argand plane"
-  - "Euler's formula"
-  - "Mathematics and physics"
-  - "Mathematics and technology"
-  - "Mathematics and art"
-  - "Fractals"
-  - "Quantum phase"
-subtitle: "A Cultural-Intellectual History of the Complex Plane (1748--2025)"
+status: published
+edition: '1'
+revision: '2026-02-12'
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0 (Public Domain Dedication)
+license: CC0-1.0
+lang: en-US
+language: English
+identifier: gva:complex-plane-culture:2026-02-12
+dataset_id: gva.article.complex-plane-culture.v1
+plate_id: complex-plane-culture
+type: posts
+format: text/markdown
+reference-section-title: Sources
+categories:
+- Mathematics
+- History of Mathematics
+- Complex Analysis
+- Mathematical Culture
+- Philosophy of Mathematics
 tags:
-  - "complex-plane"
-  - "complex-numbers"
-  - "history"
-  - "culture"
-  - "visualization"
-  - "complex-analysis"
-  - "euler"
-  - "gauss"
-  - "fractals"
-  - "quantum"
-title: "Imagining the Imaginary"
+- complex-plane
+- complex-numbers
+- history
+- culture
+- visualization
+- complex-analysis
+- euler
+- gauss
+- fractals
+- quantum
+keywords:
+- complex plane
+- complex numbers
+- imaginary numbers
+- Argand diagram
+- Euler
+- Gauss
+- history of mathematics
+- complex analysis
+- Fourier analysis
+- quantum mechanics
+- electrical engineering
+- fractals
+- mathematical aesthetics
+- mathematical visualization
+subject:
+- Complex numbers
+- Complex plane
+- History of mathematics
+- Mathematical visualization
+- Mathematics in culture
+subjects:
+- Complex analysis
+- Argand plane
+- Euler's formula
+- Mathematics and physics
+- Mathematics and technology
+- Mathematics and art
+- Fractals
+- Quantum phase
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+  primary: QA331.7
+  note: Complex analysis / functions of a complex variable
+series: Complex Plane
+series-title: Complex Plane Essays
+series-number: 1
+series_title: Complex Plane Essays
+series_number: 1
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Table of Contents"
-type: "posts"
+toc-title: Table of Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

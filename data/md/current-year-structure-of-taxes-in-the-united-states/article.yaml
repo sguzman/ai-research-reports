@@ -1,103 +1,161 @@
 ---
-abstract: >-
-  A current-structure survey of taxation in the United States using the latest
-  official data cited in the report as of April 27, 2026. It covers the federal
-  tax mix, 2026 rate parameters, recent legislative changes, tax expenditures,
-  distributional incidence, compliance and the tax gap, and the contrasting
-  structure of state and local taxation, including revenue concentration and
-  volatility in California.
-author:
-  - "Salvador Guzman"
-categories:
-  - "Public Finance"
-  - "Taxation"
-  - "United States"
-  - "Fiscal Policy"
-cover-image: ""
-cover_image: ""
-creator:
-  - "Salvador Guzman"
-dataset_id: "us-tax-structure-current-year"
-date: "2026-04-27"
-description: >-
-  A data-driven overview of the current U.S. tax structure across federal,
-  state, and local levels, with emphasis on rates, revenue composition,
-  incidence, and compliance.
+title: Current-Year Structure of Taxes in the United States
+subtitle: ''
+linkTitle: ''
+description: A data-driven overview of the current U.S. tax structure across federal, state, and local
+  levels, with emphasis on rates, revenue composition, incidence, and compliance.
+summary: ''
+abstract: A current-structure survey of taxation in the United States using the latest official data cited
+  in the report as of April 27, 2026. It covers the federal tax mix, 2026 rate parameters, recent legislative
+  changes, tax expenditures, distributional incidence, compliance and the tax gap, and the contrasting
+  structure of state and local taxation, including revenue concentration and volatility in California.
+slug: current-year-structure-of-taxes-in-the-united-states
+url: ''
+aliases: []
+date: '2026-04-27'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: true
-edition: "1.0"
-epub-chapter-level: 2
-epub-cover-image: ""
-epub-title-page: false
-epub_cover_image: ""
-format: "text/markdown"
-identifier: "urn:gva:us-tax-structure-current-year"
-keywords:
-  - "United States taxes"
-  - "federal income tax"
-  - "payroll tax"
-  - "corporate tax"
-  - "tax expenditures"
-  - "tax incidence"
-  - "tax gap"
-  - "state and local taxes"
-  - "California taxes"
-  - "fiscal policy"
-  - "IRS"
-  - "CBO"
-lang: "en"
-language: "English"
-library_of_congress_classification:
-  class: "HJ"
-  label: "Public finance"
-license: "CC0-1.0"
-number-sections: true
-plate_id: ""
-publisher: "Gold, Velvet and Ashes"
-reference-section-title: "References"
-report:
-  kind: "current-structure survey"
-  domain: "public finance"
-  topic: "tax structure in the United States"
-  scope: "federal + state/local + incidence + compliance + recent legislation"
-  audience: "policy-oriented general reader"
-  conversion:
-    source_docx: "Current-Year Structure of Taxes in the United States.docx"
-    tool: "pandoc 3.6"
-    date: "2026-05-03"
-report-no: ""
-report-number: ""
-report-year: "2026"
-report_no: 0
-report_year: 2026
-revision: "1.0.0"
-rights: "CC0-1.0"
-series: "public-finance-reports"
-series-number: 0
-series-title: "Public Finance Reports"
-slug: "current-year-structure-of-taxes-in-the-united-states"
-status: "draft"
-subject:
-  - "Taxation"
-  - "United States"
-  - "Public finance"
-subjects:
-  - "Federal taxation"
-  - "State and local taxation"
-  - "Tax incidence"
-  - "Tax expenditures"
-  - "Tax administration"
-subtitle: ""
+status: draft
+edition: '1.0'
+revision: 1.0.0
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: urn:gva:us-tax-structure-current-year
+dataset_id: us-tax-structure-current-year
+plate_id: ''
+type: report
+format: text/markdown
+reference-section-title: References
+categories:
+- Public Finance
+- Taxation
+- United States
+- Fiscal Policy
 tags:
-  - "taxation"
-  - "united-states"
-  - "public-finance"
-  - "irs"
-  - "cbo"
-  - "state-local-tax"
-  - "tax-gap"
-title: "Current-Year Structure of Taxes in the United States"
+- taxation
+- united-states
+- public-finance
+- irs
+- cbo
+- state-local-tax
+- tax-gap
+keywords:
+- United States taxes
+- federal income tax
+- payroll tax
+- corporate tax
+- tax expenditures
+- tax incidence
+- tax gap
+- state and local taxes
+- California taxes
+- fiscal policy
+- IRS
+- CBO
+subject:
+- Taxation
+- United States
+- Public finance
+subjects:
+- Federal taxation
+- State and local taxation
+- Tax incidence
+- Tax expenditures
+- Tax administration
+library_of_congress_classification:
+  class: HJ
+  label: Public finance
+  description: ''
+series: public-finance-reports
+series-title: Public Finance Reports
+series-number: 0
+series_title: Public Finance Reports
+series_number: 0
+report-no: ''
+report-number: ''
+report-year: '2026'
+report_no: 0
+report_number: 0
+report_year: 2026
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-type: "report"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: ''
+cover_image: ''
+epub-cover-image: ''
+epub_cover_image: ''
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: current-structure survey
+  type: ''
+  domain: public finance
+  discipline: ''
+  subdiscipline: ''
+  topic: tax structure in the United States
+  subject: ''
+  scope: federal + state/local + incidence + compliance + recent legislation
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: policy-oriented general reader
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: Current-Year Structure of Taxes in the United States.docx
+    tool: pandoc 3.6
+    date: '2026-05-03'
 ...

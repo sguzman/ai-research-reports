@@ -1,4 +1,11 @@
 ---
+title: emptiness-of-deleuze
+subtitle: ''
+linkTitle: ''
+description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system
+  rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those
+  systems are unimportant or dispensable; c…'
+summary: ''
 abstract: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system
   rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those
   systems are unimportant or dispensable; calling something a “social construction” is not inherently
@@ -7,59 +14,122 @@ abstract: 'The user’s criticisms of Deleuze center on what they see as the emp
   Deleuzian concepts (difference/repetition, multiplicity, rhizome, assemblage, deterritorialization/ret,
   Body without Organs, desiring-machines) with primary-source citations. We then map the user’s criticisms
   onto Deleuze’s texts and interpretations, contrasting them with sympathetic readings.…'
+slug: emptiness-of-deleuze
+url: ''
+aliases: []
+date: '2026-03-04'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
+draft: false
+status: ''
+edition: ''
+revision: ''
 author:
 - Salvador Guzman
-categories: []
-cover-image: ''
-cover_image: ''
+authors: []
 creator:
 - Salvador Guzman
-dataset_id: ''
-date: '2026-03-04'
-description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system
-  rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those
-  systems are unimportant or dispensable; c…'
-draft: false
-edition: ''
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-title-page: false
-epub_cover_image: ''
-format: markdown
-identifier: ''
-keywords: []
+publisher: Marginalia
+rights: CC0-1.0
+license: CC0-1.0
 lang: ''
 language: ''
-library_of_congress_classification: {}
-license: CC0-1.0
-number-sections: false
+identifier: ''
+dataset_id: ''
 plate_id: ''
-publisher: Marginalia
+type: ''
+format: markdown
 reference-section-title: ''
-report:
-  conversion:
-    source_docx: emptiness-of-deleuze.docx
-    tool: pandoc 3.6
-    date: '2026-04-20'
+categories: []
+tags: []
+keywords: []
+subject: []
+subjects: []
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+series: ''
+series-title: ''
+series-number: 0
+series_title: ''
+series_number: 0
 report-no: ''
 report-number: ''
 report-year: ''
 report_no: 0
+report_number: 0
 report_year: 0
-revision: ''
-rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-slug: emptiness-of-deleuze
-status: ''
-subject: []
-subjects: []
-subtitle: ''
-tags: []
-title: emptiness-of-deleuze
+layout: ''
+markup: ''
 toc: false
 toc-depth: 0
 toc-title: ''
-type: ''
+number-sections: false
+weight: 0
+cover-image: ''
+cover_image: ''
+epub-cover-image: ''
+epub_cover_image: ''
+epub-title-page: false
+epub-chapter-level: 0
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: emptiness-of-deleuze.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
 ...

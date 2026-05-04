@@ -1,149 +1,183 @@
 ---
-abstract: >-
-  In the mid-19th century, Karl Marx and Friedrich Engels recast the relationship
-  between "socialism" and "communism" by presenting their program as "scientific
-  socialism": an approach grounded in historical materialism, class antagonism,
-  and the analysis of capitalist development rather than in moral appeals or
-  invented utopias. Using the 1848 Communist Manifesto as the central text, this
-  essay traces how Marx and Engels deliberately adopted the label "communist" to
-  distinguish their doctrine from rival socialist currents, then follows early
-  reception through correspondence, press reactions, and key events from 1846 to
-  1860. It supplements close reading with a lightweight textual/network scan of
-  recurring terms (e.g., bourgeoisie, proletariat, class, property) to surface
-  thematic clusters and to show how "communism" was framed as the advanced,
-  scientifically justified form of socialism.
-
-author:
-  - "Salvador Guzman"
-
-categories:
-  - "Political theory"
-  - "Intellectual history"
-  - "Marxism"
-  - "Socialism and communism"
-  - "19th century Europe"
-
-cover-image: "cover.png"
-cover_image: "cover.png"
-
-creator:
-  - "Salvador Guzman"
-
-dataset_id: "marx-engels-scientific-socialism"
-date: "2026-02-12"
-description: >-
-  How Marx and Engels distinguished "scientific socialism" from utopian and
-  reformist socialisms, using the Communist Manifesto, early correspondence, and
-  mid-19th-century press reception.
-
+title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+subtitle: Scientific socialism, terminology, and early reception around the Communist Manifesto
+linkTitle: ''
+description: How Marx and Engels distinguished "scientific socialism" from utopian and reformist socialisms,
+  using the Communist Manifesto, early correspondence, and mid-19th-century press reception.
+summary: ''
+abstract: 'In the mid-19th century, Karl Marx and Friedrich Engels recast the relationship between "socialism"
+  and "communism" by presenting their program as "scientific socialism": an approach grounded in historical
+  materialism, class antagonism, and the analysis of capitalist development rather than in moral appeals
+  or invented utopias. Using the 1848 Communist Manifesto as the central text, this essay traces how Marx
+  and Engels deliberately adopted the label "communist" to distinguish their doctrine from rival socialist
+  currents, then follows early reception through correspondence, press reactions, and key events from
+  1846 to 1860. It supplements close reading with a lightweight textual/network scan of recurring terms
+  (e.g., bourgeoisie, proletariat, class, property) to surface thematic clusters and to show how "communism"
+  was framed as the advanced, scientifically justified form of socialism.'
+slug: marx-engels-scientific-socialism
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-edition: "1"
-
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: false
-epub_cover_image: "cover.png"
-
-format: "text/markdown"
-identifier: "gva:marx-engels-scientific-socialism"
-
-keywords:
-  - "Karl Marx"
-  - "Friedrich Engels"
-  - "scientific socialism"
-  - "utopian socialism"
-  - "historical materialism"
-  - "class struggle"
-  - "bourgeoisie"
-  - "proletariat"
-  - "Communist Manifesto"
-  - "1848 revolutions"
-  - "Cologne Communist Trial"
-  - "First International"
-  - "press reception"
-  - "textual analysis"
-
-lang: "en"
-language: "English"
-
-library_of_congress_classification:
-  class: "HX"
-  topic: "Socialism. Communism. Marxism"
-  note: "Broad topical classification for shelving/metadata; not an official LoC assignment."
-
-license: "CC0-1.0"
-number-sections: true
-
-plate_id: "marx-engels-0001"
-
-publisher: "Gold, Velvet and Ashes"
-
-reference-section-title: "Bibliography"
-
-report:
-  kind: "research-essay"
-  domain: "political theory"
-  methods:
-    - "close reading"
-    - "timeline synthesis"
-    - "textual frequency/co-occurrence scan"
-  primary_texts:
-    - "Manifesto of the Communist Party (1848)"
-    - "Selected Marx-Engels correspondence (1846-1852)"
-  time_scope: "1846-1860 (with later prefaces for context)"
-
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_year: 0
-
-revision: "1"
-rights: "CC0-1.0"
-
-series: "Gold, Velvet and Ashes Essays"
-series-number: 0
-series-title: "Gold, Velvet and Ashes Essays"
-
-slug: "marx-engels-scientific-socialism"
-
-status: "complete"
-
-subject:
-  - "Marxism"
-  - "Socialism"
-  - "Communism"
-  - "Political ideology"
-  - "19th century intellectual history"
-
-subjects:
-  - "Marxism"
-  - "Socialism"
-  - "Communism"
-  - "Political ideology"
-  - "19th century intellectual history"
-
-subtitle: "Scientific socialism, terminology, and early reception around the Communist Manifesto"
-
+status: complete
+edition: '1'
+revision: '1'
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: gva:marx-engels-scientific-socialism
+dataset_id: marx-engels-scientific-socialism
+plate_id: marx-engels-0001
+type: research-essay
+format: text/markdown
+reference-section-title: Bibliography
+categories:
+- Political theory
+- Intellectual history
+- Marxism
+- Socialism and communism
+- 19th century Europe
 tags:
-  - "marx"
-  - "engels"
-  - "communist-manifesto"
-  - "scientific-socialism"
-  - "utopian-socialism"
-  - "historical-materialism"
-  - "class-struggle"
-  - "bourgeoisie"
-  - "proletariat"
-  - "press-history"
-  - "1848"
-  - "intellectual-history"
-
-title: "Marx and Engels: Scientific Socialism and the Communist Manifesto"
-
+- marx
+- engels
+- communist-manifesto
+- scientific-socialism
+- utopian-socialism
+- historical-materialism
+- class-struggle
+- bourgeoisie
+- proletariat
+- press-history
+- '1848'
+- intellectual-history
+keywords:
+- Karl Marx
+- Friedrich Engels
+- scientific socialism
+- utopian socialism
+- historical materialism
+- class struggle
+- bourgeoisie
+- proletariat
+- Communist Manifesto
+- 1848 revolutions
+- Cologne Communist Trial
+- First International
+- press reception
+- textual analysis
+subject:
+- Marxism
+- Socialism
+- Communism
+- Political ideology
+- 19th century intellectual history
+subjects:
+- Marxism
+- Socialism
+- Communism
+- Political ideology
+- 19th century intellectual history
+library_of_congress_classification:
+  class: HX
+  label: ''
+  description: ''
+  topic: Socialism. Communism. Marxism
+  note: Broad topical classification for shelving/metadata; not an official LoC assignment.
+series: Gold, Velvet and Ashes Essays
+series-title: Gold, Velvet and Ashes Essays
+series-number: 0
+series_title: Gold, Velvet and Ashes Essays
+series_number: 0
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-
-type: "research-essay"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: research-essay
+  type: ''
+  domain: political theory
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: 1846-1860 (with later prefaces for context)
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods:
+  - close reading
+  - timeline synthesis
+  - textual frequency/co-occurrence scan
+  method: ''
+  primary_texts:
+  - Manifesto of the Communist Party (1848)
+  - Selected Marx-Engels correspondence (1846-1852)
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

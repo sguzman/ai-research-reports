@@ -1,143 +1,189 @@
 ---
-# Metadata template covering every key currently used across articles.
-# Remove or override entries that don't apply to the piece you're working on.
+title: From Dirt Track to Durable Highway
+subtitle: Engineering, Material Science & Historic Precedent
+linkTitle: ''
+description: 'How to turn a dirt track into a long-lasting highway: subgrade, base, drainage, asphalt
+  or concrete, construction QC, and maintenance, with historical engineering lessons.
 
-abstract: >
-  A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded into a
-  durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization,
+  '
+summary: ''
+abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded
+  into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization,
   granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction
   quality control, and long-term maintenance planning. The piece also connects modern best practices to
   historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how
   proven lessons shaped today’s pavement engineering.
 
-author:
-  - "Salvador Guzman"
-
-categories:
-  - "civil-engineering"
-  - "transportation"
-  - "infrastructure"
-  - "materials-science"
-  - "history-of-technology"
-
-cover-image: "cover.png"
-cover_image: "cover.png"
-
-creator:
-  - "Salvador Guzman"
-
-dataset_id: "gva.highways.dirttrack.v1"
-date: "2026-02-12"
-
-description: >
-  How to turn a dirt track into a long-lasting highway: subgrade, base, drainage, asphalt or concrete,
-  construction QC, and maintenance, with historical engineering lessons.
-
+  '
+slug: dirt-track-to-durable-highway
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-edition: "1"
-
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: false
-epub_cover_image: "cover.png"
-
-format: "markdown"
-identifier: "gva:article:dirt-track-to-durable-highway"
-
-keywords:
-  - "highway engineering"
-  - "pavement design"
-  - "subgrade"
-  - "resilient modulus"
-  - "CBR"
-  - "soil stabilization"
-  - "granular base"
-  - "drainage"
-  - "hot mix asphalt"
-  - "portland cement concrete"
-  - "stone matrix asphalt"
-  - "open-graded friction course"
-  - "chip seal"
-  - "quality control"
-  - "IRI"
-  - "pavement maintenance"
-  - "RAP"
-  - "warm-mix asphalt"
-  - "macadam"
-  - "autobahn"
-  - "interstate system"
-
-lang: "en"
-language: "English"
-
-library_of_congress_classification:
-  primary: "TE145"
-  note: "Highway engineering / road construction and pavements"
-
-license: "CC0-1.0"
-
-number-sections: true
-
-plate_id: "plate_highway_001"
-publisher: "Gold, Velvet and Ashes"
-
-reference-section-title: "Sources"
-
-report: {}
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_year: 0
-
-revision: "v1.0"
-rights: "CC0-1.0"
-
-series: "Gold, Velvet and Ashes Essays"
-series-number: 0
-series-title: "Engineering and Infrastructure"
-
-slug: "dirt-track-to-durable-highway"
-status: "published"
-
-subject:
-  - "Highways"
-  - "Pavements"
-  - "Road materials"
-  - "Transportation engineering"
-  - "Infrastructure maintenance"
-
-subjects:
-  - "Highway engineering"
-  - "Pavement structures and design life"
-  - "Subgrade evaluation and stabilization"
-  - "Base course gradation, compaction, and drainage"
-  - "Asphalt mix types (HMA, SMA, OGFC) and surface treatments"
-  - "Concrete pavements and jointing concepts"
-  - "Construction quality control and smoothness (IRI)"
-  - "Preventive maintenance, overlays, and rehabilitation planning"
-  - "Recycling and sustainability in pavements (RAP, warm-mix)"
-  - "Historical precedent in road-building (Macadam, Autobahn, Interstates)"
-
-subtitle: "Engineering, Material Science & Historic Precedent"
-
+status: published
+edition: '1'
+revision: v1.0
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: gva:article:dirt-track-to-durable-highway
+dataset_id: gva.highways.dirttrack.v1
+plate_id: plate_highway_001
+type: article
+format: markdown
+reference-section-title: Sources
+categories:
+- civil-engineering
+- transportation
+- infrastructure
+- materials-science
+- history-of-technology
 tags:
-  - "pavement-engineering"
-  - "subgrade"
-  - "drainage"
-  - "soil-stabilization"
-  - "asphalt"
-  - "concrete"
-  - "quality-control"
-  - "maintenance"
-  - "materials"
-  - "infrastructure-history"
-
-title: "From Dirt Track to Durable Highway"
-
+- pavement-engineering
+- subgrade
+- drainage
+- soil-stabilization
+- asphalt
+- concrete
+- quality-control
+- maintenance
+- materials
+- infrastructure-history
+keywords:
+- highway engineering
+- pavement design
+- subgrade
+- resilient modulus
+- CBR
+- soil stabilization
+- granular base
+- drainage
+- hot mix asphalt
+- portland cement concrete
+- stone matrix asphalt
+- open-graded friction course
+- chip seal
+- quality control
+- IRI
+- pavement maintenance
+- RAP
+- warm-mix asphalt
+- macadam
+- autobahn
+- interstate system
+subject:
+- Highways
+- Pavements
+- Road materials
+- Transportation engineering
+- Infrastructure maintenance
+subjects:
+- Highway engineering
+- Pavement structures and design life
+- Subgrade evaluation and stabilization
+- Base course gradation, compaction, and drainage
+- Asphalt mix types (HMA, SMA, OGFC) and surface treatments
+- Concrete pavements and jointing concepts
+- Construction quality control and smoothness (IRI)
+- Preventive maintenance, overlays, and rehabilitation planning
+- Recycling and sustainability in pavements (RAP, warm-mix)
+- Historical precedent in road-building (Macadam, Autobahn, Interstates)
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+  primary: TE145
+  note: Highway engineering / road construction and pavements
+series: Gold, Velvet and Ashes Essays
+series-title: Engineering and Infrastructure
+series-number: 0
+series_title: Engineering and Infrastructure
+series_number: 0
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-
-type: "article"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

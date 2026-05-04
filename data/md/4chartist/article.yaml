@@ -1,108 +1,178 @@
 ---
-abstract: >-
-  A comparative study of British Chartism (1838–1850s) and Radical Republicanism in
-  Britain and the United States (1840s–1860s), focusing on how demands for expanded
-  franchise intersected (and often failed to align) with “socialist” economic aims.
-  It argues that Chartism’s working-class base and partial turn toward cooperative
-  and redistributive proposals created an ambiguous relationship to socialism, while
-  parliamentary radicals and U.S. Radical Republicans pursued political and civic
-  equality largely within liberal property frameworks. The essay highlights the
-  “limits of alliance” produced by class composition, religious culture, and
-  propaganda fears of “Red Republicanism.”
-author:
-  - "Salvador Guzman"
-categories:
-  - "history"
-  - "political-theory"
-  - "socialism"
-cover-image: "cover.png"
-cover_image: "cover.png"
-creator:
-  - "Salvador Guzman"
-dataset_id: "inventing-socialism.chartism-1840-1865"
-date: "2026-02-12"
-description: >-
-  Chartism and Radical Republicanism compared: franchise politics, land reform,
-  religion, and the contested boundary between democratic reform and “socialism”
-  in the mid-19th-century Atlantic world.
+title: Chartists & Radical Republicans, 1840-1865
+subtitle: Franchise, Socialism, and the Limits of Alliance
+linkTitle: ''
+description: 'Chartism and Radical Republicanism compared: franchise politics, land reform, religion,
+  and the contested boundary between democratic reform and “socialism” in the mid-19th-century Atlantic
+  world.'
+summary: ''
+abstract: A comparative study of British Chartism (1838–1850s) and Radical Republicanism in Britain and
+  the United States (1840s–1860s), focusing on how demands for expanded franchise intersected (and often
+  failed to align) with “socialist” economic aims. It argues that Chartism’s working-class base and partial
+  turn toward cooperative and redistributive proposals created an ambiguous relationship to socialism,
+  while parliamentary radicals and U.S. Radical Republicans pursued political and civic equality largely
+  within liberal property frameworks. The essay highlights the “limits of alliance” produced by class
+  composition, religious culture, and propaganda fears of “Red Republicanism.”
+slug: chartists-radical-republicans-1840-1865
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: true
-edition: "1"
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: true
-epub_cover_image: "cover.png"
-format: "article"
-identifier: "gva-inventing-socialism-04-chartist-1840-1865"
-keywords:
-  - "Chartism"
-  - "People's Charter"
-  - "Radical Republicanism"
-  - "Reconstruction"
-  - "franchise reform"
-  - "universal male suffrage"
-  - "land reform"
-  - "labor movement"
-  - "cooperatives"
-  - "Red Republicanism"
-  - "political economy"
-  - "abolitionism"
-  - "Corn Laws"
-lang: "en"
-language: "English"
-library_of_congress_classification:
-  primary:
-    class: "DA"
-    note: "Great Britain — 19th century politics and reform movements"
-  secondary:
-    class: "E"
-    note: "United States — Civil War era and Reconstruction; political movements"
-license: "CC0-1.0"
-number-sections: true
-plate_id: "plate.inventing-socialism.0004"
-publisher: "Gold, Velvet and Ashes"
-reference-section-title: "References"
-report: {}
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_year: 0
-revision: "0.1.0"
-rights: "CC0-1.0"
-series: "inventing-socialism"
-series-number: 4
-series-title: "Inventing Socialism"
-slug: "chartists-radical-republicans-1840-1865"
-status: "draft"
-subject:
-  - "Chartism -- Great Britain -- History -- 19th century"
-  - "Radicalism -- Great Britain -- History -- 19th century"
-  - "Radical Republicans -- United States -- History -- 19th century"
-  - "Suffrage -- Great Britain -- History -- 19th century"
-  - "Reconstruction (U.S. history, 1865-1877)"
-  - "Socialism -- History -- 19th century"
-subjects:
-  - "Chartism -- Great Britain -- History -- 19th century"
-  - "Radicalism -- Great Britain -- History -- 19th century"
-  - "Radical Republicans -- United States -- History -- 19th century"
-  - "Suffrage -- Great Britain -- History -- 19th century"
-  - "Reconstruction (U.S. history, 1865-1877)"
-  - "Socialism -- History -- 19th century"
-subtitle: "Franchise, Socialism, and the Limits of Alliance"
+status: draft
+edition: '1'
+revision: 0.1.0
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: gva-inventing-socialism-04-chartist-1840-1865
+dataset_id: inventing-socialism.chartism-1840-1865
+plate_id: plate.inventing-socialism.0004
+type: research-essay
+format: article
+reference-section-title: References
+categories:
+- history
+- political-theory
+- socialism
 tags:
-  - "chartism"
-  - "radical-republicans"
-  - "franchise"
-  - "reconstruction"
-  - "abolitionism"
-  - "land-reform"
-  - "labor"
-  - "cooperatives"
-  - "british-history"
-  - "us-history"
-title: "Chartists & Radical Republicans, 1840-1865"
+- chartism
+- radical-republicans
+- franchise
+- reconstruction
+- abolitionism
+- land-reform
+- labor
+- cooperatives
+- british-history
+- us-history
+keywords:
+- Chartism
+- People's Charter
+- Radical Republicanism
+- Reconstruction
+- franchise reform
+- universal male suffrage
+- land reform
+- labor movement
+- cooperatives
+- Red Republicanism
+- political economy
+- abolitionism
+- Corn Laws
+subject:
+- Chartism -- Great Britain -- History -- 19th century
+- Radicalism -- Great Britain -- History -- 19th century
+- Radical Republicans -- United States -- History -- 19th century
+- Suffrage -- Great Britain -- History -- 19th century
+- Reconstruction (U.S. history, 1865-1877)
+- Socialism -- History -- 19th century
+subjects:
+- Chartism -- Great Britain -- History -- 19th century
+- Radicalism -- Great Britain -- History -- 19th century
+- Radical Republicans -- United States -- History -- 19th century
+- Suffrage -- Great Britain -- History -- 19th century
+- Reconstruction (U.S. history, 1865-1877)
+- Socialism -- History -- 19th century
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+  primary:
+    class: DA
+    note: Great Britain — 19th century politics and reform movements
+  secondary:
+    class: E
+    note: United States — Civil War era and Reconstruction; political movements
+series: inventing-socialism
+series-title: Inventing Socialism
+series-number: 4
+series_title: Inventing Socialism
+series_number: 4
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-type: "research-essay"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: true
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

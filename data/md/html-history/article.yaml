@@ -1,4 +1,12 @@
 ---
+title: History of HTML (1990--2025)
+subtitle: From SGML Roots to the Living Standard
+linkTitle: ''
+description: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing,
+  semantics, accessibility, and modern web platform practice.
+
+  '
+summary: ''
 abstract: 'A chronological and thematic history of HTML from 1990 to 2025, tracing its evolution from
   a small SGML-inspired markup language into a sprawling “living standard.” Covers the shift in governance
   across the IETF, W3C, and WHATWG; the browser wars and the emergence of JavaScript, CSS, and the DOM;
@@ -8,31 +16,49 @@ abstract: 'A chronological and thematic history of HTML from 1990 to 2025, traci
   metadata standards, and HTML email.
 
   '
+slug: html-history
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
+draft: false
+status: published
+edition: '1'
+revision: 1.0.0
 author:
 - Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: urn:gva:html-history
+dataset_id: html-history
+plate_id: gva-html-history
+type: report
+format: article
+reference-section-title: References
 categories:
 - Computing
 - Web
 - Internet History
 - Standards
-cover-image: cover.png
-cover_image: cover.png
-creator:
-- Salvador Guzman
-dataset_id: html-history
-date: '2026-02-12'
-description: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing,
-  semantics, accessibility, and modern web platform practice.
-
-  '
-draft: false
-edition: '1'
-epub-chapter-level: 2
-epub-cover-image: cover.png
-epub-title-page: false
-epub_cover_image: cover.png
-format: article
-identifier: urn:gva:html-history
+tags:
+- html
+- web
+- internet
+- standards
+- w3c
+- whatwg
+- ietf
+- html5
+- xhtml
+- browsers
 keywords:
 - HTML
 - World Wide Web
@@ -49,30 +75,6 @@ keywords:
 - Parsing
 - Accessibility
 - Metadata
-lang: en
-language: English
-library_of_congress_classification: {}
-license: CC0-1.0
-number-sections: true
-plate_id: gva-html-history
-publisher: Gold, Velvet and Ashes
-reference-section-title: References
-report:
-  series: Gold, Velvet and Ashes Reports
-  number: HTML-001
-  year: 2026
-report-no: HTML-001
-report-number: HTML-001
-report-year: '2026'
-report_no: 1
-report_year: 2026
-revision: 1.0.0
-rights: CC0-1.0
-series: web-histories
-series-number: 1
-series-title: Web Histories
-slug: html-history
-status: published
 subject:
 - HTML
 - Web standards
@@ -83,21 +85,90 @@ subjects:
 - Web browsers
 - Standards organizations
 - Document formats
-subtitle: From SGML Roots to the Living Standard
-tags:
-- html
-- web
-- internet
-- standards
-- w3c
-- whatwg
-- ietf
-- html5
-- xhtml
-- browsers
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+series: web-histories
+series-title: Web Histories
+series-number: 1
+series_title: Web Histories
+series_number: 1
+report-no: HTML-001
+report-number: HTML-001
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
 toc-title: Contents
-type: report
-title: History of HTML (1990--2025)
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: Gold, Velvet and Ashes Reports
+  number: HTML-001
+  year: 2026
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
 ...

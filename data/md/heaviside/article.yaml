@@ -1,63 +1,133 @@
 ---
+title: heaviside
+subtitle: ''
+linkTitle: ''
+description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical
+  physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful
+  symbolic techniques for solving circuit and fiel…
+summary: ''
 abstract: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist
   who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques
   for solving circuit and field problems. He started as a telegraph operator and, after deafness forced
   him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk
   Maxwell’s cumbersome 20-equation system into the four-vector equations used today[\[1\]](https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables),
   introduced the “operational calculus” (treating \$d/dt\$ as an algebraic symbol) to analyze circuits[\[2\]](https://mathshistory.st-andr…
+slug: heaviside
+url: ''
+aliases: []
+date: '2026-03-04'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
+draft: false
+status: ''
+edition: ''
+revision: ''
 author:
 - Salvador Guzman
-categories: []
-cover-image: ''
-cover_image: ''
+authors: []
 creator:
 - Salvador Guzman
-dataset_id: ''
-date: '2026-03-04'
-description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical
-  physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful
-  symbolic techniques for solving circuit and fiel…
-draft: false
-edition: ''
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-title-page: false
-epub_cover_image: ''
-format: markdown
-identifier: ''
-keywords: []
+publisher: Marginalia
+rights: CC0-1.0
+license: CC0-1.0
 lang: ''
 language: ''
-library_of_congress_classification: {}
-license: CC0-1.0
-number-sections: false
+identifier: ''
+dataset_id: ''
 plate_id: ''
-publisher: Marginalia
+type: ''
+format: markdown
 reference-section-title: ''
-report:
-  conversion:
-    source_docx: heaviside.docx
-    tool: pandoc 3.6
-    date: '2026-04-20'
+categories: []
+tags: []
+keywords: []
+subject: []
+subjects: []
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+series: ''
+series-title: ''
+series-number: 0
+series_title: ''
+series_number: 0
 report-no: ''
 report-number: ''
 report-year: ''
 report_no: 0
+report_number: 0
 report_year: 0
-revision: ''
-rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-slug: heaviside
-status: ''
-subject: []
-subjects: []
-subtitle: ''
-tags: []
-title: heaviside
+layout: ''
+markup: ''
 toc: false
 toc-depth: 0
 toc-title: ''
-type: ''
+number-sections: false
+weight: 0
+cover-image: ''
+cover_image: ''
+epub-cover-image: ''
+epub_cover_image: ''
+epub-title-page: false
+epub-chapter-level: 0
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: ''
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 0
+  version: ''
+  kind: ''
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: ''
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: heaviside.docx
+    tool: pandoc 3.6
+    date: '2026-04-20'
 ...
