@@ -3,18 +3,14 @@ title: From Dirt Track to Durable Highway
 subtitle: Engineering, Material Science & Historic Precedent
 linkTitle: ''
 description: 'How to turn a dirt track into a long-lasting highway: subgrade, base, drainage, asphalt
-  or concrete, construction QC, and maintenance, with historical engineering lessons.
-
-  '
+  or concrete, construction QC, and maintenance, with historical engineering lessons.'
 summary: ''
 abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded
   into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization,
   granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction
   quality control, and long-term maintenance planning. The piece also connects modern best practices to
   historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how
-  proven lessons shaped today’s pavement engineering.
-
-  '
+  proven lessons shaped today’s pavement engineering.'
 slug: dirt-track-to-durable-highway
 url: ''
 aliases: []
@@ -102,8 +98,8 @@ library_of_congress_classification:
   class: ''
   label: ''
   description: ''
-  primary: TE145
   note: Highway engineering / road construction and pavements
+  primary: TE145
 series: Gold, Velvet and Ashes Essays
 series-title: Engineering and Infrastructure
 series-number: 0

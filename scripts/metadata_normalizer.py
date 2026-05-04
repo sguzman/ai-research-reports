@@ -21,6 +21,18 @@ ALIAS_PAIRS: tuple[tuple[str, str], ...] = (
     ("series-number", "series_number"),
 )
 
+TEXT_FIELDS_TO_CLEAN: frozenset[str] = frozenset(
+    {
+        "abstract",
+        "description",
+        "summary",
+        "subtitle",
+        "title",
+        "linkTitle",
+        "reference-section-title",
+    }
+)
+
 
 def load_yaml(path: Path) -> Any:
     return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
@@ -42,12 +54,28 @@ def merge_with_standard(standard: Any, data: Any) -> Any:
         merged: dict[str, Any] = {}
         for key, template_value in standard.items():
             merged[key] = merge_with_standard(template_value, incoming.get(key))
-        for key, value in incoming.items():
+        for key in sorted(incoming, key=lambda item: str(item)):
             if key not in merged:
-                merged[key] = value
+                merged[key] = incoming[key]
         return merged
     if data is None:
         return deepcopy(standard)
+    return data
+
+
+def clean_text_value(value: str) -> str:
+    lines = [line.rstrip() for line in value.splitlines()]
+    cleaned = [line for line in lines if line.strip() != ""]
+    return "\n".join(cleaned).strip()
+
+
+def clean_text_fields(data: Any, key_name: str | None = None) -> Any:
+    if isinstance(data, dict):
+        return {key: clean_text_fields(value, key) for key, value in data.items()}
+    if isinstance(data, list):
+        return [clean_text_fields(value, key_name) for value in data]
+    if isinstance(data, str) and key_name in TEXT_FIELDS_TO_CLEAN:
+        return clean_text_value(data)
     return data
 
 
@@ -74,6 +102,7 @@ def normalize_project(folder: Path, standard: dict[str, Any], create_missing: bo
             return folder.name, "skipped_parse_error"
         data = merge_with_standard(standard, data)
 
+    data = clean_text_fields(data)
     sync_aliases(data)
     rendered = dump_yaml(data)
 

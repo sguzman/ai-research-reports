@@ -3,18 +3,14 @@ title: The Worldwide Computer Chip Industry
 subtitle: A Non-Technical Field Guide
 linkTitle: ''
 description: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test,
-  market structure, cycles, bottlenecks, and geopolitics.
-
-  '
+  market structure, cycles, bottlenecks, and geopolitics.'
 summary: ''
-abstract: 'A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry.
+abstract: A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry.
   Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs,
   architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography,
   nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM),
   market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and
   the geopolitics and policy environment shaping the industry.
-
-  '
 slug: worldwide-computer-chip-industry
 url: ''
 aliases: []

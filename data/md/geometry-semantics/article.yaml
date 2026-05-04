@@ -91,8 +91,8 @@ library_of_congress_classification:
   class: ''
   label: ''
   description: ''
-  primary: QA
   note: Mathematics (with emphasis on history/philosophy of mathematical practice)
+  primary: QA
 series: Gold, Velvet and Ashes
 series-title: Gold, Velvet and Ashes Reports
 series-number: 1

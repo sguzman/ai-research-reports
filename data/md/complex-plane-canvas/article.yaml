@@ -1,151 +1,183 @@
 ---
-abstract: >-
-  Complex analysis is a reusable problem-solving canvas: translate a problem into the
-  language of holomorphic or analytic functions on a canonical domain (disk, half-plane,
-  Riemann sphere), then exploit rigidity, integral formulas, and conformal structure to
-  force global conclusions from local data. This report traces the historical development
-  of that strategy from Euler, Gauss, and Cauchy through Riemann and Weierstrass and into
-  modern applications, highlighting flagship victories such as analytic number theory
-  (zeta functions and the prime number theorem), contour methods for generating functions,
-  conformal mapping approaches to 2D PDE boundary-value problems, extremal problems in
-  geometric function theory (Bieberbach/de Branges), and probabilistic conformal methods
-  (SLE). The through-line is that complex analyticity acts as a “straitjacket” that
-  suppresses pathologies and reveals hidden structure, making the complex plane a
-  universal computational and conceptual medium across mathematics, physics, and
-  engineering.
-
-author:
-  - "Salvador Guzman"
-
-categories:
-  - "Mathematics"
-  - "Complex Analysis"
-  - "History of Mathematics"
-  - "Mathematical Methods"
-
-cover-image: "cover.png"
-cover_image: "cover.png"
-
-creator:
-  - "Salvador Guzman"
-
-dataset_id: "complex-plane-canvas"
-
-date: "2026-02-12"
-
-description: >-
-  A research report arguing that complex analysis functions as a universal “canvas”:
-  by reformulating problems in the complex plane and applying holomorphic rigidity and
-  integral identities, one can solve and unify problems across number theory, geometry,
-  PDEs, physics, probability, and combinatorics.
-
+title: Complex Analysis as a Universal Canvas
+subtitle: 'Euler to Today: A Research Report'
+linkTitle: ''
+description: 'A research report arguing that complex analysis functions as a universal “canvas”: by reformulating
+  problems in the complex plane and applying holomorphic rigidity and integral identities, one can solve
+  and unify problems across number theory, geometry, PDEs, physics, probability, and combinatorics.'
+summary: ''
+abstract: 'Complex analysis is a reusable problem-solving canvas: translate a problem into the language
+  of holomorphic or analytic functions on a canonical domain (disk, half-plane, Riemann sphere), then
+  exploit rigidity, integral formulas, and conformal structure to force global conclusions from local
+  data. This report traces the historical development of that strategy from Euler, Gauss, and Cauchy through
+  Riemann and Weierstrass and into modern applications, highlighting flagship victories such as analytic
+  number theory (zeta functions and the prime number theorem), contour methods for generating functions,
+  conformal mapping approaches to 2D PDE boundary-value problems, extremal problems in geometric function
+  theory (Bieberbach/de Branges), and probabilistic conformal methods (SLE). The through-line is that
+  complex analyticity acts as a “straitjacket” that suppresses pathologies and reveals hidden structure,
+  making the complex plane a universal computational and conceptual medium across mathematics, physics,
+  and engineering.'
+slug: complex-plane-canvas
+url: ''
+aliases: []
+date: '2026-02-12'
+publishDate: ''
+lastmod: ''
+expiryDate: ''
 draft: false
-
-edition: "1"
-
-epub-chapter-level: 2
-epub-cover-image: "cover.png"
-epub-title-page: false
-epub_cover_image: "cover.png"
-
-format: "research-report"
-identifier: "complex-plane-canvas"
-
-keywords:
-  - "complex analysis"
-  - "holomorphic functions"
-  - "Cauchy integral theorem"
-  - "residue theorem"
-  - "conformal mapping"
-  - "Riemann surfaces"
-  - "uniformization theorem"
-  - "analytic number theory"
-  - "Riemann zeta function"
-  - "prime number theorem"
-  - "Hardy spaces"
-  - "Bieberbach conjecture"
-  - "Schramm-Loewner evolution"
-  - "Schwarz-Christoffel mapping"
-  - "Joukowski transform"
-
-lang: "en"
-language: "English"
-
-library_of_congress_classification:
-  primary: "QA"
-  note: "Mathematics; primary focus on complex analysis and its historical development."
-
-license: "CC0-1.0"
-
-number-sections: true
-
-plate_id: "complex-plane-canvas"
-
-publisher: "Gold, Velvet and Ashes"
-
-reference-section-title: "Brief Annotated Bibliography (Classics and Gateways)"
-
-report:
-  kind: "research report"
-  topic: "complex analysis as a universal canvas"
-  year: 2026
-  id: "complex-plane-canvas"
-  numbering_scheme: "yyyymmdd"
-  no: "2026-02-12"
-
-report-no: "2026-02-12"
-report-number: "2026-02-12"
-report-year: "2026"
-
-report_no: 20260212
-report_year: 2026
-
-revision: "r1"
-
-rights: "CC0-1.0"
-series: "research-reports"
-series-number: 0
-series-title: "Gold, Velvet and Ashes: Research Reports"
-
-slug: "complex-plane-canvas"
-
-status: "published"
-
-subject:
-  - "Complex analysis"
-  - "Holomorphic functions"
-  - "Conformal mapping"
-  - "Riemann surfaces"
-  - "Analytic number theory"
-
-subjects:
-  - "Mathematics"
-  - "Complex analysis"
-  - "History of mathematics"
-  - "Mathematical physics"
-  - "Engineering methods"
-
-subtitle: "Euler to Today: A Research Report"
-
+status: published
+edition: '1'
+revision: r1
+author:
+- Salvador Guzman
+authors: []
+creator:
+- Salvador Guzman
+publisher: Gold, Velvet and Ashes
+rights: CC0-1.0
+license: CC0-1.0
+lang: en
+language: English
+identifier: complex-plane-canvas
+dataset_id: complex-plane-canvas
+plate_id: complex-plane-canvas
+type: report
+format: research-report
+reference-section-title: Brief Annotated Bibliography (Classics and Gateways)
+categories:
+- Mathematics
+- Complex Analysis
+- History of Mathematics
+- Mathematical Methods
 tags:
-  - "complex-analysis"
-  - "complex-plane"
-  - "conformal-maps"
-  - "holomorphic"
-  - "cauchy"
-  - "riemann"
-  - "weierstrass"
-  - "zeta-function"
-  - "prime-number-theorem"
-  - "bieberbach"
-  - "sle"
-  - "pde"
-
-title: "Complex Analysis as a Universal Canvas"
-
+- complex-analysis
+- complex-plane
+- conformal-maps
+- holomorphic
+- cauchy
+- riemann
+- weierstrass
+- zeta-function
+- prime-number-theorem
+- bieberbach
+- sle
+- pde
+keywords:
+- complex analysis
+- holomorphic functions
+- Cauchy integral theorem
+- residue theorem
+- conformal mapping
+- Riemann surfaces
+- uniformization theorem
+- analytic number theory
+- Riemann zeta function
+- prime number theorem
+- Hardy spaces
+- Bieberbach conjecture
+- Schramm-Loewner evolution
+- Schwarz-Christoffel mapping
+- Joukowski transform
+subject:
+- Complex analysis
+- Holomorphic functions
+- Conformal mapping
+- Riemann surfaces
+- Analytic number theory
+subjects:
+- Mathematics
+- Complex analysis
+- History of mathematics
+- Mathematical physics
+- Engineering methods
+library_of_congress_classification:
+  class: ''
+  label: ''
+  description: ''
+  note: Mathematics; primary focus on complex analysis and its historical development.
+  primary: QA
+series: research-reports
+series-title: 'Gold, Velvet and Ashes: Research Reports'
+series-number: 0
+series_title: 'Gold, Velvet and Ashes: Research Reports'
+series_number: 0
+report-no: '2026-02-12'
+report-number: '2026-02-12'
+report-year: '2026'
+report_no: 20260212
+report_number: 0
+report_year: 2026
+layout: ''
+markup: ''
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-
-type: "report"
+toc-title: Contents
+number-sections: true
+weight: 0
+cover-image: cover.png
+cover_image: cover.png
+epub-cover-image: cover.png
+epub_cover_image: cover.png
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: epub.css
+highlight-style: tango
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ''
+resources: []
+build:
+  list: always
+  render: always
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ''
+  priority: 0
+  filename: sitemap.xml
+report:
+  id: complex-plane-canvas
+  code: ''
+  name: ''
+  organization: ''
+  collection: ''
+  series: ''
+  number: ''
+  year: 2026
+  version: ''
+  kind: research report
+  type: ''
+  domain: ''
+  discipline: ''
+  subdiscipline: ''
+  topic: complex analysis as a universal canvas
+  subject: ''
+  scope: ''
+  scope_years: ''
+  time_scope: ''
+  time_span: ''
+  period: ''
+  period_covered: ''
+  region: ''
+  region_focus: ''
+  audience: ''
+  level: ''
+  focus: ''
+  emphasis: ''
+  structure: ''
+  intent: ''
+  methods: []
+  method: ''
+  primary_texts: []
+  population_focus: ''
+  stance: ''
+  is_report: true
+  notes: ''
+  conversion:
+    source_docx: ''
+    tool: ''
+    date: ''
+  false: '2026-02-12'
+  numbering_scheme: yyyymmdd
 ...

@@ -3,19 +3,15 @@ title: History of HTML (1990--2025)
 subtitle: From SGML Roots to the Living Standard
 linkTitle: ''
 description: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing,
-  semantics, accessibility, and modern web platform practice.
-
-  '
+  semantics, accessibility, and modern web platform practice.'
 summary: ''
-abstract: 'A chronological and thematic history of HTML from 1990 to 2025, tracing its evolution from
-  a small SGML-inspired markup language into a sprawling “living standard.” Covers the shift in governance
+abstract: A chronological and thematic history of HTML from 1990 to 2025, tracing its evolution from a
+  small SGML-inspired markup language into a sprawling “living standard.” Covers the shift in governance
   across the IETF, W3C, and WHATWG; the browser wars and the emergence of JavaScript, CSS, and the DOM;
   the XHTML detour and the eventual consolidation around HTML5; and later eras focused on parsing rules,
   semantic enrichment, accessibility, metadata practices, and the broader cultural and economic forces
   shaping the Web. Includes appendices on tag evolution, doctypes and parsing modes, accessibility guidance,
   metadata standards, and HTML email.
-
-  '
 slug: html-history
 url: ''
 aliases: []

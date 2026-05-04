@@ -96,9 +96,9 @@ library_of_congress_classification:
   class: ''
   label: ''
   description: ''
-  primary: QA612.3
   area: Mathematics
   note: Homological algebra / algebraic topology classification (best-effort)
+  primary: QA612.3
 series: gva-math-histories
 series-title: 'Gold, Velvet and Ashes: Mathematical Histories'
 series-number: 1

@@ -2,11 +2,9 @@
 title: A Comprehensive History of CSS
 subtitle: Institutions, Specs, and Practice
 linkTitle: ''
-description: 'A detailed, timeline-driven history of CSS that connects W3C specifications and browser
-  implementation realities with community practice (from early standards and the browser wars to responsive
-  design, Flexbox, Grid, and modern CSS architecture).
-
-  '
+description: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation
+  realities with community practice (from early standards and the browser wars to responsive design, Flexbox,
+  Grid, and modern CSS architecture).
 summary: ''
 abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation
   into a mature, modular platform for layout, typography, interaction, and responsive design. This essay
@@ -16,9 +14,7 @@ abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separat
   design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1
   stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling,
   and design systems). The result is a coherent timeline of institutions, specs, and practice that explains
-  not only what modern CSS can do, but why the ecosystem evolved the way it did.
-
-  '
+  not only what modern CSS can do, but why the ecosystem evolved the way it did.'
 slug: history-of-css
 url: ''
 aliases: []

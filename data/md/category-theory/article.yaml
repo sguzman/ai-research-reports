@@ -2,19 +2,15 @@
 title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
 subtitle: Origins, invention, and early reception (1935-1965)
 linkTitle: ''
-description: 'A historically grounded overview of category theory’s origins (1935–1965), from the foundations
+description: A historically grounded overview of category theory’s origins (1935–1965), from the foundations
   crisis and structuralism to Eilenberg–Mac Lane’s definitions and later expansion via Grothendieck and
   Lawvere.
-
-  '
 summary: ''
-abstract: 'A historical and conceptual survey of category theory from its precursors in 1930s structural
+abstract: A historical and conceptual survey of category theory from its precursors in 1930s structural
   mathematics to its invention in the 1940s by Eilenberg and Mac Lane, and its consolidation through the
   mid-1960s. The report explains why “naturality” and functorial thinking mattered in algebraic topology,
   how categories, functors, and natural transformations reframed structure, and how later figures (notably
   Grothendieck and Lawvere) helped establish categorical methods as a central language in modern mathematics.
-
-  '
 slug: category-theory-origins-1935-1965
 url: ''
 aliases: []

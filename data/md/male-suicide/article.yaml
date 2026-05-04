@@ -106,12 +106,12 @@ library_of_congress_classification:
   class: ''
   label: ''
   description: ''
+  notes: Provisional LoC classification for a U.S.-focused public-health report on suicide epidemiology,
+    prevention policy, and mental health determinants.
   primary: RA790.6
   secondary:
   - RC569.5.S9
   - HV6548.U6
-  notes: Provisional LoC classification for a U.S.-focused public-health report on suicide epidemiology,
-    prevention policy, and mental health determinants.
 series: ''
 series-title: ''
 series-number: 0

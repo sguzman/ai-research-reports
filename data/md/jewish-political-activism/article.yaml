@@ -99,9 +99,9 @@ library_of_congress_classification:
   class: E
   label: ''
   description: ''
-  number: E184.3
   caption: United States — Elements in the population — Jews
   notes: Broad placement for U.S. Jews; specific cutters/decimals can be added per library practice.
+  number: E184.3
 series: Gold, Velvet and Ashes Reports
 series-title: Minority Politics and Power in the United States
 series-number: 1
