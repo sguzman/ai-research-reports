@@ -67,15 +67,26 @@ class ProjectIssue:
     alias_mismatches: list[str]
 
     @property
-    def is_clean(self) -> bool:
+    def structural_clean(self) -> bool:
         return (
             self.article_exists
             and self.parse_error is None
             and not self.missing_keys
             and not self.extra_keys
-            and not self.blank_required_fields
             and not self.alias_mismatches
         )
+
+    @property
+    def semantic_complete(self) -> bool:
+        return (
+            self.article_exists
+            and self.parse_error is None
+            and not self.blank_required_fields
+        )
+
+    @property
+    def is_clean(self) -> bool:
+        return self.structural_clean and self.semantic_complete
 
 
 def load_yaml(path: Path) -> Any:
@@ -156,6 +167,8 @@ def build_summary(issues: list[ProjectIssue]) -> dict[str, Any]:
     return {
         "project_count": len(issues),
         "clean_count": sum(1 for issue in issues if issue.is_clean),
+        "structural_clean_count": sum(1 for issue in issues if issue.structural_clean),
+        "semantic_complete_count": sum(1 for issue in issues if issue.semantic_complete),
         "missing_article_count": sum(1 for issue in issues if not issue.article_exists),
         "parse_error_count": sum(1 for issue in issues if issue.parse_error is not None),
         "projects_with_missing_keys": sum(1 for issue in issues if issue.missing_keys),
@@ -171,7 +184,9 @@ def build_summary(issues: list[ProjectIssue]) -> dict[str, Any]:
 def print_text_report(issues: list[ProjectIssue], summary: dict[str, Any], only_failing: bool) -> None:
     print("Metadata validation summary")
     print(f"  projects: {summary['project_count']}")
-    print(f"  clean: {summary['clean_count']}")
+    print(f"  structurally clean: {summary['structural_clean_count']}")
+    print(f"  semantically complete: {summary['semantic_complete_count']}")
+    print(f"  fully clean: {summary['clean_count']}")
     print(f"  missing article.yaml: {summary['missing_article_count']}")
     print(f"  parse errors: {summary['parse_error_count']}")
     print(f"  projects with missing keys: {summary['projects_with_missing_keys']}")
@@ -202,7 +217,9 @@ def print_text_report(issues: list[ProjectIssue], summary: dict[str, Any], only_
             print(f"  - blank_required: {', '.join(issue.blank_required_fields)}")
         if issue.alias_mismatches:
             print(f"  - alias_mismatches: {'; '.join(issue.alias_mismatches)}")
-        if issue.is_clean:
+        if issue.structural_clean and not issue.semantic_complete:
+            print("  - structurally clean, semantically incomplete")
+        elif issue.is_clean:
             print("  - clean")
 
 
@@ -232,6 +249,8 @@ def main() -> int:
                     "extra_keys": issue.extra_keys,
                     "blank_required_fields": issue.blank_required_fields,
                     "alias_mismatches": issue.alias_mismatches,
+                    "structural_clean": issue.structural_clean,
+                    "semantic_complete": issue.semantic_complete,
                     "is_clean": issue.is_clean,
                 }
                 for issue in issues

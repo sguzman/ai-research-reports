@@ -88,17 +88,17 @@ def collect_projects() -> list[Path]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Normalize project article.yaml files to metadata-standard.yaml"
+        description="Normalize project article.yaml files to metadata-standard.yaml without inventing semantic metadata"
     )
     parser.add_argument(
         "--write",
         action="store_true",
-        help="Write changes to disk. Without this flag, runs as a dry run.",
+        help="Write structural changes to disk. Does not invent semantic metadata. Without this flag, runs as a dry run.",
     )
     parser.add_argument(
         "--create-missing",
         action="store_true",
-        help="Create article.yaml from the standard when a project folder lacks one.",
+        help="Create article.yaml from the standard when a project folder lacks one. Leaves semantic fields blank.",
     )
     parser.add_argument(
         "folders",
