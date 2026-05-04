@@ -13,7 +13,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -59,78 +61,78 @@ keywords:
 - political theology
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: BR115.S6
-  description: ''
-  label: ''
+  description: Socialism, communism, anarchism, and related intellectual history.
+  label: Socialism. Communism. Anarchism
   note: Christianity and social problems / social justice (closest LoC fit for this topic)
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Christian Socialism in Mid-Victorian Britain
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-plate-christian-socialism
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Bibliography
 report:
   false: GVA-RN-2026-CS-01
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:christian-socialism
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Christian Socialism in Mid-Victorian Britain
   notes: ''
-  number: 1
-  organization: ''
+  number: '012'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)
   scope_years: ''
-  series: ''
+  series: political-theology-notes
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
+  topic: Christian Socialism in Mid-Victorian Britain
   type: Research Note
-  version: ''
+  version: r1
   year: 2026
-report-no: GVA-RN-2026-CS-01
-report-number: '01'
+report-no: '012'
+report-number: '012'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 12
+report_number: 12
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0 (public domain dedication)
 series: political-theology-notes
-series-number: 1
+series-number: 12
 series-title: Political Theology Notes
-series_number: 1
+series_number: 12
 series_title: Political Theology Notes
 sitemap:
   changefreq: ''
@@ -149,7 +151,9 @@ subjects:
 - Social reform
 - Victorian era
 subtitle: Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)
-summary: ''
+summary: A research note on mid-Victorian Anglican “Christian Socialism,” focusing on F. D. Maurice and
+  Charles Kingsley, their theological rationale, key texts, and practical experiments in co-operation
+  and adult education.
 tags:
 - christian-socialism
 - anglicanism

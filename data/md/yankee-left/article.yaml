@@ -11,13 +11,18 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Politics
+- History
+- Political Theory
 cover-image: ''
 cover_image: ''
 creator:
@@ -28,7 +33,7 @@ description: This report examines the so-called **“Yankee-left”** – broadl
   U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a
   class of highly educated professionals and bur…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -38,49 +43,54 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:the-yankee-left
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- The Yankee Left
+- Politics
+- History
+- Political Theory
+- Political science (General)
+lang: en
+language: English
+lastmod: '2026-03-04'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: JA
+  description: Politics, political history, social theory, and public debate.
+  label: Political science (General)
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The Yankee Left
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-03-04'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: yankee-left.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: political science
+  domain: politics
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:the-yankee-left
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The Yankee Left
   notes: ''
-  number: ''
-  organization: ''
+  number: 068
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -89,48 +99,58 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: history and social analysis
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: The Yankee Left
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 068
+report-number: 068
+report-year: '2026'
+report_no: 68
+report_number: 68
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 68
+series-title: Marginalia Reports
+series_number: 68
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: the-yankee-left
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Politics
+- History
+subjects:
+- Politics
+- History
 subtitle: ''
-summary: ''
-tags: []
+summary: This report examines the so-called **“Yankee-left”** – broadly identified with Northeastern U.S.
+  liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class
+  of highly educated professionals and bur…
+tags:
+- the-yankee-left
+- politics
+- history
+- political-theory
 title: The Yankee Left
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

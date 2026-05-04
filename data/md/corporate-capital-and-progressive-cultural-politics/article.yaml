@@ -4,13 +4,18 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Politics
+- History
+- Political Theory
 cover-image: ''
 cover_image: ''
 creator:
@@ -19,7 +24,7 @@ dataset_id: ''
 date: '2026-02-15'
 description: Corporate Capital and Progressive Cultural Politics
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -29,49 +34,54 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:corporate-capital-and-progressive-cultural-politics
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Corporate Capital and Progressive Cultural Politics
+- Politics
+- History
+- Political Theory
+- Political science (General)
+lang: en
+language: English
+lastmod: '2026-02-15'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: JA
+  description: Politics, political history, social theory, and public debate.
+  label: Political science (General)
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Corporate Capital and Progressive Cultural Politics
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-02-15'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Corporate Capital and Progressive Cultural Politics.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: political science
+  domain: politics
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:corporate-capital-and-progressive-cultural-politics
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Corporate Capital and Progressive Cultural Politics
   notes: ''
-  number: ''
-  organization: ''
+  number: 048
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -80,48 +90,56 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: history and social analysis
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Corporate Capital and Progressive Cultural Politics
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 048
+report-number: 048
+report-year: '2026'
+report_no: 48
+report_number: 48
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 48
+series-title: Marginalia Reports
+series_number: 48
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: corporate-capital-and-progressive-cultural-politics
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Politics
+- History
+subjects:
+- Politics
+- History
 subtitle: ''
-summary: ''
-tags: []
+summary: Corporate Capital and Progressive Cultural Politics
+tags:
+- corporate-capital-and-progressive-cultural-politics
+- politics
+- history
+- political-theory
 title: Corporate Capital and Progressive Cultural Politics
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

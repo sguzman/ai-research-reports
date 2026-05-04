@@ -7,13 +7,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Engineering
+- Technology
 cover-image: ''
 cover_image: ''
 creator:
@@ -23,7 +27,7 @@ date: '2026-04-04'
 description: Electric motors have evolved from 19th-century experiments to today’s high-performance drives.
   Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation[\[1\]](https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -33,49 +37,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:electric-motor-design-control-manufacturing-future-trends
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
+- Engineering
+- Technology
+- Electrical engineering
+lang: en
+language: English
+lastmod: '2026-04-04'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: TK
+  description: Electrical engineering, motors, electromagnetism, and power systems.
+  label: Electrical engineering
 license: CC0-1.0
-linkTitle: ''
+linkTitle: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-04-04'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: technically curious general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: electric-motors-v2.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: engineering
+  domain: engineering
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:electric-motor-design-control-manufacturing-future-trends
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
   notes: ''
-  number: ''
-  organization: ''
+  number: 083
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -84,48 +92,56 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: applied design and technology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 083
+report-number: 083
+report-year: '2026'
+report_no: 83
+report_number: 83
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 83
+series-title: Marginalia Reports
+series_number: 83
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: electric-motor-design-control-manufacturing-future-trends
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Engineering
+- Technology
+subjects:
+- Engineering
+- Technology
 subtitle: ''
-summary: ''
-tags: []
+summary: Electric motors have evolved from 19th-century experiments to today’s high-performance drives.
+  Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation[\[1\]](https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
+tags:
+- electric-motor-design-control-manufacturing-future-trends
+- engineering
+- technology
 title: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

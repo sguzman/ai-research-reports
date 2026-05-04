@@ -10,13 +10,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Engineering
+- Technology
 cover-image: ''
 cover_image: ''
 creator:
@@ -27,7 +31,7 @@ description: '**Executive Summary:** Desalination is rapidly growing to meet fre
   in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO)
   which now account for \>80% of global cap…'
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -37,49 +41,52 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:desalination-plant-design-and-construction
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Desalination Plant Design and Construction
+- Engineering
+- Technology
+lang: en
+language: English
+lastmod: '2026-04-04'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: TA
+  description: Engineering, applied technology, infrastructure, and industrial design.
+  label: Engineering
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Desalination Plant Design and Construction
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-04-04'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: technically curious general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Desalination Plant Design and Construction.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: engineering
+  domain: engineering
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:desalination-plant-design-and-construction
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Desalination Plant Design and Construction
   notes: ''
-  number: ''
-  organization: ''
+  number: 081
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -88,48 +95,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: applied design and technology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Desalination Plant Design and Construction
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 081
+report-number: 081
+report-year: '2026'
+report_no: 81
+report_number: 81
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 81
+series-title: Marginalia Reports
+series_number: 81
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: desalination-plant-design-and-construction
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Engineering
+- Technology
+subjects:
+- Engineering
+- Technology
 subtitle: ''
-summary: ''
-tags: []
+summary: '**Executive Summary:** Desalination is rapidly growing to meet freshwater shortages, especially
+  in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO)
+  which now account for \>80% of global cap…'
+tags:
+- desalination-plant-design-and-construction
+- engineering
+- technology
 title: Desalination Plant Design and Construction
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

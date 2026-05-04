@@ -9,13 +9,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Culture
+- Media Studies
 cover-image: ''
 cover_image: ''
 creator:
@@ -26,7 +30,7 @@ description: Neil Young’s career has long been framed around a “common man�
   troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental
   causes. Yet this cultivated persona co…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -36,49 +40,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:fake-populism-and-neil-young
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Fake Populism and Neil Young
+- Culture
+- Media Studies
+- Literature and media studies
+lang: en
+language: English
+lastmod: '2026-03-04'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: PN
+  description: Literature, media studies, criticism, and cultural analysis.
+  label: Literature and media studies
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Fake Populism and Neil Young
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-03-04'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: fake-populism-and-neil-young.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: media and cultural studies
+  domain: culture
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:fake-populism-and-neil-young
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Fake Populism and Neil Young
   notes: ''
-  number: ''
-  organization: ''
+  number: '061'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -87,48 +95,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: criticism and interpretation
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Fake Populism and Neil Young
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '061'
+report-number: '061'
+report-year: '2026'
+report_no: 61
+report_number: 61
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 61
+series-title: Marginalia Reports
+series_number: 61
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: fake-populism-and-neil-young
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Culture
+- Media studies
+subjects:
+- Culture
+- Media studies
 subtitle: ''
-summary: ''
-tags: []
+summary: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour
+  recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes.
+  Yet this cultivated persona co…
+tags:
+- fake-populism-and-neil-young
+- culture
+- media-studies
 title: Fake Populism and Neil Young
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

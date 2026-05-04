@@ -6,7 +6,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -56,45 +58,45 @@ keywords:
 - nineteenth century
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: HX
-  description: ''
-  label: ''
+  description: Socialism, communism, anarchism, and related intellectual history.
+  label: Socialism. Communism. Anarchism
   note: Socialism. Communism. Anarchism
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Inventing Socialism
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-plate-inventing-socialism
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:inventing-socialism
   intent: ''
   is_report: true
   kind: research note
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Inventing Socialism
   notes: ''
-  number: ''
-  organization: ''
+  number: '011'
+  organization: Marginalia
   period: ''
   period_covered: 1820-1840
   population_focus: ''
@@ -103,30 +105,30 @@ report:
   region_focus: ''
   scope: history of political vocabulary
   scope_years: ''
-  series: ''
+  series: Origins of Modern Ideologies
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: '1'
-report-number: '1'
+  topic: Inventing Socialism
+  type: essay
+  version: r1
+  year: 2026
+report-no: '011'
+report-number: '011'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 11
+report_number: 11
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0
 series: Origins of Modern Ideologies
-series-number: 1
+series-number: 11
 series-title: Origins of Modern Ideologies
-series_number: 1
+series_number: 11
 series_title: Origins of Modern Ideologies
 sitemap:
   changefreq: ''
@@ -143,7 +145,9 @@ subjects:
 - Political terminology
 - Utopian movements
 subtitle: How a Name Emerged in Britain and France (1820-1840)
-summary: ''
+summary: A compact research note on the earliest documented uses of “socialism/socialist” in Britain and
+  France (1820-1840), with mini-profiles and comparative analysis of Owenites, Saint-Simonians, Fourierists,
+  and Cabet’s Icarians.
 tags:
 - socialism
 - history

@@ -9,7 +9,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -67,47 +69,47 @@ keywords:
 - Poincaré
 lang: en-US
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   area: Mathematics
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
   note: Homological algebra / algebraic topology classification (best-effort)
   primary: QA612.3
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The History and Impact of Homological Algebra
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-plate-homological-algebra-0001
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
+  discipline: mathematics
   domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:article:homological-algebra:2026-02-12
   intent: ''
   is_report: true
   kind: historical-technical-report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The History and Impact of Homological Algebra
   notes: ''
-  number: ''
-  organization: ''
+  number: 029
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -116,7 +118,7 @@ report:
   region_focus: ''
   scope: field survey
   scope_years: ''
-  series: ''
+  series: gva-math-histories
   stance: ''
   structure:
   - Executive Summary
@@ -125,27 +127,27 @@ report:
   - Outcomes / Impact
   - Methodological Shifts
   - Conclusion
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: homological algebra
-  type: ''
-  version: ''
-  year: 0
-report-no: '1'
-report-number: GVA-HA-0001
+  topic: The History and Impact of Homological Algebra
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 029
+report-number: 029
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 29
+report_number: 29
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: gva-math-histories
-series-number: 1
+series-number: 29
 series-title: 'Gold, Velvet and Ashes: Mathematical Histories'
-series_number: 1
+series_number: 29
 series_title: 'Gold, Velvet and Ashes: Mathematical Histories'
 sitemap:
   changefreq: ''
@@ -170,7 +172,9 @@ subjects:
 - spectral-sequences
 - derived-categories
 subtitle: From Betti Numbers to Infinity-Categories
-summary: ''
+summary: A narrative history of homological algebra and why its tools (complexes, exact sequences, derived
+  functors, spectral sequences, and derived categories) became foundational across topology, algebra,
+  geometry, and number theory.
 tags:
 - math
 - history

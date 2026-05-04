@@ -12,7 +12,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -64,76 +66,76 @@ keywords:
 - networks
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: PN
+  description: Literature, media studies, criticism, and cultural analysis.
+  label: Literature and media studies
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The Matrix as Cultural Technology
 markup: ''
 number-sections: true
 outputs: []
 plate_id: matrix-culture
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Further Reading
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: media and cultural studies
+  domain: culture
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva.matrix-culture.2026-02-12
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The Matrix as Cultural Technology
   notes: ''
-  number: ''
-  organization: ''
+  number: 039
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: A Mythical & Social History
   scope_years: ''
-  series: ''
+  series: essays
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: criticism and interpretation
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: The Matrix as Cultural Technology
+  type: essay
+  version: '1'
+  year: 2026
+report-no: 039
+report-number: 039
+report-year: '2026'
+report_no: 39
+report_number: 39
+report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
 series: essays
-series-number: 0
+series-number: 39
 series-title: Gold, Velvet and Ashes
-series_number: 0
+series_number: 39
 series_title: Gold, Velvet and Ashes
 sitemap:
   changefreq: ''
@@ -152,7 +154,9 @@ subjects:
 - 'Matrix mythology: mother, grid, network, simulation'
 - Computing, data centers, and AI as matrix engines
 subtitle: A Mythical & Social History
-summary: ''
+summary: A mythical and social history of matrices as a cultural technology—how matrix thinking scaled
+  science, industry, and computation, and why “the Matrix” became a modern metaphor for control, networks,
+  and simulation.
 tags:
 - matrix-culture
 - linear-algebra

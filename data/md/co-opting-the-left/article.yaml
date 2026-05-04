@@ -9,7 +9,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -61,12 +63,12 @@ keywords:
 - civil rights movement
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: HX
+  description: Socialism, communism, anarchism, and related intellectual history.
+  label: Socialism. Communism. Anarchism
   note: U.S. social conditions/social reform (HN); U.S. political institutions (JK); labor/economic history
     context (HD).
   primary: HN90
@@ -74,37 +76,37 @@ library_of_congress_classification:
   - JK
   - HD
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Co-opting the Left
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-plate-co-opting-the-left
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:co-opting-the-left
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: historical synthesis with mechanism taxonomy and illustrative case studies
   methods: []
-  name: ''
+  name: Co-opting the Left
   notes: ''
-  number: ''
-  organization: ''
+  number: 019
+  organization: Marginalia
   period: 1945-present
   period_covered: ''
   population_focus: ''
@@ -113,30 +115,30 @@ report:
   region_focus: ''
   scope: United States
   scope_years: ''
-  series: ''
+  series: gva-reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
+  topic: Co-opting the Left
   type: research report
-  version: ''
-  year: 0
-report-no: GVA-REP-0001
-report-number: GVA-REP-0001
+  version: 1.0.0
+  year: 2026
+report-no: 019
+report-number: 019
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 19
+report_number: 19
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0 Universal
 series: gva-reports
-series-number: 1
+series-number: 19
 series-title: Gold, Velvet and Ashes Reports
-series_number: 1
+series_number: 19
 series_title: Gold, Velvet and Ashes Reports
 sitemap:
   changefreq: ''
@@ -155,7 +157,9 @@ subjects:
 - NGOs and philanthropy
 - Media and narrative framing
 subtitle: U.S. Liberal Institutions and Deradicalization (1945--Present)
-summary: ''
+summary: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements
+  since 1945—through concessions, professionalization, narrative control, and selective inclusion paired
+  with repression—illustrated with cross-era case studies.
 tags:
 - co-optation
 - deradicalization

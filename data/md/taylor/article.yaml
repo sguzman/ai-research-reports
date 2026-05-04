@@ -5,7 +5,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -49,76 +51,76 @@ keywords:
 - platform politics
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: PN
+  description: Literature, media studies, criticism, and cultural analysis.
+  label: Literature and media studies
 license: CC0-1.0
-linkTitle: ''
+linkTitle: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
 markup: ''
 number-sections: false
 outputs: []
 plate_id: plate-taylor-lorenz-bibliography
-publishDate: ''
-publisher: Salvador Guzman
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: media and cultural studies
+  domain: culture
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:taylor-lorenz-bibliography:2026-02-12
   intent: ''
   is_report: true
-  kind: ''
+  kind: annotated bibliography
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
   notes: ''
-  number: ''
-  organization: ''
+  number: '045'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Sources on controversy, ethics, and internet-era reporting
   scope_years: ''
-  series: ''
+  series: internet-culture-bibliographies
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: criticism and interpretation
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-REPORT-2026-001
-report-number: '001'
+  topic: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
+  type: bibliography
+  version: '1'
+  year: 2026
+report-no: '045'
+report-number: '045'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 45
+report_number: 45
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0 1.0 Universal (CC0-1.0)
 series: internet-culture-bibliographies
-series-number: 1
+series-number: 45
 series-title: Internet Culture Bibliographies
-series_number: 1
+series_number: 45
 series_title: Internet Culture Bibliographies
 sitemap:
   changefreq: ''
@@ -135,7 +137,8 @@ subjects:
 - Media ethics
 - Internet culture
 subtitle: Sources on controversy, ethics, and internet-era reporting
-summary: ''
+summary: Source list and reading trail focused on Taylor Lorenz and disputes about internet-culture reporting,
+  doxxing/identification ethics, newsroom corrections, platform dynamics, and public trust in media.
 tags:
 - taylor-lorenz
 - journalism

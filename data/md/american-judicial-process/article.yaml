@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -53,20 +55,20 @@ keywords:
 - administrative law judges
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-04-30'
 layout: ''
 library_of_congress_classification:
   class: KF
-  description: ''
+  description: United States law, courts, legal doctrine, and legal institutions.
   label: Law of the United States
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Judges in the Judicial Process of the United States
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-04-30'
+publisher: Marginalia
 reference-section-title: References
 report:
   audience: general legal reader
@@ -76,21 +78,21 @@ report:
     date: '2026-05-03'
     source_docx: american-judicial-process.docx
     tool: pandoc 3.6
-  discipline: ''
+  discipline: law
   domain: law
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:american-judicial-process
   intent: ''
   is_report: true
   kind: institutional overview
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Judges in the Judicial Process of the United States
   notes: ''
-  number: ''
-  organization: ''
+  number: 095
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -99,30 +101,30 @@ report:
   region_focus: ''
   scope: federal + representative state systems + powers + selection + compensation
   scope_years: ''
-  series: ''
+  series: american-law-guides
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: united states law
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: judges in the United States judicial process
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
+  topic: Judges in the Judicial Process of the United States
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 095
+report-number: 095
 report-year: '2026'
-report_no: 0
-report_number: 0
+report_no: 95
+report_number: 95
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: american-law-guides
-series-number: 0
+series-number: 95
 series-title: American Law Guides
-series_number: 0
+series_number: 95
 series_title: American Law Guides
 sitemap:
   changefreq: ''
@@ -141,7 +143,8 @@ subjects:
 - Judicial powers
 - Judicial compensation
 subtitle: ''
-summary: ''
+summary: A structured guide to U.S. judges and judicial offices across federal and state systems, including
+  tenure, appointment, elections, powers, and pay.
 tags:
 - judges
 - courts

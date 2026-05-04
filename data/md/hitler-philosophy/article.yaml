@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -54,68 +56,70 @@ keywords:
 - World War II
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: DD256.5
-  description: ''
+  description: Politics, political history, social theory, and public debate.
   label: Germany -- history -- 1933-1945; national socialism
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 markup: ''
 number-sections: false
 outputs: []
 plate_id: gva-hitlers-ideology-1907-1945
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: Gold, Velvet and Ashes Essays
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political science
+  domain: politics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:hitlers-ideology-1907-1945
   intent: ''
   is_report: true
   kind: essay
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
   notes: ''
-  number: 1
-  organization: ''
+  number: 028
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Continuity and tactical adaptation from Vienna to 1945
   scope_years: ''
-  series: ''
+  series:
+    number: 1
+    title: Ideology Notes
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: history and social analysis
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: gva-essay-0001
-report-number: '0001'
+  topic: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+  type: article
+  version: '1'
+  year: 2026
+report-no: 028
+report-number: 028
 report-year: '2026'
-report_no: 1
-report_number: 1
+report_no: 28
+report_number: 28
 report_year: 2026
 resources: []
 revision: '1'
@@ -123,9 +127,9 @@ rights: CC0-1.0
 series:
   number: 1
   title: Ideology Notes
-series-number: '1'
+series-number: 28
 series-title: Ideology Notes
-series_number: '1'
+series_number: 28
 series_title: Ideology Notes
 sitemap:
   changefreq: ''
@@ -141,7 +145,8 @@ subjects:
 - Antisemitism -- Europe -- history -- 20th century
 - Fascism -- Germany
 subtitle: Continuity and tactical adaptation from Vienna to 1945
-summary: ''
+summary: An analytical timeline-style essay on the formation, core components, and historical continuity
+  of Adolf Hitler's ideology from 1907 to 1945.
 tags:
 - hitler
 - nazism

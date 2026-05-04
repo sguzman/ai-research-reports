@@ -11,7 +11,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -34,7 +36,7 @@ description: 'A social history of the mathematical “operator”: how actions l
   objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary
   disputes, and the demands of physics and engineering.'
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 2
 epub-cover-image: cover.png
 epub-stylesheet: epub.css
@@ -69,77 +71,77 @@ keywords:
 - mathematical physics
 lang: en-US
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
 license: CC0-1.0
-linkTitle: ''
+linkTitle: A Social History of "Operators" in Mathematics
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:operator-social-history-mathematics
   intent: ''
   is_report: true
-  kind: ''
+  kind: historical survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: A Social History of "Operators" in Mathematics
   notes: ''
-  number: ''
-  organization: ''
+  number: '044'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: How actions became objects
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: A Social History of "Operators" in Mathematics
+  type: article
+  version: '1'
+  year: 2026
+report-no: '044'
+report-number: '044'
+report-year: '2026'
+report_no: 44
+report_number: 44
+report_year: 2026
 resources: []
 revision: '1'
 rights: CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 44
+series-title: Marginalia Reports
+series_number: 44
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -161,7 +163,9 @@ subjects:
 - Scientific notation
 - Engineering mathematics
 subtitle: How actions became objects
-summary: ''
+summary: 'A social history of the mathematical “operator”: how actions like differentiation became objects
+  you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary
+  disputes, and the demands of physics and engineering.'
 tags:
 - operators
 - D operator

@@ -6,7 +6,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -50,76 +52,76 @@ keywords:
 - cooperative movement
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: HX
   description: Socialism. Communism. Anarchism
-  label: ''
+  label: Socialism. Communism. Anarchism
 license: CC0-1.0
-linkTitle: ''
+linkTitle: 'Mutualism: Markets Without Capitalism'
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-ideology-mutualism
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva-mutualism-2026-001
   intent: ''
   is_report: true
   kind: ideology-study
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: 'Mutualism: Markets Without Capitalism'
   notes: ''
-  number: ''
-  organization: ''
+  number: '013'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Proudhon's anti-state market socialism and mutual credit
   scope_years: ''
   series: Ideology Studies
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-2026-001
-report-number: '001'
+  topic: 'Mutualism: Markets Without Capitalism'
+  type: article
+  version: 1.0.0
+  year: 2026
+report-no: '013'
+report-number: '013'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 13
+report_number: 13
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: Ideology Studies
-series-number: 1
+series-number: 13
 series-title: Ideology Studies
-series_number: 1
+series_number: 13
 series_title: Ideology Studies
 sitemap:
   changefreq: ''
@@ -140,7 +142,8 @@ subjects:
 - Socialism
 - Mutual credit
 subtitle: Proudhon's anti-state market socialism and mutual credit
-summary: ''
+summary: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the cost
+  principle, mutual banking, and its relationship to cooperative experiments.'
 tags:
 - mutualism
 - proudhon

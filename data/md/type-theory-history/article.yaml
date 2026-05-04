@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -55,44 +57,44 @@ keywords:
 - programming languages
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA76
+  description: Computer science, software, web standards, and computing history.
+  label: Computer science
 license: CC0-1.0
-linkTitle: ''
+linkTitle: A Comprehensive History of Type Theory (1900s--Present)
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Salvador Guzman
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general technically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: computer science
+  domain: computing
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva-type-theory-history-1900s-present
   intent: ''
   is_report: true
-  kind: ''
+  kind: historical survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: A Comprehensive History of Type Theory (1900s--Present)
   notes: ''
-  number: ''
-  organization: ''
+  number: '047'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -101,31 +103,31 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: computing history and software systems
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
+  topic: A Comprehensive History of Type Theory (1900s--Present)
+  type: article
+  version: '1'
+  year: 2026
+report-no: '047'
+report-number: '047'
 report-year: '2026'
-report_no: 0
-report_number: 0
+report_no: 47
+report_number: 47
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 47
+series-title: Marginalia Reports
+series_number: 47
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -149,7 +151,8 @@ subjects:
 - Software and systems verification
 - Homotopy Type Theory
 subtitle: ''
-summary: ''
+summary: A comprehensive history of type theory (1900s to the present), tracing its mathematical origins,
+  its integration into programming languages, and its modern role in proof assistants and verified software/hardware.
 tags:
 - type-theory
 - logic

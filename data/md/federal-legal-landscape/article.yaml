@@ -9,13 +9,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Law
+- United States Law
 cover-image: ''
 cover_image: ''
 creator:
@@ -25,7 +29,7 @@ date: '2026-01-31'
 description: Under federal law, cannabis (marijuana) remains a **Schedule I** controlled substance. The
   DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate[\[1\]](https://www.dea.gov/sites/default/files/…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -35,49 +39,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:federal-legal-landscape
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Federal Legal Landscape
+- Law
+- United States Law
+- Law of the United States
+lang: en
+language: English
+lastmod: '2026-01-31'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: KF
+  description: United States law, courts, legal doctrine, and legal institutions.
+  label: Law of the United States
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Federal Legal Landscape
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-01-31'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general legal reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Federal Legal Landscape.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: law
+  domain: law
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:federal-legal-landscape
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Federal Legal Landscape
   notes: ''
-  number: ''
-  organization: ''
+  number: 009
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -86,48 +94,56 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: united states law
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Federal Legal Landscape
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 009
+report-number: 009
+report-year: '2026'
+report_no: 9
+report_number: 9
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 9
+series-title: Marginalia Reports
+series_number: 9
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: federal-legal-landscape
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Law
+- United States law
+subjects:
+- Law
+- United States law
 subtitle: ''
-summary: ''
-tags: []
+summary: Under federal law, cannabis (marijuana) remains a **Schedule I** controlled substance. The DEA
+  confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate[\[1\]](https://www.dea.gov/sites/default/files/…
+tags:
+- federal-legal-landscape
+- law
+- united-states-law
 title: Federal Legal Landscape
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

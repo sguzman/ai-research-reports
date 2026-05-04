@@ -36,13 +36,19 @@ TEXT_FIELDS_TO_CLEAN: frozenset[str] = frozenset(
 )
 
 
+class NoAliasDumper(yaml.SafeDumper):
+    def ignore_aliases(self, data: Any) -> bool:  # pragma: no cover - serializer hook
+        return True
+
+
 def load_yaml(path: Path) -> Any:
     return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
 
 
 def dump_yaml(data: dict[str, Any]) -> str:
-    return "---\n" + yaml.safe_dump(
+    return "---\n" + yaml.dump(
         data,
+        Dumper=NoAliasDumper,
         sort_keys=False,
         allow_unicode=True,
         width=100,

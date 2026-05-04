@@ -10,7 +10,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -73,12 +75,12 @@ keywords:
 - suicide prevention
 lang: en-US
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: RA
+  description: Public health, health policy, epidemiology, and medicine in society.
+  label: Public aspects of medicine
   notes: Provisional LoC classification for a U.S.-focused public-health report on suicide epidemiology,
     prevention policy, and mental health determinants.
   primary: RA790.6
@@ -86,71 +88,71 @@ library_of_congress_classification:
   - RC569.5.S9
   - HV6548.U6
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Male Suicide in the United States (2000--Present)
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-plate-male-suicide-us-2000-present
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
   false: MENTAL-001
-  audience: ''
+  audience: general policy-oriented reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: public health
+  domain: health
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:male-suicide-us-2000-present
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Male Suicide in the United States (2000--Present)
   notes: ''
-  number: '001'
-  organization: ''
+  number: '035'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Trends, disparities, drivers, interventions, and projections
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: health policy and epidemiology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: '2026'
-report-no: MENTAL-001
-report-number: '001'
+  topic: Male Suicide in the United States (2000--Present)
+  type: report
+  version: '1'
+  year: 2026
+report-no: '035'
+report-number: '035'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 35
+report_number: 35
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 35
+series-title: Marginalia Reports
+series_number: 35
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -172,7 +174,9 @@ subjects:
 - Firearm policy and safety
 - Social determinants of health
 subtitle: Trends, disparities, drivers, interventions, and projections
-summary: ''
+summary: A comprehensive graduate-level synthesis of U.S. male suicide trends since 2000, integrating
+  mortality data, demographic disparities, risk/protective factors, policy context, intervention evidence,
+  case studies, and projections to 2030.
 tags:
 - male-suicide
 - suicide

@@ -8,13 +8,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Engineering
+- Technology
 cover-image: ''
 cover_image: ''
 creator:
@@ -24,7 +28,7 @@ date: '2026-04-04'
 description: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named
   for Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…'
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -34,49 +38,52 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:savonius-wind-turbines-comprehensive-design-diy-guide
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Savonius Wind Turbines – Comprehensive Design & DIY Guide
+- Engineering
+- Technology
+lang: en
+language: English
+lastmod: '2026-04-04'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: TA
+  description: Engineering, applied technology, infrastructure, and industrial design.
+  label: Engineering
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Savonius Wind Turbines – Comprehensive Design & DIY Guide
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-04-04'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: technically curious general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Savonius Wind Turbines – Comprehensive Design & DIY Guide.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: engineering
+  domain: engineering
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:savonius-wind-turbines-comprehensive-design-diy-guide
   intent: ''
   is_report: true
-  kind: ''
+  kind: practical guide
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Savonius Wind Turbines – Comprehensive Design & DIY Guide
   notes: ''
-  number: ''
-  organization: ''
+  number: 086
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -85,48 +92,56 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: applied design and technology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+  type: guide
+  version: 1.0.0
+  year: 2026
+report-no: 086
+report-number: 086
+report-year: '2026'
+report_no: 86
+report_number: 86
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 86
+series-title: Marginalia Reports
+series_number: 86
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: savonius-wind-turbines-comprehensive-design-diy-guide
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Engineering
+- Technology
+subjects:
+- Engineering
+- Technology
 subtitle: ''
-summary: ''
-tags: []
+summary: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named for
+  Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…'
+tags:
+- savonius-wind-turbines-comprehensive-design-diy-guide
+- engineering
+- technology
 title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: guide
 url: ''
 weight: 0
 ...

@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -55,20 +57,20 @@ keywords:
 - quantum mechanics
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-04-22'
 layout: ''
 library_of_congress_classification:
   class: QA320
-  description: ''
+  description: Mathematics, mathematical history, and mathematical methods.
   label: Functional analysis
 license: CC0-1.0
-linkTitle: ''
+linkTitle: A History of Functional Analysis
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-04-22'
+publisher: Marginalia
 reference-section-title: References
 report:
   audience: general mathematically literate reader
@@ -78,21 +80,21 @@ report:
     date: '2026-05-03'
     source_docx: A History of Functional Analysis.docx
     tool: pandoc 3.6
-  discipline: ''
+  discipline: mathematics
   domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:functional-analysis-history
   intent: ''
   is_report: true
   kind: historical survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: A History of Functional Analysis
   notes: ''
-  number: ''
-  organization: ''
+  number: 092
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -101,30 +103,30 @@ report:
   region_focus: ''
   scope: history + concepts + institutions + applications
   scope_years: ''
-  series: ''
+  series: mathematics-histories
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: functional analysis
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
+  topic: A History of Functional Analysis
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 092
+report-number: 092
 report-year: '2026'
-report_no: 0
-report_number: 0
+report_no: 92
+report_number: 92
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: mathematics-histories
-series-number: 0
+series-number: 92
 series-title: Mathematics Histories
-series_number: 0
+series_number: 92
 series_title: Mathematics Histories
 sitemap:
   changefreq: ''
@@ -144,7 +146,8 @@ subjects:
 - Distribution theory
 - History of mathematics
 subtitle: ''
-summary: ''
+summary: 'A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality, distributions,
+  and the concrete analytic problems that produced them.'
 tags:
 - functional-analysis
 - analysis

@@ -10,7 +10,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -64,20 +66,20 @@ keywords:
 - topological data analysis
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: QA611
-  description: ''
+  description: Mathematics, mathematical history, and mathematical methods.
   label: Topology
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Topology
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
   audience: general mathematically literate reader
@@ -87,21 +89,21 @@ report:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
+  discipline: mathematics
   domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:article:topology:2026-02-12
   intent: ''
   is_report: true
   kind: longform research essay
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Topology
   notes: ''
-  number: ''
-  organization: ''
+  number: '046'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -110,30 +112,30 @@ report:
   region_focus: ''
   scope: history + core concepts + subfields + applications
   scope_years: ''
-  series: ''
+  series: gold-velvet-and-ashes
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: topology
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Topology
+  type: article
+  version: 1.0.0
+  year: 2026
+report-no: '046'
+report-number: '046'
+report-year: '2026'
+report_no: 46
+report_number: 46
+report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: gold-velvet-and-ashes
-series-number: 0
+series-number: 46
 series-title: Gold, Velvet and Ashes
-series_number: 0
+series_number: 46
 series_title: Gold, Velvet and Ashes
 sitemap:
   changefreq: ''
@@ -150,7 +152,8 @@ subjects:
 - Topology
 - History of Mathematics
 subtitle: From 18th-Century Precursors to Present-Day Frontiers
-summary: ''
+summary: A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold
+  theory and topological data analysis.
 tags:
 - topology
 - math-history

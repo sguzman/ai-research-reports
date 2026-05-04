@@ -8,13 +8,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Computing
+- Technology
 cover-image: ''
 cover_image: ''
 creator:
@@ -25,7 +29,7 @@ description: '**Executive Summary:** Noam Chomsky’s linguistic framework hinge
   (Universal Grammar) and a sharp distinction between internal *competence* and observable *performance*.
   He has long argued that children learn la…'
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -35,49 +39,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- How LLMs Challenge Chomskyan Assumptions_ Analytical Report
+- Computing
+- Technology
+- Computer science
+lang: en
+language: English
+lastmod: '2026-03-03'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA76
+  description: Computer science, software, web standards, and computing history.
+  label: Computer science
 license: CC0-1.0
-linkTitle: ''
+linkTitle: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-03-03'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general technically literate reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: computer science
+  domain: computing
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
   intent: ''
   is_report: true
-  kind: ''
+  kind: analytical report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
   notes: ''
-  number: ''
-  organization: ''
+  number: '056'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -86,48 +94,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: computing history and software systems
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '056'
+report-number: '056'
+report-year: '2026'
+report_no: 56
+report_number: 56
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 56
+series-title: Marginalia Reports
+series_number: 56
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: how-llms-challenge-chomskyan-assumptions-analytical-report
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Computer science
+- Technology
+subjects:
+- Computer science
+- Technology
 subtitle: ''
-summary: ''
-tags: []
+summary: '**Executive Summary:** Noam Chomsky’s linguistic framework hinges on strong innate structures
+  (Universal Grammar) and a sharp distinction between internal *competence* and observable *performance*.
+  He has long argued that children learn la…'
+tags:
+- how-llms-challenge-chomskyan-assumptions-analytical-report
+- computing
+- technology
 title: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

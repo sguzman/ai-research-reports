@@ -11,13 +11,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Mathematics
+- History of Mathematics
 cover-image: ''
 cover_image: ''
 creator:
@@ -28,7 +32,7 @@ description: 1. **Executive Summary** Hasan “HasanAbi” Piker has emerged as 
   political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate
   a massive following and influence online politi…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -38,49 +42,52 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:hasanabi-popularity-analysis
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- HasanAbi Popularity Analysis
+- Mathematics
+- History of Mathematics
+lang: en
+language: English
+lastmod: '2026-01-25'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
 license: CC0-1.0
-linkTitle: ''
+linkTitle: HasanAbi Popularity Analysis
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-01-25'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: HasanAbi Popularity Analysis.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:hasanabi-popularity-analysis
   intent: ''
   is_report: true
-  kind: ''
+  kind: analytical report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: HasanAbi Popularity Analysis
   notes: ''
-  number: ''
-  organization: ''
+  number: '004'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -89,48 +96,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: HasanAbi Popularity Analysis
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '004'
+report-number: '004'
+report-year: '2026'
+report_no: 4
+report_number: 4
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 4
+series-title: Marginalia Reports
+series_number: 4
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: hasanabi-popularity-analysis
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Mathematics
+- History of mathematics
+subjects:
+- Mathematics
+- History of mathematics
 subtitle: ''
-summary: ''
-tags: []
+summary: 1. **Executive Summary** Hasan “HasanAbi” Piker has emerged as one of the most prominent political
+  commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive
+  following and influence online politi…
+tags:
+- hasanabi-popularity-analysis
+- mathematics
+- history-of-mathematics
 title: HasanAbi Popularity Analysis
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

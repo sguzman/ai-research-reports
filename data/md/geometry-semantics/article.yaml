@@ -18,7 +18,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -70,46 +72,46 @@ keywords:
 - semantics
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
   note: Mathematics (with emphasis on history/philosophy of mathematical practice)
   primary: QA
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The Semantics of "Geometry" from Euler to Today
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-geometry-semantics
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:geometry-semantics:euler-to-today
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The Semantics of "Geometry" from Euler to Today
   notes: ''
-  number: ''
-  organization: ''
+  number: '025'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -118,32 +120,32 @@ report:
   region_focus:
   - Europe
   - United States
-  scope: ''
+  scope: Europe & the United States
   scope_years: ''
-  series: ''
+  series: Gold, Velvet and Ashes
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: 18th-21st century
-  topic: semantics of the term "geometry" in mathematics
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-2026-02-12-01
-report-number: '01'
+  topic: The Semantics of "Geometry" from Euler to Today
+  type: report
+  version: r1
+  year: 2026
+report-no: '025'
+report-number: '025'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 25
+report_number: 25
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0
 series: Gold, Velvet and Ashes
-series-number: 1
+series-number: 25
 series-title: Gold, Velvet and Ashes Reports
-series_number: 1
+series_number: 25
 series_title: Gold, Velvet and Ashes Reports
 sitemap:
   changefreq: ''
@@ -160,7 +162,9 @@ subjects:
 - Mathematics -- philosophy
 - Mathematical terminology
 subtitle: Europe & the United States
-summary: ''
+summary: A historical-semantic survey of what "geometry" has meant in mathematics from Euler’s 18th-century
+  contrast with analysis through modern differential, topological, algebraic, and computational geometries,
+  focusing on Europe and the United States.
 tags:
 - geometry
 - euler

@@ -9,7 +9,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -66,78 +68,78 @@ keywords:
 - interstate system
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: TA
+  description: Engineering, applied technology, infrastructure, and industrial design.
+  label: Engineering
   note: Highway engineering / road construction and pavements
   primary: TE145
 license: CC0-1.0
-linkTitle: ''
+linkTitle: From Dirt Track to Durable Highway
 markup: ''
 number-sections: true
 outputs: []
 plate_id: plate_highway_001
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Sources
 report:
-  audience: ''
+  audience: technically curious general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: engineering
+  domain: engineering
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:article:dirt-track-to-durable-highway
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: From Dirt Track to Durable Highway
   notes: ''
-  number: ''
-  organization: ''
+  number: '027'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Engineering, Material Science & Historic Precedent
   scope_years: ''
-  series: ''
+  series: Gold, Velvet and Ashes Essays
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: applied design and technology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: From Dirt Track to Durable Highway
+  type: article
+  version: v1.0
+  year: 2026
+report-no: '027'
+report-number: '027'
+report-year: '2026'
+report_no: 27
+report_number: 27
+report_year: 2026
 resources: []
 revision: v1.0
 rights: CC0-1.0
 series: Gold, Velvet and Ashes Essays
-series-number: 0
+series-number: 27
 series-title: Engineering and Infrastructure
-series_number: 0
+series_number: 27
 series_title: Engineering and Infrastructure
 sitemap:
   changefreq: ''
@@ -163,7 +165,8 @@ subjects:
 - Recycling and sustainability in pavements (RAP, warm-mix)
 - Historical precedent in road-building (Macadam, Autobahn, Interstates)
 subtitle: Engineering, Material Science & Historic Precedent
-summary: ''
+summary: 'How to turn a dirt track into a long-lasting highway: subgrade, base, drainage, asphalt or concrete,
+  construction QC, and maintenance, with historical engineering lessons.'
 tags:
 - pavement-engineering
 - subgrade

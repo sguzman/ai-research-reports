@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -63,78 +65,78 @@ keywords:
 - political history
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: HX
+  description: Socialism, communism, anarchism, and related intellectual history.
+  label: Socialism. Communism. Anarchism
   primary: HX
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Evolution of Marxism
 markup: ''
 number-sections: false
 outputs: []
 plate_id: plate.marx-evolution
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:article:marx-evolution:2026-02-12
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Evolution of Marxism
   notes: ''
-  number: ''
-  organization: ''
+  number: 038
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: A timeline and conceptual map (1840s–2026)
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Evolution of Marxism
+  type: essay
+  version: '1'
+  year: 2026
+report-no: 038
+report-number: 038
+report-year: '2026'
+report_no: 38
+report_number: 38
+report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 38
+series-title: Marginalia Reports
+series_number: 38
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -152,7 +154,8 @@ subjects:
 - Communist movements
 - Political ideologies
 subtitle: A timeline and conceptual map (1840s–2026)
-summary: ''
+summary: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism,
+  and post-1989 revivals—plus a timeline from 1848 to 2026.
 tags:
 - marxism
 - marx

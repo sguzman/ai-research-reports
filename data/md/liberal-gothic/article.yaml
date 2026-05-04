@@ -4,7 +4,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -13,41 +15,42 @@ cascade: {}
 categories: []
 cover-image: ''
 cover_image: ''
-creator: []
+creator:
+- Salvador Guzman
 dataset_id: ''
 date: ''
 description: ''
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: ''
+format: markdown
 headless: false
 highlight-style: tango
 identifier: ''
 isCJKLanguage: false
 keywords: []
-lang: ''
-language: ''
+lang: en
+language: English
 lastmod: ''
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
-license: ''
+  class: PN
+  description: Literature, media studies, criticism, and cultural analysis.
+  label: Literature and media studies
+license: CC0-1.0
 linkTitle: ''
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
 publishDate: ''
-publisher: ''
-reference-section-title: ''
+publisher: Marginalia
+reference-section-title: References
 report:
   audience: ''
   code: ''
@@ -97,8 +100,8 @@ report_no: 0
 report_number: 0
 report_year: 0
 resources: []
-revision: ''
-rights: ''
+revision: 1.0.0
+rights: CC0-1.0
 series: ''
 series-number: 0
 series-title: ''
@@ -109,7 +112,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: ''
-status: ''
+status: complete
 subject: []
 subjects: []
 subtitle: ''

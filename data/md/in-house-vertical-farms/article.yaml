@@ -7,13 +7,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Engineering
+- Technology
 cover-image: ''
 cover_image: ''
 creator:
@@ -23,7 +27,7 @@ date: '2026-04-04'
 description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility
   (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round[\[1\]](https://verticalharvestfarms.com/locations/west…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -33,49 +37,52 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:in-house-vertical-farms
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- In-House Vertical Farms
+- Engineering
+- Technology
+lang: en
+language: English
+lastmod: '2026-04-04'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: TA
+  description: Engineering, applied technology, infrastructure, and industrial design.
+  label: Engineering
 license: CC0-1.0
-linkTitle: ''
+linkTitle: In-House Vertical Farms
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-04-04'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: technically curious general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: in-house-vertical-farms.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: engineering
+  domain: engineering
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:in-house-vertical-farms
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: In-House Vertical Farms
   notes: ''
-  number: ''
-  organization: ''
+  number: 084
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -84,48 +91,56 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: applied design and technology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: In-House Vertical Farms
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 084
+report-number: 084
+report-year: '2026'
+report_no: 84
+report_number: 84
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 84
+series-title: Marginalia Reports
+series_number: 84
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: in-house-vertical-farms
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Engineering
+- Technology
+subjects:
+- Engineering
+- Technology
 subtitle: ''
-summary: ''
-tags: []
+summary: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000
+  ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round[\[1\]](https://verticalharvestfarms.com/locations/west…
+tags:
+- in-house-vertical-farms
+- engineering
+- technology
 title: In-House Vertical Farms
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

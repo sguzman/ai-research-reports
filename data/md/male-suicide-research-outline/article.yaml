@@ -8,13 +8,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Health
+- Public Health
 cover-image: ''
 cover_image: ''
 creator:
@@ -25,7 +29,7 @@ description: <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/d
   style="width:5.83333in;height:3.61814in" /> **Figure 1:** *Age-adjusted suicide rates (deaths per 100,000)
   in t…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -35,49 +39,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:male-suicide-research-outline
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Male Suicide Research Outline
+- Health
+- Public Health
+- Public aspects of medicine
+lang: en
+language: English
+lastmod: '2026-01-25'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: RA
+  description: Public health, health policy, epidemiology, and medicine in society.
+  label: Public aspects of medicine
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Male Suicide Research Outline
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-01-25'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general policy-oriented reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Male Suicide Research Outline.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: public health
+  domain: health
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:male-suicide-research-outline
   intent: ''
   is_report: true
-  kind: ''
+  kind: research outline
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Male Suicide Research Outline
   notes: ''
-  number: ''
-  organization: ''
+  number: '005'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -86,48 +94,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: health policy and epidemiology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Male Suicide Research Outline
+  type: outline
+  version: 1.0.0
+  year: 2026
+report-no: '005'
+report-number: '005'
+report-year: '2026'
+report_no: 5
+report_number: 5
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 5
+series-title: Marginalia Reports
+series_number: 5
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: male-suicide-research-outline
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Public health
+- Health policy
+subjects:
+- Public health
+- Health policy
 subtitle: ''
-summary: ''
-tags: []
+summary: <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png"
+  style="width:5.83333in;height:3.61814in" /> **Figure 1:** *Age-adjusted suicide rates (deaths per 100,000)
+  in t…
+tags:
+- male-suicide-research-outline
+- health
+- public-health
 title: Male Suicide Research Outline
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: outline
 url: ''
 weight: 0
 ...

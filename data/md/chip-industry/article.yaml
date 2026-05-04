@@ -9,7 +9,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -64,22 +66,22 @@ keywords:
 - geopolitics
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   assigned: false
-  class: ''
-  description: ''
-  label: ''
+  class: QA76
+  description: Computer science, software, web standards, and computing history.
+  label: Computer science
   note: Unclassified; set if you want LoC/LC call numbers.
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The Worldwide Computer Chip Industry
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-chip-industry-field-guide
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
   audience: non-technical
@@ -89,21 +91,21 @@ report:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
+  discipline: computer science
   domain: semiconductor industry
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva-chip-industry-field-guide-2026-02-12
   intent: ''
   is_report: true
   kind: field guide
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The Worldwide Computer Chip Industry
   notes: ''
-  number: ''
-  organization: ''
+  number: 018
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -112,30 +114,30 @@ report:
   region_focus: ''
   scope: global
   scope_years: ''
-  series: ''
+  series: technology-field-guides
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: computing history and software systems
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: '1.0'
-  year: 0
-report-no: GVA-TFG-0001
-report-number: '0001'
+  topic: The Worldwide Computer Chip Industry
+  type: report
+  version: '1'
+  year: 2026
+report-no: 018
+report-number: 018
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 18
+report_number: 18
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
 series: technology-field-guides
-series-number: 1
+series-number: 18
 series-title: Technology Field Guides
-series_number: 1
+series_number: 18
 series_title: Technology Field Guides
 sitemap:
   changefreq: ''
@@ -154,7 +156,8 @@ subjects:
 - Industrial organization
 - Geopolitics
 subtitle: A Non-Technical Field Guide
-summary: ''
+summary: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test,
+  market structure, cycles, bottlenecks, and geopolitics.'
 tags:
 - chips
 - semiconductors

@@ -8,13 +8,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Mathematics
+- History of Mathematics
 cover-image: ''
 cover_image: ''
 creator:
@@ -25,7 +29,7 @@ description: '**1. Executive Summary** Category theory emerged in the 1940s as a
   to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac
   Lane in their work on algebraic topology, nota…'
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -35,49 +39,52 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:category-theory-research-scope
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Category Theory Research Scope
+- Mathematics
+- History of Mathematics
+lang: en
+language: English
+lastmod: '2026-01-25'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Category Theory Research Scope
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-01-25'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Category Theory Research Scope.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:category-theory-research-scope
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Category Theory Research Scope
   notes: ''
-  number: ''
-  organization: ''
+  number: '002'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -86,48 +93,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Category Theory Research Scope
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '002'
+report-number: '002'
+report-year: '2026'
+report_no: 2
+report_number: 2
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 2
+series-title: Marginalia Reports
+series_number: 2
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: category-theory-research-scope
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Mathematics
+- History of mathematics
+subjects:
+- Mathematics
+- History of mathematics
 subtitle: ''
-summary: ''
-tags: []
+summary: '**1. Executive Summary** Category theory emerged in the 1940s as a revolutionary framework to
+  unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane
+  in their work on algebraic topology, nota…'
+tags:
+- category-theory-research-scope
+- mathematics
+- history-of-mathematics
 title: Category Theory Research Scope
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

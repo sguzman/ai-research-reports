@@ -9,7 +9,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -68,44 +70,44 @@ keywords:
 - Endocrine Society
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: RA
+  description: Public health, health policy, epidemiology, and medicine in society.
+  label: Public aspects of medicine
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Gender and GAHT
 markup: ''
 number-sections: false
 outputs: []
 plate_id: gender-and-gaht
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general policy-oriented reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: public health
+  domain: health
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva-gender-and-gaht-2026-02-12
   intent: ''
   is_report: true
   kind: health overview
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Gender and GAHT
   notes: ''
-  number: ''
-  organization: ''
+  number: '024'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: AMAB feminizing GAHT
@@ -119,30 +121,30 @@ report:
   - monitoring themes
   - evidence gaps
   scope_years: ''
-  series: ''
+  series: health-reports
   stance: non-prescriptive summary
   structure: ''
-  subdiscipline: ''
+  subdiscipline: health policy and epidemiology
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-HEALTH-2026-001
-report-number: '001'
+  topic: Gender and GAHT
+  type: report
+  version: r1
+  year: 2026
+report-no: '024'
+report-number: '024'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 24
+report_number: 24
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0
 series: health-reports
-series-number: 1
+series-number: 24
 series-title: Gold, Velvet and Ashes Health Reports
-series_number: 1
+series_number: 24
 series_title: Gold, Velvet and Ashes Health Reports
 sitemap:
   changefreq: ''
@@ -166,7 +168,9 @@ subjects:
 - Fertility preservation
 - Mental health and quality of life
 subtitle: Physiological Effects, Risks, and Timing
-summary: ''
+summary: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected physiologic
+  changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key knowledge
+  gaps.'
 tags:
 - gaht
 - gender

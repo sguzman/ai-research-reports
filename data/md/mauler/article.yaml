@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -57,78 +59,78 @@ keywords:
 - argumentation
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
+  class: PN
   description: Motion pictures—Criticism
-  label: ''
+  label: Literature and media studies
   primary: PN1995.9.C7
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Ad Hoc "Maulerian School of Film Criticism"
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Works Cited
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: media and cultural studies
+  domain: culture
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:essay:maulerian-school-of-film-criticism:v1
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Ad Hoc "Maulerian School of Film Criticism"
   notes: ''
-  number: ''
-  organization: ''
+  number: '040'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Toward an ad hoc formalist revival in long-form YouTube critique
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: criticism and interpretation
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Ad Hoc "Maulerian School of Film Criticism"
+  type: article
+  version: 1.0.0
+  year: 2026
+report-no: '040'
+report-number: '040'
+report-year: '2026'
+report_no: 40
+report_number: 40
+report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 40
+series-title: Marginalia Reports
+series_number: 40
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -146,7 +148,9 @@ subjects:
 - Online culture
 - YouTube
 subtitle: Toward an ad hoc formalist revival in long-form YouTube critique
-summary: ''
+summary: A structured, neutral reconstruction of MauLer’s implicit critical framework—an “ad hoc Maulerian
+  School”—centered on internal narrative logic, canon consistency, and evidence-first argumentation in
+  long-form YouTube criticism.
 tags:
 - mauler
 - efap

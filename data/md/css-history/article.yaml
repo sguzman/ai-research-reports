@@ -12,7 +12,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -68,77 +70,77 @@ keywords:
 - CSS Zen Garden
 lang: en
 language: en
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA76
+  description: Computer science, software, web standards, and computing history.
+  label: Computer science
 license: CC0-1.0
-linkTitle: ''
+linkTitle: A Comprehensive History of CSS
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Annotated Bibliography and Further Reading
 report:
   false: 0
-  audience: ''
+  audience: general technically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: computer science
+  domain: computing
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva-history-of-css-2026-02-12
   intent: ''
   is_report: true
-  kind: ''
+  kind: historical survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: A Comprehensive History of CSS
   notes: ''
-  number: ''
-  organization: ''
+  number: '023'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Institutions, Specs, and Practice
   scope_years: ''
-  series: ''
+  series: Gold, Velvet and Ashes
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: computing history and software systems
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
+  topic: A Comprehensive History of CSS
+  type: article
+  version: r1
   year: 2026
-report-no: '0'
-report-number: '0'
+report-no: '023'
+report-number: '023'
 report-year: '2026'
-report_no: 0
-report_number: 0
+report_no: 23
+report_number: 23
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0
 series: Gold, Velvet and Ashes
-series-number: 0
+series-number: 23
 series-title: Gold, Velvet and Ashes
-series_number: 0
+series_number: 23
 series_title: Gold, Velvet and Ashes
 sitemap:
   changefreq: ''
@@ -159,7 +161,9 @@ subjects:
 - Web development practices
 - Design systems and CSS architecture
 subtitle: Institutions, Specs, and Practice
-summary: ''
+summary: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation
+  realities with community practice (from early standards and the browser wars to responsive design, Flexbox,
+  Grid, and modern CSS architecture).
 tags:
 - css
 - web

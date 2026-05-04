@@ -12,7 +12,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -62,36 +64,36 @@ keywords:
 - textual analysis
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: HX
-  description: ''
-  label: ''
+  description: Socialism, communism, anarchism, and related intellectual history.
+  label: Socialism. Communism. Anarchism
   note: Broad topical classification for shelving/metadata; not an official LoC assignment.
   topic: Socialism. Communism. Marxism
 license: CC0-1.0
-linkTitle: ''
+linkTitle: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
 markup: ''
 number-sections: true
 outputs: []
 plate_id: marx-engels-0001
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Bibliography
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
+  discipline: political theory
   domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:marx-engels-scientific-socialism
   intent: ''
   is_report: true
   kind: research-essay
@@ -101,10 +103,10 @@ report:
   - close reading
   - timeline synthesis
   - textual frequency/co-occurrence scan
-  name: ''
+  name: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
   notes: ''
-  number: ''
-  organization: ''
+  number: '036'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -113,32 +115,32 @@ report:
   - Selected Marx-Engels correspondence (1846-1852)
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Scientific socialism, terminology, and early reception around the Communist Manifesto
   scope_years: ''
-  series: ''
+  series: Gold, Velvet and Ashes Essays
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: 1846-1860 (with later prefaces for context)
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+  type: research-essay
+  version: '1'
+  year: 2026
+report-no: '036'
+report-number: '036'
+report-year: '2026'
+report_no: 36
+report_number: 36
+report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
 series: Gold, Velvet and Ashes Essays
-series-number: 0
+series-number: 36
 series-title: Gold, Velvet and Ashes Essays
-series_number: 0
+series_number: 36
 series_title: Gold, Velvet and Ashes Essays
 sitemap:
   changefreq: ''
@@ -159,7 +161,8 @@ subjects:
 - Political ideology
 - 19th century intellectual history
 subtitle: Scientific socialism, terminology, and early reception around the Communist Manifesto
-summary: ''
+summary: How Marx and Engels distinguished "scientific socialism" from utopian and reformist socialisms,
+  using the Communist Manifesto, early correspondence, and mid-19th-century press reception.
 tags:
 - marx
 - engels

@@ -7,7 +7,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -59,47 +61,47 @@ keywords:
 - cryptography
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   caption: Number theory
   class: QA241
-  description: ''
-  label: ''
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Number Theory from Euler to Today
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References and Further Reading
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis:
   - analytic, algebraic, geometric, probabilistic, and computational themes
   - major milestones and landmark results
   focus: ''
-  id: ''
+  id: gva:rr:number-theory-from-euler-to-today:2026-02-12
   intent: ''
   is_report: true
   kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Number Theory from Euler to Today
   notes: ''
-  number: ''
-  organization: ''
+  number: '042'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -108,30 +110,30 @@ report:
   region_focus: ''
   scope: Europe & the United States
   scope_years: ''
-  series: ''
+  series: research-reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: late 18th century to present
-  topic: number theory
-  type: ''
-  version: ''
-  year: 0
-report-no: NT-2026-001
-report-number: '001'
+  topic: Number Theory from Euler to Today
+  type: article
+  version: '1'
+  year: 2026
+report-no: '042'
+report-number: '042'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 42
+report_number: 42
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0 1.0 Universal (CC0-1.0)
 series: research-reports
-series-number: 0
+series-number: 42
 series-title: Research Reports
-series_number: 0
+series_number: 42
 series_title: Research Reports
 sitemap:
   changefreq: ''
@@ -148,7 +150,10 @@ subjects:
 - Number theory
 - History of mathematics
 subtitle: 'Europe & the United States: A Research Report'
-summary: ''
+summary: A research-report style history of number theory from Euler to the present, tracing the interplay
+  of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic
+  reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness”
+  perspectives.
 tags:
 - euler
 - gauss

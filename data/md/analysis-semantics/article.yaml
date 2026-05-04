@@ -10,7 +10,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -70,78 +72,78 @@ keywords:
 - Bourbaki
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
   primary: QA300
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The Semantics of "Analysis" in Mathematics
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: analysis-semantics
   intent: ''
   is_report: true
-  kind: ''
+  kind: analytical report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The Semantics of "Analysis" in Mathematics
   notes: ''
-  number: ''
-  organization: ''
+  number: '016'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Newton → Present (Europe & the United States)
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-ANALYSIS-SEMANTICS-2026-01
-report-number: GVA-ANALYSIS-SEMANTICS-2026-01
+  topic: The Semantics of "Analysis" in Mathematics
+  type: article
+  version: '1'
+  year: 2026
+report-no: '016'
+report-number: '016'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 16
+report_number: 16
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 16
+series-title: Marginalia Reports
+series_number: 16
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -159,7 +161,8 @@ subjects:
 - Mathematical Analysis
 - Foundations and Rigor
 subtitle: Newton → Present (Europe & the United States)
-summary: ''
+summary: A long-form historical account of the changing meaning of "analysis" in mathematics—from analysis
+  vs. synthesis to calculus, rigor, and the modern theory of continuous phenomena.
 tags:
 - analysis
 - semantics

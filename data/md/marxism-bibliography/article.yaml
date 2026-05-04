@@ -7,7 +7,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -58,78 +60,78 @@ keywords:
 - critical theory
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: HX
   description: Socialism, Communism, Anarchism
-  label: ''
+  label: Socialism. Communism. Anarchism
   notes:
   - Marxism and Marxist schools; bibliography / research guide
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Comprehensive Marxist Literature (1840--2025)
 markup: ''
 number-sections: true
 outputs: []
 plate_id: plate-marx-bibliography
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:article:marx-bibliography:2026-02-12
   intent: research guide
   is_report: true
   kind: annotated bibliography
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Comprehensive Marxist Literature (1840--2025)
   notes: ''
-  number: ''
-  organization: chronological + thematic
+  number: '037'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: An Annotated Bibliography and Research Guide
   scope_years: 1840-2025
-  series: ''
+  series: Gold, Velvet and Ashes - Research Library
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-RPT-0001
-report-number: GVA-RPT-0001
+  topic: Comprehensive Marxist Literature (1840--2025)
+  type: research
+  version: rev-1
+  year: 2026
+report-no: '037'
+report-number: '037'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 37
+report_number: 37
 report_year: 2026
 resources: []
 revision: rev-1
 rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 series: Gold, Velvet and Ashes - Research Library
-series-number: 0
+series-number: 37
 series-title: Gold, Velvet and Ashes
-series_number: 0
+series_number: 37
 series_title: Gold, Velvet and Ashes
 sitemap:
   changefreq: ''
@@ -148,7 +150,8 @@ subjects:
 - Annotated bibliography
 - Research methodology
 subtitle: An Annotated Bibliography and Research Guide
-summary: ''
+summary: An annotated research guide and reading list of Marxist literature (primary and secondary) from
+  1840 to 2025, arranged to track both historical development and major thematic currents.
 tags:
 - marx
 - engels

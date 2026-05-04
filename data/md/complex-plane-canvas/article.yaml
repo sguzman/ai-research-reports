@@ -14,7 +14,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -65,34 +67,34 @@ keywords:
 - Joukowski transform
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
   note: Mathematics; primary focus on complex analysis and its historical development.
   primary: QA
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Complex Analysis as a Universal Canvas
 markup: ''
 number-sections: true
 outputs: []
 plate_id: complex-plane-canvas
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Brief Annotated Bibliography (Classics and Gateways)
 report:
   false: '2026-02-12'
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
   id: complex-plane-canvas
@@ -102,43 +104,43 @@ report:
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Complex Analysis as a Universal Canvas
   notes: ''
-  number: ''
+  number: '020'
   numbering_scheme: yyyymmdd
-  organization: ''
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: 'Euler to Today: A Research Report'
   scope_years: ''
-  series: ''
+  series: research-reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: complex analysis as a universal canvas
-  type: ''
-  version: ''
+  topic: Complex Analysis as a Universal Canvas
+  type: report
+  version: r1
   year: 2026
-report-no: '2026-02-12'
-report-number: '2026-02-12'
+report-no: '020'
+report-number: '020'
 report-year: '2026'
-report_no: 20260212
-report_number: 0
+report_no: 20
+report_number: 20
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0
 series: research-reports
-series-number: 0
+series-number: 20
 series-title: 'Gold, Velvet and Ashes: Research Reports'
-series_number: 0
+series_number: 20
 series_title: 'Gold, Velvet and Ashes: Research Reports'
 sitemap:
   changefreq: ''
@@ -159,7 +161,9 @@ subjects:
 - Mathematical physics
 - Engineering methods
 subtitle: 'Euler to Today: A Research Report'
-summary: ''
+summary: 'A research report arguing that complex analysis functions as a universal “canvas”: by reformulating
+  problems in the complex plane and applying holomorphic rigidity and integral identities, one can solve
+  and unify problems across number theory, geometry, PDEs, physics, probability, and combinatorics.'
 tags:
 - complex-analysis
 - complex-plane

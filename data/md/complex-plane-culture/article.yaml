@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -58,78 +60,78 @@ keywords:
 - mathematical visualization
 lang: en-US
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
   note: Complex analysis / functions of a complex variable
   primary: QA331.7
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Imagining the Imaginary
 markup: ''
 number-sections: true
 outputs: []
 plate_id: complex-plane-culture
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Sources
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: mathematics
+  domain: mathematics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:complex-plane-culture:2026-02-12
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Imagining the Imaginary
   notes: ''
-  number: ''
-  organization: ''
+  number: '021'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: A Cultural-Intellectual History of the Complex Plane (1748--2025)
   scope_years: ''
-  series: ''
+  series: Complex Plane
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: mathematical history and theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Imagining the Imaginary
+  type: posts
+  version: '2026-02-12'
+  year: 2026
+report-no: '021'
+report-number: '021'
+report-year: '2026'
+report_no: 21
+report_number: 21
+report_year: 2026
 resources: []
 revision: '2026-02-12'
 rights: CC0-1.0 (Public Domain Dedication)
 series: Complex Plane
-series-number: 1
+series-number: 21
 series-title: Complex Plane Essays
-series_number: 1
+series_number: 21
 series_title: Complex Plane Essays
 sitemap:
   changefreq: ''
@@ -153,7 +155,8 @@ subjects:
 - Fractals
 - Quantum phase
 subtitle: A Cultural-Intellectual History of the Complex Plane (1748--2025)
-summary: ''
+summary: 'A cultural-intellectual history of the complex plane (1748--2025): from Euler’s symbolic i to
+  Argand diagrams, modern physics, computation, and the aesthetics of fractals.'
 tags:
 - complex-plane
 - complex-numbers

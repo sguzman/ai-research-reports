@@ -14,7 +14,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -63,80 +65,81 @@ keywords:
 - complex plane model
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: JA
+  description: Politics, political history, social theory, and public debate.
+  label: Political science (General)
   primary: JC
   secondary:
   - HN
   - HX
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Conservation of Radicalism and Asymmetric Co-optability
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-plate:complex-conserving-radicalism
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Bibliography
 report:
-  audience: ''
+  audience: general reader
   code: GVA-RPT-2026-01
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political science
+  domain: politics
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:conservation-of-radicalism-asymmetric-cooptability
   intent: ''
   is_report: true
   kind: research-report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Conservation of Radicalism and Asymmetric Co-optability
   notes: ''
-  number: 1
-  organization: ''
+  number: '022'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric
+    co-optability
   scope_years: ''
-  series: ''
+  series: gva-research-reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: history and social analysis
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
+  topic: Conservation of Radicalism and Asymmetric Co-optability
+  type: report
+  version: r1
   year: 2026
-report-no: GVA-RPT-2026-01
-report-number: '1'
+report-no: '022'
+report-number: '022'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 22
+report_number: 22
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0-1.0
 series: gva-research-reports
-series-number: 1
+series-number: 22
 series-title: Gold, Velvet and Ashes Research Reports
-series_number: 1
+series_number: 22
 series_title: Gold, Velvet and Ashes Research Reports
 sitemap:
   changefreq: ''
@@ -162,7 +165,8 @@ subjects:
 - liberal democracy
 subtitle: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric
   co-optability
-summary: ''
+summary: A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability
+  of left vs right radicalism.
 tags:
 - co-optation
 - institutionalization

@@ -13,7 +13,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -69,76 +71,76 @@ keywords:
 - expert authority
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: B
+  description: Philosophy, theory, epistemology, and conceptual criticism.
+  label: Philosophy
 license: CC0-1.0
-linkTitle: ''
+linkTitle: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-objsubj-2026-02-12
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: philosophy
+  domain: philosophy
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:objectivity-vs-subjectivity:2026-02-12
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
   notes: ''
-  number: ''
-  organization: ''
+  number: '043'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: From Plato to AI, and why intersubjective methods matter
   scope_years: ''
-  series: ''
+  series: philosophy-reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: social and political philosophy
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-REPORT-2026-OBJ-SUBJ
-report-number: OBJ-SUBJ
+  topic: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+  type: report
+  version: r1
+  year: 2026
+report-no: '043'
+report-number: '043'
 report-year: '2026'
-report_no: 0
-report_number: 0
+report_no: 43
+report_number: 43
 report_year: 2026
 resources: []
 revision: r1
 rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 series: philosophy-reports
-series-number: 0
+series-number: 43
 series-title: Philosophy Reports
-series_number: 0
+series_number: 43
 series_title: Philosophy Reports
 sitemap:
   changefreq: ''
@@ -163,7 +165,9 @@ subjects:
 - Legal philosophy
 - Technology ethics
 subtitle: From Plato to AI, and why intersubjective methods matter
-summary: ''
+summary: A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically
+  and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis
+  on intersubjective procedures as the real engine of reliable knowledge.
 tags:
 - epistemology
 - philosophy

@@ -8,7 +8,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -55,23 +57,23 @@ keywords:
 - 1935-1965
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA
+  description: Mathematics, mathematical history, and mathematical methods.
+  label: Mathematics
 license: CC0-1.0
-linkTitle: ''
+linkTitle: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Bibliography
 report:
-  audience: ''
+  audience: general mathematically literate reader
   code: ''
   collection: ''
   conversion:
@@ -79,57 +81,57 @@ report:
     source_docx: ''
     tool: ''
   discipline: mathematics
-  domain: ''
+  domain: mathematics
   emphasis: ''
   focus:
   - intellectual precursors (structuralism, foundations debates)
   - founding definitions (categories, functors, natural transformations)
   - early reception and spread
   - mid-century consolidation (Grothendieck, Lawvere)
-  id: ''
+  id: gva:category-theory-origins-1935-1965:v1
   intent: ''
   is_report: true
   kind: historical survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
   notes: ''
-  number: ''
-  organization: ''
+  number: '017'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Origins, invention, and early reception (1935-1965)
   scope_years: 1935-1965
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
   subdiscipline: category theory
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-CT-2026-001
-report-number: '001'
+  topic: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
+  type: article
+  version: '1'
+  year: 2026
+report-no: '017'
+report-number: '017'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 17
+report_number: 17
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 17
+series-title: Marginalia Reports
+series_number: 17
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -146,7 +148,9 @@ subjects:
 - Algebraic topology -- History
 - Structuralism (Philosophy of mathematics)
 subtitle: Origins, invention, and early reception (1935-1965)
-summary: ''
+summary: A historically grounded overview of category theory’s origins (1935–1965), from the foundations
+  crisis and structuralism to Eilenberg–Mac Lane’s definitions and later expansion via Grothendieck and
+  Lawvere.
 tags:
 - math
 - category-theory

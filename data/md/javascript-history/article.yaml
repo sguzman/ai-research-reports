@@ -7,7 +7,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -64,45 +66,45 @@ keywords:
 - standards governance
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
   class: QA76.73.J39
   description: JavaScript (Computer program language)
-  label: ''
+  label: Computer science
   scheme: LCC
 license: CC0-1.0
-linkTitle: ''
+linkTitle: The Formal and Informal History of JavaScript (1995--2025)
 markup: ''
 number-sections: true
 outputs: []
 plate_id: plate-js-history-1995-2025
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Endnotes
 report:
-  audience: ''
+  audience: general technically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: computer science
+  domain: computing
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:article:js-history-1995-2025
   intent: ''
   is_report: true
   kind: technical report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: The Formal and Informal History of JavaScript (1995--2025)
   notes: Standards, engines, platform APIs, tooling waves, frameworks, and governance.
-  number: ''
-  organization: ''
+  number: '031'
+  organization: Marginalia
   period: 1995-2025
   period_covered: ''
   population_focus: ''
@@ -111,30 +113,30 @@ report:
   region_focus: ''
   scope: formal and informal evolution
   scope_years: ''
-  series: ''
+  series: web-technology-histories
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: computing history and software systems
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: history of javascript
-  type: ''
-  version: ''
-  year: 0
-report-no: GVA-TR-2026-001
-report-number: '001'
+  topic: The Formal and Informal History of JavaScript (1995--2025)
+  type: report
+  version: r1
+  year: 2026
+report-no: '031'
+report-number: '031'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 31
+report_number: 31
 report_year: 2026
 resources: []
 revision: r1
 rights: Released into the public domain under CC0-1.0.
 series: web-technology-histories
-series-number: 1
+series-number: 31
 series-title: Web Technology Histories
-series_number: 1
+series_number: 31
 series_title: Web Technology Histories
 sitemap:
   changefreq: ''
@@ -155,7 +157,10 @@ subjects:
 - Software tools -- History
 - Open source software -- Communities
 subtitle: Standards, engines, frameworks, tooling, and culture across three decades
-summary: ''
+summary: 'The formal and informal history of JavaScript (1995--2025): standards bodies and governance
+  (TC39/WHATWG/W3C/OpenJS), engine breakthroughs, platform APIs, tooling revolutions, framework epochs,
+  and JavaScript’s expansion beyond the browser—treated as a co-evolving technical, institutional, and
+  cultural system.'
 tags:
 - javascript
 - ecmascript

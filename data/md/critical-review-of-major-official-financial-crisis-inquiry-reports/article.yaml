@@ -4,13 +4,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Public Finance
+- Economics
 cover-image: ''
 cover_image: ''
 creator:
@@ -19,7 +23,7 @@ dataset_id: ''
 date: '2026-03-21'
 description: Critical Review of Major Official Financial-Crisis Inquiry Reports
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -29,49 +33,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Critical Review of Major Official Financial-Crisis Inquiry Reports
+- Public Finance
+- Economics
+- Public finance
+lang: en
+language: English
+lastmod: '2026-03-21'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: HJ
+  description: Public finance, taxation, and fiscal policy.
+  label: Public finance
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Critical Review of Major Official Financial-Crisis Inquiry Reports
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-03-21'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: policy-oriented general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Critical Review of Major Official Financial-Crisis Inquiry Reports.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: economics
+  domain: public finance
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Critical Review of Major Official Financial-Crisis Inquiry Reports
   notes: ''
-  number: ''
-  organization: ''
+  number: 069
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -80,48 +88,55 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: public finance
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 069
+report-number: 069
+report-year: '2026'
+report_no: 69
+report_number: 69
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 69
+series-title: Marginalia Reports
+series_number: 69
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Public finance
+- Fiscal policy
+subjects:
+- Public finance
+- Fiscal policy
 subtitle: ''
-summary: ''
-tags: []
+summary: Critical Review of Major Official Financial-Crisis Inquiry Reports
+tags:
+- critical-review-of-major-official-financial-crisis-inquiry-reports
+- public-finance
+- economics
 title: Critical Review of Major Official Financial-Crisis Inquiry Reports
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

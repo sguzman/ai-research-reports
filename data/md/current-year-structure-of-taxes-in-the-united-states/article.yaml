@@ -7,7 +7,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -54,20 +56,20 @@ keywords:
 - CBO
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-04-27'
 layout: ''
 library_of_congress_classification:
   class: HJ
-  description: ''
+  description: Public finance, taxation, and fiscal policy.
   label: Public finance
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Current-Year Structure of Taxes in the United States
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-04-27'
+publisher: Marginalia
 reference-section-title: References
 report:
   audience: policy-oriented general reader
@@ -77,21 +79,21 @@ report:
     date: '2026-05-03'
     source_docx: Current-Year Structure of Taxes in the United States.docx
     tool: pandoc 3.6
-  discipline: ''
+  discipline: economics
   domain: public finance
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:us-tax-structure-current-year
   intent: ''
   is_report: true
   kind: current-structure survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Current-Year Structure of Taxes in the United States
   notes: ''
-  number: ''
-  organization: ''
+  number: 093
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -100,30 +102,30 @@ report:
   region_focus: ''
   scope: federal + state/local + incidence + compliance + recent legislation
   scope_years: ''
-  series: ''
+  series: public-finance-reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: public finance
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: tax structure in the United States
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
+  topic: Current-Year Structure of Taxes in the United States
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 093
+report-number: 093
 report-year: '2026'
-report_no: 0
-report_number: 0
+report_no: 93
+report_number: 93
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: public-finance-reports
-series-number: 0
+series-number: 93
 series-title: Public Finance Reports
-series_number: 0
+series_number: 93
 series_title: Public Finance Reports
 sitemap:
   changefreq: ''
@@ -142,7 +144,8 @@ subjects:
 - Tax expenditures
 - Tax administration
 subtitle: ''
-summary: ''
+summary: A data-driven overview of the current U.S. tax structure across federal, state, and local levels,
+  with emphasis on rates, revenue composition, incidence, and compliance.
 tags:
 - taxation
 - united-states

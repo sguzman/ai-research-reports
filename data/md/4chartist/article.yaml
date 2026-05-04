@@ -10,7 +10,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -58,12 +60,12 @@ keywords:
 - Corn Laws
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: HX
+  description: Socialism, communism, anarchism, and related intellectual history.
+  label: Socialism. Communism. Anarchism
   primary:
     class: DA
     note: Great Britain — 19th century politics and reform movements
@@ -71,69 +73,69 @@ library_of_congress_classification:
     class: E
     note: United States — Civil War era and Reconstruction; political movements
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Chartists & Radical Republicans, 1840-1865
 markup: ''
 number-sections: true
 outputs: []
 plate_id: plate.inventing-socialism.0004
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: political theory
+  domain: political theory
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva-inventing-socialism-04-chartist-1840-1865
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Chartists & Radical Republicans, 1840-1865
   notes: ''
-  number: ''
-  organization: ''
+  number: '014'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Franchise, Socialism, and the Limits of Alliance
   scope_years: ''
-  series: ''
+  series: inventing-socialism
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: socialist and radical thought
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Chartists & Radical Republicans, 1840-1865
+  type: research-essay
+  version: 0.1.0
+  year: 2026
+report-no: '014'
+report-number: '014'
+report-year: '2026'
+report_no: 14
+report_number: 14
+report_year: 2026
 resources: []
 revision: 0.1.0
 rights: CC0-1.0
 series: inventing-socialism
-series-number: 4
+series-number: 14
 series-title: Inventing Socialism
-series_number: 4
+series_number: 14
 series_title: Inventing Socialism
 sitemap:
   changefreq: ''
@@ -156,7 +158,8 @@ subjects:
 - Reconstruction (U.S. history, 1865-1877)
 - Socialism -- History -- 19th century
 subtitle: Franchise, Socialism, and the Limits of Alliance
-summary: ''
+summary: 'Chartism and Radical Republicanism compared: franchise politics, land reform, religion, and
+  the contested boundary between democratic reform and “socialism” in the mid-19th-century Atlantic world.'
 tags:
 - chartism
 - radical-republicans

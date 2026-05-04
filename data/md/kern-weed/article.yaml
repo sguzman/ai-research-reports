@@ -11,7 +11,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -71,78 +73,78 @@ keywords:
 - recordkeeping
 lang: en-US
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: KF
+  description: United States law, courts, legal doctrine, and legal institutions.
+  label: Law of the United States
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Kern County and the Cannabis Legal Environment
 markup: ''
 number-sections: false
 outputs: []
 plate_id: gva-plate-kern-cannabis-legal-environment
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: Sources
 report:
   false: KERN-001
-  audience: ''
+  audience: general legal reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: law
+  domain: law
   emphasis: ''
   focus: ''
-  id: ''
+  id: gva:kern-county-cannabis-legal-environment
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Kern County and the Cannabis Legal Environment
   notes: ''
-  number: '001'
-  organization: ''
+  number: '033'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: Federal, California, and Kern County constraints on licensing, permitting, and operations
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: united states law
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: '2026'
-report-no: KERN-001
-report-number: '001'
+  topic: Kern County and the Cannabis Legal Environment
+  type: article
+  version: '1'
+  year: 2026
+report-no: '033'
+report-number: '033'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 33
+report_number: 33
 report_year: 2026
 resources: []
 revision: '1'
 rights: CC0 1.0 Universal (Public Domain Dedication)
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 33
+series-title: Marginalia Reports
+series_number: 33
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
@@ -162,7 +164,8 @@ subjects:
 - Environmental compliance
 - Tax and banking constraints
 subtitle: Federal, California, and Kern County constraints on licensing, permitting, and operations
-summary: ''
+summary: Federal, California, and Kern County rules that determine whether (and where) cannabis cultivation
+  can be licensed, financed, permitted, and operated - with an emphasis on local bans and compliance realities.
 tags:
 - kern-county
 - california

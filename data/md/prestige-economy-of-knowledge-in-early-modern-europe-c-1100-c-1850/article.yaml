@@ -9,13 +9,18 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Politics
+- History
+- Political Theory
 cover-image: ''
 cover_image: ''
 creator:
@@ -26,7 +31,7 @@ description: '**Executive Summary:** In medieval and early modern Europe, a disc
   largely on its *convertibility* into real power and status. Law attained immense prestige from c.1100–1700
   because it underpinned kings’ and noble…'
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -36,49 +41,54 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+- Politics
+- History
+- Political Theory
+- Political science (General)
+lang: en
+language: English
+lastmod: '2026-04-11'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: JA
+  description: Politics, political history, social theory, and public debate.
+  label: Political science (General)
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-04-11'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: political science
+  domain: politics
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
   notes: ''
-  number: ''
-  organization: ''
+  number: 087
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -87,48 +97,58 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: history and social analysis
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 087
+report-number: 087
+report-year: '2026'
+report_no: 87
+report_number: 87
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 87
+series-title: Marginalia Reports
+series_number: 87
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Politics
+- History
+subjects:
+- Politics
+- History
 subtitle: ''
-summary: ''
-tags: []
+summary: '**Executive Summary:** In medieval and early modern Europe, a discipline’s prestige depended
+  largely on its *convertibility* into real power and status. Law attained immense prestige from c.1100–1700
+  because it underpinned kings’ and noble…'
+tags:
+- prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+- politics
+- history
+- political-theory
 title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

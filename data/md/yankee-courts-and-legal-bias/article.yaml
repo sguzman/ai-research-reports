@@ -8,13 +8,17 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
   render: always
 cascade: {}
-categories: []
+categories:
+- Law
+- United States Law
 cover-image: ''
 cover_image: ''
 creator:
@@ -25,7 +29,7 @@ description: A growing body of evidence suggests that judicial outcomes often fa
   interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme
   Court cases across history routinely vindicate…
 draft: false
-edition: ''
+edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -35,49 +39,53 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: ''
+identifier: urn:marginalia:yankee-courts-and-legal-bias
 isCJKLanguage: false
-keywords: []
-lang: ''
-language: ''
-lastmod: ''
+keywords:
+- Yankee Courts and Legal Bias
+- Law
+- United States Law
+- Law of the United States
+lang: en
+language: English
+lastmod: '2026-03-21'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: KF
+  description: United States law, courts, legal doctrine, and legal institutions.
+  label: Law of the United States
 license: CC0-1.0
-linkTitle: ''
+linkTitle: Yankee Courts and Legal Bias
 markup: ''
 number-sections: false
 outputs: []
 plate_id: ''
-publishDate: ''
+publishDate: '2026-03-21'
 publisher: Marginalia
-reference-section-title: ''
+reference-section-title: References
 report:
-  audience: ''
+  audience: general legal reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: yankee-courts-and-legal-bias.docx
     tool: pandoc 3.6
-  discipline: ''
-  domain: ''
+  discipline: law
+  domain: law
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:marginalia:yankee-courts-and-legal-bias
   intent: ''
   is_report: true
-  kind: ''
+  kind: research report
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: Yankee Courts and Legal Bias
   notes: ''
-  number: ''
-  organization: ''
+  number: '076'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
@@ -86,48 +94,57 @@ report:
   region_focus: ''
   scope: ''
   scope_years: ''
-  series: ''
+  series: Marginalia Reports
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: united states law
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
-  year: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
+  topic: Yankee Courts and Legal Bias
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '076'
+report-number: '076'
+report-year: '2026'
+report_no: 76
+report_number: 76
+report_year: 2026
 resources: []
-revision: ''
+revision: 1.0.0
 rights: CC0-1.0
-series: ''
-series-number: 0
-series-title: ''
-series_number: 0
-series_title: ''
+series: Marginalia Reports
+series-number: 76
+series-title: Marginalia Reports
+series_number: 76
+series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
 slug: yankee-courts-and-legal-bias
-status: ''
-subject: []
-subjects: []
+status: complete
+subject:
+- Law
+- United States law
+subjects:
+- Law
+- United States law
 subtitle: ''
-summary: ''
-tags: []
+summary: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests
+  (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases
+  across history routinely vindicate…
+tags:
+- yankee-courts-and-legal-bias
+- law
+- united-states-law
 title: Yankee Courts and Legal Bias
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: ''
+type: report
 url: ''
 weight: 0
 ...

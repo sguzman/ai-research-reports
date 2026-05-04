@@ -10,7 +10,9 @@ aliases: []
 author:
 - Salvador Guzman
 - ChatGPT
-authors: []
+authors:
+- Salvador Guzman
+- ChatGPT
 build:
   list: always
   publishResources: true
@@ -60,76 +62,76 @@ keywords:
 - Metadata
 lang: en
 language: English
-lastmod: ''
+lastmod: '2026-02-12'
 layout: ''
 library_of_congress_classification:
-  class: ''
-  description: ''
-  label: ''
+  class: QA76
+  description: Computer science, software, web standards, and computing history.
+  label: Computer science
 license: CC0-1.0
-linkTitle: ''
+linkTitle: History of HTML (1990--2025)
 markup: ''
 number-sections: true
 outputs: []
 plate_id: gva-html-history
-publishDate: ''
-publisher: Gold, Velvet and Ashes
+publishDate: '2026-02-12'
+publisher: Marginalia
 reference-section-title: References
 report:
-  audience: ''
+  audience: general technically literate reader
   code: ''
   collection: ''
   conversion:
     date: ''
     source_docx: ''
     tool: ''
-  discipline: ''
-  domain: ''
+  discipline: computer science
+  domain: computing
   emphasis: ''
   focus: ''
-  id: ''
+  id: urn:gva:html-history
   intent: ''
   is_report: true
-  kind: ''
+  kind: historical survey
   level: ''
   method: ''
   methods: []
-  name: ''
+  name: History of HTML (1990--2025)
   notes: ''
-  number: HTML-001
-  organization: ''
+  number: '030'
+  organization: Marginalia
   period: ''
   period_covered: ''
   population_focus: ''
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: From SGML Roots to the Living Standard
   scope_years: ''
-  series: Gold, Velvet and Ashes Reports
+  series: web-histories
   stance: ''
   structure: ''
-  subdiscipline: ''
+  subdiscipline: computing history and software systems
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: ''
-  type: ''
-  version: ''
+  topic: History of HTML (1990--2025)
+  type: report
+  version: 1.0.0
   year: 2026
-report-no: HTML-001
-report-number: HTML-001
+report-no: '030'
+report-number: '030'
 report-year: '2026'
-report_no: 1
-report_number: 0
+report_no: 30
+report_number: 30
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: web-histories
-series-number: 1
+series-number: 30
 series-title: Web Histories
-series_number: 1
+series_number: 30
 series_title: Web Histories
 sitemap:
   changefreq: ''
@@ -148,7 +150,8 @@ subjects:
 - Standards organizations
 - Document formats
 subtitle: From SGML Roots to the Living Standard
-summary: ''
+summary: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing,
+  semantics, accessibility, and modern web platform practice.'
 tags:
 - html
 - web
