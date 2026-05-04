@@ -48,6 +48,7 @@ dataset_id: ""
 plate_id: ""
 type: ""
 format: ""
+reference-section-title: ""
 categories: []
 tags: []
 keywords: []
