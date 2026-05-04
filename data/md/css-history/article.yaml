@@ -11,6 +11,7 @@ abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separat
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

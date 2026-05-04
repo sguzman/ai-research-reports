@@ -3,6 +3,7 @@ abstract: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

@@ -4,6 +4,7 @@ abstract: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authe
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

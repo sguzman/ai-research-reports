@@ -7,6 +7,7 @@ abstract: A historically grounded survey of functional analysis from its late ni
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

@@ -13,6 +13,7 @@ abstract: 'Complex analysis is a reusable problem-solving canvas: translate a pr
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

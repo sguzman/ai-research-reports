@@ -9,6 +9,7 @@ abstract: A chronological and thematic history of HTML from 1990 to 2025, tracin
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

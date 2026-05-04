@@ -11,6 +11,7 @@ abstract: A cultural and historical essay arguing that matrices are not merely a
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

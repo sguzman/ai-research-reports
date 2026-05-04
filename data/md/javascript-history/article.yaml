@@ -6,6 +6,7 @@ abstract: A structured, era-by-era history of JavaScript from 1995 to 2025 that 
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

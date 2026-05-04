@@ -10,6 +10,7 @@ abstract: 'A chronological, social-intellectual history of how “operators” m
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

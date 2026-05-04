@@ -18,6 +18,7 @@ abstract: 'This report analyzes Hasan "HasanAbi" Piker as a flagship case of Twi
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

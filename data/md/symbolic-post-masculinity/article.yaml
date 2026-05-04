@@ -10,6 +10,7 @@ abstract: 'As advanced economies shift from heavy industry and traditional male 
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

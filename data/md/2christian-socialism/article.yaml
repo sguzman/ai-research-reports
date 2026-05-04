@@ -11,7 +11,8 @@ abstract: 'In mid-Victorian Britain, Anglican priests Frederick Denison Maurice 
   and assesses their legacy in Anglican social thought and later Christian labor movements.'
 aliases: []
 author:
-- Salvador Guzmán
+- Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

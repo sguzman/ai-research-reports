@@ -8,6 +8,7 @@ abstract: A historical survey of linear algebra as a field that emerged graduall
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

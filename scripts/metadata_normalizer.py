@@ -21,6 +21,8 @@ ALIAS_PAIRS: tuple[tuple[str, str], ...] = (
     ("series-number", "series_number"),
 )
 
+REQUIRED_AUTHOR_LIST: list[str] = ["Salvador Guzman", "ChatGPT"]
+
 TEXT_FIELDS_TO_CLEAN: frozenset[str] = frozenset(
     {
         "abstract",
@@ -100,6 +102,10 @@ def sync_aliases(data: dict[str, Any]) -> None:
             data[left] = deepcopy(right_value)
 
 
+def normalize_author_fields(data: dict[str, Any]) -> None:
+    data["author"] = list(REQUIRED_AUTHOR_LIST)
+
+
 def normalize_project(folder: Path, standard: dict[str, Any], create_missing: bool, write: bool) -> tuple[str, str]:
     article = folder / "article.yaml"
     if not article.exists():
@@ -114,6 +120,7 @@ def normalize_project(folder: Path, standard: dict[str, Any], create_missing: bo
         data = merge_with_standard(standard, data)
 
     data = clean_text_fields(data)
+    normalize_author_fields(data)
     sync_aliases(data)
     data = sort_keys_recursively(data)
     rendered = dump_yaml(data)

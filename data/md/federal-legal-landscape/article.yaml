@@ -8,6 +8,7 @@ abstract: 'Under federal law, cannabis (marijuana) remains a **Schedule I** cont
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

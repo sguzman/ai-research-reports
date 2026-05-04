@@ -10,6 +10,7 @@ abstract: '**Executive Summary:** This report critically examines the claim that
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

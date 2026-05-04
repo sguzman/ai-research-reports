@@ -7,6 +7,7 @@ abstract: A historical and conceptual survey of category theory from its precurs
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

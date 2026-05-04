@@ -10,6 +10,7 @@ abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth 
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

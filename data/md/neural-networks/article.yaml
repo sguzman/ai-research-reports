@@ -10,6 +10,7 @@ abstract: An annotated history of artificial neural networks in computing from t
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

@@ -8,6 +8,7 @@ abstract: '**Executive Summary:** Electric motors – devices that convert elect
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

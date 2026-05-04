@@ -10,6 +10,7 @@ abstract: A graduate-level survey of algebra’s evolution from ancient, rhetori
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

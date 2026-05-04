@@ -10,6 +10,7 @@ abstract: '**Executive Summary:** This report reviews the principles and practic
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

@@ -9,6 +9,7 @@ abstract: 'Thomas Piketty’s *Capital in the Twenty-First Century* emphasizes t
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

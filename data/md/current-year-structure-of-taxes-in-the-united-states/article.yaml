@@ -6,6 +6,7 @@ abstract: A current-structure survey of taxation in the United States using the 
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

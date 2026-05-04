@@ -6,6 +6,7 @@ abstract: A comprehensive, annotated, and hierarchically structured bibliography
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

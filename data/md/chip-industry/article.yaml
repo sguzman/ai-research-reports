@@ -8,6 +8,7 @@ abstract: A plain-language, end-to-end field guide to the global semiconductor (
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

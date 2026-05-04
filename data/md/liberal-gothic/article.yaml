@@ -1,7 +1,9 @@
 ---
 abstract: ''
 aliases: []
-author: []
+author:
+- Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

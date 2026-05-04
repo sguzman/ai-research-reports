@@ -9,6 +9,7 @@ abstract: A historical and conceptual survey of what mathematicians have meant b
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

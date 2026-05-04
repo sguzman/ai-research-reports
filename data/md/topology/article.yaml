@@ -9,6 +9,7 @@ abstract: 'A comprehensive, historically grounded survey of topology: its 18th-c
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

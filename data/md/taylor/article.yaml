@@ -4,6 +4,7 @@ abstract: 'An annotated bibliography on Taylor Lorenz and the surrounding contro
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always

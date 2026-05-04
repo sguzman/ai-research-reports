@@ -55,6 +55,8 @@ REQUIRED_SUBSTANTIVE_FIELDS: tuple[str, ...] = (
     "report-year",
 )
 
+REQUIRED_AUTHOR_LIST: tuple[str, str] = ("Salvador Guzman", "ChatGPT")
+
 
 @dataclass
 class ProjectIssue:
@@ -65,6 +67,7 @@ class ProjectIssue:
     extra_keys: list[str]
     blank_required_fields: list[str]
     alias_mismatches: list[str]
+    author_mismatch: str | None
 
     @property
     def structural_clean(self) -> bool:
@@ -74,6 +77,7 @@ class ProjectIssue:
             and not self.missing_keys
             and not self.extra_keys
             and not self.alias_mismatches
+            and self.author_mismatch is None
         )
 
     @property
@@ -82,6 +86,7 @@ class ProjectIssue:
             self.article_exists
             and self.parse_error is None
             and not self.blank_required_fields
+            and self.author_mismatch is None
         )
 
     @property
@@ -118,6 +123,7 @@ def validate_project(folder: Path, standard: dict[str, Any]) -> ProjectIssue:
             extra_keys=[],
             blank_required_fields=[],
             alias_mismatches=[],
+            author_mismatch=None,
         )
 
     try:
@@ -131,6 +137,7 @@ def validate_project(folder: Path, standard: dict[str, Any]) -> ProjectIssue:
             extra_keys=[],
             blank_required_fields=[],
             alias_mismatches=[],
+            author_mismatch=None,
         )
 
     missing_keys = [key for key in standard if key not in data]
@@ -144,6 +151,11 @@ def validate_project(folder: Path, standard: dict[str, Any]) -> ProjectIssue:
         if left in data and right in data and data[left] != data[right]:
             alias_mismatches.append(format_alias_mismatch(left, right, data[left], data[right]))
 
+    author_mismatch = None
+    author_value = data.get("author")
+    if author_value != list(REQUIRED_AUTHOR_LIST):
+        author_mismatch = repr(author_value)
+
     return ProjectIssue(
         folder=folder.name,
         article_exists=True,
@@ -152,6 +164,7 @@ def validate_project(folder: Path, standard: dict[str, Any]) -> ProjectIssue:
         extra_keys=extra_keys,
         blank_required_fields=blank_required_fields,
         alias_mismatches=alias_mismatches,
+        author_mismatch=author_mismatch,
     )
 
 
@@ -177,6 +190,7 @@ def build_summary(issues: list[ProjectIssue]) -> dict[str, Any]:
             1 for issue in issues if issue.blank_required_fields
         ),
         "projects_with_alias_mismatches": sum(1 for issue in issues if issue.alias_mismatches),
+        "projects_with_author_mismatch": sum(1 for issue in issues if issue.author_mismatch),
         "common_blank_required_fields": blank_counter.most_common(),
     }
 
@@ -196,6 +210,7 @@ def print_text_report(issues: list[ProjectIssue], summary: dict[str, Any], only_
         f" {summary['projects_with_blank_required_fields']}"
     )
     print(f"  projects with alias mismatches: {summary['projects_with_alias_mismatches']}")
+    print(f"  projects with author mismatch: {summary['projects_with_author_mismatch']}")
     print()
 
     interesting = issues if not only_failing else [issue for issue in issues if not issue.is_clean]
@@ -217,6 +232,11 @@ def print_text_report(issues: list[ProjectIssue], summary: dict[str, Any], only_
             print(f"  - blank_required: {', '.join(issue.blank_required_fields)}")
         if issue.alias_mismatches:
             print(f"  - alias_mismatches: {'; '.join(issue.alias_mismatches)}")
+        if issue.author_mismatch:
+            print(
+                "  - author_mismatch: "
+                f"expected {list(REQUIRED_AUTHOR_LIST)!r}, got {issue.author_mismatch}"
+            )
         if issue.structural_clean and not issue.semantic_complete:
             print("  - structurally clean, semantically incomplete")
         elif issue.is_clean:
@@ -249,6 +269,7 @@ def main() -> int:
                     "extra_keys": issue.extra_keys,
                     "blank_required_fields": issue.blank_required_fields,
                     "alias_mismatches": issue.alias_mismatches,
+                    "author_mismatch": issue.author_mismatch,
                     "structural_clean": issue.structural_clean,
                     "semantic_complete": issue.semantic_complete,
                     "is_clean": issue.is_clean,

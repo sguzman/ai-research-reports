@@ -6,6 +6,7 @@ abstract: A historical and thematic survey of number theory from Euler’s late-
 aliases: []
 author:
 - Salvador Guzman
+- ChatGPT
 authors: []
 build:
   list: always
