@@ -1,0 +1,163 @@
+---
+abstract: An institutional overview of judges in the United States judicial process, covering the constitutional
+  distinction between Article III judges and other judicial officers, the structure of federal and representative
+  state systems, methods of selection, powers and constraints, compensation, and the practical variation
+  across jurisdictions. The report treats “judge” not as a single office but as a family of positions
+  shaped by constitutional design, statute, court structure, and political selection mechanisms.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Law
+- Courts
+- United States Law
+- Judicial Administration
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: judges-in-the-judicial-process-of-the-united-states
+date: '2026-05-03'
+description: A structured guide to U.S. judges and judicial offices across federal and state systems,
+  including tenure, appointment, elections, powers, and pay.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:judges-in-the-judicial-process-of-the-united-states
+isCJKLanguage: false
+keywords:
+- judges
+- judicial process
+- Article III
+- federal courts
+- state courts
+- magistrate judges
+- bankruptcy judges
+- judicial selection
+- judicial compensation
+- administrative law judges
+lang: en
+language: English
+lastmod: '2026-05-03'
+layout: ''
+library_of_congress_classification:
+  class: KF
+  description: United States law, courts, legal doctrine, and legal institutions.
+  label: Law of the United States
+license: CC0-1.0
+linkTitle: Judges in the Judicial Process of the United States
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-03'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general legal reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-03'
+    source_docx: Judges in the Judicial Process of the entity[_country_,_United States_,_north america_].docx
+    tool: pandoc 3.6
+  discipline: law
+  domain: law
+  emphasis: ''
+  focus: ''
+  id: urn:marginalia:judges-in-the-judicial-process-of-the-united-states
+  intent: ''
+  is_report: true
+  kind: institutional overview
+  level: ''
+  method: ''
+  methods: []
+  name: Judges in the Judicial Process of the United States
+  notes: ''
+  number: 097
+  organization: Marginalia
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: federal + representative state systems + powers + selection + compensation
+  scope_years: ''
+  series: american-law-guides
+  stance: ''
+  structure: ''
+  subdiscipline: united states law
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: Judges in the Judicial Process of the United States
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 097
+report-number: 097
+report-year: '2026'
+report_no: 97
+report_number: 97
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: american-law-guides
+series-number: 97
+series-title: American Law Guides
+series_number: 97
+series_title: American Law Guides
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: judges-in-the-judicial-process-of-the-united-states
+status: draft
+subject:
+- Judges
+- United States courts
+- Judicial administration
+subjects:
+- Federal judges
+- State judges
+- Judicial selection
+- Judicial powers
+- Judicial compensation
+subtitle: ''
+summary: A structured guide to U.S. judges and judicial offices across federal and state systems, including
+  tenure, appointment, elections, powers, and pay.
+tags:
+- judges
+- courts
+- american-law
+- article-iii
+- judicial-selection
+- judicial-administration
+title: Judges in the Judicial Process of the United States
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...

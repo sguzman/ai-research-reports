@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 85
-md_project_count = 96
+docx_count = 86
+md_project_count = 97
 md_top_level_file_count = 2
-linked_docx_count = 85
+linked_docx_count = 86
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -210,6 +210,12 @@ match_basis = "folder_title_inference"
 [[docx]]
 file = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence.docx"
 md_project = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Judges in the Judicial Process of the entity[_country_,_United States_,_north america_].docx"
+md_project = "judges-in-the-judicial-process-of-the-united-states"
 status = "linked"
 match_basis = "article_yaml_source_docx"
 
@@ -923,6 +929,14 @@ docx = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Ev
 status = "linked"
 empty = false
 title = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence"
+subtitle = ""
+
+[[md_project]]
+folder = "judges-in-the-judicial-process-of-the-united-states"
+docx = "Judges in the Judicial Process of the entity[_country_,_United States_,_north america_].docx"
+status = "linked"
+empty = false
+title = "Judges in the Judicial Process of the United States"
 subtitle = ""
 
 [[md_project]]
