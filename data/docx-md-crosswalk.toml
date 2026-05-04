@@ -1,0 +1,1265 @@
+# Generated crosswalk between data/docx and data/md project folders.
+# Empty strings indicate no current match in the repo.
+
+[summary]
+generated_on = "2026-05-03"
+docx_count = 85
+md_project_count = 92
+md_top_level_file_count = 5
+linked_docx_count = 80
+unlinked_docx_count = 5
+md_without_docx_count = 12
+
+md_top_level_files = [
+  "epub.css",
+  "hugo.meta.v2.yaml",
+  "hugo.meta.yaml",
+  "pandoc-base.yaml",
+  "template.yaml",
+]
+
+[[docx]]
+file = "A Comprehensive History of CSS — Institutions, Specs, and Practice.docx"
+md_project = "css-history"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "A Comprehensive History of Type Theory (1900s–Present).docx"
+md_project = "type-theory-history"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "A History of Functional Analysis.docx"
+md_project = ""
+status = "missing_md_project"
+match_basis = ""
+
+[[docx]]
+file = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx"
+md_project = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "A Post-Chomskyan Theory of Language in the Age of LLMs.docx"
+md_project = "a-post-chomskyan-theory-of-language-in-the-age-of-llms"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "A Social History of “Operators” in Mathematics.docx"
+md_project = "operators-social-history"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Adolf Hitler’s Ideology from Origins to Demise (1907–1945).docx"
+md_project = "hitler-philosophy"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Brickmaking_ History, Materials, Processes, and Production Planning.docx"
+md_project = "brickmaking-history-materials-processes-and-production-planning"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Category Theory Research Scope.docx"
+md_project = "category-theory-research-scope"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Chartists & Radical Republicans, 1840‑1865_ Franchise, Socialism, and the Limits of Alliance.docx"
+md_project = "4chartist"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Christian Socialism Report Request.docx"
+md_project = "christian-socialism-report-request"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts.docx"
+md_project = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Complex Analysis as a Universal Canvas (Euler to Today)_ A Research Report.docx"
+md_project = "complex-plane-canvas"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Conservation of Radicalism and Asymmetric Co-optability.docx"
+md_project = "conserving-radicalism"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Corporate Capital and Progressive Cultural Politics.docx"
+md_project = "corporate-capital-and-progressive-cultural-politics"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Critical Review of Major Official Financial-Crisis Inquiry Reports.docx"
+md_project = "critical-review-of-major-official-financial-crisis-inquiry-reports"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Current-Year Structure of Taxes in the United States.docx"
+md_project = ""
+status = "missing_md_project"
+match_basis = ""
+
+[[docx]]
+file = "Darrieus VAWT Design & Construction (1–10 kW).docx"
+md_project = "darrieus-vawt-design-construction-1-10-kw"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Desalination Plant Design and Construction.docx"
+md_project = "desalination-plant-design-and-construction"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo.docx"
+md_project = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Electric Motor Design_ Principles, Types, and Practices.docx"
+md_project = "electric-motor-design-principles-types-and-practices"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Federal Legal Landscape.docx"
+md_project = "federal-legal-landscape"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "From Dirt Track to Durable Highway – Engineering, Material Science & Historic Precedent.docx"
+md_project = "highway-engineering"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "GAHT Research Report Summary.docx"
+md_project = "gaht-research-report-summary"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx"
+md_project = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "HasanAbi Popularity Analysis.docx"
+md_project = "hasanabi-popularity-analysis"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "History of HTML (1990–2025).docx"
+md_project = "html-history"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "History of Neural Networks in Computing (1940s–2026).docx"
+md_project = "neural-networks"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx"
+md_project = "how-llms-challenge-chomskyan-assumptions-analytical-report"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Imagining the Imaginary_ A Cultural-Intellectual History of the Complex Plane (1748–2025).docx"
+md_project = "complex-plane-culture"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Inventing Socialism.docx"
+md_project = "1inventing-socialism"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Jewish Political Activism in the United States (1880–2025).docx"
+md_project = "jewish-political-activism"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence.docx"
+md_project = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in.docx"
+md_project = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence.docx"
+md_project = "land-rooted-ethno"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens.docx"
+md_project = "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Liberal Gothic_ An Analytical Report.docx"
+md_project = "liberal-gothic-an-analytical-report"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Male Suicide Research Outline.docx"
+md_project = "male-suicide-research-outline"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Marx Engels Manifesto Analysis.docx"
+md_project = "marx-engels-manifesto-analysis"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Marxism Research Clarifications.docx"
+md_project = "marxism-research-clarifications"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx"
+md_project = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Meme Culture and “Borderer-Right” Style_ A Research Report.docx"
+md_project = "meme-culture-and-borderer-right-style-a-research-report"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment.docx"
+md_project = "moby-dick-as-yankee-self-aggrandizement-and-self-indictment"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Number Theory from Euler to Today (Europe & the United States)_ A Research Report.docx"
+md_project = "number-theory-from-euler"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Objectivity vs. Subjectivity_ Philosophical Debate and Implications.docx"
+md_project = "obj-vs-sub"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx"
+md_project = "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Proudhon Mutualism Report.docx"
+md_project = "proudhon-mutualism-report"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx"
+md_project = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Report_ Elite Discourse and Structural Critique.docx"
+md_project = "report-elite-discourse-and-structural-critique"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Republican Administrations as the Enforcers of U.S. Imperial Policy.docx"
+md_project = "republican-administrations-as-the-enforcers-of-u-s-imperial-policy"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Savonius Wind Turbines – Comprehensive Design & DIY Guide.docx"
+md_project = "savonius-wind-turbines-comprehensive-design-diy-guide"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Selective Freudian Explanations in Political and Media Discourse.docx"
+md_project = "selective-freudian-explanations-in-political-and-media-discourse"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Structure and Sources of American Law.docx"
+md_project = ""
+status = "missing_md_project"
+match_basis = ""
+
+[[docx]]
+file = "Taylor Lorenz.docx"
+md_project = "taylor"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The Carousel of Right-Wing Resistance in the United States.docx"
+md_project = "the-carousel-of-right-wing-resistance-in-the-united-states"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "The Evolution and Frontiers of Algebra_ A Comprehensive Historical and Conceptual Analysis.docx"
+md_project = "algebra-evolution"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The Formal and Informal History of JavaScript (1995–2025).docx"
+md_project = "javascript-history"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The History and Impact of Homological Algebra.docx"
+md_project = "homological-algebra"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The Matrix as Cultural Technology_ A Mythical & Social History.docx"
+md_project = "matrix-culture"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The Semantics of “Analysis” in Mathematics (Newton → Present, Europe & the United States).docx"
+md_project = "analysis-semantics"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The Semantics of “Geometry” from Euler to Today (Europe & the United States).docx"
+md_project = "geometry-semantics"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "The U.S. Post–World War II Boom, 1945–1975.docx"
+md_project = "the-u-s-post-world-war-ii-boom-1945-1975"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "The Worldwide Computer Chip Industry – A Non-Technical Field Guide.docx"
+md_project = "chip-industry"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "Topology_ From 18th-Century Precursors to Present-Day Frontiers.docx"
+md_project = "topology"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”.docx"
+md_project = "when-subverted-masculinity-boomerangs-into-underdog-masculinity"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "__Ad Hoc “Maulerian School of Film Criticism”__.docx"
+md_project = "mauler"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "__Co-opting the Left_ U.S. Liberal Institutions and Deradicalization (1945–Present)__.docx"
+md_project = "co-opting-the-left"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "__Comprehensive Marxist Literature (1840–2025)_ An Annotated Bibliography and Research Guide__.docx"
+md_project = "marxism-bibliography"
+status = "linked"
+match_basis = "folder_title_inference"
+
+[[docx]]
+file = "american-judicial-process.docx"
+md_project = ""
+status = "missing_md_project"
+match_basis = ""
+
+[[docx]]
+file = "electric-motors-v2.docx"
+md_project = "electric-motors-v2"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "emptiness-of-deleuze.docx"
+md_project = "emptiness-of-deleuze"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "fake-populism-and-neil-young.docx"
+md_project = "fake-populism-and-neil-young"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "grrm-deconstructed.docx"
+md_project = "grrm-deconstructed"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "heaviside.docx"
+md_project = "heaviside"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "in-house-vertical-farms.docx"
+md_project = "in-house-vertical-farms"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "liberal-gothic-quick-facts.docx"
+md_project = "liberal-gothic-quick-facts"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "linear_algebra_history_report.docx"
+md_project = ""
+status = "missing_md_project"
+match_basis = ""
+
+[[docx]]
+file = "nations-right-wing-critique.docx"
+md_project = "nations-right-wing-critique"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "piketty-liberal-pmc-critique.docx"
+md_project = "piketty-liberal-pmc-critique"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "symbolic-post-masculinity.docx"
+md_project = "symbolic-post-masculinity"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "tyler-and-jews.docx"
+md_project = "tyler-and-jews"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "united-states-of-empire.docx"
+md_project = "united-states-of-empire"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "yankee-courts-and-legal-bias.docx"
+md_project = "yankee-courts-and-legal-bias"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "yankee-left.docx"
+md_project = "yankee-left"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "yankee-white-supremacy.docx"
+md_project = "yankee-white-supremacy"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[md_project]]
+folder = "1inventing-socialism"
+docx = "Inventing Socialism.docx"
+status = "linked"
+empty = false
+title = "Inventing Socialism"
+subtitle = "How a Name Emerged in Britain and France (1820-1840)"
+
+[[md_project]]
+folder = "2christian-socialism"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Christian Socialism in Mid-Victorian Britain"
+subtitle = "Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)"
+
+[[md_project]]
+folder = "3mutualism"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Mutualism: Markets Without Capitalism"
+subtitle = "Proudhon's anti-state market socialism and mutual credit"
+
+[[md_project]]
+folder = "4chartist"
+docx = "Chartists & Radical Republicans, 1840‑1865_ Franchise, Socialism, and the Limits of Alliance.docx"
+status = "linked"
+empty = false
+title = "Chartists & Radical Republicans, 1840-1865"
+subtitle = "Franchise, Socialism, and the Limits of Alliance"
+
+[[md_project]]
+folder = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
+docx = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx"
+status = "linked"
+empty = false
+title = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture"
+subtitle = ""
+
+[[md_project]]
+folder = "a-post-chomskyan-theory-of-language-in-the-age-of-llms"
+docx = "A Post-Chomskyan Theory of Language in the Age of LLMs.docx"
+status = "linked"
+empty = false
+title = "A Post-Chomskyan Theory of Language in the Age of LLMs"
+subtitle = ""
+
+[[md_project]]
+folder = "algebra-evolution"
+docx = "The Evolution and Frontiers of Algebra_ A Comprehensive Historical and Conceptual Analysis.docx"
+status = "linked"
+empty = false
+title = "The Evolution and Frontiers of Algebra"
+subtitle = "A Comprehensive Historical and Conceptual Analysis"
+
+[[md_project]]
+folder = "analysis-semantics"
+docx = "The Semantics of “Analysis” in Mathematics (Newton → Present, Europe & the United States).docx"
+status = "linked"
+empty = false
+title = "The Semantics of \\\"Analysis\\\" in Mathematics"
+subtitle = "Newton → Present (Europe & the United States)"
+
+[[md_project]]
+folder = "brickmaking-history-materials-processes-and-production-planning"
+docx = "Brickmaking_ History, Materials, Processes, and Production Planning.docx"
+status = "linked"
+empty = false
+title = "Brickmaking_ History, Materials, Processes, and Production Planning"
+subtitle = ""
+
+[[md_project]]
+folder = "category-theory"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Category Theory: Origins, Invention, and Early Reception (1935-1965)"
+subtitle = "Origins, invention, and early reception (1935-1965)"
+
+[[md_project]]
+folder = "category-theory-research-scope"
+docx = "Category Theory Research Scope.docx"
+status = "linked"
+empty = false
+title = "Category Theory Research Scope"
+subtitle = ""
+
+[[md_project]]
+folder = "chip-industry"
+docx = "The Worldwide Computer Chip Industry – A Non-Technical Field Guide.docx"
+status = "linked"
+empty = false
+title = "The Worldwide Computer Chip Industry"
+subtitle = "A Non-Technical Field Guide"
+
+[[md_project]]
+folder = "christian-socialism-report-request"
+docx = "Christian Socialism Report Request.docx"
+status = "linked"
+empty = false
+title = "Christian Socialism Report Request"
+subtitle = ""
+
+[[md_project]]
+folder = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
+docx = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts.docx"
+status = "linked"
+empty = false
+title = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts"
+subtitle = ""
+
+[[md_project]]
+folder = "co-opting-the-left"
+docx = "__Co-opting the Left_ U.S. Liberal Institutions and Deradicalization (1945–Present)__.docx"
+status = "linked"
+empty = false
+title = "Co-opting the Left"
+subtitle = "U.S. Liberal Institutions and Deradicalization (1945--Present)"
+
+[[md_project]]
+folder = "complex-plane-canvas"
+docx = "Complex Analysis as a Universal Canvas (Euler to Today)_ A Research Report.docx"
+status = "linked"
+empty = false
+title = "Complex Analysis as a Universal Canvas"
+subtitle = "Euler to Today: A Research Report"
+
+[[md_project]]
+folder = "complex-plane-culture"
+docx = "Imagining the Imaginary_ A Cultural-Intellectual History of the Complex Plane (1748–2025).docx"
+status = "linked"
+empty = false
+title = "Imagining the Imaginary"
+subtitle = "A Cultural-Intellectual History of the Complex Plane (1748--2025)"
+
+[[md_project]]
+folder = "conserving-radicalism"
+docx = "Conservation of Radicalism and Asymmetric Co-optability.docx"
+status = "linked"
+empty = false
+title = "Conservation of Radicalism and Asymmetric Co-optability"
+subtitle = ">-"
+
+[[md_project]]
+folder = "corporate-capital-and-progressive-cultural-politics"
+docx = "Corporate Capital and Progressive Cultural Politics.docx"
+status = "linked"
+empty = false
+title = "Corporate Capital and Progressive Cultural Politics"
+subtitle = ""
+
+[[md_project]]
+folder = "critical-review-of-major-official-financial-crisis-inquiry-reports"
+docx = "Critical Review of Major Official Financial-Crisis Inquiry Reports.docx"
+status = "linked"
+empty = false
+title = "Critical Review of Major Official Financial-Crisis Inquiry Reports"
+subtitle = ""
+
+[[md_project]]
+folder = "css-history"
+docx = "A Comprehensive History of CSS — Institutions, Specs, and Practice.docx"
+status = "linked"
+empty = false
+title = "A Comprehensive History of CSS"
+subtitle = "Institutions, Specs, and Practice"
+
+[[md_project]]
+folder = "culture-gothic"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Aesthetics for the Maimed"
+subtitle = ""
+
+[[md_project]]
+folder = "darrieus-vawt-design-construction-1-10-kw"
+docx = "Darrieus VAWT Design & Construction (1–10 kW).docx"
+status = "linked"
+empty = false
+title = "Darrieus VAWT Design & Construction (1–10 kW)"
+subtitle = ""
+
+[[md_project]]
+folder = "desalination-plant-design-and-construction"
+docx = "Desalination Plant Design and Construction.docx"
+status = "linked"
+empty = false
+title = "Desalination Plant Design and Construction"
+subtitle = ""
+
+[[md_project]]
+folder = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
+docx = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo.docx"
+status = "linked"
+empty = false
+title = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo"
+subtitle = ""
+
+[[md_project]]
+folder = "electric-motor-design-principles-types-and-practices"
+docx = "Electric Motor Design_ Principles, Types, and Practices.docx"
+status = "linked"
+empty = false
+title = "Electric Motor Design_ Principles, Types, and Practices"
+subtitle = ""
+
+[[md_project]]
+folder = "electric-motors-v2"
+docx = "electric-motors-v2.docx"
+status = "linked"
+empty = false
+title = "electric-motors-v2"
+subtitle = ""
+
+[[md_project]]
+folder = "emptiness-of-deleuze"
+docx = "emptiness-of-deleuze.docx"
+status = "linked"
+empty = false
+title = "emptiness-of-deleuze"
+subtitle = ""
+
+[[md_project]]
+folder = "fake-populism-and-neil-young"
+docx = "fake-populism-and-neil-young.docx"
+status = "linked"
+empty = false
+title = "fake-populism-and-neil-young"
+subtitle = ""
+
+[[md_project]]
+folder = "federal-legal-landscape"
+docx = "Federal Legal Landscape.docx"
+status = "linked"
+empty = false
+title = "Federal Legal Landscape"
+subtitle = ""
+
+[[md_project]]
+folder = "gaht"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Gender and GAHT"
+subtitle = "Physiological Effects, Risks, and Timing"
+
+[[md_project]]
+folder = "gaht-research-report-summary"
+docx = "GAHT Research Report Summary.docx"
+status = "linked"
+empty = false
+title = "GAHT Research Report Summary"
+subtitle = ""
+
+[[md_project]]
+folder = "geometry-semantics"
+docx = "The Semantics of “Geometry” from Euler to Today (Europe & the United States).docx"
+status = "linked"
+empty = false
+title = "The Semantics of \"Geometry\" from Euler to Today"
+subtitle = "Europe & the United States"
+
+[[md_project]]
+folder = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
+docx = "Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx"
+status = "linked"
+empty = false
+title = "Global Population Dynamics_ Peaks in Population Level and Growth Rates"
+subtitle = ""
+
+[[md_project]]
+folder = "grrm-deconstructed"
+docx = "grrm-deconstructed.docx"
+status = "linked"
+empty = false
+title = "grrm-deconstructed"
+subtitle = ""
+
+[[md_project]]
+folder = "hasan"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "HasanAbi as a Platform-Native Political Brand"
+subtitle = "Career narrative, popularity mechanics, controversy, and platform risk in Twitch-era politics"
+
+[[md_project]]
+folder = "hasanabi-popularity-analysis"
+docx = "HasanAbi Popularity Analysis.docx"
+status = "linked"
+empty = false
+title = "HasanAbi Popularity Analysis"
+subtitle = ""
+
+[[md_project]]
+folder = "heaviside"
+docx = "heaviside.docx"
+status = "linked"
+empty = false
+title = "heaviside"
+subtitle = ""
+
+[[md_project]]
+folder = "highway-engineering"
+docx = "From Dirt Track to Durable Highway – Engineering, Material Science & Historic Precedent.docx"
+status = "linked"
+empty = false
+title = "From Dirt Track to Durable Highway"
+subtitle = "Engineering, Material Science & Historic Precedent"
+
+[[md_project]]
+folder = "hitler-philosophy"
+docx = "Adolf Hitler’s Ideology from Origins to Demise (1907–1945).docx"
+status = "linked"
+empty = false
+title = "Adolf Hitler's Ideology from Origins to Demise (1907--1945)"
+subtitle = "Continuity and tactical adaptation from Vienna to 1945"
+
+[[md_project]]
+folder = "homological-algebra"
+docx = "The History and Impact of Homological Algebra.docx"
+status = "linked"
+empty = false
+title = "The History and Impact of Homological Algebra"
+subtitle = "From Betti Numbers to Infinity-Categories"
+
+[[md_project]]
+folder = "how-llms-challenge-chomskyan-assumptions-analytical-report"
+docx = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx"
+status = "linked"
+empty = false
+title = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report"
+subtitle = ""
+
+[[md_project]]
+folder = "html-history"
+docx = "History of HTML (1990–2025).docx"
+status = "linked"
+empty = false
+title = "History of HTML (1990--2025)"
+subtitle = "From SGML Roots to the Living Standard"
+
+[[md_project]]
+folder = "in-house-vertical-farms"
+docx = "in-house-vertical-farms.docx"
+status = "linked"
+empty = false
+title = "in-house-vertical-farms"
+subtitle = ""
+
+[[md_project]]
+folder = "javascript-history"
+docx = "The Formal and Informal History of JavaScript (1995–2025).docx"
+status = "linked"
+empty = false
+title = "The Formal and Informal History of JavaScript (1995--2025)"
+subtitle = "Standards, engines, frameworks, tooling, and culture across three decades"
+
+[[md_project]]
+folder = "jewish-political-activism"
+docx = "Jewish Political Activism in the United States (1880–2025).docx"
+status = "linked"
+empty = false
+title = "Jewish Political Activism in the United States"
+subtitle = "1880–2025"
+
+[[md_project]]
+folder = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
+docx = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence.docx"
+status = "linked"
+empty = false
+title = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence"
+subtitle = ""
+
+[[md_project]]
+folder = "kern-weed"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Kern County and the Cannabis Legal Environment"
+subtitle = "Federal, California, and Kern County constraints on licensing, permitting, and operations"
+
+[[md_project]]
+folder = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
+docx = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in.docx"
+status = "linked"
+empty = false
+title = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers"
+subtitle = ""
+
+[[md_project]]
+folder = "land-rooted-ethno"
+docx = "Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence.docx"
+status = "linked"
+empty = false
+title = "Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence"
+subtitle = "Place-based identity, prestige norms, and the mechanisms of recurring right backlash"
+
+[[md_project]]
+folder = "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens"
+docx = "Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens.docx"
+status = "linked"
+empty = false
+title = "Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens"
+subtitle = ""
+
+[[md_project]]
+folder = "liberal-gothic"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = ""
+subtitle = ""
+
+[[md_project]]
+folder = "liberal-gothic-an-analytical-report"
+docx = "Liberal Gothic_ An Analytical Report.docx"
+status = "linked"
+empty = false
+title = "Liberal Gothic_ An Analytical Report"
+subtitle = ""
+
+[[md_project]]
+folder = "liberal-gothic-quick-facts"
+docx = "liberal-gothic-quick-facts.docx"
+status = "linked"
+empty = false
+title = "liberal-gothic-quick-facts"
+subtitle = ""
+
+[[md_project]]
+folder = "male-suicide"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Male Suicide in the United States (2000--Present)"
+subtitle = "Trends, disparities, drivers, interventions, and projections"
+
+[[md_project]]
+folder = "male-suicide-research-outline"
+docx = "Male Suicide Research Outline.docx"
+status = "linked"
+empty = false
+title = "Male Suicide Research Outline"
+subtitle = ""
+
+[[md_project]]
+folder = "marx-engels"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Marx and Engels: Scientific Socialism and the Communist Manifesto"
+subtitle = "Scientific socialism, terminology, and early reception around the Communist Manifesto"
+
+[[md_project]]
+folder = "marx-engels-manifesto-analysis"
+docx = "Marx Engels Manifesto Analysis.docx"
+status = "linked"
+empty = false
+title = "Marx Engels Manifesto Analysis"
+subtitle = ""
+
+[[md_project]]
+folder = "marxism-bibliography"
+docx = "__Comprehensive Marxist Literature (1840–2025)_ An Annotated Bibliography and Research Guide__.docx"
+status = "linked"
+empty = false
+title = "Comprehensive Marxist Literature (1840--2025)"
+subtitle = "An Annotated Bibliography and Research Guide"
+
+[[md_project]]
+folder = "marxism-evolution"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Evolution of Marxism"
+subtitle = "A timeline and conceptual map (1840s–2026)"
+
+[[md_project]]
+folder = "marxism-research-clarifications"
+docx = "Marxism Research Clarifications.docx"
+status = "linked"
+empty = false
+title = "Marxism Research Clarifications"
+subtitle = ""
+
+[[md_project]]
+folder = "matrix-culture"
+docx = "The Matrix as Cultural Technology_ A Mythical & Social History.docx"
+status = "linked"
+empty = false
+title = "The Matrix as Cultural Technology"
+subtitle = "A Mythical & Social History"
+
+[[md_project]]
+folder = "mauler"
+docx = "__Ad Hoc “Maulerian School of Film Criticism”__.docx"
+status = "linked"
+empty = false
+title = "Ad Hoc \\\"Maulerian School of Film Criticism\\\""
+subtitle = "Toward an ad hoc formalist revival in long-form YouTube critique"
+
+[[md_project]]
+folder = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
+docx = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx"
+status = "linked"
+empty = false
+title = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis"
+subtitle = ""
+
+[[md_project]]
+folder = "meme-culture-and-borderer-right-style-a-research-report"
+docx = "Meme Culture and “Borderer-Right” Style_ A Research Report.docx"
+status = "linked"
+empty = false
+title = "Meme Culture and “Borderer-Right” Style_ A Research Report"
+subtitle = ""
+
+[[md_project]]
+folder = "moby-dick-as-yankee-self-aggrandizement-and-self-indictment"
+docx = "Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment.docx"
+status = "linked"
+empty = false
+title = "Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment"
+subtitle = ""
+
+[[md_project]]
+folder = "nations-right-wing-critique"
+docx = "nations-right-wing-critique.docx"
+status = "linked"
+empty = false
+title = "nations-right-wing-critique"
+subtitle = ""
+
+[[md_project]]
+folder = "neural-networks"
+docx = "History of Neural Networks in Computing (1940s–2026).docx"
+status = "linked"
+empty = false
+title = "History of Neural Networks in Computing (1940s--2026)"
+subtitle = "From cybernetics and connectionism to deep learning and the transformer era"
+
+[[md_project]]
+folder = "nietzche-math-critique"
+docx = ""
+status = "no_corresponding_docx"
+empty = false
+title = "Dead Symbols and their Worship"
+subtitle = ""
+
+[[md_project]]
+folder = "number-theory-from-euler"
+docx = "Number Theory from Euler to Today (Europe & the United States)_ A Research Report.docx"
+status = "linked"
+empty = false
+title = "Number Theory from Euler to Today"
+subtitle = "Europe & the United States: A Research Report"
+
+[[md_project]]
+folder = "obj-vs-sub"
+docx = "Objectivity vs. Subjectivity_ Philosophical Debate and Implications.docx"
+status = "linked"
+empty = false
+title = "Objectivity vs. Subjectivity: Philosophical Debate and Implications"
+subtitle = "From Plato to AI, and why intersubjective methods matter"
+
+[[md_project]]
+folder = "operators-social-history"
+docx = "A Social History of “Operators” in Mathematics.docx"
+status = "linked"
+empty = false
+title = "A Social History of \\\"Operators\\\" in Mathematics"
+subtitle = "How actions became objects"
+
+[[md_project]]
+folder = "piketty-liberal-pmc-critique"
+docx = "piketty-liberal-pmc-critique.docx"
+status = "linked"
+empty = false
+title = "piketty-liberal-pmc-critique"
+subtitle = ""
+
+[[md_project]]
+folder = "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850"
+docx = "Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx"
+status = "linked"
+empty = false
+title = "Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)"
+subtitle = ""
+
+[[md_project]]
+folder = "proudhon-mutualism-report"
+docx = "Proudhon Mutualism Report.docx"
+status = "linked"
+empty = false
+title = "Proudhon Mutualism Report"
+subtitle = ""
+
+[[md_project]]
+folder = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
+docx = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx"
+status = "linked"
+empty = false
+title = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal"
+subtitle = ""
+
+[[md_project]]
+folder = "report-elite-discourse-and-structural-critique"
+docx = "Report_ Elite Discourse and Structural Critique.docx"
+status = "linked"
+empty = false
+title = "Report_ Elite Discourse and Structural Critique"
+subtitle = ""
+
+[[md_project]]
+folder = "republican-administrations-as-the-enforcers-of-u-s-imperial-policy"
+docx = "Republican Administrations as the Enforcers of U.S. Imperial Policy.docx"
+status = "linked"
+empty = false
+title = "Republican Administrations as the Enforcers of U.S. Imperial Policy"
+subtitle = ""
+
+[[md_project]]
+folder = "savonius-wind-turbines-comprehensive-design-diy-guide"
+docx = "Savonius Wind Turbines – Comprehensive Design & DIY Guide.docx"
+status = "linked"
+empty = false
+title = "Savonius Wind Turbines – Comprehensive Design & DIY Guide"
+subtitle = ""
+
+[[md_project]]
+folder = "selective-freudian-explanations-in-political-and-media-discourse"
+docx = "Selective Freudian Explanations in Political and Media Discourse.docx"
+status = "linked"
+empty = false
+title = "Selective Freudian Explanations in Political and Media Discourse"
+subtitle = ""
+
+[[md_project]]
+folder = "symbolic-post-masculinity"
+docx = "symbolic-post-masculinity.docx"
+status = "linked"
+empty = false
+title = "symbolic-post-masculinity"
+subtitle = ""
+
+[[md_project]]
+folder = "taylor"
+docx = "Taylor Lorenz.docx"
+status = "linked"
+empty = false
+title = "Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)"
+subtitle = "Sources on controversy, ethics, and internet-era reporting"
+
+[[md_project]]
+folder = "the-carousel-of-right-wing-resistance-in-the-united-states"
+docx = "The Carousel of Right-Wing Resistance in the United States.docx"
+status = "linked"
+empty = false
+title = "The Carousel of Right-Wing Resistance in the United States"
+subtitle = ""
+
+[[md_project]]
+folder = "the-u-s-post-world-war-ii-boom-1945-1975"
+docx = "The U.S. Post–World War II Boom, 1945–1975.docx"
+status = "linked"
+empty = false
+title = "The U.S. Post–World War II Boom, 1945–1975"
+subtitle = ""
+
+[[md_project]]
+folder = "topology"
+docx = "Topology_ From 18th-Century Precursors to Present-Day Frontiers.docx"
+status = "linked"
+empty = false
+title = "Topology"
+subtitle = "From 18th-Century Precursors to Present-Day Frontiers"
+
+[[md_project]]
+folder = "tyler-and-jews"
+docx = "tyler-and-jews.docx"
+status = "linked"
+empty = false
+title = "tyler-and-jews"
+subtitle = ""
+
+[[md_project]]
+folder = "type-theory-history"
+docx = "A Comprehensive History of Type Theory (1900s–Present).docx"
+status = "linked"
+empty = false
+title = "A Comprehensive History of Type Theory (1900s--Present)"
+subtitle = ""
+
+[[md_project]]
+folder = "united-states-of-empire"
+docx = "united-states-of-empire.docx"
+status = "linked"
+empty = false
+title = "united-states-of-empire"
+subtitle = ""
+
+[[md_project]]
+folder = "when-subverted-masculinity-boomerangs-into-underdog-masculinity"
+docx = "When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”.docx"
+status = "linked"
+empty = false
+title = "When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”"
+subtitle = ""
+
+[[md_project]]
+folder = "yankee-courts-and-legal-bias"
+docx = "yankee-courts-and-legal-bias.docx"
+status = "linked"
+empty = false
+title = "yankee-courts-and-legal-bias"
+subtitle = ""
+
+[[md_project]]
+folder = "yankee-left"
+docx = "yankee-left.docx"
+status = "linked"
+empty = false
+title = "yankee-left"
+subtitle = ""
+
+[[md_project]]
+folder = "yankee-white-supremacy"
+docx = "yankee-white-supremacy.docx"
+status = "linked"
+empty = false
+title = "yankee-white-supremacy"
+subtitle = ""
