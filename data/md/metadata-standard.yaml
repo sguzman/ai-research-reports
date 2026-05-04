@@ -1,0 +1,154 @@
+---
+# Canonical metadata standard for every `data/md/<project>/article.yaml`.
+# This is a strict superset of:
+# - prior top-level metadata helper files under `data/md/`
+# - the strongest existing project-level `article.yaml` records
+# - legacy compatibility keys already present in the repo
+#
+# Strict completeness rule:
+# - Every key below should exist in a complete metadata file.
+# - Empty cover-image fields are allowed.
+# - Legacy compatibility keys should be kept in sync with their canonical equivalents.
+# - `report` is the controlled extension area for report-specific metadata.
+
+# Identity and display
+title: ""
+subtitle: ""
+linkTitle: ""
+description: ""
+summary: ""
+abstract: ""
+slug: ""
+url: ""
+aliases: []
+
+# Dates and publication state
+date: ""
+publishDate: ""
+lastmod: ""
+expiryDate: ""
+draft: false
+status: ""
+edition: ""
+revision: ""
+
+# People and ownership
+author: []
+authors: []
+creator: []
+publisher: ""
+rights: ""
+license: ""
+lang: ""
+language: ""
+
+# Classification and discovery
+identifier: ""
+dataset_id: ""
+plate_id: ""
+type: ""
+format: ""
+categories: []
+tags: []
+keywords: []
+subject: []
+subjects: []
+library_of_congress_classification:
+  class: ""
+  label: ""
+  description: ""
+
+# Series and numbering
+series: ""
+series-title: ""
+series-number: 0
+series_title: ""
+series_number: 0
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_number: 0
+report_year: 0
+
+# Rendering and structure
+layout: ""
+markup: ""
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+number-sections: true
+weight: 0
+
+# Cover and EPUB/export settings
+cover-image: ""
+cover_image: ""
+epub-cover-image: ""
+epub_cover_image: ""
+epub-title-page: false
+epub-chapter-level: 2
+epub-stylesheet: "epub.css"
+highlight-style: "tango"
+
+# Hugo/build compatibility
+outputs: []
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: 0
+  filename: "sitemap.xml"
+
+# Report-specific metadata.
+# Keep keys explicit here instead of inventing ad hoc top-level fields.
+report:
+  id: ""
+  code: ""
+  name: ""
+  organization: ""
+  collection: ""
+  series: ""
+  number: ""
+  year: 0
+  version: ""
+  kind: ""
+  type: ""
+  domain: ""
+  discipline: ""
+  subdiscipline: ""
+  topic: ""
+  subject: ""
+  scope: ""
+  scope_years: ""
+  time_scope: ""
+  time_span: ""
+  period: ""
+  period_covered: ""
+  region: ""
+  region_focus: ""
+  audience: ""
+  level: ""
+  focus: ""
+  emphasis: ""
+  structure: ""
+  intent: ""
+  methods: []
+  method: ""
+  primary_texts: []
+  population_focus: ""
+  stance: ""
+  is_report: true
+  notes: ""
+  conversion:
+    source_docx: ""
+    tool: ""
+    date: ""
+
+...

@@ -5,17 +5,14 @@
 generated_on = "2026-05-03"
 docx_count = 85
 md_project_count = 97
-md_top_level_file_count = 5
+md_top_level_file_count = 2
 linked_docx_count = 85
 unlinked_docx_count = 0
 md_without_docx_count = 12
 
 md_top_level_files = [
   "epub.css",
-  "hugo.meta.v2.yaml",
-  "hugo.meta.yaml",
-  "pandoc-base.yaml",
-  "template.yaml",
+  "metadata-standard.yaml",
 ]
 
 [[docx]]
