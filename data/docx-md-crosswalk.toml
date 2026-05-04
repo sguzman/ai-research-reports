@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 86
-md_project_count = 97
+docx_count = 88
+md_project_count = 99
 md_top_level_file_count = 2
-linked_docx_count = 86
+linked_docx_count = 88
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -66,6 +66,12 @@ match_basis = "article_yaml_source_docx"
 [[docx]]
 file = "Category Theory Research Scope.docx"
 md_project = "category-theory-research-scope"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "Cesar Chavez After the Allegations.docx"
+md_project = "cesar-chavez-after-the-allegations"
 status = "linked"
 match_basis = "article_yaml_source_docx"
 
@@ -352,6 +358,12 @@ status = "linked"
 match_basis = "article_yaml_source_docx"
 
 [[docx]]
+file = "The Economy of Non-Bitcoin Cryptocurrencies.docx"
+md_project = "the-economy-of-non-bitcoin-cryptocurrencies"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
 file = "The Evolution and Frontiers of Algebra_ A Comprehensive Historical and Conceptual Analysis.docx"
 md_project = "algebra-evolution"
 status = "linked"
@@ -633,6 +645,14 @@ docx = "Category Theory Research Scope.docx"
 status = "linked"
 empty = false
 title = "Category Theory Research Scope"
+subtitle = ""
+
+[[md_project]]
+folder = "cesar-chavez-after-the-allegations"
+docx = "Cesar Chavez After the Allegations.docx"
+status = "linked"
+empty = false
+title = "Cesar Chavez After the Allegations"
 subtitle = ""
 
 [[md_project]]
@@ -1233,6 +1253,14 @@ docx = "The Carousel of Right-Wing Resistance in the United States.docx"
 status = "linked"
 empty = false
 title = "The Carousel of Right-Wing Resistance in the United States"
+subtitle = ""
+
+[[md_project]]
+folder = "the-economy-of-non-bitcoin-cryptocurrencies"
+docx = "The Economy of Non-Bitcoin Cryptocurrencies.docx"
+status = "linked"
+empty = false
+title = "The Economy of Non-Bitcoin Cryptocurrencies"
 subtitle = ""
 
 [[md_project]]

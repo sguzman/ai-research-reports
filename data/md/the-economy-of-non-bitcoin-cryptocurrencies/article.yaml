@@ -1,0 +1,161 @@
+---
+abstract: A research report on the non-Bitcoin cryptocurrency economy, examining sectoral composition,
+  valuation logics, market structure, liquidity plumbing, whale susceptibility, manipulation pathways,
+  and the distinction between infrastructure assets, speculative tokens, and fragile microcap launches.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Finance
+- Cryptocurrency
+- Digital Assets
+- Market Structure
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: the-economy-of-non-bitcoin-cryptocurrencies
+date: '2026-05-04'
+description: An analytical overview of altcoin market structure, valuation, manipulation risk, and the
+  economic roles of non-Bitcoin crypto sectors.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:the-economy-of-non-bitcoin-cryptocurrencies
+isCJKLanguage: false
+keywords:
+- altcoins
+- cryptocurrencies
+- non-Bitcoin crypto
+- market structure
+- stablecoins
+- DeFi
+- memecoins
+- wash trading
+lang: en
+language: English
+lastmod: '2026-05-04'
+layout: ''
+library_of_congress_classification:
+  class: HG1710.3
+  description: Digital assets, cryptocurrency markets, and contemporary financial instruments.
+  label: Finance and digital assets
+license: CC0-1.0
+linkTitle: The Economy of Non-Bitcoin Cryptocurrencies
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-04'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general financially literate reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-04'
+    source_docx: The Economy of Non-Bitcoin Cryptocurrencies.docx
+    tool: pandoc 3.6
+  discipline: finance
+  domain: digital asset markets
+  emphasis: valuation, liquidity, and manipulation risk
+  focus: altcoin sectors, exchange structure, and failure modes
+  id: urn:marginalia:the-economy-of-non-bitcoin-cryptocurrencies
+  intent: explain the economic structure and fragilities of non-Bitcoin cryptocurrency markets
+  is_report: true
+  kind: analytical report
+  level: ''
+  method: source synthesis
+  methods:
+  - market-structure analysis
+  - literature synthesis
+  - institutional source review
+  name: The Economy of Non-Bitcoin Cryptocurrencies
+  notes: ''
+  number: 099
+  organization: Marginalia
+  period: '2026'
+  period_covered: contemporary market conditions with recent literature
+  population_focus: crypto assets outside Bitcoin
+  primary_texts: []
+  region: global
+  region_focus: global
+  scope: valuation, taxonomy, exchange structure, manipulation, whale concentration, and failure pathways
+  scope_years: contemporary with recent empirical literature
+  series: digital-economy-studies
+  stance: analytical
+  structure: executive summary plus thematic sections on taxonomy, liquidity, and risk
+  subdiscipline: financial market structure
+  subject: non-Bitcoin cryptocurrency markets
+  time_scope: contemporary
+  time_span: 2024-2026 emphasis
+  topic: The Economy of Non-Bitcoin Cryptocurrencies
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 099
+report-number: 099
+report-year: '2026'
+report_no: 99
+report_number: 99
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: digital-economy-studies
+series-number: 99
+series-title: Digital Economy Studies
+series_number: 99
+series_title: Digital Economy Studies
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: the-economy-of-non-bitcoin-cryptocurrencies
+status: draft
+subject:
+- Cryptocurrencies
+- Digital assets
+- Market structure
+subjects:
+- Altcoins
+- Stablecoins
+- Decentralized finance
+- Crypto market manipulation
+subtitle: ''
+summary: An analytical overview of altcoin market structure, valuation, manipulation risk, and the economic
+  roles of non-Bitcoin crypto sectors.
+tags:
+- cryptocurrency
+- altcoins
+- digital-assets
+- market-structure
+- defi
+- stablecoins
+title: The Economy of Non-Bitcoin Cryptocurrencies
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...

@@ -1,0 +1,162 @@
+---
+abstract: A research report on the posthumous reassessment of Cesar Chavez after the March 2026 sexual-abuse
+  allegations, focusing on evidentiary credibility, institutional responses, public-memory reversal, and
+  the distinction between decentering Chavez as a civic icon and repudiating the broader farmworker movement.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Labor History
+- United States History
+- Public Memory
+- Political Controversy
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: cesar-chavez-after-the-allegations
+date: '2026-05-04'
+description: An analytical report on how the 2026 allegations against Cesar Chavez altered the public
+  record, civic commemorations, and historical interpretation of his legacy.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:cesar-chavez-after-the-allegations
+isCJKLanguage: false
+keywords:
+- Cesar Chavez
+- allegations
+- Dolores Huerta
+- farmworker movement
+- public memory
+- sexual abuse allegations
+- labor history
+- historical reassessment
+lang: en
+language: English
+lastmod: '2026-05-04'
+layout: ''
+library_of_congress_classification:
+  class: HD6508
+  description: Labor leaders, labor movements, and the social history of organized labor in the United
+    States.
+  label: Labor and laboring classes
+license: CC0-1.0
+linkTitle: Cesar Chavez After the Allegations
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-04'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-04'
+    source_docx: Cesar Chavez After the Allegations.docx
+    tool: pandoc 3.6
+  discipline: history
+  domain: labor history
+  emphasis: legacy reassessment and institutional response
+  focus: evidentiary credibility, public honors, and civic reinterpretation
+  id: urn:marginalia:cesar-chavez-after-the-allegations
+  intent: assess the post-2026 reinterpretation of Cesar Chavez's public legacy
+  is_report: true
+  kind: analytical report
+  level: ''
+  method: source synthesis
+  methods:
+  - press synthesis
+  - institutional document review
+  - comparative historical interpretation
+  name: Cesar Chavez After the Allegations
+  notes: ''
+  number: 098
+  organization: Marginalia
+  period: '2026'
+  period_covered: March-April 2026 with historical background
+  population_focus: institutions, public commemorative bodies, and observers of labor history
+  primary_texts: []
+  region: United States
+  region_focus: California and United States
+  scope: allegations, corroboration, institutional response, commemorative reversal, and legacy interpretation
+  scope_years: 1960s-2026
+  series: contemporary-american-public-life
+  stance: analytical and evidentiary
+  structure: executive summary plus historical and institutional sections
+  subdiscipline: public memory and labor history
+  subject: Cesar Chavez and the politics of historical memory
+  time_scope: contemporary reassessment with historical background
+  time_span: 1960s-2026
+  topic: Cesar Chavez After the Allegations
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 098
+report-number: 098
+report-year: '2026'
+report_no: 98
+report_number: 98
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: contemporary-american-public-life
+series-number: 98
+series-title: Contemporary American Public Life
+series_number: 98
+series_title: Contemporary American Public Life
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: cesar-chavez-after-the-allegations
+status: draft
+subject:
+- Cesar Chavez
+- Farm labor movement
+- Public memory
+subjects:
+- Allegations against public figures
+- Labor leadership
+- Civic commemoration
+- Historical reassessment
+subtitle: ''
+summary: An analytical report on how the 2026 allegations against Cesar Chavez altered the public record,
+  civic commemorations, and historical interpretation of his legacy.
+tags:
+- cesar-chavez
+- labor-history
+- public-memory
+- political-controversy
+- farmworker-movement
+- united-states
+title: Cesar Chavez After the Allegations
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...
