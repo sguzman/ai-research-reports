@@ -4,11 +4,11 @@
 [summary]
 generated_on = "2026-05-03"
 docx_count = 85
-md_project_count = 97
+md_project_count = 96
 md_top_level_file_count = 2
 linked_docx_count = 85
 unlinked_docx_count = 0
-md_without_docx_count = 12
+md_without_docx_count = 11
 
 md_top_level_files = [
   "epub.css",
@@ -602,7 +602,7 @@ folder = "analysis-semantics"
 docx = "The Semantics of “Analysis” in Mathematics (Newton → Present, Europe & the United States).docx"
 status = "linked"
 empty = false
-title = "The Semantics of \\\"Analysis\\\" in Mathematics"
+title = "The Semantics of \"Analysis\" in Mathematics"
 subtitle = "Newton → Present (Europe & the United States)"
 
 [[md_project]]
@@ -683,7 +683,7 @@ docx = "Conservation of Radicalism and Asymmetric Co-optability.docx"
 status = "linked"
 empty = false
 title = "Conservation of Radicalism and Asymmetric Co-optability"
-subtitle = ">-"
+subtitle = "A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric"
 
 [[md_project]]
 folder = "corporate-capital-and-progressive-cultural-politics"
@@ -762,7 +762,7 @@ folder = "electric-motors-v2"
 docx = "electric-motors-v2.docx"
 status = "linked"
 empty = false
-title = "electric-motors-v2"
+title = "Electric Motors: Design, Control, Manufacturing, and Future Trends"
 subtitle = ""
 
 [[md_project]]
@@ -770,7 +770,7 @@ folder = "emptiness-of-deleuze"
 docx = "emptiness-of-deleuze.docx"
 status = "linked"
 empty = false
-title = "emptiness-of-deleuze"
+title = "The Emptiness of Deleuze"
 subtitle = ""
 
 [[md_project]]
@@ -778,7 +778,7 @@ folder = "fake-populism-and-neil-young"
 docx = "fake-populism-and-neil-young.docx"
 status = "linked"
 empty = false
-title = "fake-populism-and-neil-young"
+title = "Fake Populism and Neil Young"
 subtitle = ""
 
 [[md_project]]
@@ -826,7 +826,7 @@ folder = "grrm-deconstructed"
 docx = "grrm-deconstructed.docx"
 status = "linked"
 empty = false
-title = "grrm-deconstructed"
+title = "George R.R. Martin Deconstructed"
 subtitle = ""
 
 [[md_project]]
@@ -850,7 +850,7 @@ folder = "heaviside"
 docx = "heaviside.docx"
 status = "linked"
 empty = false
-title = "heaviside"
+title = "Oliver Heaviside"
 subtitle = ""
 
 [[md_project]]
@@ -898,7 +898,7 @@ folder = "in-house-vertical-farms"
 docx = "in-house-vertical-farms.docx"
 status = "linked"
 empty = false
-title = "in-house-vertical-farms"
+title = "In-House Vertical Farms"
 subtitle = ""
 
 [[md_project]]
@@ -958,14 +958,6 @@ title = "Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkw
 subtitle = ""
 
 [[md_project]]
-folder = "liberal-gothic"
-docx = ""
-status = "no_corresponding_docx"
-empty = false
-title = ""
-subtitle = ""
-
-[[md_project]]
 folder = "liberal-gothic-an-analytical-report"
 docx = "Liberal Gothic_ An Analytical Report.docx"
 status = "linked"
@@ -978,7 +970,7 @@ folder = "liberal-gothic-quick-facts"
 docx = "liberal-gothic-quick-facts.docx"
 status = "linked"
 empty = false
-title = "liberal-gothic-quick-facts"
+title = "Liberal Gothic: Quick Facts"
 subtitle = ""
 
 [[md_project]]
@@ -1058,7 +1050,7 @@ folder = "mauler"
 docx = "__Ad Hoc “Maulerian School of Film Criticism”__.docx"
 status = "linked"
 empty = false
-title = "Ad Hoc \\\"Maulerian School of Film Criticism\\\""
+title = "Ad Hoc \"Maulerian School of Film Criticism"
 subtitle = "Toward an ad hoc formalist revival in long-form YouTube critique"
 
 [[md_project]]
@@ -1090,7 +1082,7 @@ folder = "nations-right-wing-critique"
 docx = "nations-right-wing-critique.docx"
 status = "linked"
 empty = false
-title = "nations-right-wing-critique"
+title = "Nation's Right-Wing Critique"
 subtitle = ""
 
 [[md_project]]
@@ -1130,7 +1122,7 @@ folder = "operators-social-history"
 docx = "A Social History of “Operators” in Mathematics.docx"
 status = "linked"
 empty = false
-title = "A Social History of \\\"Operators\\\" in Mathematics"
+title = "A Social History of \"Operators\" in Mathematics"
 subtitle = "How actions became objects"
 
 [[md_project]]
@@ -1138,7 +1130,7 @@ folder = "piketty-liberal-pmc-critique"
 docx = "piketty-liberal-pmc-critique.docx"
 status = "linked"
 empty = false
-title = "piketty-liberal-pmc-critique"
+title = "Piketty and the Liberal PMC: A Critique"
 subtitle = ""
 
 [[md_project]]
@@ -1170,7 +1162,7 @@ folder = "report-elite-discourse-and-structural-critique"
 docx = "Report_ Elite Discourse and Structural Critique.docx"
 status = "linked"
 empty = false
-title = "Report_ Elite Discourse and Structural Critique"
+title = "Elite Discourse and Structural Critique"
 subtitle = ""
 
 [[md_project]]
@@ -1210,7 +1202,7 @@ folder = "symbolic-post-masculinity"
 docx = "symbolic-post-masculinity.docx"
 status = "linked"
 empty = false
-title = "symbolic-post-masculinity"
+title = "Symbolic Post-Masculinity"
 subtitle = ""
 
 [[md_project]]
@@ -1250,7 +1242,7 @@ folder = "tyler-and-jews"
 docx = "tyler-and-jews.docx"
 status = "linked"
 empty = false
-title = "tyler-and-jews"
+title = "Tyler and Jews"
 subtitle = ""
 
 [[md_project]]
@@ -1266,7 +1258,7 @@ folder = "united-states-of-empire"
 docx = "united-states-of-empire.docx"
 status = "linked"
 empty = false
-title = "united-states-of-empire"
+title = "The United States of Empire"
 subtitle = ""
 
 [[md_project]]
@@ -1282,7 +1274,7 @@ folder = "yankee-courts-and-legal-bias"
 docx = "yankee-courts-and-legal-bias.docx"
 status = "linked"
 empty = false
-title = "yankee-courts-and-legal-bias"
+title = "Yankee Courts and Legal Bias"
 subtitle = ""
 
 [[md_project]]
@@ -1290,7 +1282,7 @@ folder = "yankee-left"
 docx = "yankee-left.docx"
 status = "linked"
 empty = false
-title = "yankee-left"
+title = "The Yankee Left"
 subtitle = ""
 
 [[md_project]]
@@ -1298,5 +1290,5 @@ folder = "yankee-white-supremacy"
 docx = "yankee-white-supremacy.docx"
 status = "linked"
 empty = false
-title = "yankee-white-supremacy"
+title = "Yankee White Supremacy"
 subtitle = ""
