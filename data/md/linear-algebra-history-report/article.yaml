@@ -1,0 +1,105 @@
+---
+abstract: >-
+  A historical survey of linear algebra as a field that emerged gradually from
+  the convergence of equation solving, determinants, geometry, matrices, vector
+  spaces, canonical forms, numerical methods, and computation. The report
+  traces the subject from practical elimination methods and determinant-based
+  solvability through Grassmann, Cayley, Jordan, and the structural twentieth
+  century, emphasizing how linear algebra became a universal language across
+  mathematics, physics, statistics, engineering, and computer science.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Mathematics"
+  - "Linear Algebra"
+  - "History of Mathematics"
+  - "Mathematical Structures"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: "linear-algebra-history-report"
+date: "2026-05-03"
+description: >-
+  A long-form history of linear algebra, from elimination and determinants to
+  vector spaces, matrices, eigenvalues, and the computational era.
+draft: true
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: "urn:gva:linear-algebra-history-report"
+keywords:
+  - "linear algebra"
+  - "history of linear algebra"
+  - "Gaussian elimination"
+  - "determinants"
+  - "matrices"
+  - "vector spaces"
+  - "eigenvalues"
+  - "canonical forms"
+  - "numerical linear algebra"
+  - "Grassmann"
+  - "Cayley"
+  - "Jordan form"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  class: "QA184"
+  label: "Linear algebra"
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "historical survey"
+  domain: "mathematics"
+  topic: "linear algebra"
+  scope: "origins + consolidation + structure + computation + applications"
+  audience: "general mathematically literate reader"
+  conversion:
+    source_docx: "linear_algebra_history_report.docx"
+    tool: "pandoc 3.6"
+    date: "2026-05-03"
+report-no: ""
+report-number: ""
+report-year: "2026"
+report_no: 0
+report_year: 2026
+revision: "1.0.0"
+rights: "CC0-1.0"
+series: "mathematics-histories"
+series-number: 0
+series-title: "Mathematics Histories"
+slug: "linear-algebra-history-report"
+status: "draft"
+subject:
+  - "Linear algebra"
+  - "History of mathematics"
+  - "Matrices"
+subjects:
+  - "Linear algebra"
+  - "Gaussian elimination"
+  - "Determinants"
+  - "Matrices"
+  - "Vector spaces"
+  - "Eigenvalues"
+  - "History of mathematics"
+subtitle: ""
+tags:
+  - "linear-algebra"
+  - "math-history"
+  - "matrices"
+  - "vector-spaces"
+  - "determinants"
+  - "eigenvalues"
+  - "numerical-linear-algebra"
+title: "The Making of Linear Algebra"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...

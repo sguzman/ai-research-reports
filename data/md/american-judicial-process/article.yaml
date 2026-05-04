@@ -1,0 +1,100 @@
+---
+abstract: >-
+  An institutional overview of judges in the United States judicial process,
+  covering the constitutional distinction between Article III judges and other
+  judicial officers, the structure of federal and representative state systems,
+  methods of selection, powers and constraints, compensation, and the practical
+  variation across jurisdictions. The report treats “judge” not as a single
+  office but as a family of positions shaped by constitutional design, statute,
+  court structure, and political selection mechanisms.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Law"
+  - "Courts"
+  - "United States Law"
+  - "Judicial Administration"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: "american-judicial-process"
+date: "2026-04-30"
+description: >-
+  A structured guide to U.S. judges and judicial offices across federal and
+  state systems, including tenure, appointment, elections, powers, and pay.
+draft: true
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: "urn:gva:american-judicial-process"
+keywords:
+  - "judges"
+  - "judicial process"
+  - "Article III"
+  - "federal courts"
+  - "state courts"
+  - "magistrate judges"
+  - "bankruptcy judges"
+  - "judicial selection"
+  - "judicial compensation"
+  - "administrative law judges"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  class: "KF"
+  label: "Law of the United States"
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "institutional overview"
+  domain: "law"
+  topic: "judges in the United States judicial process"
+  scope: "federal + representative state systems + powers + selection + compensation"
+  audience: "general legal reader"
+  conversion:
+    source_docx: "american-judicial-process.docx"
+    tool: "pandoc 3.6"
+    date: "2026-05-03"
+report-no: ""
+report-number: ""
+report-year: "2026"
+report_no: 0
+report_year: 2026
+revision: "1.0.0"
+rights: "CC0-1.0"
+series: "american-law-guides"
+series-number: 0
+series-title: "American Law Guides"
+slug: "american-judicial-process"
+status: "draft"
+subject:
+  - "Judges"
+  - "United States courts"
+  - "Judicial administration"
+subjects:
+  - "Federal judges"
+  - "State judges"
+  - "Judicial selection"
+  - "Judicial powers"
+  - "Judicial compensation"
+subtitle: ""
+tags:
+  - "judges"
+  - "courts"
+  - "american-law"
+  - "article-iii"
+  - "judicial-selection"
+  - "judicial-administration"
+title: "Judges in the Judicial Process of the United States"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...

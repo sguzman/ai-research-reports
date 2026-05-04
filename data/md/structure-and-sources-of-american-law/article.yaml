@@ -1,0 +1,102 @@
+---
+abstract: >-
+  A systematic overview of the structure and sources of American law. The report
+  explains how authority is divided between federal and state sovereigns, how
+  constitutions, statutes, treaties, regulations, common law, and private legal
+  instruments relate to one another, and how doctrines such as preemption,
+  federalism, stare decisis, Erie, and post-Chevron administrative law shape
+  conflict resolution in practice.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Law"
+  - "United States Law"
+  - "Federalism"
+  - "Legal Institutions"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: "structure-sources-american-law"
+date: "2026-04-27"
+description: >-
+  A practical guide to the hierarchy and interaction of legal authorities in the
+  United States, from constitutions and statutes to regulations, treaties, and
+  common law.
+draft: true
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: "urn:gva:structure-sources-american-law"
+keywords:
+  - "American law"
+  - "sources of law"
+  - "legal hierarchy"
+  - "federalism"
+  - "preemption"
+  - "Supremacy Clause"
+  - "Erie doctrine"
+  - "stare decisis"
+  - "administrative law"
+  - "treaties"
+  - "federal common law"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  class: "KF"
+  label: "Law of the United States"
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "legal systems overview"
+  domain: "law"
+  topic: "structure and sources of American law"
+  scope: "authority hierarchy + doctrines of conflict resolution + institutional validity"
+  audience: "general legal reader"
+  conversion:
+    source_docx: "Structure and Sources of American Law.docx"
+    tool: "pandoc 3.6"
+    date: "2026-05-03"
+report-no: ""
+report-number: ""
+report-year: "2026"
+report_no: 0
+report_year: 2026
+revision: "1.0.0"
+rights: "CC0-1.0"
+series: "american-law-guides"
+series-number: 0
+series-title: "American Law Guides"
+slug: "structure-and-sources-of-american-law"
+status: "draft"
+subject:
+  - "United States law"
+  - "Legal sources"
+  - "Federalism"
+subjects:
+  - "Constitutional hierarchy"
+  - "Statutes and regulations"
+  - "Treaties and common law"
+  - "Preemption"
+  - "Administrative law"
+subtitle: ""
+tags:
+  - "law"
+  - "american-law"
+  - "federalism"
+  - "preemption"
+  - "administrative-law"
+  - "erie"
+  - "stare-decisis"
+title: "Structure and Sources of American Law"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...

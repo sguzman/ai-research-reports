@@ -4,10 +4,10 @@
 [summary]
 generated_on = "2026-05-03"
 docx_count = 85
-md_project_count = 92
+md_project_count = 97
 md_top_level_file_count = 5
-linked_docx_count = 80
-unlinked_docx_count = 5
+linked_docx_count = 85
+unlinked_docx_count = 0
 md_without_docx_count = 12
 
 md_top_level_files = [
@@ -32,9 +32,9 @@ match_basis = "folder_title_inference"
 
 [[docx]]
 file = "A History of Functional Analysis.docx"
-md_project = ""
-status = "missing_md_project"
-match_basis = ""
+md_project = "a-history-of-functional-analysis"
+status = "linked"
+match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx"
@@ -116,9 +116,9 @@ match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "Current-Year Structure of Taxes in the United States.docx"
-md_project = ""
-status = "missing_md_project"
-match_basis = ""
+md_project = "current-year-structure-of-taxes-in-the-united-states"
+status = "linked"
+match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "Darrieus VAWT Design & Construction (1–10 kW).docx"
@@ -332,9 +332,9 @@ match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "Structure and Sources of American Law.docx"
-md_project = ""
-status = "missing_md_project"
-match_basis = ""
+md_project = "structure-and-sources-of-american-law"
+status = "linked"
+match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "Taylor Lorenz.docx"
@@ -428,9 +428,9 @@ match_basis = "folder_title_inference"
 
 [[docx]]
 file = "american-judicial-process.docx"
-md_project = ""
-status = "missing_md_project"
-match_basis = ""
+md_project = "american-judicial-process"
+status = "linked"
+match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "electric-motors-v2.docx"
@@ -476,9 +476,9 @@ match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "linear_algebra_history_report.docx"
-md_project = ""
-status = "missing_md_project"
-match_basis = ""
+md_project = "linear-algebra-history-report"
+status = "linked"
+match_basis = "article_yaml_source_docx"
 
 [[docx]]
 file = "nations-right-wing-critique.docx"
@@ -561,6 +561,14 @@ title = "Chartists & Radical Republicans, 1840-1865"
 subtitle = "Franchise, Socialism, and the Limits of Alliance"
 
 [[md_project]]
+folder = "a-history-of-functional-analysis"
+docx = "A History of Functional Analysis.docx"
+status = "linked"
+empty = false
+title = "A History of Functional Analysis"
+subtitle = ""
+
+[[md_project]]
 folder = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
 docx = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx"
 status = "linked"
@@ -583,6 +591,14 @@ status = "linked"
 empty = false
 title = "The Evolution and Frontiers of Algebra"
 subtitle = "A Comprehensive Historical and Conceptual Analysis"
+
+[[md_project]]
+folder = "american-judicial-process"
+docx = "american-judicial-process.docx"
+status = "linked"
+empty = false
+title = "Judges in the Judicial Process of the United States"
+subtitle = ""
 
 [[md_project]]
 folder = "analysis-semantics"
@@ -702,6 +718,14 @@ docx = ""
 status = "no_corresponding_docx"
 empty = false
 title = "Aesthetics for the Maimed"
+subtitle = ""
+
+[[md_project]]
+folder = "current-year-structure-of-taxes-in-the-united-states"
+docx = "Current-Year Structure of Taxes in the United States.docx"
+status = "linked"
+empty = false
+title = "Current-Year Structure of Taxes in the United States"
 subtitle = ""
 
 [[md_project]]
@@ -961,6 +985,14 @@ title = "liberal-gothic-quick-facts"
 subtitle = ""
 
 [[md_project]]
+folder = "linear-algebra-history-report"
+docx = "linear_algebra_history_report.docx"
+status = "linked"
+empty = false
+title = "The Making of Linear Algebra"
+subtitle = ""
+
+[[md_project]]
 folder = "male-suicide"
 docx = ""
 status = "no_corresponding_docx"
@@ -1166,6 +1198,14 @@ docx = "Selective Freudian Explanations in Political and Media Discourse.docx"
 status = "linked"
 empty = false
 title = "Selective Freudian Explanations in Political and Media Discourse"
+subtitle = ""
+
+[[md_project]]
+folder = "structure-and-sources-of-american-law"
+docx = "Structure and Sources of American Law.docx"
+status = "linked"
+empty = false
+title = "Structure and Sources of American Law"
 subtitle = ""
 
 [[md_project]]

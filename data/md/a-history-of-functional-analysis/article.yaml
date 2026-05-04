@@ -1,0 +1,105 @@
+---
+abstract: >-
+  A historically grounded survey of functional analysis from its late
+  nineteenth-century analytic origins through the consolidation of Banach and
+  Hilbert space theory, the spectral viewpoint, duality, compact operators, and
+  distributions. The report emphasizes how concrete problems in integral
+  equations, Fourier analysis, PDEs, and quantum mechanics forced analysts to
+  construct increasingly abstract spaces and operator frameworks, and how those
+  abstractions returned to practice with stronger tools.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Mathematics"
+  - "Analysis"
+  - "Functional Analysis"
+  - "History of Mathematics"
+cover-image: ""
+cover_image: ""
+creator:
+  - "Salvador Guzman"
+dataset_id: "functional-analysis-history"
+date: "2026-04-22"
+description: >-
+  A long-form history of functional analysis: Banach and Hilbert spaces,
+  operators, duality, distributions, and the concrete analytic problems that
+  produced them.
+draft: true
+edition: "1.0"
+epub-chapter-level: 2
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: "urn:gva:functional-analysis-history"
+keywords:
+  - "functional analysis"
+  - "history of functional analysis"
+  - "Banach space"
+  - "Hilbert space"
+  - "operator theory"
+  - "spectral theorem"
+  - "compact operators"
+  - "duality"
+  - "distribution theory"
+  - "PDE"
+  - "Fourier analysis"
+  - "quantum mechanics"
+lang: "en"
+language: "English"
+library_of_congress_classification:
+  class: "QA320"
+  label: "Functional analysis"
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: "Gold, Velvet and Ashes"
+reference-section-title: "References"
+report:
+  kind: "historical survey"
+  domain: "mathematics"
+  topic: "functional analysis"
+  scope: "history + concepts + institutions + applications"
+  audience: "general mathematically literate reader"
+  conversion:
+    source_docx: "A History of Functional Analysis.docx"
+    tool: "pandoc 3.6"
+    date: "2026-05-03"
+report-no: ""
+report-number: ""
+report-year: "2026"
+report_no: 0
+report_year: 2026
+revision: "1.0.0"
+rights: "CC0-1.0"
+series: "mathematics-histories"
+series-number: 0
+series-title: "Mathematics Histories"
+slug: "a-history-of-functional-analysis"
+status: "draft"
+subject:
+  - "Functional analysis"
+  - "History of mathematics"
+  - "Mathematical analysis"
+subjects:
+  - "Functional analysis"
+  - "Banach spaces"
+  - "Hilbert spaces"
+  - "Operator theory"
+  - "Distribution theory"
+  - "History of mathematics"
+subtitle: ""
+tags:
+  - "functional-analysis"
+  - "analysis"
+  - "math-history"
+  - "operator-theory"
+  - "banach-spaces"
+  - "hilbert-spaces"
+  - "distributions"
+title: "A History of Functional Analysis"
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+type: "report"
+...
