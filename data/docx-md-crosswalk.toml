@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 88
-md_project_count = 99
+docx_count = 90
+md_project_count = 101
 md_top_level_file_count = 2
-linked_docx_count = 88
+linked_docx_count = 90
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -346,6 +346,12 @@ status = "linked"
 match_basis = "article_yaml_source_docx"
 
 [[docx]]
+file = "Structure and Layout of the Cryptocurrency Ecosystem.docx"
+md_project = "structure-and-layout-of-the-cryptocurrency-ecosystem"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
 file = "Taylor Lorenz.docx"
 md_project = "taylor"
 status = "linked"
@@ -504,6 +510,12 @@ match_basis = "article_yaml_source_docx"
 [[docx]]
 file = "piketty-liberal-pmc-critique.docx"
 md_project = "piketty-liberal-pmc-critique"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "quant-history.docx"
+md_project = "history-of-quantitative-finance"
 status = "linked"
 match_basis = "article_yaml_source_docx"
 
@@ -1232,11 +1244,27 @@ title = "Structure and Sources of American Law"
 subtitle = ""
 
 [[md_project]]
+folder = "structure-and-layout-of-the-cryptocurrency-ecosystem"
+docx = "Structure and Layout of the Cryptocurrency Ecosystem.docx"
+status = "linked"
+empty = false
+title = "Structure and Layout of the Cryptocurrency Ecosystem"
+subtitle = ""
+
+[[md_project]]
 folder = "symbolic-post-masculinity"
 docx = "symbolic-post-masculinity.docx"
 status = "linked"
 empty = false
 title = "Symbolic Post-Masculinity"
+subtitle = ""
+
+[[md_project]]
+folder = "history-of-quantitative-finance"
+docx = "quant-history.docx"
+status = "linked"
+empty = false
+title = "A History of Quantitative Finance"
 subtitle = ""
 
 [[md_project]]

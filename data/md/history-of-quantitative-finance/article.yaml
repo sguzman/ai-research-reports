@@ -1,0 +1,161 @@
+---
+abstract: A historical overview of quantitative finance from Bachelier through portfolio theory, CAPM,
+  Black-Scholes, hedge-fund quant strategies, high-frequency trading, post-crisis regulation, and contemporary
+  machine-learning integration.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Finance
+- Financial History
+- Quantitative Finance
+- Market Structure
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: history-of-quantitative-finance
+date: '2026-05-04'
+description: A historical and conceptual survey of quantitative finance, from early probability models
+  through modern algorithmic and machine-learning-driven trading.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:history-of-quantitative-finance
+isCJKLanguage: false
+keywords:
+- quantitative finance
+- quant trading
+- Bachelier
+- Markowitz
+- CAPM
+- Black-Scholes
+- hedge funds
+- algorithmic trading
+lang: en
+language: English
+lastmod: '2026-05-04'
+layout: ''
+library_of_congress_classification:
+  class: HG4515.15
+  description: Investment analysis, quantitative trading, portfolio theory, and financial market modeling.
+  label: Investment analysis and quantitative finance
+license: CC0-1.0
+linkTitle: A History of Quantitative Finance
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-04'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general financially literate reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-04'
+    source_docx: quant-history.docx
+    tool: pandoc 3.6
+  discipline: finance
+  domain: quantitative finance
+  emphasis: historical development and strategic evolution
+  focus: academic milestones, industry formation, crises, and AI-era trends
+  id: urn:marginalia:history-of-quantitative-finance
+  intent: trace the development of quantitative finance as theory, industry, and technological practice
+  is_report: true
+  kind: historical survey
+  level: ''
+  method: source synthesis
+  methods:
+  - historical synthesis
+  - literature review
+  - institutional and media source review
+  name: A History of Quantitative Finance
+  notes: ''
+  number: 101
+  organization: Marginalia
+  period: 1900-2026
+  period_covered: 1900-2026
+  population_focus: quantitative traders, hedge funds, financial theorists, and market institutions
+  primary_texts: []
+  region: global
+  region_focus: United States and global finance
+  scope: theory, firms, strategies, crises, regulation, and future directions
+  scope_years: 1900-2026
+  series: financial-history-studies
+  stance: analytical and historical
+  structure: executive summary plus chronological and thematic sections
+  subdiscipline: financial history and investment analysis
+  subject: history of quantitative finance
+  time_scope: modern financial history
+  time_span: 1900-2026
+  topic: A History of Quantitative Finance
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 101
+report-number: 101
+report-year: '2026'
+report_no: 101
+report_number: 101
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: financial-history-studies
+series-number: 101
+series-title: Financial History Studies
+series_number: 101
+series_title: Financial History Studies
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: history-of-quantitative-finance
+status: draft
+subject:
+- Quantitative finance
+- Financial history
+- Algorithmic trading
+subjects:
+- Portfolio theory
+- Hedge funds
+- High-frequency trading
+- Financial regulation
+subtitle: ''
+summary: A historical and conceptual survey of quantitative finance, from early probability models through
+  modern algorithmic and machine-learning-driven trading.
+tags:
+- quantitative-finance
+- financial-history
+- algorithmic-trading
+- hedge-funds
+- market-structure
+- machine-learning
+title: A History of Quantitative Finance
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...

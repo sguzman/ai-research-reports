@@ -1,0 +1,161 @@
+---
+abstract: A research report on the cryptocurrency ecosystem as a layered stack of assets, market venues,
+  middleware, protocol infrastructure, node operations, custody systems, and interoperability mechanisms,
+  emphasizing how financial market structure and distributed systems architecture interact.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Cryptocurrency
+- Digital Assets
+- Market Structure
+- Distributed Systems
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: structure-and-layout-of-the-cryptocurrency-ecosystem
+date: '2026-05-04'
+description: An architectural guide to the cryptocurrency ecosystem, covering venues, wallets, custody,
+  middleware, consensus, nodes, bridges, and operational risk.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:structure-and-layout-of-the-cryptocurrency-ecosystem
+isCJKLanguage: false
+keywords:
+- cryptocurrency ecosystem
+- blockchain architecture
+- exchanges
+- wallets
+- custody
+- bridges
+- RPC providers
+- consensus
+lang: en
+language: English
+lastmod: '2026-05-04'
+layout: ''
+library_of_congress_classification:
+  class: HG1710.3
+  description: Digital assets, cryptocurrency markets, and contemporary financial instruments.
+  label: Finance and digital assets
+license: CC0-1.0
+linkTitle: Structure and Layout of the Cryptocurrency Ecosystem
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-04'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general technically and financially literate reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-04'
+    source_docx: Structure and Layout of the Cryptocurrency Ecosystem.docx
+    tool: pandoc 3.6
+  discipline: finance and computing
+  domain: cryptocurrency infrastructure
+  emphasis: layered architecture and operational risk
+  focus: markets, middleware, protocol layers, and custody
+  id: urn:marginalia:structure-and-layout-of-the-cryptocurrency-ecosystem
+  intent: explain the organizational and technical stack of the crypto ecosystem
+  is_report: true
+  kind: analytical report
+  level: ''
+  method: source synthesis
+  methods:
+  - architectural synthesis
+  - institutional source review
+  - protocol documentation review
+  name: Structure and Layout of the Cryptocurrency Ecosystem
+  notes: ''
+  number: 100
+  organization: Marginalia
+  period: '2026'
+  period_covered: contemporary ecosystem structure
+  population_focus: crypto market participants and infrastructure providers
+  primary_texts: []
+  region: global
+  region_focus: global
+  scope: venues, liquidity, middleware, protocol design, nodes, custody, and interoperability
+  scope_years: contemporary
+  series: digital-economy-studies
+  stance: analytical
+  structure: executive summary plus layered architectural sections
+  subdiscipline: market infrastructure and distributed systems
+  subject: cryptocurrency ecosystem architecture
+  time_scope: contemporary
+  time_span: 2020s emphasis
+  topic: Structure and Layout of the Cryptocurrency Ecosystem
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 100
+report-number: 100
+report-year: '2026'
+report_no: 100
+report_number: 100
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: digital-economy-studies
+series-number: 100
+series-title: Digital Economy Studies
+series_number: 100
+series_title: Digital Economy Studies
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: structure-and-layout-of-the-cryptocurrency-ecosystem
+status: draft
+subject:
+- Cryptocurrencies
+- Blockchain infrastructure
+- Market architecture
+subjects:
+- Exchanges
+- Custody
+- Nodes and RPC providers
+- Cross-chain systems
+subtitle: ''
+summary: An architectural guide to the cryptocurrency ecosystem, covering venues, wallets, custody, middleware,
+  consensus, nodes, bridges, and operational risk.
+tags:
+- cryptocurrency
+- blockchain
+- infrastructure
+- market-structure
+- custody
+- distributed-systems
+title: Structure and Layout of the Cryptocurrency Ecosystem
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...
