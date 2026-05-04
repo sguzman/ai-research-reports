@@ -155,6 +155,7 @@ summary: A research-report style history of number theory from Euler to the pres
   reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness”
   perspectives.
 tags:
+- math-history
 - euler
 - gauss
 - dirichlet
