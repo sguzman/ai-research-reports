@@ -1,65 +1,46 @@
 ---
-title: Jewish Political Activism in the United States
-subtitle: 1880–2025
-linkTitle: ''
-description: 'Historical synthesis of Jewish American political activism (1880–2025): labor unions, civil
-  rights, foreign policy and Israel debates, organizational density, and modern digital-era advocacy—plus
-  how myths of “Jewish influence” diverge from measurable channels.'
-summary: ''
 abstract: A long-run survey of Jewish political activism in the United States from 1880 to 2025, tracking
   shifts from immigrant labor organizing to civil-rights coalition politics, pro- and anti-communist foreign-policy
   networks, and contemporary campus/digital-era polarization. Emphasizes mechanisms of influence (votes,
   unions, litigation, philanthropy, lobbying, media) while separating documented influence from conspiratorial
   tropes.
-slug: jewish-political-activism-us-1880-2025
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: Released under CC0-1.0; no rights reserved.
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:jewish-political-activism-us-1880-2025
-dataset_id: jewish-political-activism-us-1880-2025
-plate_id: ''
-type: report
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - history
 - politics
 - united-states
 - judaism
 - activism
-tags:
-- labor
-- unions
-- civil-rights
-- coalition-politics
-- diaspora
-- antisemitism
-- lobbying
-- aipac
-- adL
-- ajc
-- neoconservatism
-- campus-activism
-- bds
-- social-media
-- u.s.-israel
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: jewish-political-activism-us-1880-2025
+date: '2026-02-12'
+description: 'Historical synthesis of Jewish American political activism (1880–2025): labor unions, civil
+  rights, foreign policy and Israel debates, organizational density, and modern digital-era advocacy—plus
+  how myths of “Jewish influence” diverge from measurable channels.'
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:jewish-political-activism-us-1880-2025
+isCJKLanguage: false
 keywords:
 - Jewish Americans
 - political activism
@@ -79,6 +60,88 @@ keywords:
 - campus politics
 - diaspora politics
 - U.S.–Israel relations
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  caption: United States — Elements in the population — Jews
+  class: E
+  description: ''
+  label: ''
+  notes: Broad placement for U.S. Jews; specific cutters/decimals can be added per library practice.
+  number: E184.3
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: GVA-2026-001
+  intent: ''
+  is_report: true
+  kind: historical survey
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: 1880-2025
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: United States
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: Gold, Velvet and Ashes Reports
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: Jewish political activism
+  type: ''
+  version: ''
+  year: 0
+report-no: GVA-2026-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: Released under CC0-1.0; no rights reserved.
+series: Gold, Velvet and Ashes Reports
+series-number: 1
+series-title: Minority Politics and Power in the United States
+series_number: 1
+series_title: Minority Politics and Power in the United States
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: jewish-political-activism-us-1880-2025
+status: published
 subject:
 - History of the United States
 - Jewish studies
@@ -95,93 +158,30 @@ subjects:
 - Civil rights movements -- United States
 - Labor unions -- United States
 - Israel -- Foreign relations -- United States
-library_of_congress_classification:
-  class: E
-  label: ''
-  description: ''
-  caption: United States — Elements in the population — Jews
-  notes: Broad placement for U.S. Jews; specific cutters/decimals can be added per library practice.
-  number: E184.3
-series: Gold, Velvet and Ashes Reports
-series-title: Minority Politics and Power in the United States
-series-number: 1
-series_title: Minority Politics and Power in the United States
-series_number: 1
-report-no: GVA-2026-001
-report-number: '001'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: 1880–2025
+summary: ''
+tags:
+- labor
+- unions
+- civil-rights
+- coalition-politics
+- diaspora
+- antisemitism
+- lobbying
+- aipac
+- adL
+- ajc
+- neoconservatism
+- campus-activism
+- bds
+- social-media
+- u.s.-israel
+title: Jewish Political Activism in the United States
 toc: true
 toc-depth: 2
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: GVA-2026-001
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: Gold, Velvet and Ashes Reports
-  number: ''
-  year: 0
-  version: ''
-  kind: historical survey
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: Jewish political activism
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: 1880-2025
-  period_covered: ''
-  region: United States
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

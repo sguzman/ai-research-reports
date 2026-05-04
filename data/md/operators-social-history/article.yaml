@@ -1,11 +1,4 @@
 ---
-title: A Social History of "Operators" in Mathematics
-subtitle: How actions became objects
-linkTitle: ''
-description: 'A social history of the mathematical “operator”: how actions like differentiation became
-  objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary
-  disputes, and the demands of physics and engineering.'
-summary: ''
 abstract: 'A chronological, social-intellectual history of how “operators” moved from being informal calculation
   procedures (differentiate, integrate, take differences) to fully legitimate mathematical objects with
   their own algebra, classification, and theories. The essay tracks the reification of actions into entities
@@ -14,33 +7,15 @@ abstract: 'A chronological, social-intellectual history of how “operators” m
   analysts; engineers’ pragmatic operator methods (notably Heaviside) versus demands for rigor; and the
   early 20th-century consolidation of operator theory inside functional analysis (Fredholm, Hilbert, Riesz),
   culminating in the central role of operators in modern physics and computation.'
-slug: operator-social-history
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: ''
-revision: '1'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication
-license: CC0-1.0
-lang: en-US
-language: English
-identifier: gva:operator-social-history-mathematics
-dataset_id: ''
-plate_id: ''
-type: article
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - mathematics
 - history of mathematics
@@ -48,26 +23,28 @@ categories:
 - mathematical physics
 - notation and pedagogy
 - intellectual history
-tags:
-- operators
-- D operator
-- operational calculus
-- finite differences
-- Laplace transform
-- matrices
-- linear algebra
-- Cayley
-- Hamilton
-- Gibbs
-- Heaviside
-- Fredholm
-- Hilbert
-- Riesz
-- spectrum
-- notation
-- pedagogy
-- disciplinary conflict
-- mathematical physics
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-02-12'
+description: 'A social history of the mathematical “operator”: how actions like differentiation became
+  objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary
+  disputes, and the demands of physics and engineering.'
+draft: false
+edition: ''
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:operator-social-history-mathematics
+isCJKLanguage: false
 keywords:
 - operators
 - operational calculus
@@ -89,6 +66,85 @@ keywords:
 - mathematics education
 - history of science
 - mathematical physics
+lang: en-US
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+resources: []
+revision: '1'
+rights: CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication
+series: ''
+series-number: 0
+series-title: ''
+series_number: 0
+series_title: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: operator-social-history
+status: published
 subject:
 - Operator theory
 - Functional analysis
@@ -103,90 +159,34 @@ subjects:
 - Mathematical physics
 - Scientific notation
 - Engineering mathematics
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-series: ''
-series-title: ''
-series-number: 0
-series_title: ''
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
-layout: ''
-markup: ''
+subtitle: How actions became objects
+summary: ''
+tags:
+- operators
+- D operator
+- operational calculus
+- finite differences
+- Laplace transform
+- matrices
+- linear algebra
+- Cayley
+- Hamilton
+- Gibbs
+- Heaviside
+- Fredholm
+- Hilbert
+- Riesz
+- spectrum
+- notation
+- pedagogy
+- disciplinary conflict
+- mathematical physics
+title: A Social History of "Operators" in Mathematics
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: article
+url: ''
+weight: 0
 ...

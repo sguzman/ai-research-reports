@@ -1,55 +1,45 @@
 ---
-title: Ad Hoc "Maulerian School of Film Criticism"
-subtitle: Toward an ad hoc formalist revival in long-form YouTube critique
-linkTitle: ''
-description: A structured, neutral reconstruction of MauLer’s implicit critical framework—an “ad hoc Maulerian
-  School”—centered on internal narrative logic, canon consistency, and evidence-first argumentation in
-  long-form YouTube criticism.
-summary: ''
 abstract: This paper formulates an ad hoc "Maulerian School" of film criticism by distilling the implicit
   framework behind YouTube critic MauLer's long-form reviews (2016–present). It argues that internal narrative
   consistency and logical integrity are treated as primary, evidence-checkable determinants of a work’s
   quality, and it systematizes the school’s axioms, toolkit, and major objections using case studies and
   comparative theory touchpoints.
-slug: maulerian-school-of-film-criticism
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: urn:gva:essay:maulerian-school-of-film-criticism:v1
-dataset_id: ''
-plate_id: ''
-type: article
-format: text/markdown
-reference-section-title: Works Cited
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Media criticism
 - Film theory
 - Internet culture
 - YouTube essays
-tags:
-- mauler
-- efap
-- video-essays
-- film-theory
-- objectivity
-- narrative-logic
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-02-12'
+description: A structured, neutral reconstruction of MauLer’s implicit critical framework—an “ad hoc Maulerian
+  School”—centered on internal narrative logic, canon consistency, and evidence-first argumentation in
+  long-form YouTube criticism.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:gva:essay:maulerian-school-of-film-criticism:v1
+isCJKLanguage: false
 keywords:
 - MauLer
 - EFAP
@@ -64,6 +54,86 @@ keywords:
 - canon
 - formalism
 - argumentation
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: Motion pictures—Criticism
+  label: ''
+  primary: PN1995.9.C7
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: Works Cited
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+series_number: 0
+series_title: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: maulerian-school-of-film-criticism
+status: published
 subject:
 - Film criticism
 - Media studies
@@ -74,91 +144,21 @@ subjects:
 - Media studies
 - Online culture
 - YouTube
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: Motion pictures—Criticism
-  primary: PN1995.9.C7
-series: ''
-series-title: ''
-series-number: 0
-series_title: ''
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
-layout: ''
-markup: ''
+subtitle: Toward an ad hoc formalist revival in long-form YouTube critique
+summary: ''
+tags:
+- mauler
+- efap
+- video-essays
+- film-theory
+- objectivity
+- narrative-logic
+title: Ad Hoc "Maulerian School of Film Criticism"
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: article
+url: ''
+weight: 0
 ...

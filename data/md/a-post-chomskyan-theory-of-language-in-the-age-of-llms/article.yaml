@@ -1,126 +1,126 @@
 ---
-title: A Post-Chomskyan Theory of Language in the Age of LLMs
-subtitle: ''
-linkTitle: ''
-description: A Post-Chomskyan Theory of Language in the Age of LLMs
-summary: ''
 abstract: A Post-Chomskyan Theory of Language in the Age of LLMs
-slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
-url: ''
 aliases: []
-date: '2026-03-03'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: ''
-edition: ''
-revision: ''
 author:
 - Salvador Guzman
 authors: []
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories: []
+cover-image: ''
+cover_image: ''
 creator:
 - Salvador Guzman
-publisher: Marginalia
-rights: CC0-1.0
-license: CC0-1.0
+dataset_id: ''
+date: '2026-03-03'
+description: A Post-Chomskyan Theory of Language in the Age of LLMs
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: ''
+isCJKLanguage: false
+keywords: []
 lang: ''
 language: ''
-identifier: ''
-dataset_id: ''
-plate_id: ''
-type: ''
-format: markdown
-reference-section-title: ''
-categories: []
-tags: []
-keywords: []
-subject: []
-subjects: []
+lastmod: ''
+layout: ''
 library_of_congress_classification:
   class: ''
-  label: ''
   description: ''
-series: ''
-series-title: ''
-series-number: 0
-series_title: ''
-series_number: 0
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: false
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-04-20'
+    source_docx: A Post-Chomskyan Theory of Language in the Age of LLMs.docx
+    tool: pandoc 3.6
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
 report-no: ''
 report-number: ''
 report-year: ''
 report_no: 0
 report_number: 0
 report_year: 0
-layout: ''
-markup: ''
+resources: []
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+series_number: 0
+series_title: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+summary: ''
+tags: []
+title: A Post-Chomskyan Theory of Language in the Age of LLMs
 toc: false
 toc-depth: 0
 toc-title: ''
-number-sections: false
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: false
-epub-chapter-level: 0
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: A Post-Chomskyan Theory of Language in the Age of LLMs.docx
-    tool: pandoc 3.6
-    date: '2026-04-20'
+type: ''
+url: ''
+weight: 0
 ...

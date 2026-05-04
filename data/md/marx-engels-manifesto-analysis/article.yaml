@@ -1,133 +1,133 @@
 ---
-title: Marx Engels Manifesto Analysis
-subtitle: ''
-linkTitle: ''
-description: '**Executive Summary** In the mid-19th century, Karl Marx and Friedrich Engels redefined
-  the relationship between “socialism” and “communism,” positioning their own doctrine as *scientific
-  socialism*. Prior to 1848, “socialism” was often as…'
-summary: ''
 abstract: '**Executive Summary** In the mid-19th century, Karl Marx and Friedrich Engels redefined the
   relationship between “socialism” and “communism,” positioning their own doctrine as *scientific socialism*.
   Prior to 1848, “socialism” was often associated with utopian or middle-class reformers, whereas “communism”
   signified the radical, working-class movement[\[1\]](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=Germany,act%20of%20the%20working%20class).
   In the **Communist Manifesto** (Feb 1848), Marx and Engels deliberately chose the term “Communist” to
   distinguish their program from what they saw as sentimental, utopian schemes[\[2\]](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=match%20at%20L429%20that%20of,%…'
-slug: marx-engels-manifesto-analysis
-url: ''
 aliases: []
-date: '2026-01-25'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: ''
-edition: ''
-revision: ''
 author:
 - Salvador Guzman
 authors: []
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories: []
+cover-image: ''
+cover_image: ''
 creator:
 - Salvador Guzman
-publisher: Marginalia
-rights: CC0-1.0
-license: CC0-1.0
+dataset_id: ''
+date: '2026-01-25'
+description: '**Executive Summary** In the mid-19th century, Karl Marx and Friedrich Engels redefined
+  the relationship between “socialism” and “communism,” positioning their own doctrine as *scientific
+  socialism*. Prior to 1848, “socialism” was often as…'
+draft: false
+edition: ''
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: ''
+isCJKLanguage: false
+keywords: []
 lang: ''
 language: ''
-identifier: ''
-dataset_id: ''
-plate_id: ''
-type: ''
-format: markdown
-reference-section-title: ''
-categories: []
-tags: []
-keywords: []
-subject: []
-subjects: []
+lastmod: ''
+layout: ''
 library_of_congress_classification:
   class: ''
-  label: ''
   description: ''
-series: ''
-series-title: ''
-series-number: 0
-series_title: ''
-series_number: 0
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: false
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Marginalia
+reference-section-title: ''
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-04-20'
+    source_docx: Marx Engels Manifesto Analysis.docx
+    tool: pandoc 3.6
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
 report-no: ''
 report-number: ''
 report-year: ''
 report_no: 0
 report_number: 0
 report_year: 0
-layout: ''
-markup: ''
+resources: []
+revision: ''
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+series_number: 0
+series_title: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: marx-engels-manifesto-analysis
+status: ''
+subject: []
+subjects: []
+subtitle: ''
+summary: ''
+tags: []
+title: Marx Engels Manifesto Analysis
 toc: false
 toc-depth: 0
 toc-title: ''
-number-sections: false
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: false
-epub-chapter-level: 0
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: Marx Engels Manifesto Analysis.docx
-    tool: pandoc 3.6
-    date: '2026-04-20'
+type: ''
+url: ''
+weight: 0
 ...

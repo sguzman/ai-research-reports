@@ -1,55 +1,44 @@
 ---
-title: A History of Functional Analysis
-subtitle: ''
-linkTitle: ''
-description: 'A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality,
-  distributions, and the concrete analytic problems that produced them.'
-summary: ''
 abstract: A historically grounded survey of functional analysis from its late nineteenth-century analytic
   origins through the consolidation of Banach and Hilbert space theory, the spectral viewpoint, duality,
   compact operators, and distributions. The report emphasizes how concrete problems in integral equations,
   Fourier analysis, PDEs, and quantum mechanics forced analysts to construct increasingly abstract spaces
   and operator frameworks, and how those abstractions returned to practice with stronger tools.
-slug: a-history-of-functional-analysis
-url: ''
 aliases: []
-date: '2026-04-22'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: true
-status: draft
-edition: '1.0'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: urn:gva:functional-analysis-history
-dataset_id: functional-analysis-history
-plate_id: ''
-type: report
-format: text/markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Mathematics
 - Analysis
 - Functional Analysis
 - History of Mathematics
-tags:
-- functional-analysis
-- analysis
-- math-history
-- operator-theory
-- banach-spaces
-- hilbert-spaces
-- distributions
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: functional-analysis-history
+date: '2026-04-22'
+description: 'A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality,
+  distributions, and the concrete analytic problems that produced them.'
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:gva:functional-analysis-history
+isCJKLanguage: false
 keywords:
 - functional analysis
 - history of functional analysis
@@ -63,6 +52,85 @@ keywords:
 - PDE
 - Fourier analysis
 - quantum mechanics
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: QA320
+  description: ''
+  label: Functional analysis
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: general mathematically literate reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-03'
+    source_docx: A History of Functional Analysis.docx
+    tool: pandoc 3.6
+  discipline: ''
+  domain: mathematics
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: historical survey
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: history + concepts + institutions + applications
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: functional analysis
+  type: ''
+  version: ''
+  year: 0
+report-no: ''
+report-number: ''
+report-year: '2026'
+report_no: 0
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: mathematics-histories
+series-number: 0
+series-title: Mathematics Histories
+series_number: 0
+series_title: Mathematics Histories
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: a-history-of-functional-analysis
+status: draft
 subject:
 - Functional analysis
 - History of mathematics
@@ -74,90 +142,22 @@ subjects:
 - Operator theory
 - Distribution theory
 - History of mathematics
-library_of_congress_classification:
-  class: QA320
-  label: Functional analysis
-  description: ''
-series: mathematics-histories
-series-title: Mathematics Histories
-series-number: 0
-series_title: Mathematics Histories
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: '2026'
-report_no: 0
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: ''
+summary: ''
+tags:
+- functional-analysis
+- analysis
+- math-history
+- operator-theory
+- banach-spaces
+- hilbert-spaces
+- distributions
+title: A History of Functional Analysis
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: historical survey
-  type: ''
-  domain: mathematics
-  discipline: ''
-  subdiscipline: ''
-  topic: functional analysis
-  subject: ''
-  scope: history + concepts + institutions + applications
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: general mathematically literate reader
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: A History of Functional Analysis.docx
-    tool: pandoc 3.6
-    date: '2026-05-03'
+type: report
+url: ''
+weight: 0
 ...

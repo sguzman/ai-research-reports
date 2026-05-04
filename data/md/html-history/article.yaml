@@ -1,10 +1,4 @@
 ---
-title: History of HTML (1990--2025)
-subtitle: From SGML Roots to the Living Standard
-linkTitle: ''
-description: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing,
-  semantics, accessibility, and modern web platform practice.'
-summary: ''
 abstract: A chronological and thematic history of HTML from 1990 to 2025, tracing its evolution from a
   small SGML-inspired markup language into a sprawling “living standard.” Covers the shift in governance
   across the IETF, W3C, and WHATWG; the browser wars and the emergence of JavaScript, CSS, and the DOM;
@@ -12,49 +6,41 @@ abstract: A chronological and thematic history of HTML from 1990 to 2025, tracin
   semantic enrichment, accessibility, metadata practices, and the broader cultural and economic forces
   shaping the Web. Includes appendices on tag evolution, doctypes and parsing modes, accessibility guidance,
   metadata standards, and HTML email.
-slug: html-history
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: urn:gva:html-history
-dataset_id: html-history
-plate_id: gva-html-history
-type: report
-format: article
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Computing
 - Web
 - Internet History
 - Standards
-tags:
-- html
-- web
-- internet
-- standards
-- w3c
-- whatwg
-- ietf
-- html5
-- xhtml
-- browsers
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: html-history
+date: '2026-02-12'
+description: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing,
+  semantics, accessibility, and modern web platform practice.'
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: article
+headless: false
+highlight-style: tango
+identifier: urn:gva:html-history
+isCJKLanguage: false
 keywords:
 - HTML
 - World Wide Web
@@ -71,6 +57,85 @@ keywords:
 - Parsing
 - Accessibility
 - Metadata
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-html-history
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: HTML-001
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: Gold, Velvet and Ashes Reports
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 2026
+report-no: HTML-001
+report-number: HTML-001
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: web-histories
+series-number: 1
+series-title: Web Histories
+series_number: 1
+series_title: Web Histories
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: html-history
+status: published
 subject:
 - HTML
 - Web standards
@@ -81,90 +146,25 @@ subjects:
 - Web browsers
 - Standards organizations
 - Document formats
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-series: web-histories
-series-title: Web Histories
-series-number: 1
-series_title: Web Histories
-series_number: 1
-report-no: HTML-001
-report-number: HTML-001
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: From SGML Roots to the Living Standard
+summary: ''
+tags:
+- html
+- web
+- internet
+- standards
+- w3c
+- whatwg
+- ietf
+- html5
+- xhtml
+- browsers
+title: History of HTML (1990--2025)
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: Gold, Velvet and Ashes Reports
-  number: HTML-001
-  year: 2026
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

@@ -1,10 +1,4 @@
 ---
-title: The Evolution and Frontiers of Algebra
-subtitle: A Comprehensive Historical and Conceptual Analysis
-linkTitle: ''
-description: A comprehensive historical and conceptual report on algebra’s development, major structures,
-  applications, and future directions.
-summary: ''
 abstract: A graduate-level survey of algebra’s evolution from ancient, rhetorical problem-solving traditions
   to modern abstract and structural formulations. It traces key historical milestones (e.g., the rise
   of symbolic notation, the solution of higher-degree equations, and the 19th-century emergence of group
@@ -13,58 +7,41 @@ abstract: A graduate-level survey of algebra’s evolution from ancient, rhetori
   applications in science and technology. The report also examines philosophical and pedagogical debates
   around abstraction and “structuralism,” and sketches forward-looking frontiers such as higher algebra,
   quantum/categorical methods, and computer/AI-assisted discovery.
-slug: evolution-and-frontiers-of-algebra
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: true
-status: draft
-edition: '1'
-revision: '1'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:evolution-and-frontiers-of-algebra
-dataset_id: gva-algebra-evolution
-plate_id: ''
-type: report
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Mathematics
 - Algebra
 - History of Mathematics
 - Mathematical Structures
-tags:
-- algebra
-- history
-- abstract-algebra
-- group-theory
-- ring-theory
-- field-theory
-- galois-theory
-- linear-algebra
-- representation-theory
-- lie-algebras
-- hopf-algebras
-- homological-algebra
-- algebraic-geometry
-- category-theory
-- computational-algebra
-- groebner-bases
-- cryptography
-- coding-theory
-- langlands
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: gva-algebra-evolution
+date: '2026-02-12'
+description: A comprehensive historical and conceptual report on algebra’s development, major structures,
+  applications, and future directions.
+draft: true
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:evolution-and-frontiers-of-algebra
+isCJKLanguage: false
 keywords:
 - algebra
 - history of algebra
@@ -87,96 +64,119 @@ keywords:
 - coding theory
 - symmetry
 - Langlands program
-subject:
-- Algebra
-subjects:
-- Algebra
-- History of Mathematics
-- Abstract Structures
+lang: en
+language: English
+lastmod: ''
+layout: ''
 library_of_congress_classification:
   class: ''
-  label: ''
   description: ''
-series: Gold, Velvet and Ashes
-series-title: Reports
-series-number: 1
-series_title: Reports
-series_number: 1
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: survey
+  level: graduate
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: history, concepts, subfields, applications, philosophy, future
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: algebra
+  type: ''
+  version: ''
+  year: 0
 report-no: GVA-MATH-ALG-2026-001
 report-number: '001'
 report-year: '2026'
 report_no: 1
 report_number: 0
 report_year: 2026
-layout: ''
-markup: ''
+resources: []
+revision: '1'
+rights: CC0-1.0
+series: Gold, Velvet and Ashes
+series-number: 1
+series-title: Reports
+series_number: 1
+series_title: Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: evolution-and-frontiers-of-algebra
+status: draft
+subject:
+- Algebra
+subjects:
+- Algebra
+- History of Mathematics
+- Abstract Structures
+subtitle: A Comprehensive Historical and Conceptual Analysis
+summary: ''
+tags:
+- algebra
+- history
+- abstract-algebra
+- group-theory
+- ring-theory
+- field-theory
+- galois-theory
+- linear-algebra
+- representation-theory
+- lie-algebras
+- hopf-algebras
+- homological-algebra
+- algebraic-geometry
+- category-theory
+- computational-algebra
+- groebner-bases
+- cryptography
+- coding-theory
+- langlands
+title: The Evolution and Frontiers of Algebra
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: survey
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: algebra
-  subject: ''
-  scope: history, concepts, subfields, applications, philosophy, future
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: graduate
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

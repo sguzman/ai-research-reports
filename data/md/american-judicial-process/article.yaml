@@ -1,54 +1,44 @@
 ---
-title: Judges in the Judicial Process of the United States
-subtitle: ''
-linkTitle: ''
-description: A structured guide to U.S. judges and judicial offices across federal and state systems,
-  including tenure, appointment, elections, powers, and pay.
-summary: ''
 abstract: An institutional overview of judges in the United States judicial process, covering the constitutional
   distinction between Article III judges and other judicial officers, the structure of federal and representative
   state systems, methods of selection, powers and constraints, compensation, and the practical variation
   across jurisdictions. The report treats “judge” not as a single office but as a family of positions
   shaped by constitutional design, statute, court structure, and political selection mechanisms.
-slug: american-judicial-process
-url: ''
 aliases: []
-date: '2026-04-30'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: true
-status: draft
-edition: '1.0'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: urn:gva:american-judicial-process
-dataset_id: american-judicial-process
-plate_id: ''
-type: report
-format: text/markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Law
 - Courts
 - United States Law
 - Judicial Administration
-tags:
-- judges
-- courts
-- american-law
-- article-iii
-- judicial-selection
-- judicial-administration
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: american-judicial-process
+date: '2026-04-30'
+description: A structured guide to U.S. judges and judicial offices across federal and state systems,
+  including tenure, appointment, elections, powers, and pay.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:gva:american-judicial-process
+isCJKLanguage: false
 keywords:
 - judges
 - judicial process
@@ -60,6 +50,85 @@ keywords:
 - judicial selection
 - judicial compensation
 - administrative law judges
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: KF
+  description: ''
+  label: Law of the United States
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: general legal reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-03'
+    source_docx: american-judicial-process.docx
+    tool: pandoc 3.6
+  discipline: ''
+  domain: law
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: institutional overview
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: federal + representative state systems + powers + selection + compensation
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: judges in the United States judicial process
+  type: ''
+  version: ''
+  year: 0
+report-no: ''
+report-number: ''
+report-year: '2026'
+report_no: 0
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: american-law-guides
+series-number: 0
+series-title: American Law Guides
+series_number: 0
+series_title: American Law Guides
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: american-judicial-process
+status: draft
 subject:
 - Judges
 - United States courts
@@ -70,90 +139,21 @@ subjects:
 - Judicial selection
 - Judicial powers
 - Judicial compensation
-library_of_congress_classification:
-  class: KF
-  label: Law of the United States
-  description: ''
-series: american-law-guides
-series-title: American Law Guides
-series-number: 0
-series_title: American Law Guides
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: '2026'
-report_no: 0
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: ''
+summary: ''
+tags:
+- judges
+- courts
+- american-law
+- article-iii
+- judicial-selection
+- judicial-administration
+title: Judges in the Judicial Process of the United States
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: institutional overview
-  type: ''
-  domain: law
-  discipline: ''
-  subdiscipline: ''
-  topic: judges in the United States judicial process
-  subject: ''
-  scope: federal + representative state systems + powers + selection + compensation
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: general legal reader
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: american-judicial-process.docx
-    tool: pandoc 3.6
-    date: '2026-05-03'
+type: report
+url: ''
+weight: 0
 ...

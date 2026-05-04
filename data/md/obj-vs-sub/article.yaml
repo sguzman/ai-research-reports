@@ -1,11 +1,4 @@
 ---
-title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-subtitle: From Plato to AI, and why intersubjective methods matter
-linkTitle: ''
-description: A long-form report mapping the philosophical and practical tensions between objectivity and
-  subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics,
-  and AI)—with an emphasis on intersubjective procedures as the real engine of reliable knowledge.
-summary: ''
 abstract: 'A comprehensive survey of the objectivity–subjectivity debate from classical philosophy to
   the contemporary “post-truth” and AI era. The report clarifies core definitions (objectivity, subjectivity,
   intersubjectivity, relativism), traces historical milestones (Plato vs. Protagoras, medieval realism
@@ -16,50 +9,43 @@ abstract: 'A comprehensive survey of the objectivity–subjectivity debate from 
   rejects both naive “view from nowhere” objectivism and cynical “everything is opinion” relativism, recommending
   epistemic rigor paired with reflexive awareness of standpoint—especially in science communication, journalism,
   law, and algorithmic governance.'
-slug: objectivity-vs-subjectivity
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: complete
-edition: '1'
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:objectivity-vs-subjectivity:2026-02-12
-dataset_id: gva.objectivity-vs-subjectivity.2026-02-12
-plate_id: gva-objsubj-2026-02-12
-type: report
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - philosophy
 - epistemology
 - philosophy of science
 - media studies
 - technology ethics
-tags:
-- epistemology
-- philosophy
-- science
-- journalism
-- law
-- ai
-- bias
-- relativism
-- intersubjectivity
-- post-truth
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: gva.objectivity-vs-subjectivity.2026-02-12
+date: '2026-02-12'
+description: A long-form report mapping the philosophical and practical tensions between objectivity and
+  subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics,
+  and AI)—with an emphasis on intersubjective procedures as the real engine of reliable knowledge.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: ''
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:objectivity-vs-subjectivity:2026-02-12
+isCJKLanguage: false
 keywords:
 - objectivity
 - subjectivity
@@ -80,6 +66,85 @@ keywords:
 - AI ethics
 - post-truth
 - expert authority
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-objsubj-2026-02-12
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: GVA-REPORT-2026-OBJ-SUBJ
+report-number: OBJ-SUBJ
+report-year: '2026'
+report_no: 0
+report_number: 0
+report_year: 2026
+resources: []
+revision: r1
+rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+series: philosophy-reports
+series-number: 0
+series-title: Philosophy Reports
+series_number: 0
+series_title: Philosophy Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: objectivity-vs-subjectivity
+status: complete
 subject:
 - Objectivity
 - Subjectivity
@@ -96,90 +161,25 @@ subjects:
 - Journalism ethics
 - Legal philosophy
 - Technology ethics
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-series: philosophy-reports
-series-title: Philosophy Reports
-series-number: 0
-series_title: Philosophy Reports
-series_number: 0
-report-no: GVA-REPORT-2026-OBJ-SUBJ
-report-number: OBJ-SUBJ
-report-year: '2026'
-report_no: 0
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: From Plato to AI, and why intersubjective methods matter
+summary: ''
+tags:
+- epistemology
+- philosophy
+- science
+- journalism
+- law
+- ai
+- bias
+- relativism
+- intersubjectivity
+- post-truth
+title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

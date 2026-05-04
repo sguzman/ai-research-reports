@@ -1,58 +1,47 @@
 ---
-title: Co-opting the Left
-subtitle: U.S. Liberal Institutions and Deradicalization (1945--Present)
-linkTitle: ''
-description: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements
-  since 1945—through concessions, professionalization, narrative control, and selective inclusion paired
-  with repression—illustrated with cross-era case studies.
-summary: ''
 abstract: A research-style synthesis arguing that, since 1945, U.S. liberal and centrist institutions
   (party politics, major NGOs, philanthropy, media, academia, courts, and corporate actors) have repeatedly
   absorbed, redirected, and professionalized left movements. It surveys a recurring “toolbox” of mechanisms—partial
   policy concessions, leadership/career capture, nonprofit funding channels, narrative framing, and selective
   inclusion alongside repression— and illustrates them across postwar labor politics through contemporary
   movements such as Occupy Wall Street and Black Lives Matter.
-slug: co-opting-the-left
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: final-draft
-edition: 1st
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0 Universal
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:co-opting-the-left
-dataset_id: gva-co-opting-the-left-1945-present
-plate_id: gva-plate-co-opting-the-left
-type: report
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - politics
 - political theory
 - u.s. history
 - social movements
 - institutional analysis
-tags:
-- co-optation
-- deradicalization
-- institutions
-- u.s. politics
-- social movements
-- occupy
-- blm
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva-co-opting-the-left-1945-present
+date: '2026-02-12'
+description: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements
+  since 1945—through concessions, professionalization, narrative control, and selective inclusion paired
+  with repression—illustrated with cross-era case studies.
+draft: false
+edition: 1st
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:co-opting-the-left
+isCJKLanguage: false
 keywords:
 - co-optation
 - deradicalization
@@ -69,6 +58,91 @@ keywords:
 - black lives matter
 - labor movement
 - civil rights movement
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+  note: U.S. social conditions/social reform (HN); U.S. political institutions (JK); labor/economic history
+    context (HD).
+  primary: HN90
+  secondary:
+  - JK
+  - HD
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-plate-co-opting-the-left
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: historical synthesis with mechanism taxonomy and illustrative case studies
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: 1945-present
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: United States
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: research report
+  version: ''
+  year: 0
+report-no: GVA-REP-0001
+report-number: GVA-REP-0001
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0 Universal
+series: gva-reports
+series-number: 1
+series-title: Gold, Velvet and Ashes Reports
+series_number: 1
+series_title: Gold, Velvet and Ashes Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: co-opting-the-left
+status: final-draft
 subject:
 - United States
 - Social movements
@@ -79,96 +153,22 @@ subjects:
 - Institutional power
 - NGOs and philanthropy
 - Media and narrative framing
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  note: U.S. social conditions/social reform (HN); U.S. political institutions (JK); labor/economic history
-    context (HD).
-  primary: HN90
-  secondary:
-  - JK
-  - HD
-series: gva-reports
-series-title: Gold, Velvet and Ashes Reports
-series-number: 1
-series_title: Gold, Velvet and Ashes Reports
-series_number: 1
-report-no: GVA-REP-0001
-report-number: GVA-REP-0001
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: U.S. Liberal Institutions and Deradicalization (1945--Present)
+summary: ''
+tags:
+- co-optation
+- deradicalization
+- institutions
+- u.s. politics
+- social movements
+- occupy
+- blm
+title: Co-opting the Left
 toc: true
 toc-depth: 2
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: research report
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: United States
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: 1945-present
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: historical synthesis with mechanism taxonomy and illustrative case studies
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

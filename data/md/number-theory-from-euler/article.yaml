@@ -1,62 +1,44 @@
 ---
-title: Number Theory from Euler to Today
-subtitle: 'Europe & the United States: A Research Report'
-linkTitle: ''
-description: A research-report style history of number theory from Euler to the present, tracing the interplay
-  of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic
-  reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness”
-  perspectives.
-summary: ''
 abstract: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs
   through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric,
   probabilistic, and computational methods, with a focus on Europe and the United States and on major
   landmark results and milestones.
-slug: number-theory-from-euler-to-today
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1.0'
-revision: '1'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0 1.0 Universal (CC0-1.0)
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:rr:number-theory-from-euler-to-today:2026-02-12
-dataset_id: rr-number-theory-euler-to-today
-plate_id: ''
-type: article
-format: markdown
-reference-section-title: References and Further Reading
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Mathematics
 - Number theory
 - History of mathematics
-tags:
-- euler
-- gauss
-- dirichlet
-- riemann
-- primes
-- zeta-function
-- l-functions
-- reciprocity
-- class-field-theory
-- elliptic-curves
-- langlands
-- probability
-- algorithms
-- cryptography
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: rr-number-theory-euler-to-today
+date: '2026-02-12'
+description: A research-report style history of number theory from Euler to the present, tracing the interplay
+  of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic
+  reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness”
+  perspectives.
+draft: false
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:rr:number-theory-from-euler-to-today:2026-02-12
+isCJKLanguage: false
 keywords:
 - number theory
 - history of number theory
@@ -74,6 +56,88 @@ keywords:
 - probabilistic number theory
 - computational number theory
 - cryptography
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  caption: Number theory
+  class: QA241
+  description: ''
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References and Further Reading
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis:
+  - analytic, algebraic, geometric, probabilistic, and computational themes
+  - major milestones and landmark results
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: research report
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: Europe & the United States
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: late 18th century to present
+  topic: number theory
+  type: ''
+  version: ''
+  year: 0
+report-no: NT-2026-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: '1'
+rights: CC0 1.0 Universal (CC0-1.0)
+series: research-reports
+series-number: 0
+series-title: Research Reports
+series_number: 0
+series_title: Research Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: number-theory-from-euler-to-today
+status: published
 subject:
 - Mathematics
 - Number theory
@@ -82,93 +146,29 @@ subjects:
 - Mathematics
 - Number theory
 - History of mathematics
-library_of_congress_classification:
-  class: QA241
-  label: ''
-  description: ''
-  caption: Number theory
-series: research-reports
-series-title: Research Reports
-series-number: 0
-series_title: Research Reports
-series_number: 0
-report-no: NT-2026-001
-report-number: '001'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: 'Europe & the United States: A Research Report'
+summary: ''
+tags:
+- euler
+- gauss
+- dirichlet
+- riemann
+- primes
+- zeta-function
+- l-functions
+- reciprocity
+- class-field-theory
+- elliptic-curves
+- langlands
+- probability
+- algorithms
+- cryptography
+title: Number Theory from Euler to Today
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: research report
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: number theory
-  subject: ''
-  scope: Europe & the United States
-  scope_years: ''
-  time_scope: ''
-  time_span: late 18th century to present
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis:
-  - analytic, algebraic, geometric, probabilistic, and computational themes
-  - major milestones and landmark results
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: article
+url: ''
+weight: 0
 ...

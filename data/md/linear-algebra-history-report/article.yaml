@@ -1,56 +1,45 @@
 ---
-title: The Making of Linear Algebra
-subtitle: ''
-linkTitle: ''
-description: A long-form history of linear algebra, from elimination and determinants to vector spaces,
-  matrices, eigenvalues, and the computational era.
-summary: ''
 abstract: A historical survey of linear algebra as a field that emerged gradually from the convergence
   of equation solving, determinants, geometry, matrices, vector spaces, canonical forms, numerical methods,
   and computation. The report traces the subject from practical elimination methods and determinant-based
   solvability through Grassmann, Cayley, Jordan, and the structural twentieth century, emphasizing how
   linear algebra became a universal language across mathematics, physics, statistics, engineering, and
   computer science.
-slug: linear-algebra-history-report
-url: ''
 aliases: []
-date: '2026-05-03'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: true
-status: draft
-edition: '1.0'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: urn:gva:linear-algebra-history-report
-dataset_id: linear-algebra-history-report
-plate_id: ''
-type: report
-format: text/markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Mathematics
 - Linear Algebra
 - History of Mathematics
 - Mathematical Structures
-tags:
-- linear-algebra
-- math-history
-- matrices
-- vector-spaces
-- determinants
-- eigenvalues
-- numerical-linear-algebra
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: linear-algebra-history-report
+date: '2026-05-03'
+description: A long-form history of linear algebra, from elimination and determinants to vector spaces,
+  matrices, eigenvalues, and the computational era.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:gva:linear-algebra-history-report
+isCJKLanguage: false
 keywords:
 - linear algebra
 - history of linear algebra
@@ -64,6 +53,85 @@ keywords:
 - Grassmann
 - Cayley
 - Jordan form
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: QA184
+  description: ''
+  label: Linear algebra
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: general mathematically literate reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-03'
+    source_docx: linear_algebra_history_report.docx
+    tool: pandoc 3.6
+  discipline: ''
+  domain: mathematics
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: historical survey
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: origins + consolidation + structure + computation + applications
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: linear algebra
+  type: ''
+  version: ''
+  year: 0
+report-no: ''
+report-number: ''
+report-year: '2026'
+report_no: 0
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: mathematics-histories
+series-number: 0
+series-title: Mathematics Histories
+series_number: 0
+series_title: Mathematics Histories
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: linear-algebra-history-report
+status: draft
 subject:
 - Linear algebra
 - History of mathematics
@@ -76,90 +144,22 @@ subjects:
 - Vector spaces
 - Eigenvalues
 - History of mathematics
-library_of_congress_classification:
-  class: QA184
-  label: Linear algebra
-  description: ''
-series: mathematics-histories
-series-title: Mathematics Histories
-series-number: 0
-series_title: Mathematics Histories
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: '2026'
-report_no: 0
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: ''
+summary: ''
+tags:
+- linear-algebra
+- math-history
+- matrices
+- vector-spaces
+- determinants
+- eigenvalues
+- numerical-linear-algebra
+title: The Making of Linear Algebra
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: ''
-cover_image: ''
-epub-cover-image: ''
-epub_cover_image: ''
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: historical survey
-  type: ''
-  domain: mathematics
-  discipline: ''
-  subdiscipline: ''
-  topic: linear algebra
-  subject: ''
-  scope: origins + consolidation + structure + computation + applications
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: general mathematically literate reader
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: linear_algebra_history_report.docx
-    tool: pandoc 3.6
-    date: '2026-05-03'
+type: report
+url: ''
+weight: 0
 ...

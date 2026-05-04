@@ -1,61 +1,43 @@
 ---
-title: Evolution of Marxism
-subtitle: A timeline and conceptual map (1840s–2026)
-linkTitle: ''
-description: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism,
-  and post-1989 revivals—plus a timeline from 1848 to 2026.
-summary: ''
 abstract: 'A long-form historical and conceptual survey of Marxism’s evolution from the 1840s to the present:
   its major phases (classical Marxism, Leninism, Stalin-era Marxism–Leninism, Maoism, Western Marxism,
   Eurocommunism, post-1989 currents), its recurring internal disputes (reform vs. revolution, vanguard
   vs. spontaneity, internationalism vs. “socialism in one country,” markets vs. planning), and the way
   real-world state power, geopolitical conflict, and economic crises reshaped the theory’s practical meaning.'
-slug: marx-evolution
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: '1'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:article:marx-evolution:2026-02-12
-dataset_id: gva.marx-evolution
-plate_id: plate.marx-evolution
-type: essay
-format: article
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - political-theory
 - intellectual-history
 - modern-history
-tags:
-- marxism
-- marx
-- engels
-- lenin
-- stalin
-- trotsky
-- mao
-- comintern
-- eurocommunism
-- western-marxism
-- social-democracy
-- cold-war
-- political-theory
-- timeline
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva.marx-evolution
+date: '2026-02-12'
+description: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism,
+  and post-1989 revivals—plus a timeline from 1848 to 2026.
+draft: false
+edition: '1'
+epub-chapter-level: 0
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: article
+headless: false
+highlight-style: tango
+identifier: gva:article:marx-evolution:2026-02-12
+isCJKLanguage: false
 keywords:
 - Marxism
 - Karl Marx
@@ -78,6 +60,86 @@ keywords:
 - market reforms
 - 2008 financial crisis
 - political history
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+  primary: HX
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: false
+outputs: []
+plate_id: plate.marx-evolution
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+resources: []
+revision: '1'
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+series_number: 0
+series_title: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: marx-evolution
+status: published
 subject:
 - History of Marxism
 - Socialist movements
@@ -88,91 +150,29 @@ subjects:
 - Socialist movements
 - Communist movements
 - Political ideologies
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  primary: HX
-series: ''
-series-title: ''
-series-number: 0
-series_title: ''
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
-layout: ''
-markup: ''
+subtitle: A timeline and conceptual map (1840s–2026)
+summary: ''
+tags:
+- marxism
+- marx
+- engels
+- lenin
+- stalin
+- trotsky
+- mao
+- comintern
+- eurocommunism
+- western-marxism
+- social-democracy
+- cold-war
+- political-theory
+- timeline
+title: Evolution of Marxism
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: false
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 0
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: essay
+url: ''
+weight: 0
 ...

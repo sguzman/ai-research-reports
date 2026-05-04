@@ -1,11 +1,4 @@
 ---
-title: The Semantics of "Geometry" from Euler to Today
-subtitle: Europe & the United States
-linkTitle: ''
-description: A historical-semantic survey of what "geometry" has meant in mathematics from Euler’s 18th-century
-  contrast with analysis through modern differential, topological, algebraic, and computational geometries,
-  focusing on Europe and the United States.
-summary: ''
 abstract: This report traces the evolving meanings of "geometry" in European and American mathematics
   from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry"
   has expanded from denoting the classical study of shapes and Euclidean space to a sprawling family of
@@ -21,47 +14,42 @@ abstract: This report traces the evolving meanings of "geometry" in European and
   fragmented into specialized "geometries." Through historical narrative, case studies, and quotations
   from major figures, we show how "geometry" evolved from the study of tangible figures in Euclidean space
   to a unifying language of mathematical structure, and why it remains a plurality of approaches today.
-slug: geometry-semantics
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: final
-edition: '1'
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:geometry-semantics:euler-to-today
-dataset_id: gva-geometry-semantics-2026-02-12
-plate_id: gva-geometry-semantics
-type: report
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Mathematics
 - History of Mathematics
 - Philosophy of Mathematics
 - Semantics
-tags:
-- geometry
-- euler
-- klein
-- hilbert
-- topology
-- differential-geometry
-- algebraic-geometry
-- computational-geometry
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva-geometry-semantics-2026-02-12
+date: '2026-02-12'
+description: A historical-semantic survey of what "geometry" has meant in mathematics from Euler’s 18th-century
+  contrast with analysis through modern differential, topological, algebraic, and computational geometries,
+  focusing on Europe and the United States.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:geometry-semantics:euler-to-today
+isCJKLanguage: false
 keywords:
 - geometry
 - synthetic geometry
@@ -79,6 +67,89 @@ keywords:
 - computational geometry
 - history of mathematics
 - semantics
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+  note: Mathematics (with emphasis on history/philosophy of mathematical practice)
+  primary: QA
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-geometry-semantics
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus:
+  - Europe
+  - United States
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: 18th-21st century
+  topic: semantics of the term "geometry" in mathematics
+  type: ''
+  version: ''
+  year: 0
+report-no: GVA-2026-02-12-01
+report-number: '01'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: r1
+rights: CC0-1.0
+series: Gold, Velvet and Ashes
+series-number: 1
+series-title: Gold, Velvet and Ashes Reports
+series_number: 1
+series_title: Gold, Velvet and Ashes Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: geometry-semantics
+status: final
 subject:
 - Mathematics
 - History of mathematics
@@ -87,94 +158,23 @@ subjects:
 - Geometry -- history
 - Mathematics -- philosophy
 - Mathematical terminology
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  note: Mathematics (with emphasis on history/philosophy of mathematical practice)
-  primary: QA
-series: Gold, Velvet and Ashes
-series-title: Gold, Velvet and Ashes Reports
-series-number: 1
-series_title: Gold, Velvet and Ashes Reports
-series_number: 1
-report-no: GVA-2026-02-12-01
-report-number: '01'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: Europe & the United States
+summary: ''
+tags:
+- geometry
+- euler
+- klein
+- hilbert
+- topology
+- differential-geometry
+- algebraic-geometry
+- computational-geometry
+title: The Semantics of "Geometry" from Euler to Today
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: semantics of the term "geometry" in mathematics
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: 18th-21st century
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus:
-  - Europe
-  - United States
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

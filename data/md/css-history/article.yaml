@@ -1,11 +1,4 @@
 ---
-title: A Comprehensive History of CSS
-subtitle: Institutions, Specs, and Practice
-linkTitle: ''
-description: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation
-  realities with community practice (from early standards and the browser wars to responsive design, Flexbox,
-  Grid, and modern CSS architecture).
-summary: ''
 abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation
   into a mature, modular platform for layout, typography, interaction, and responsive design. This essay
   traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots,
@@ -15,51 +8,43 @@ abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separat
   stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling,
   and design systems). The result is a coherent timeline of institutions, specs, and practice that explains
   not only what modern CSS can do, but why the ecosystem evolved the way it did.'
-slug: history-of-css
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: complete
-edition: '1'
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: en
-identifier: gva-history-of-css-2026-02-12
-dataset_id: ''
-plate_id: ''
-type: article
-format: markdown
-reference-section-title: Annotated Bibliography and Further Reading
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - web
 - css
 - web-standards
 - software-history
 - front-end
-tags:
-- css
-- web
-- w3c
-- standards
-- front-end
-- history
-- browsers
-- responsive-design
-- flexbox
-- grid
-- css-architecture
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-02-12'
+description: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation
+  realities with community practice (from early standards and the browser wars to responsive design, Flexbox,
+  Grid, and modern CSS architecture).
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva-history-of-css-2026-02-12
+isCJKLanguage: false
 keywords:
 - CSS
 - Cascading Style Sheets
@@ -80,6 +65,86 @@ keywords:
 - OOCSS
 - SMACSS
 - CSS Zen Garden
+lang: en
+language: en
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: false
+outputs: []
+plate_id: ''
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: Annotated Bibliography and Further Reading
+report:
+  false: 0
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 2026
+report-no: '0'
+report-number: '0'
+report-year: '2026'
+report_no: 0
+report_number: 0
+report_year: 2026
+resources: []
+revision: r1
+rights: CC0-1.0
+series: Gold, Velvet and Ashes
+series-number: 0
+series-title: Gold, Velvet and Ashes
+series_number: 0
+series_title: Gold, Velvet and Ashes
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: history-of-css
+status: complete
 subject:
 - Cascading Style Sheets (CSS)
 - Web standards
@@ -92,91 +157,26 @@ subjects:
 - CSS Working Group
 - Web development practices
 - Design systems and CSS architecture
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-series: Gold, Velvet and Ashes
-series-title: Gold, Velvet and Ashes
-series-number: 0
-series_title: Gold, Velvet and Ashes
-series_number: 0
-report-no: '0'
-report-number: '0'
-report-year: '2026'
-report_no: 0
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: Institutions, Specs, and Practice
+summary: ''
+tags:
+- css
+- web
+- w3c
+- standards
+- front-end
+- history
+- browsers
+- responsive-design
+- flexbox
+- grid
+- css-architecture
+title: A Comprehensive History of CSS
 toc: true
 toc-depth: 2
 toc-title: Contents
-number-sections: false
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 2026
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
-  false: 0
+type: article
+url: ''
+weight: 0
 ...

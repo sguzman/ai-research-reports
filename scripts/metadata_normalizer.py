@@ -79,6 +79,17 @@ def clean_text_fields(data: Any, key_name: str | None = None) -> Any:
     return data
 
 
+def sort_keys_recursively(data: Any) -> Any:
+    if isinstance(data, dict):
+        return {
+            key: sort_keys_recursively(data[key])
+            for key in sorted(data, key=lambda item: str(item))
+        }
+    if isinstance(data, list):
+        return [sort_keys_recursively(item) for item in data]
+    return data
+
+
 def sync_aliases(data: dict[str, Any]) -> None:
     for left, right in ALIAS_PAIRS:
         left_value = data.get(left)
@@ -104,6 +115,7 @@ def normalize_project(folder: Path, standard: dict[str, Any], create_missing: bo
 
     data = clean_text_fields(data)
     sync_aliases(data)
+    data = sort_keys_recursively(data)
     rendered = dump_yaml(data)
 
     if write:

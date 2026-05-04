@@ -1,51 +1,42 @@
 ---
-title: Inventing Socialism
-subtitle: How a Name Emerged in Britain and France (1820-1840)
-linkTitle: ''
-description: A compact research note on the earliest documented uses of “socialism/socialist” in Britain
-  and France (1820-1840), with mini-profiles and comparative analysis of Owenites, Saint-Simonians, Fourierists,
-  and Cabet’s Icarians.
-summary: ''
 abstract: A source-driven overview of how “socialism” and “socialist” entered English and French usage
   (1820-1840), tracing early Owenite, Saint-Simonian, Fourierist, and Icarian meanings and the competing
   doctrinal emphases that shaped the term’s first public life.
-slug: inventing-socialism
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: 1.0.0
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: urn:gva:inventing-socialism
-dataset_id: gva-inventing-socialism
-plate_id: gva-plate-inventing-socialism
-type: essay
-format: article
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - History of Ideas
 - Political Thought
 - 19th Century
-tags:
-- socialism
-- history
-- political-theory
-- utopianism
-- 19th-century
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva-inventing-socialism
+date: '2026-02-12'
+description: A compact research note on the earliest documented uses of “socialism/socialist” in Britain
+  and France (1820-1840), with mini-profiles and comparative analysis of Owenites, Saint-Simonians, Fourierists,
+  and Cabet’s Icarians.
+draft: false
+edition: 1.0.0
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: article
+headless: false
+highlight-style: tango
+identifier: urn:gva:inventing-socialism
+isCJKLanguage: false
 keywords:
 - socialism
 - socialist
@@ -62,6 +53,86 @@ keywords:
 - France
 - Britain
 - nineteenth century
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: HX
+  description: ''
+  label: ''
+  note: Socialism. Communism. Anarchism
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-plate-inventing-socialism
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: research note
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: 1820-1840
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: history of political vocabulary
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: '1'
+report-number: '1'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: r1
+rights: CC0-1.0
+series: Origins of Modern Ideologies
+series-number: 1
+series-title: Origins of Modern Ideologies
+series_number: 1
+series_title: Origins of Modern Ideologies
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: inventing-socialism
+status: published
 subject:
 - History of socialism
 - Political terminology
@@ -70,91 +141,20 @@ subjects:
 - History of socialism
 - Political terminology
 - Utopian movements
-library_of_congress_classification:
-  class: HX
-  label: ''
-  description: ''
-  note: Socialism. Communism. Anarchism
-series: Origins of Modern Ideologies
-series-title: Origins of Modern Ideologies
-series-number: 1
-series_title: Origins of Modern Ideologies
-series_number: 1
-report-no: '1'
-report-number: '1'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: How a Name Emerged in Britain and France (1820-1840)
+summary: ''
+tags:
+- socialism
+- history
+- political-theory
+- utopianism
+- 19th-century
+title: Inventing Socialism
 toc: true
 toc-depth: 3
 toc-title: Table of Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: research note
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: history of political vocabulary
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: 1820-1840
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: essay
+url: ''
+weight: 0
 ...

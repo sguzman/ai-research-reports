@@ -1,11 +1,4 @@
 ---
-title: Conservation of Radicalism and Asymmetric Co-optability
-subtitle: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric
-  co-optability
-linkTitle: ''
-description: A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability
-  of left vs right radicalism.
-summary: ''
 abstract: 'This essay proposes a compact, falsifiable model of modern radical politics using a “complex-plane”
   style picture: one axis captures institutional co-optation (absorption/neutralization of insurgent movements
   through parties, NGOs, academia, philanthropy, and policy incorporation), while another captures ideological
@@ -17,48 +10,41 @@ abstract: 'This essay proposes a compact, falsifiable model of modern radical po
   is often defined against elite institutions and liberal norms. The report synthesizes mechanisms of
   co-optation, proposes observable signatures, surveys illustrative cases, and ends with explicit counterevidence
   tests that could refine or falsify the model.'
-slug: complex-conserving-radicalism
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: draft
-edition: '1'
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:conservation-of-radicalism-asymmetric-cooptability
-dataset_id: gva:complex-conserving-radicalism
-plate_id: gva-plate:complex-conserving-radicalism
-type: report
-format: text/markdown
-reference-section-title: Bibliography
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - politics
 - political-theory
 - sociology
 - social-movements
-tags:
-- co-optation
-- institutionalization
-- nonprofit-industrial-complex
-- culture-war
-- class
-- identity
-- radicalism
-- populism
-- complex-plane
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva:complex-conserving-radicalism
+date: '2026-02-12'
+description: A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability
+  of left vs right radicalism.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: gva:conservation-of-radicalism-asymmetric-cooptability
+isCJKLanguage: false
 keywords:
 - conservation of radicalism
 - radical energy
@@ -74,6 +60,89 @@ keywords:
 - right-wing populism
 - asymmetric co-optability
 - complex plane model
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+  primary: JC
+  secondary:
+  - HN
+  - HX
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-plate:complex-conserving-radicalism
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: Bibliography
+report:
+  audience: ''
+  code: GVA-RPT-2026-01
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: research-report
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: 1
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 2026
+report-no: GVA-RPT-2026-01
+report-number: '1'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: r1
+rights: CC0-1.0
+series: gva-research-reports
+series-number: 1
+series-title: Gold, Velvet and Ashes Research Reports
+series_number: 1
+series_title: Gold, Velvet and Ashes Research Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: complex-conserving-radicalism
+status: draft
 subject:
 - political radicalism
 - social movements
@@ -90,94 +159,25 @@ subjects:
 - class politics
 - right-wing populism
 - liberal democracy
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  primary: JC
-  secondary:
-  - HN
-  - HX
-series: gva-research-reports
-series-title: Gold, Velvet and Ashes Research Reports
-series-number: 1
-series_title: Gold, Velvet and Ashes Research Reports
-series_number: 1
-report-no: GVA-RPT-2026-01
-report-number: '1'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric
+  co-optability
+summary: ''
+tags:
+- co-optation
+- institutionalization
+- nonprofit-industrial-complex
+- culture-war
+- class
+- identity
+- radicalism
+- populism
+- complex-plane
+title: Conservation of Radicalism and Asymmetric Co-optability
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: GVA-RPT-2026-01
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: 1
-  year: 2026
-  version: ''
-  kind: research-report
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

@@ -1,11 +1,4 @@
 ---
-title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-subtitle: Place-based identity, prestige norms, and the mechanisms of recurring right backlash
-linkTitle: ''
-description: A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent right
-  dissidence under elite cultural standardization, with operational definitions, competing frameworks,
-  and testable implications.
-summary: ''
 abstract: This essay argues that some multi-generational, place-attached rural regional cultures (e.g.,
   Appalachia / the Upland South) function like durable “land-rooted” ethnocultures with tight kinship,
   church-centered institutions, and honor-and-loyalty moral codes. It then analyzes how modern national
@@ -16,52 +9,43 @@ abstract: This essay argues that some multi-generational, place-attached rural r
   (from mainstream conservatism to populist revolt and fringe radicalization). The piece maps competing
   explanatory frameworks, proposes operational definitions and measurable indicators, and emphasizes falsifiable
   predictions alongside alternative hypotheses.
-slug: land-rooted-ethnos
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: land-rooted-ethnos
-dataset_id: land-rooted-ethnos
-plate_id: gva.land-rooted-ethnos.2026-02-12
-type: research-essay
-format: article
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - politics
 - sociology
 - political psychology
 - culture
 - regionalism
-tags:
-- appalachia
-- rural
-- identity
-- status-threat
-- resentment
-- institutions
-- pmc
-- culture-war
-- populism
-- dissidence
-- operationalization
-- falsifiable-claims
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: land-rooted-ethnos
+date: '2026-02-12'
+description: A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent right
+  dissidence under elite cultural standardization, with operational definitions, competing frameworks,
+  and testable implications.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: article
+headless: false
+highlight-style: tango
+identifier: land-rooted-ethnos
+isCJKLanguage: false
 keywords:
 - ethnoculture
 - regional identity
@@ -82,6 +66,91 @@ keywords:
 - radicalization
 - culture war
 - social movement theory
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+  notes: Provisional classification for an interdisciplinary essay on U.S. rural political culture, status
+    politics, and institutional conflict.
+  primary: HN
+  secondary:
+  - JK
+  - E
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva.land-rooted-ethnos.2026-02-12
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: false
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: ''
+report-no: ''
+report-number: ''
+report-year: ''
+report_no: 0
+report_number: 0
+report_year: 0
+resources: []
+revision: r1
+rights: CC0-1.0
+series: ''
+series-number: 0
+series-title: ''
+series_number: 0
+series_title: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: land-rooted-ethnos
+status: published
 subject:
 - U.S. political culture
 - rural identity
@@ -95,96 +164,27 @@ subjects:
 - social movement theory
 - political resentment
 - culture war dynamics
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  notes: Provisional classification for an interdisciplinary essay on U.S. rural political culture, status
-    politics, and institutional conflict.
-  primary: HN
-  secondary:
-  - JK
-  - E
-series: ''
-series-title: ''
-series-number: 0
-series_title: ''
-series_number: 0
-report-no: ''
-report-number: ''
-report-year: ''
-report_no: 0
-report_number: 0
-report_year: 0
-layout: ''
-markup: ''
+subtitle: Place-based identity, prestige norms, and the mechanisms of recurring right backlash
+summary: ''
+tags:
+- appalachia
+- rural
+- identity
+- status-threat
+- resentment
+- institutions
+- pmc
+- culture-war
+- populism
+- dissidence
+- operationalization
+- falsifiable-claims
+title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: ''
-  version: ''
-  kind: ''
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: false
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: research-essay
+url: ''
+weight: 0
 ...

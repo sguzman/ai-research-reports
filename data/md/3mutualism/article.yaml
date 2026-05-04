@@ -1,54 +1,41 @@
 ---
-title: 'Mutualism: Markets Without Capitalism'
-subtitle: Proudhon's anti-state market socialism and mutual credit
-linkTitle: ''
-description: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the
-  cost principle, mutual banking, and its relationship to cooperative experiments.'
-summary: ''
 abstract: 'Mutualism is Pierre-Joseph Proudhon''s anti-state form of socialism: markets without capitalism,
   where reciprocity, possession over property, and mutual credit aim to neutralize profit, rent, and usury
   without state ownership.'
-slug: mutualism
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva-mutualism-2026-001
-dataset_id: ideology-studies
-plate_id: gva-ideology-mutualism
-type: article
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Political economy
 - History of socialism
 - Anarchism
-tags:
-- mutualism
-- proudhon
-- anarchism
-- socialism
-- market socialism
-- mutual banking
-- cooperatives
-- 19th century
-- france
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: ideology-studies
+date: '2026-02-12'
+description: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the
+  cost principle, mutual banking, and its relationship to cooperative experiments.'
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva-mutualism-2026-001
+isCJKLanguage: false
 keywords:
 - mutualism
 - Pierre-Joseph Proudhon
@@ -60,6 +47,85 @@ keywords:
 - market socialism
 - libertarian socialism
 - cooperative movement
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: HX
+  description: Socialism. Communism. Anarchism
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-ideology-mutualism
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ideology-study
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: Ideology Studies
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: GVA-2026-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: Ideology Studies
+series-number: 1
+series-title: Ideology Studies
+series_number: 1
+series_title: Ideology Studies
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: mutualism
+status: published
 subject:
 - Mutualism (Proudhon)
 - Pierre-Joseph Proudhon
@@ -72,90 +138,24 @@ subjects:
 - Anarchism
 - Socialism
 - Mutual credit
-library_of_congress_classification:
-  class: HX
-  label: ''
-  description: Socialism. Communism. Anarchism
-series: Ideology Studies
-series-title: Ideology Studies
-series-number: 1
-series_title: Ideology Studies
-series_number: 1
-report-no: GVA-2026-001
-report-number: '001'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: Proudhon's anti-state market socialism and mutual credit
+summary: ''
+tags:
+- mutualism
+- proudhon
+- anarchism
+- socialism
+- market socialism
+- mutual banking
+- cooperatives
+- 19th century
+- france
+title: 'Mutualism: Markets Without Capitalism'
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: Ideology Studies
-  number: ''
-  year: 0
-  version: ''
-  kind: ideology-study
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: article
+url: ''
+weight: 0
 ...

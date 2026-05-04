@@ -1,10 +1,4 @@
 ---
-title: History of Neural Networks in Computing (1940s--2026)
-subtitle: From cybernetics and connectionism to deep learning and the transformer era
-linkTitle: ''
-description: A detailed timeline and conceptual history of neural networks in computing (1940s-2026),
-  connecting major mathematical ideas, hardware shifts, and institutional 'AI cycles'.
-summary: ''
 abstract: An annotated history of artificial neural networks in computing from the 1940s through 2026.
   It traces the ideas that shaped the field - neurons as logical units, perceptrons, gradient-based learning,
   convolution, recurrent models, and attention - and shows how they cycled in and out of favor as compute,
@@ -13,47 +7,40 @@ abstract: An annotated history of artificial neural networks in computing from t
   became decisive turning points. The goal is to give a coherent timeline plus enough mathematical and
   engineering intuition to understand what each wave added, what it failed to solve, and how later work
   reframed earlier limitations.
-slug: history-of-neural-networks-in-computing
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: '2026-02-12'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en-US
-language: en
-identifier: gva:nn-history-1940s-2026
-dataset_id: nn-history-1940s-2026
-plate_id: plate_nn_history_1940s_2026
-type: article
-format: markdown
-reference-section-title: Bibliography
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Artificial Intelligence
 - Computer Science
 - History of Computing
-tags:
-- neural-networks
-- deep-learning
-- machine-learning
-- ai-history
-- computing-history
-- backpropagation
-- cnn
-- transformers
-- gpu
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: nn-history-1940s-2026
+date: '2026-02-12'
+description: A detailed timeline and conceptual history of neural networks in computing (1940s-2026),
+  connecting major mathematical ideas, hardware shifts, and institutional 'AI cycles'.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:nn-history-1940s-2026
+isCJKLanguage: false
 keywords:
 - neural networks
 - deep learning
@@ -67,6 +54,85 @@ keywords:
 - AI winter
 - GPU computing
 - history of computing
+lang: en-US
+language: en
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: plate_nn_history_1940s_2026
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: Bibliography
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: ''
+  level: ''
+  method: ''
+  methods: []
+  name: Gold, Velvet and Ashes
+  notes: ''
+  number: 1
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: research note
+  version: ''
+  year: 2026
+report-no: GVA-2026-NN-001
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: '2026-02-12'
+rights: CC0-1.0
+series: Computing & AI Histories
+series-number: 1
+series-title: Gold, Velvet and Ashes - Research Series
+series_number: 1
+series_title: Gold, Velvet and Ashes - Research Series
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: history-of-neural-networks-in-computing
+status: published
 subject:
 - Artificial intelligence
 - Neural networks (Computer science)
@@ -81,90 +147,24 @@ subjects:
 - Deep learning
 - History of computing
 - Cybernetics
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-series: Computing & AI Histories
-series-title: Gold, Velvet and Ashes - Research Series
-series-number: 1
-series_title: Gold, Velvet and Ashes - Research Series
-series_number: 1
-report-no: GVA-2026-NN-001
-report-number: '001'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: From cybernetics and connectionism to deep learning and the transformer era
+summary: ''
+tags:
+- neural-networks
+- deep-learning
+- machine-learning
+- ai-history
+- computing-history
+- backpropagation
+- cnn
+- transformers
+- gpu
+title: History of Neural Networks in Computing (1940s--2026)
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: Gold, Velvet and Ashes
-  organization: ''
-  collection: ''
-  series: ''
-  number: 1
-  year: 2026
-  version: ''
-  kind: ''
-  type: research note
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: article
+url: ''
+weight: 0
 ...

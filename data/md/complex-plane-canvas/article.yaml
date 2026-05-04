@@ -1,11 +1,4 @@
 ---
-title: Complex Analysis as a Universal Canvas
-subtitle: 'Euler to Today: A Research Report'
-linkTitle: ''
-description: 'A research report arguing that complex analysis functions as a universal “canvas”: by reformulating
-  problems in the complex plane and applying holomorphic rigidity and integral identities, one can solve
-  and unify problems across number theory, geometry, PDEs, physics, probability, and combinatorics.'
-summary: ''
 abstract: 'Complex analysis is a reusable problem-solving canvas: translate a problem into the language
   of holomorphic or analytic functions on a canonical domain (disk, half-plane, Riemann sphere), then
   exploit rigidity, integral formulas, and conformal structure to force global conclusions from local
@@ -17,51 +10,42 @@ abstract: 'Complex analysis is a reusable problem-solving canvas: translate a pr
   complex analyticity acts as a “straitjacket” that suppresses pathologies and reveals hidden structure,
   making the complex plane a universal computational and conceptual medium across mathematics, physics,
   and engineering.'
-slug: complex-plane-canvas
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: r1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: complex-plane-canvas
-dataset_id: complex-plane-canvas
-plate_id: complex-plane-canvas
-type: report
-format: research-report
-reference-section-title: Brief Annotated Bibliography (Classics and Gateways)
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Mathematics
 - Complex Analysis
 - History of Mathematics
 - Mathematical Methods
-tags:
-- complex-analysis
-- complex-plane
-- conformal-maps
-- holomorphic
-- cauchy
-- riemann
-- weierstrass
-- zeta-function
-- prime-number-theorem
-- bieberbach
-- sle
-- pde
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: complex-plane-canvas
+date: '2026-02-12'
+description: 'A research report arguing that complex analysis functions as a universal “canvas”: by reformulating
+  problems in the complex plane and applying holomorphic rigidity and integral identities, one can solve
+  and unify problems across number theory, geometry, PDEs, physics, probability, and combinatorics.'
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: research-report
+headless: false
+highlight-style: tango
+identifier: complex-plane-canvas
+isCJKLanguage: false
 keywords:
 - complex analysis
 - holomorphic functions
@@ -78,6 +62,89 @@ keywords:
 - Schramm-Loewner evolution
 - Schwarz-Christoffel mapping
 - Joukowski transform
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: ''
+  description: ''
+  label: ''
+  note: Mathematics; primary focus on complex analysis and its historical development.
+  primary: QA
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: complex-plane-canvas
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: Brief Annotated Bibliography (Classics and Gateways)
+report:
+  false: '2026-02-12'
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: complex-plane-canvas
+  intent: ''
+  is_report: true
+  kind: research report
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  numbering_scheme: yyyymmdd
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: complex analysis as a universal canvas
+  type: ''
+  version: ''
+  year: 2026
+report-no: '2026-02-12'
+report-number: '2026-02-12'
+report-year: '2026'
+report_no: 20260212
+report_number: 0
+report_year: 2026
+resources: []
+revision: r1
+rights: CC0-1.0
+series: research-reports
+series-number: 0
+series-title: 'Gold, Velvet and Ashes: Research Reports'
+series_number: 0
+series_title: 'Gold, Velvet and Ashes: Research Reports'
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: complex-plane-canvas
+status: published
 subject:
 - Complex analysis
 - Holomorphic functions
@@ -90,94 +157,27 @@ subjects:
 - History of mathematics
 - Mathematical physics
 - Engineering methods
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  note: Mathematics; primary focus on complex analysis and its historical development.
-  primary: QA
-series: research-reports
-series-title: 'Gold, Velvet and Ashes: Research Reports'
-series-number: 0
-series_title: 'Gold, Velvet and Ashes: Research Reports'
-series_number: 0
-report-no: '2026-02-12'
-report-number: '2026-02-12'
-report-year: '2026'
-report_no: 20260212
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: 'Euler to Today: A Research Report'
+summary: ''
+tags:
+- complex-analysis
+- complex-plane
+- conformal-maps
+- holomorphic
+- cauchy
+- riemann
+- weierstrass
+- zeta-function
+- prime-number-theorem
+- bieberbach
+- sle
+- pde
+title: Complex Analysis as a Universal Canvas
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: complex-plane-canvas
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 2026
-  version: ''
-  kind: research report
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: complex analysis as a universal canvas
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
-  false: '2026-02-12'
-  numbering_scheme: yyyymmdd
+type: report
+url: ''
+weight: 0
 ...

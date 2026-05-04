@@ -1,56 +1,44 @@
 ---
-title: Comprehensive Marxist Literature (1840--2025)
-subtitle: An Annotated Bibliography and Research Guide
-linkTitle: ''
-description: An annotated research guide and reading list of Marxist literature (primary and secondary)
-  from 1840 to 2025, arranged to track both historical development and major thematic currents.
-summary: ''
 abstract: A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature
   from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across
   regions, ideological currents, media, and major scholarly languages, and includes methodology notes
   designed for transparent, reproducible updating.
-slug: marx-bibliography
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: complete
-edition: '1.0'
-revision: rev-1
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:article:marx-bibliography:2026-02-12
-dataset_id: gva-marx-bibliography-2026-02-12
-plate_id: plate-marx-bibliography
-type: research
-format: article
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - marxism
 - bibliography
 - political-theory
 - intellectual-history
 - research-guide
-tags:
-- marx
-- engels
-- marxism
-- bibliography
-- reading-list
-- critical-theory
-- socialism
-- communism
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva-marx-bibliography-2026-02-12
+date: '2026-02-12'
+description: An annotated research guide and reading list of Marxist literature (primary and secondary)
+  from 1840 to 2025, arranged to track both historical development and major thematic currents.
+draft: false
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: article
+headless: false
+highlight-style: tango
+identifier: gva:article:marx-bibliography:2026-02-12
+isCJKLanguage: false
 keywords:
 - Karl Marx
 - Friedrich Engels
@@ -67,6 +55,87 @@ keywords:
 - Maoism
 - Frankfurt School
 - critical theory
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: HX
+  description: Socialism, Communism, Anarchism
+  label: ''
+  notes:
+  - Marxism and Marxist schools; bibliography / research guide
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: plate-marx-bibliography
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: research guide
+  is_report: true
+  kind: annotated bibliography
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: chronological + thematic
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: 1840-2025
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: GVA-RPT-0001
+report-number: GVA-RPT-0001
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: rev-1
+rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+series: Gold, Velvet and Ashes - Research Library
+series-number: 0
+series-title: Gold, Velvet and Ashes
+series_number: 0
+series_title: Gold, Velvet and Ashes
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: marx-bibliography
+status: complete
 subject:
 - Marxism
 - Bibliography
@@ -77,92 +146,23 @@ subjects:
 - Marxist literature
 - Annotated bibliography
 - Research methodology
-library_of_congress_classification:
-  class: HX
-  label: ''
-  description: Socialism, Communism, Anarchism
-  notes:
-  - Marxism and Marxist schools; bibliography / research guide
-series: Gold, Velvet and Ashes - Research Library
-series-title: Gold, Velvet and Ashes
-series-number: 0
-series_title: Gold, Velvet and Ashes
-series_number: 0
-report-no: GVA-RPT-0001
-report-number: GVA-RPT-0001
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: An Annotated Bibliography and Research Guide
+summary: ''
+tags:
+- marx
+- engels
+- marxism
+- bibliography
+- reading-list
+- critical-theory
+- socialism
+- communism
+title: Comprehensive Marxist Literature (1840--2025)
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: chronological + thematic
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: annotated bibliography
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: 1840-2025
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: research guide
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: research
+url: ''
+weight: 0
 ...

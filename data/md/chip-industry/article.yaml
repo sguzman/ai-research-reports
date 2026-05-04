@@ -1,64 +1,46 @@
 ---
-title: The Worldwide Computer Chip Industry
-subtitle: A Non-Technical Field Guide
-linkTitle: ''
-description: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test,
-  market structure, cycles, bottlenecks, and geopolitics.'
-summary: ''
 abstract: A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry.
   Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs,
   architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography,
   nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM),
   market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and
   the geopolitics and policy environment shaping the industry.
-slug: worldwide-computer-chip-industry
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1.0'
-revision: '1'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva-chip-industry-field-guide-2026-02-12
-dataset_id: gva-chip-industry-field-guide
-plate_id: gva-chip-industry-field-guide
-type: report
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Technology
 - Semiconductors
 - Industry
 - Supply Chains
 - Geopolitics
-tags:
-- chips
-- semiconductors
-- tsmc
-- intel
-- nvidia
-- amd
-- asml
-- eda
-- fabs
-- packaging
-- hbm
-- supply-chain
-- export-controls
-- chips-act
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva-chip-industry-field-guide
+date: '2026-02-12'
+description: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test,
+  market structure, cycles, bottlenecks, and geopolitics.'
+draft: false
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva-chip-industry-field-guide-2026-02-12
+isCJKLanguage: false
 keywords:
 - semiconductors
 - computer chips
@@ -79,6 +61,87 @@ keywords:
 - export controls
 - CHIPS Act
 - geopolitics
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  assigned: false
+  class: ''
+  description: ''
+  label: ''
+  note: Unclassified; set if you want LoC/LC call numbers.
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-chip-industry-field-guide
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: non-technical
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: semiconductor industry
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: field guide
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: global
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: '1.0'
+  year: 0
+report-no: GVA-TFG-0001
+report-number: '0001'
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: '1'
+rights: CC0-1.0
+series: technology-field-guides
+series-number: 1
+series-title: Technology Field Guides
+series_number: 1
+series_title: Technology Field Guides
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: worldwide-computer-chip-industry
+status: published
 subject:
 - Semiconductor industry
 - Technology supply chains
@@ -89,92 +152,29 @@ subjects:
 - Technology supply chains
 - Industrial organization
 - Geopolitics
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  assigned: false
-  note: Unclassified; set if you want LoC/LC call numbers.
-series: technology-field-guides
-series-title: Technology Field Guides
-series-number: 1
-series_title: Technology Field Guides
-series_number: 1
-report-no: GVA-TFG-0001
-report-number: '0001'
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: A Non-Technical Field Guide
+summary: ''
+tags:
+- chips
+- semiconductors
+- tsmc
+- intel
+- nvidia
+- amd
+- asml
+- eda
+- fabs
+- packaging
+- hbm
+- supply-chain
+- export-controls
+- chips-act
+title: The Worldwide Computer Chip Industry
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: '1.0'
-  kind: field guide
-  type: ''
-  domain: semiconductor industry
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: global
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: non-technical
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

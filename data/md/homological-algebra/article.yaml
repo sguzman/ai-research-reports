@@ -1,59 +1,47 @@
 ---
-title: The History and Impact of Homological Algebra
-subtitle: From Betti Numbers to Infinity-Categories
-linkTitle: ''
-description: A narrative history of homological algebra and why its tools (complexes, exact sequences,
-  derived functors, spectral sequences, and derived categories) became foundational across topology, algebra,
-  geometry, and number theory.
-summary: ''
 abstract: Homological algebra grew out of 19th-century topology and became a central 20th-century language
   for modern mathematics. This essay traces the field from early homology invariants (Riemann, Betti,
   Poincaré) through Noether’s structural viewpoint, the Eilenberg–Mac Lane categorical turn, the Cartan–Eilenberg
   synthesis of derived functors, and the Grothendieck/Verdier revolution of abelian and derived categories.
   It closes with late-20th and 21st century developments including dg- and infinity-categories, derived
   algebraic geometry, and ongoing computational practice.
-slug: homological-algebra
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: 1.0.0
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en-US
-language: English
-identifier: gva:article:homological-algebra:2026-02-12
-dataset_id: gva.article.homological-algebra
-plate_id: gva-plate-homological-algebra-0001
-type: report
-format: article
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - mathematics
 - history-of-mathematics
 - algebra
 - topology
 - algebraic-geometry
-tags:
-- math
-- history
-- homology
-- cohomology
-- derived
-- categories
-- spectral-sequences
-- grothendieck
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva.article.homological-algebra
+date: '2026-02-12'
+description: A narrative history of homological algebra and why its tools (complexes, exact sequences,
+  derived functors, spectral sequences, and derived categories) became foundational across topology, algebra,
+  geometry, and number theory.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: true
+epub_cover_image: cover.png
+expiryDate: ''
+format: article
+headless: false
+highlight-style: tango
+identifier: gva:article:homological-algebra:2026-02-12
+isCJKLanguage: false
 keywords:
 - homological algebra
 - chain complexes
@@ -76,6 +64,94 @@ keywords:
 - Cartan
 - Noether
 - Poincaré
+lang: en-US
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  area: Mathematics
+  class: ''
+  description: ''
+  label: ''
+  note: Homological algebra / algebraic topology classification (best-effort)
+  primary: QA612.3
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: true
+outputs: []
+plate_id: gva-plate-homological-algebra-0001
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: mathematics
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: historical-technical-report
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: ''
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: field survey
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure:
+  - Executive Summary
+  - Narrative History
+  - Milestone Timeline
+  - Outcomes / Impact
+  - Methodological Shifts
+  - Conclusion
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: homological algebra
+  type: ''
+  version: ''
+  year: 0
+report-no: '1'
+report-number: GVA-HA-0001
+report-year: '2026'
+report_no: 1
+report_number: 0
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: gva-math-histories
+series-number: 1
+series-title: 'Gold, Velvet and Ashes: Mathematical Histories'
+series_number: 1
+series_title: 'Gold, Velvet and Ashes: Mathematical Histories'
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: homological-algebra
+status: published
 subject:
 - Homological algebra
 - History of mathematics
@@ -92,99 +168,23 @@ subjects:
 - number-theory
 - spectral-sequences
 - derived-categories
-library_of_congress_classification:
-  class: ''
-  label: ''
-  description: ''
-  area: Mathematics
-  note: Homological algebra / algebraic topology classification (best-effort)
-  primary: QA612.3
-series: gva-math-histories
-series-title: 'Gold, Velvet and Ashes: Mathematical Histories'
-series-number: 1
-series_title: 'Gold, Velvet and Ashes: Mathematical Histories'
-series_number: 1
-report-no: '1'
-report-number: GVA-HA-0001
-report-year: '2026'
-report_no: 1
-report_number: 0
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: From Betti Numbers to Infinity-Categories
+summary: ''
+tags:
+- math
+- history
+- homology
+- cohomology
+- derived
+- categories
+- spectral-sequences
+- grothendieck
+title: The History and Impact of Homological Algebra
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: true
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: true
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: ''
-  series: ''
-  number: ''
-  year: 0
-  version: ''
-  kind: historical-technical-report
-  type: ''
-  domain: mathematics
-  discipline: ''
-  subdiscipline: ''
-  topic: homological algebra
-  subject: ''
-  scope: field survey
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure:
-  - Executive Summary
-  - Narrative History
-  - Milestone Timeline
-  - Outcomes / Impact
-  - Methodological Shifts
-  - Conclusion
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: report
+url: ''
+weight: 0
 ...

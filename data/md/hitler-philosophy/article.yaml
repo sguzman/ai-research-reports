@@ -1,55 +1,45 @@
 ---
-title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-subtitle: Continuity and tactical adaptation from Vienna to 1945
-linkTitle: ''
-description: An analytical timeline-style essay on the formation, core components, and historical continuity
-  of Adolf Hitler's ideology from 1907 to 1945.
-summary: ''
 abstract: A structured overview of Adolf Hitler's ideological worldview from its early formation in Vienna
   and the aftermath of World War I through its consolidation in the Nazi movement and catastrophic implementation
   in power. The essay traces the continuity of core tenets (racial nationalism, antisemitism, anti-Marxism,
   Führerprinzip, and expansionist Lebensraum) while noting tactical adaptations in rhetoric, coalition-building,
   and timing as conditions changed from agitator politics to dictatorship and total war.
-slug: hitlers-ideology-1907-1945
-url: ''
 aliases: []
-date: '2026-02-12'
-publishDate: ''
-lastmod: ''
-expiryDate: ''
-draft: false
-status: published
-edition: '1'
-revision: '1'
 author:
 - Salvador Guzman
 authors: []
-creator:
-- Salvador Guzman
-publisher: Gold, Velvet and Ashes
-rights: CC0-1.0
-license: CC0-1.0
-lang: en
-language: English
-identifier: gva:hitlers-ideology-1907-1945
-dataset_id: gva-hitlers-ideology-1907-1945
-plate_id: gva-hitlers-ideology-1907-1945
-type: article
-format: markdown
-reference-section-title: References
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - history
 - political-ideology
 - fascism
 - nazism
 - germany
-tags:
-- hitler
-- nazism
-- fascism
-- ideology
-- germany
-- wwii
+cover-image: cover.png
+cover_image: cover.png
+creator:
+- Salvador Guzman
+dataset_id: gva-hitlers-ideology-1907-1945
+date: '2026-02-12'
+description: An analytical timeline-style essay on the formation, core components, and historical continuity
+  of Adolf Hitler's ideology from 1907 to 1945.
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: cover.png
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: cover.png
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: gva:hitlers-ideology-1907-1945
+isCJKLanguage: false
 keywords:
 - Adolf Hitler
 - Nazism
@@ -61,6 +51,87 @@ keywords:
 - Lebensraum
 - Weimar Republic
 - World War II
+lang: en
+language: English
+lastmod: ''
+layout: ''
+library_of_congress_classification:
+  class: DD256.5
+  description: ''
+  label: Germany -- history -- 1933-1945; national socialism
+license: CC0-1.0
+linkTitle: ''
+markup: ''
+number-sections: false
+outputs: []
+plate_id: gva-hitlers-ideology-1907-1945
+publishDate: ''
+publisher: Gold, Velvet and Ashes
+reference-section-title: References
+report:
+  audience: ''
+  code: ''
+  collection: Gold, Velvet and Ashes Essays
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: ''
+  domain: ''
+  emphasis: ''
+  focus: ''
+  id: ''
+  intent: ''
+  is_report: true
+  kind: essay
+  level: ''
+  method: ''
+  methods: []
+  name: ''
+  notes: ''
+  number: 1
+  organization: ''
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: ''
+  stance: ''
+  structure: ''
+  subdiscipline: ''
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: ''
+  type: ''
+  version: ''
+  year: 0
+report-no: gva-essay-0001
+report-number: '0001'
+report-year: '2026'
+report_no: 1
+report_number: 1
+report_year: 2026
+resources: []
+revision: '1'
+rights: CC0-1.0
+series:
+  number: 1
+  title: Ideology Notes
+series-number: '1'
+series-title: Ideology Notes
+series_number: '1'
+series_title: Ideology Notes
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: hitlers-ideology-1907-1945
+status: published
 subject: Hitler's ideology (1907--1945)
 subjects:
 - Hitler, Adolf, 1889-1945 -- political and social views
@@ -68,92 +139,21 @@ subjects:
 - Germany -- history -- 1933-1945
 - Antisemitism -- Europe -- history -- 20th century
 - Fascism -- Germany
-library_of_congress_classification:
-  class: DD256.5
-  label: Germany -- history -- 1933-1945; national socialism
-  description: ''
-series:
-  title: Ideology Notes
-  number: 1
-series-title: Ideology Notes
-series-number: '1'
-series_title: Ideology Notes
-series_number: '1'
-report-no: gva-essay-0001
-report-number: '0001'
-report-year: '2026'
-report_no: 1
-report_number: 1
-report_year: 2026
-layout: ''
-markup: ''
+subtitle: Continuity and tactical adaptation from Vienna to 1945
+summary: ''
+tags:
+- hitler
+- nazism
+- fascism
+- ideology
+- germany
+- wwii
+title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 toc: true
 toc-depth: 3
 toc-title: Contents
-number-sections: false
-weight: 0
-cover-image: cover.png
-cover_image: cover.png
-epub-cover-image: cover.png
-epub_cover_image: cover.png
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: epub.css
-highlight-style: tango
-outputs: []
-headless: false
-isCJKLanguage: false
 translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: 0
-  filename: sitemap.xml
-report:
-  id: ''
-  code: ''
-  name: ''
-  organization: ''
-  collection: Gold, Velvet and Ashes Essays
-  series: ''
-  number: 1
-  year: 0
-  version: ''
-  kind: essay
-  type: ''
-  domain: ''
-  discipline: ''
-  subdiscipline: ''
-  topic: ''
-  subject: ''
-  scope: ''
-  scope_years: ''
-  time_scope: ''
-  time_span: ''
-  period: ''
-  period_covered: ''
-  region: ''
-  region_focus: ''
-  audience: ''
-  level: ''
-  focus: ''
-  emphasis: ''
-  structure: ''
-  intent: ''
-  methods: []
-  method: ''
-  primary_texts: []
-  population_focus: ''
-  stance: ''
-  is_report: true
-  notes: ''
-  conversion:
-    source_docx: ''
-    tool: ''
-    date: ''
+type: article
+url: ''
+weight: 0
 ...
