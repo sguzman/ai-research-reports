@@ -1,0 +1,162 @@
+---
+abstract: A comprehensive historical review of business accounting from ancient bookkeeping and medieval
+  double-entry practices through professionalization, GAAP and IFRS standardization, auditing reform,
+  cost accounting, and current technological transformation.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Accounting
+- Business History
+- Finance
+- Economic History
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: history-of-business-accounting
+date: '2026-05-04'
+description: A historical survey of accounting as a business practice, profession, and regulatory system
+  from antiquity to the present.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:history-of-business-accounting
+isCJKLanguage: false
+keywords:
+- accounting history
+- bookkeeping
+- double-entry
+- Luca Pacioli
+- GAAP
+- IFRS
+- auditing
+- business accounting
+lang: en
+language: English
+lastmod: '2026-05-04'
+layout: ''
+library_of_congress_classification:
+  class: HF5601
+  description: Accounting, bookkeeping, auditing, and the history of accounting practice and standards.
+  label: Accounting and bookkeeping
+license: CC0-1.0
+linkTitle: History of Business Accounting
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-04'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general business and finance reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-06'
+    source_docx: History of Business Accounting – A Comprehensive Review.docx
+    tool: pandoc 3.6
+  discipline: accounting
+  domain: accounting history
+  emphasis: historical development of accounting methods, institutions, and standards
+  focus: bookkeeping, professionalization, auditing, and regulation
+  id: urn:marginalia:history-of-business-accounting
+  intent: trace the development of accounting as a business, administrative, and regulatory practice
+  is_report: true
+  kind: historical survey
+  level: ''
+  method: source synthesis
+  methods:
+  - historical synthesis
+  - institutional source review
+  - standards and regulation review
+  name: History of Business Accounting
+  notes: ''
+  number: 102
+  organization: Marginalia
+  period: 5000 BCE-2026
+  period_covered: antiquity to present
+  population_focus: merchants, accountants, firms, regulators, and auditors
+  primary_texts: []
+  region: global
+  region_focus: Mediterranean, Europe, United States, and international standards bodies
+  scope: origins, double-entry, industrial accounting, professionalization, GAAP, IFRS, and current technology
+  scope_years: 5000 BCE-2026
+  series: business-and-economic-histories
+  stance: analytical and historical
+  structure: executive summary plus chronological and thematic sections
+  subdiscipline: accounting history and regulation
+  subject: history of business accounting
+  time_scope: long-run historical development
+  time_span: 5000 BCE-2026
+  topic: History of Business Accounting
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 102
+report-number: 102
+report-year: '2026'
+report_no: 102
+report_number: 102
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: business-and-economic-histories
+series-number: 102
+series-title: Business and Economic Histories
+series_number: 102
+series_title: Business and Economic Histories
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: history-of-business-accounting
+status: draft
+subject:
+- Accounting
+- Bookkeeping
+- Business history
+subjects:
+- Double-entry bookkeeping
+- Auditing
+- Financial reporting standards
+- Accounting profession
+subtitle: A Comprehensive Review
+summary: A historical survey of accounting as a business practice, profession, and regulatory system from
+  antiquity to the present.
+tags:
+- accounting
+- accounting-history
+- bookkeeping
+- business-history
+- auditing
+- gaap
+- ifrs
+title: History of Business Accounting
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...

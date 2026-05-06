@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 90
-md_project_count = 101
+docx_count = 92
+md_project_count = 103
 md_top_level_file_count = 2
-linked_docx_count = 90
+linked_docx_count = 92
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -466,6 +466,12 @@ status = "linked"
 match_basis = "article_yaml_source_docx"
 
 [[docx]]
+file = "fallen-aristocracy.docx"
+md_project = "fallen-aristocracy"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
 file = "fake-populism-and-neil-young.docx"
 md_project = "fake-populism-and-neil-young"
 status = "linked"
@@ -474,6 +480,12 @@ match_basis = "article_yaml_source_docx"
 [[docx]]
 file = "grrm-deconstructed.docx"
 md_project = "grrm-deconstructed"
+status = "linked"
+match_basis = "article_yaml_source_docx"
+
+[[docx]]
+file = "History of Business Accounting – A Comprehensive Review.docx"
+md_project = "history-of-business-accounting"
 status = "linked"
 match_basis = "article_yaml_source_docx"
 
@@ -820,6 +832,14 @@ title = "Fake Populism and Neil Young"
 subtitle = ""
 
 [[md_project]]
+folder = "fallen-aristocracy"
+docx = "fallen-aristocracy.docx"
+status = "linked"
+empty = false
+title = "Fallen Aristocracy"
+subtitle = ""
+
+[[md_project]]
 folder = "federal-legal-landscape"
 docx = "Federal Legal Landscape.docx"
 status = "linked"
@@ -866,6 +886,14 @@ status = "linked"
 empty = false
 title = "George R.R. Martin Deconstructed"
 subtitle = ""
+
+[[md_project]]
+folder = "history-of-business-accounting"
+docx = "History of Business Accounting – A Comprehensive Review.docx"
+status = "linked"
+empty = false
+title = "History of Business Accounting"
+subtitle = "A Comprehensive Review"
 
 [[md_project]]
 folder = "hasan"

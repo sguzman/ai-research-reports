@@ -1,0 +1,162 @@
+---
+abstract: A comparative historical report testing the hypothesis that fallen aristocrats disproportionately
+  drive political, cultural, and intellectual change, using case studies from France, Russia, Byzantium,
+  Japan, and Latin America to distinguish aristocratic agency from broader structural forces.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Political History
+- Intellectual History
+- Elite Studies
+- Comparative History
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: fallen-aristocracy
+date: '2026-05-04'
+description: A comparative inquiry into whether displaced nobles and demoted hereditary elites have outsized
+  influence on major historical transitions.
+draft: true
+edition: '1.0'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: text/markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:fallen-aristocracy
+isCJKLanguage: false
+keywords:
+- fallen aristocrats
+- aristocracy
+- elite decline
+- comparative history
+- counterrevolution
+- intellectual diaspora
+- samurai
+- White emigres
+lang: en
+language: English
+lastmod: '2026-05-04'
+layout: ''
+library_of_congress_classification:
+  class: D13
+  description: World historical analysis of elites, political transformation, and comparative social change.
+  label: World history and historical sociology
+license: CC0-1.0
+linkTitle: Fallen Aristocracy
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-05-04'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general reader with interest in history and political theory
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-05-06'
+    source_docx: fallen-aristocracy.docx
+    tool: pandoc 3.6
+  discipline: history
+  domain: comparative political and intellectual history
+  emphasis: elite displacement and causal claims about historical change
+  focus: fallen aristocrats as agents versus structural drivers
+  id: urn:marginalia:fallen-aristocracy
+  intent: test the hypothesis that demoted hereditary elites disproportionately shape politics and culture
+    after losing status
+  is_report: true
+  kind: comparative historical analysis
+  level: ''
+  method: comparative case study
+  methods:
+  - comparative historical analysis
+  - case study synthesis
+  - counterfactual reasoning
+  name: Fallen Aristocracy
+  notes: ''
+  number: 103
+  organization: Marginalia
+  period: 1453-20th century
+  period_covered: early modern to modern comparative cases
+  population_focus: displaced hereditary elites, emigres, and former nobility
+  primary_texts: []
+  region: transregional
+  region_focus: France, Russia, Byzantium/Italy, Japan, and Latin America
+  scope: definition, mechanisms, case studies, alternative explanations, and hypothesis testing
+  scope_years: 1453-20th century
+  series: comparative-historical-studies
+  stance: analytical
+  structure: methodology plus comparative case study table and conclusion
+  subdiscipline: elite studies and historical sociology
+  subject: fallen aristocrats and historical change
+  time_scope: comparative long-run history
+  time_span: 1453-20th century
+  topic: Fallen Aristocracy
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: 103
+report-number: 103
+report-year: '2026'
+report_no: 103
+report_number: 103
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: comparative-historical-studies
+series-number: 103
+series-title: Comparative Historical Studies
+series_number: 103
+series_title: Comparative Historical Studies
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: fallen-aristocracy
+status: draft
+subject:
+- Aristocracy
+- Elite decline
+- Comparative history
+subjects:
+- Counterrevolution
+- Emigre networks
+- Intellectual history
+- Historical sociology
+subtitle: ''
+summary: A comparative inquiry into whether displaced nobles and demoted hereditary elites have outsized
+  influence on major historical transitions.
+tags:
+- fallen-aristocracy
+- aristocracy
+- elite-decline
+- comparative-history
+- intellectual-history
+- political-history
+title: Fallen Aristocracy
+toc: true
+toc-depth: 3
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...
