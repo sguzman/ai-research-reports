@@ -1,5 +1,5 @@
 ---
-abstract: ''
+abstract: 'This report formalizes and tests the claim that American conservatism is intellectually unstable because the United States was founded not as a traditional conservative order, but as a modern liberal-republican revolution. The evidence supports a qualified version of the critique: the founding is liberal and revolutionary at the level of first principles, but more conservative at the level of institutional engineering and social practice.'
 aliases: []
 author:
 - Salvador Guzman
@@ -22,7 +22,7 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-06-01'
-description: ''
+description: 'This report formalizes and tests the claim that American conservatism is intellectually unstable because the United States was founded not as a traditional conservative order, but as a modern liberal-republican revolution.'
 draft: false
 edition: '1'
 epub-chapter-level: 2
@@ -42,6 +42,9 @@ keywords:
 - History
 - Political Theory
 - Political science (General)
+- Liberalism
+- Originalism
+- Post-liberalism
 lang: en
 language: English
 lastmod: '2026-06-01'
@@ -128,12 +131,15 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: ''
+summary: 'An analysis of the ideological tension within American conservatism, contrasting traditional European conservatism with the liberal-republican and revolutionary foundations of the United States.'
 tags:
 - american-conservatism
 - politics
 - history
 - political-theory
+- liberalism
+- originalism
+- post-liberalism
 title: American Conservatism and the Liberal-Revolutionary Founding
 toc: true
 toc-depth: 3
