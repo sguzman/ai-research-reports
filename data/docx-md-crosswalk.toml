@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 92
-md_project_count = 103
+docx_count = 94
+md_project_count = 105
 md_top_level_file_count = 2
-linked_docx_count = 92
+linked_docx_count = 94
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -1389,4 +1389,32 @@ docx = "yankee-white-supremacy.docx"
 status = "linked"
 empty = false
 title = "Yankee White Supremacy"
+subtitle = ""
+
+[[docx]]
+file = "American Conservatism and the Liberal-Revolutionary Founding.docx"
+md_project = "american-conservatism"
+status = "linked"
+match_basis = "manual"
+
+[[docx]]
+file = "Formalizing the Connection Between Modern Progressive Politics and Marxism.docx"
+md_project = "modern-progressive-marxism"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "american-conservatism"
+docx = "American Conservatism and the Liberal-Revolutionary Founding.docx"
+status = "linked"
+empty = false
+title = "American Conservatism and the Liberal-Revolutionary Founding"
+subtitle = ""
+
+[[md_project]]
+folder = "modern-progressive-marxism"
+docx = "Formalizing the Connection Between Modern Progressive Politics and Marxism.docx"
+status = "linked"
+empty = false
+title = "Formalizing the Connection Between Modern Progressive Politics and Marxism"
 subtitle = ""
