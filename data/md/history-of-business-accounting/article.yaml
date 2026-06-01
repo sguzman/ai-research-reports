@@ -90,7 +90,7 @@ report:
   - standards and regulation review
   name: History of Business Accounting
   notes: ''
-  number: 102
+  number: '100'
   organization: Marginalia
   period: 5000 BCE-2026
   period_covered: antiquity to present
@@ -111,19 +111,19 @@ report:
   type: report
   version: 1.0.0
   year: 2026
-report-no: 102
-report-number: 102
+report-no: '100'
+report-number: '100'
 report-year: '2026'
-report_no: 102
-report_number: 102
+report_no: 100
+report_number: 100
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: business-and-economic-histories
-series-number: 102
+series-number: 100
 series-title: Business and Economic Histories
-series_number: 102
+series_number: 100
 series_title: Business and Economic Histories
 sitemap:
   changefreq: ''

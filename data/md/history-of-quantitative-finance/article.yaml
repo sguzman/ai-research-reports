@@ -90,7 +90,7 @@ report:
   - institutional and media source review
   name: A History of Quantitative Finance
   notes: ''
-  number: 101
+  number: '101'
   organization: Marginalia
   period: 1900-2026
   period_covered: 1900-2026
@@ -111,8 +111,8 @@ report:
   type: report
   version: 1.0.0
   year: 2026
-report-no: 101
-report-number: 101
+report-no: '101'
+report-number: '101'
 report-year: '2026'
 report_no: 101
 report_number: 101

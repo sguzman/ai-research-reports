@@ -91,7 +91,7 @@ report:
   - counterfactual reasoning
   name: Fallen Aristocracy
   notes: ''
-  number: 103
+  number: 099
   organization: Marginalia
   period: 1453-20th century
   period_covered: early modern to modern comparative cases
@@ -112,19 +112,19 @@ report:
   type: report
   version: 1.0.0
   year: 2026
-report-no: 103
-report-number: 103
+report-no: 099
+report-number: 099
 report-year: '2026'
-report_no: 103
-report_number: 103
+report_no: 99
+report_number: 99
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: comparative-historical-studies
-series-number: 103
+series-number: 99
 series-title: Comparative Historical Studies
-series_number: 103
+series_number: 99
 series_title: Comparative Historical Studies
 sitemap:
   changefreq: ''

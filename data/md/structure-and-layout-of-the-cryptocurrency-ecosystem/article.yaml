@@ -90,7 +90,7 @@ report:
   - protocol documentation review
   name: Structure and Layout of the Cryptocurrency Ecosystem
   notes: ''
-  number: 100
+  number: '102'
   organization: Marginalia
   period: '2026'
   period_covered: contemporary ecosystem structure
@@ -111,19 +111,19 @@ report:
   type: report
   version: 1.0.0
   year: 2026
-report-no: 100
-report-number: 100
+report-no: '102'
+report-number: '102'
 report-year: '2026'
-report_no: 100
-report_number: 100
+report_no: 102
+report_number: 102
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: digital-economy-studies
-series-number: 100
+series-number: 102
 series-title: Digital Economy Studies
-series_number: 100
+series_number: 102
 series_title: Digital Economy Studies
 sitemap:
   changefreq: ''

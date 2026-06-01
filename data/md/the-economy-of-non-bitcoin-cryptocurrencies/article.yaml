@@ -90,7 +90,7 @@ report:
   - institutional source review
   name: The Economy of Non-Bitcoin Cryptocurrencies
   notes: ''
-  number: 099
+  number: '103'
   organization: Marginalia
   period: '2026'
   period_covered: contemporary market conditions with recent literature
@@ -111,19 +111,19 @@ report:
   type: report
   version: 1.0.0
   year: 2026
-report-no: 099
-report-number: 099
+report-no: '103'
+report-number: '103'
 report-year: '2026'
-report_no: 99
-report_number: 99
+report_no: 103
+report_number: 103
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: digital-economy-studies
-series-number: 99
+series-number: 103
 series-title: Digital Economy Studies
-series_number: 99
+series_number: 103
 series_title: Digital Economy Studies
 sitemap:
   changefreq: ''

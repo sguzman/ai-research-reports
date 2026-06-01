@@ -1,135 +1,145 @@
 ---
-title: "American Conservatism and the Liberal-Revolutionary Founding"
-subtitle: ""
-linkTitle: "American Conservatism and the Liberal-Revolutionary Founding"
-description: ""
-summary: ""
-abstract: ""
-slug: "american-conservatism"
-url: ""
+abstract: ''
 aliases: []
-date: "2026-06-01"
-publishDate: "2026-06-01"
-lastmod: "2026-06-01"
-expiryDate: ""
-draft: true
-status: "draft"
-edition: "1.0"
-revision: "1.0.0"
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
-creator:
-- Salvador Guzman
-publisher: "Marginalia"
-rights: "CC0-1.0"
-license: "CC0-1.0"
-lang: "en"
-language: "English"
-identifier: "urn:gva:american-conservatism"
-dataset_id: "american-conservatism"
-plate_id: ""
-type: "report"
-format: "text/markdown"
-reference-section-title: "References"
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
 categories:
 - Politics
-tags:
-- politics
-- history
+- History
+- Political Theory
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: ''
+date: '2026-06-01'
+description: ''
+draft: false
+edition: '1'
+epub-chapter-level: 2
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:american-conservatism
+isCJKLanguage: false
 keywords:
-- politics
+- American Conservatism and the Liberal-Revolutionary Founding
+- Politics
+- History
+- Political Theory
+- Political science (General)
+lang: en
+language: English
+lastmod: '2026-06-01'
+layout: ''
+library_of_congress_classification:
+  class: JA
+  description: Politics, political history, social theory, and public debate.
+  label: Political science (General)
+license: CC0-1.0
+linkTitle: American Conservatism and the Liberal-Revolutionary Founding
+markup: ''
+number-sections: true
+outputs: []
+plate_id: ''
+publishDate: '2026-06-01'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general reader
+  code: ''
+  collection: ''
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  discipline: political science
+  domain: politics
+  emphasis: ''
+  focus: ''
+  id: urn:marginalia:american-conservatism
+  intent: ''
+  is_report: true
+  kind: research report
+  level: ''
+  method: ''
+  methods: []
+  name: American Conservatism and the Liberal-Revolutionary Founding
+  notes: ''
+  number: '104'
+  organization: Marginalia
+  period: ''
+  period_covered: ''
+  population_focus: ''
+  primary_texts: []
+  region: ''
+  region_focus: ''
+  scope: ''
+  scope_years: ''
+  series: Marginalia Reports
+  stance: ''
+  structure: ''
+  subdiscipline: history and social analysis
+  subject: ''
+  time_scope: ''
+  time_span: ''
+  topic: American Conservatism and the Liberal-Revolutionary Founding
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '104'
+report-number: '104'
+report-year: '2026'
+report_no: 104
+report_number: 104
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: Marginalia Reports
+series-number: 104
+series-title: Marginalia Reports
+series_number: 104
+series_title: Marginalia Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: american-conservatism
+status: complete
 subject:
 - Politics
+- History
 subjects:
 - Politics
-library_of_congress_classification:
-  class: ""
-  label: ""
-  description: ""
-series: ""
-series-title: ""
-series-number: 0
-series_title: ""
-series_number: 0
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_number: 0
-report_year: 0
-layout: ""
-markup: ""
+- History
+subtitle: ''
+summary: ''
+tags:
+- american-conservatism
+- politics
+- history
+- political-theory
+title: American Conservatism and the Liberal-Revolutionary Founding
 toc: true
 toc-depth: 3
-toc-title: "Contents"
-number-sections: true
+toc-title: Contents
+translationKey: ''
+type: report
+url: ''
 weight: 0
-cover-image: ""
-cover_image: ""
-epub-cover-image: ""
-epub_cover_image: ""
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: "epub.css"
-highlight-style: "tango"
-outputs: []
-headless: false
-isCJKLanguage: false
-translationKey: ""
-resources: []
-build:
-  list: "always"
-  render: "always"
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ""
-  priority: 0
-  filename: "sitemap.xml"
-report:
-  id: "urn:gva:american-conservatism"
-  code: ""
-  name: "American Conservatism and the Liberal-Revolutionary Founding"
-  organization: "Marginalia"
-  collection: ""
-  series: ""
-  number: ""
-  year: 2026
-  version: "1.0.0"
-  kind: "report"
-  type: "report"
-  domain: ""
-  discipline: ""
-  subdiscipline: ""
-  topic: ""
-  subject: ""
-  scope: ""
-  scope_years: ""
-  time_scope: ""
-  time_span: ""
-  period: ""
-  period_covered: ""
-  region: ""
-  region_focus: ""
-  audience: "general"
-  level: ""
-  focus: ""
-  emphasis: ""
-  structure: ""
-  intent: ""
-  methods: []
-  method: ""
-  primary_texts: []
-  population_focus: ""
-  stance: ""
-  is_report: true
-  notes: ""
-  conversion:
-    source_docx: "American Conservatism and the Liberal-Revolutionary Founding.docx"
-    tool: "pandoc 3.6"
-    date: "2026-06-01"
 ...
