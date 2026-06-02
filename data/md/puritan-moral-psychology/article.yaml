@@ -1,9 +1,5 @@
 ---
-abstract: 'This report formalizes and tests the claim that American conservatism is intellectually unstable
-  because the United States was founded not as a traditional conservative order, but as a modern liberal-republican
-  revolution. The evidence supports a qualified version of the critique: the founding is liberal and revolutionary
-  at the level of first principles, but more conservative at the level of institutional engineering and
-  social practice.'
+abstract: 'This report analyzes the formal thesis that modern American progressivism inherited and secularized a durable moral-political grammar first institutionalized in New England Puritanism. The grammar includes covenantal mission, collective guilt, moralized authority, public scrutiny of conduct, and disciplinary institutions.'
 aliases: []
 author:
 - Salvador Guzman
@@ -26,9 +22,7 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-06-01'
-description: This report formalizes and tests the claim that American conservatism is intellectually unstable
-  because the United States was founded not as a traditional conservative order, but as a modern liberal-republican
-  revolution.
+description: 'An analysis formalizing the genealogical and institutional connection between modern American progressivism and Puritan moral psychology.'
 draft: false
 edition: '1'
 epub-chapter-level: 2
@@ -40,17 +34,20 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:american-conservatism
+identifier: urn:marginalia:puritan-moral-psychology
 isCJKLanguage: false
 keywords:
-- American Conservatism and the Liberal-Revolutionary Founding
+- Puritan Moral Psychology and the Genealogy of American Progressivism
 - Politics
 - History
 - Political Theory
 - Political science (General)
-- Liberalism
-- Originalism
-- Post-liberalism
+- Puritanism
+- American Progressivism
+- Moral Psychology
+- Genealogy
+- Covenant
+- Civil Religion
 lang: en
 language: English
 lastmod: '2026-06-01'
@@ -60,7 +57,7 @@ library_of_congress_classification:
   description: Politics, political history, social theory, and public debate.
   label: Political science (General)
 license: CC0-1.0
-linkTitle: American Conservatism and the Liberal-Revolutionary Founding
+linkTitle: Puritan Moral Psychology and the Genealogy of American Progressivism
 markup: ''
 number-sections: true
 outputs: []
@@ -80,16 +77,16 @@ report:
   domain: politics
   emphasis: ''
   focus: ''
-  id: urn:marginalia:american-conservatism
+  id: urn:marginalia:puritan-moral-psychology
   intent: ''
   is_report: true
   kind: research report
   level: ''
   method: ''
   methods: []
-  name: American Conservatism and the Liberal-Revolutionary Founding
+  name: Puritan Moral Psychology and the Genealogy of American Progressivism
   notes: ''
-  number: '104'
+  number: '106'
   organization: Marginalia
   period: ''
   period_covered: ''
@@ -106,29 +103,29 @@ report:
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: American Conservatism and the Liberal-Revolutionary Founding
+  topic: Puritan Moral Psychology and the Genealogy of American Progressivism
   type: report
   version: 1.0.0
   year: 2026
-report-no: '104'
-report-number: '104'
+report-no: '106'
+report-number: '106'
 report-year: '2026'
-report_no: 104
-report_number: 104
+report_no: 106
+report_number: 106
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: Marginalia Reports
-series-number: 104
+series-number: 106
 series-title: Marginalia Reports
-series_number: 104
+series_number: 106
 series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: american-conservatism
+slug: puritan-moral-psychology
 status: complete
 subject:
 - Politics
@@ -137,17 +134,16 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: An analysis of the ideological tension within American conservatism, contrasting traditional
-  European conservatism with the liberal-republican and revolutionary foundations of the United States.
+summary: 'This report argues that American progressivism is best understood as a partly secularized continuation of a moral-political repertoire established by Puritan New England.'
 tags:
-- american-conservatism
+- puritan-moral-psychology
 - politics
 - history
 - political-theory
-- liberalism
-- originalism
-- post-liberalism
-title: American Conservatism and the Liberal-Revolutionary Founding
+- puritanism
+- american-progressivism
+- sociology-of-religion
+title: Puritan Moral Psychology and the Genealogy of American Progressivism
 toc: true
 toc-depth: 3
 toc-title: Contents

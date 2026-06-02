@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 94
-md_project_count = 105
+docx_count = 95
+md_project_count = 106
 md_top_level_file_count = 2
-linked_docx_count = 94
+linked_docx_count = 95
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -1417,4 +1417,18 @@ docx = "Formalizing the Connection Between Modern Progressive Politics and Marxi
 status = "linked"
 empty = false
 title = "Formalizing the Connection Between Modern Progressive Politics and Marxism"
+subtitle = ""
+
+[[docx]]
+file = "Puritan Moral Psychology and the Genealogy of American Progressivism.docx"
+md_project = "puritan-moral-psychology"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "puritan-moral-psychology"
+docx = "Puritan Moral Psychology and the Genealogy of American Progressivism.docx"
+status = "linked"
+empty = false
+title = "Puritan Moral Psychology and the Genealogy of American Progressivism"
 subtitle = ""
