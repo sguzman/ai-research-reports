@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 95
-md_project_count = 106
+docx_count = 97
+md_project_count = 108
 md_top_level_file_count = 2
-linked_docx_count = 95
+linked_docx_count = 97
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -1431,4 +1431,32 @@ docx = "Puritan Moral Psychology and the Genealogy of American Progressivism.doc
 status = "linked"
 empty = false
 title = "Puritan Moral Psychology and the Genealogy of American Progressivism"
+subtitle = ""
+
+[[docx]]
+file = "Liberalism, Social Disembedding, and Managed Dependency.docx"
+md_project = "liberalism-social-disembedding-and-managed-dependency"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "liberalism-social-disembedding-and-managed-dependency"
+docx = "Liberalism, Social Disembedding, and Managed Dependency.docx"
+status = "linked"
+empty = false
+title = "Liberalism, Social Disembedding, and Managed Dependency"
+subtitle = ""
+
+[[docx]]
+file = "The Female Shadow.docx"
+md_project = "the-female-shadow"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "the-female-shadow"
+docx = "The Female Shadow.docx"
+status = "linked"
+empty = false
+title = "The Female Shadow"
 subtitle = ""
