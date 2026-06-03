@@ -1,7 +1,5 @@
 ---
-abstract: This report analyzes "the female shadow" as a Jungian and interdisciplinary analytic lens rather
-  than a clinical diagnosis, examining how patriarchal socialization, benevolent sexism, and role expectations
-  shape disowned aspects of personality into indirect, morally coded, or relational forms.
+abstract: 'An analysis of the thesis that liberal orders weaken inherited forms of coordination and replace them with legal-rational administration, credentialed expertise, and therapeutic governance, producing domestication rather than simple emancipation.'
 aliases: []
 author:
 - Salvador Guzman
@@ -23,9 +21,8 @@ cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: ''
-date: '2026-06-02'
-description: An interdisciplinary analysis of the "female shadow," tracing how disowned aggression, envy,
-  and dominance are routed through feminine-role socialization.
+date: '2026-06-03'
+description: 'This report assesses whether liberalism acts as political domestication by substituting thick communal authority with softer but denser forms of behavioral management and administration.'
 draft: false
 edition: '1'
 epub-chapter-level: 2
@@ -37,34 +34,33 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:the-female-shadow
+identifier: urn:marginalia:liberalism-as-political-domestication
 isCJKLanguage: false
 keywords:
-- The Female Shadow
+- Liberalism as Political Domestication
 - Politics
 - History
 - Political Theory
 - Political science (General)
-- Psychology
-- Jungian Psychology
-- Relational Aggression
-- Gender Roles
+- Liberalism
+- Domestication
 - Sociology
+- State Capacity
 lang: en
 language: English
-lastmod: '2026-06-02'
+lastmod: '2026-06-03'
 layout: ''
 library_of_congress_classification:
   class: JA
   description: Politics, political history, social theory, and public debate.
   label: Political science (General)
 license: CC0-1.0
-linkTitle: The Female Shadow
+linkTitle: Liberalism as Political Domestication
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: '2026-06-02'
+publishDate: '2026-06-03'
 publisher: Marginalia
 reference-section-title: References
 report:
@@ -79,16 +75,16 @@ report:
   domain: politics
   emphasis: ''
   focus: ''
-  id: urn:marginalia:the-female-shadow
+  id: urn:marginalia:liberalism-as-political-domestication
   intent: ''
   is_report: true
   kind: research report
   level: ''
   method: ''
   methods: []
-  name: The Female Shadow
+  name: Liberalism as Political Domestication
   notes: ''
-  number: '108'
+  number: '110'
   organization: Marginalia
   period: ''
   period_covered: ''
@@ -105,29 +101,29 @@ report:
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: The Female Shadow
+  topic: Liberalism as Political Domestication
   type: report
   version: 1.0.0
   year: 2026
-report-no: '108'
-report-number: '108'
+report-no: '110'
+report-number: '110'
 report-year: '2026'
-report_no: 108
-report_number: 108
+report_no: 110
+report_number: 110
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: Marginalia Reports
-series-number: 108
+series-number: 110
 series-title: Marginalia Reports
-series_number: 108
+series_number: 110
 series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: the-female-shadow
+slug: liberalism-as-political-domestication
 status: complete
 subject:
 - Politics
@@ -136,19 +132,14 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: An interdisciplinary analysis of the "female shadow," tracing how disowned aggression, envy,
-  and dominance are routed through feminine-role socialization and institutional incentives into covert
-  or moralized behaviors.
+summary: 'This report assesses whether liberalism acts as political domestication by substituting thick communal authority with softer but denser forms of behavioral management and administration.'
 tags:
-- the-female-shadow
+- liberalism-as-political-domestication
 - politics
 - history
 - political-theory
-- psychology
-- jungian-analysis
-- gender-studies
 - sociology
-title: The Female Shadow
+title: Liberalism as Political Domestication
 toc: true
 toc-depth: 3
 toc-title: Contents

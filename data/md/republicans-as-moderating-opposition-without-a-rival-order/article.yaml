@@ -1,7 +1,5 @@
 ---
-abstract: This report analyzes "the female shadow" as a Jungian and interdisciplinary analytic lens rather
-  than a clinical diagnosis, examining how patriarchal socialization, benevolent sexism, and role expectations
-  shape disowned aspects of personality into indirect, morally coded, or relational forms.
+abstract: 'This report evaluates the thesis that Republicans in the United States often behave less like builders of a coherent rival governing order and more like a moderating or disciplining opposition inside a shared liberal governing field.'
 aliases: []
 author:
 - Salvador Guzman
@@ -23,9 +21,8 @@ cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: ''
-date: '2026-06-02'
-description: An interdisciplinary analysis of the "female shadow," tracing how disowned aggression, envy,
-  and dominance are routed through feminine-role socialization.
+date: '2026-06-03'
+description: 'An evaluation of whether the Republican party primarily acts as a moderating force on Democratic initiatives rather than establishing its own durable institutional alternatives.'
 draft: false
 edition: '1'
 epub-chapter-level: 2
@@ -37,34 +34,33 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:the-female-shadow
+identifier: urn:marginalia:republicans-as-moderating-opposition-without-a-rival-order
 isCJKLanguage: false
 keywords:
-- The Female Shadow
+- Republicans as Moderating Opposition Without a Rival Order
 - Politics
 - History
 - Political Theory
 - Political science (General)
-- Psychology
-- Jungian Psychology
-- Relational Aggression
-- Gender Roles
-- Sociology
+- Republican Party
+- United States
+- Conservatism
+- Policy History
 lang: en
 language: English
-lastmod: '2026-06-02'
+lastmod: '2026-06-03'
 layout: ''
 library_of_congress_classification:
   class: JA
   description: Politics, political history, social theory, and public debate.
   label: Political science (General)
 license: CC0-1.0
-linkTitle: The Female Shadow
+linkTitle: Republicans as Moderating Opposition Without a Rival Order
 markup: ''
 number-sections: true
 outputs: []
 plate_id: ''
-publishDate: '2026-06-02'
+publishDate: '2026-06-03'
 publisher: Marginalia
 reference-section-title: References
 report:
@@ -79,16 +75,16 @@ report:
   domain: politics
   emphasis: ''
   focus: ''
-  id: urn:marginalia:the-female-shadow
+  id: urn:marginalia:republicans-as-moderating-opposition-without-a-rival-order
   intent: ''
   is_report: true
   kind: research report
   level: ''
   method: ''
   methods: []
-  name: The Female Shadow
+  name: Republicans as Moderating Opposition Without a Rival Order
   notes: ''
-  number: '108'
+  number: '111'
   organization: Marginalia
   period: ''
   period_covered: ''
@@ -105,29 +101,29 @@ report:
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: The Female Shadow
+  topic: Republicans as Moderating Opposition Without a Rival Order
   type: report
   version: 1.0.0
   year: 2026
-report-no: '108'
-report-number: '108'
+report-no: '111'
+report-number: '111'
 report-year: '2026'
-report_no: 108
-report_number: 108
+report_no: 111
+report_number: 111
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: Marginalia Reports
-series-number: 108
+series-number: 111
 series-title: Marginalia Reports
-series_number: 108
+series_number: 111
 series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: the-female-shadow
+slug: republicans-as-moderating-opposition-without-a-rival-order
 status: complete
 subject:
 - Politics
@@ -136,19 +132,15 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: An interdisciplinary analysis of the "female shadow," tracing how disowned aggression, envy,
-  and dominance are routed through feminine-role socialization and institutional incentives into covert
-  or moralized behaviors.
+summary: 'An evaluation of whether the Republican party primarily acts as a moderating force on Democratic initiatives rather than establishing its own durable institutional alternatives.'
 tags:
-- the-female-shadow
+- republicans-as-moderating-opposition-without-a-rival-order
 - politics
 - history
 - political-theory
-- psychology
-- jungian-analysis
-- gender-studies
-- sociology
-title: The Female Shadow
+- us-politics
+- conservatism
+title: Republicans as Moderating Opposition Without a Rival Order
 toc: true
 toc-depth: 3
 toc-title: Contents

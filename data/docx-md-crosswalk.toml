@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 97
-md_project_count = 108
+docx_count = 100
+md_project_count = 111
 md_top_level_file_count = 2
-linked_docx_count = 97
+linked_docx_count = 100
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -1459,4 +1459,46 @@ docx = "The Female Shadow.docx"
 status = "linked"
 empty = false
 title = "The Female Shadow"
+subtitle = ""
+
+[[docx]]
+file = "Intergenerational Extraction in Liberal Democracies.docx"
+md_project = "intergenerational-extraction-in-liberal-democracies"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "intergenerational-extraction-in-liberal-democracies"
+docx = "Intergenerational Extraction in Liberal Democracies.docx"
+status = "linked"
+empty = false
+title = "Intergenerational Extraction in Liberal Democracies"
+subtitle = ""
+
+[[docx]]
+file = "Liberalism as Political Domestication.docx"
+md_project = "liberalism-as-political-domestication"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "liberalism-as-political-domestication"
+docx = "Liberalism as Political Domestication.docx"
+status = "linked"
+empty = false
+title = "Liberalism as Political Domestication"
+subtitle = ""
+
+[[docx]]
+file = "Republicans as Moderating Opposition Without a Rival Order.docx"
+md_project = "republicans-as-moderating-opposition-without-a-rival-order"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "republicans-as-moderating-opposition-without-a-rival-order"
+docx = "Republicans as Moderating Opposition Without a Rival Order.docx"
+status = "linked"
+empty = false
+title = "Republicans as Moderating Opposition Without a Rival Order"
 subtitle = ""
