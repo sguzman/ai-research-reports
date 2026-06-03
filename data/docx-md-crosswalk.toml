@@ -3,10 +3,10 @@
 
 [summary]
 generated_on = "2026-05-03"
-docx_count = 100
-md_project_count = 111
+docx_count = 101
+md_project_count = 112
 md_top_level_file_count = 2
-linked_docx_count = 100
+linked_docx_count = 101
 unlinked_docx_count = 0
 md_without_docx_count = 11
 
@@ -1501,4 +1501,18 @@ docx = "Republicans as Moderating Opposition Without a Rival Order.docx"
 status = "linked"
 empty = false
 title = "Republicans as Moderating Opposition Without a Rival Order"
+subtitle = ""
+
+[[docx]]
+file = "Liberalism, Equality, and the Leftward Drift Thesis.docx"
+md_project = "liberalism-equality-and-the-leftward-drift-thesis"
+status = "linked"
+match_basis = "manual"
+
+[[md_project]]
+folder = "liberalism-equality-and-the-leftward-drift-thesis"
+docx = "Liberalism, Equality, and the Leftward Drift Thesis.docx"
+status = "linked"
+empty = false
+title = "Liberalism, Equality, and the Leftward Drift Thesis"
 subtitle = ""

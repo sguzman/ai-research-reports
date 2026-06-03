@@ -1,5 +1,7 @@
 ---
-abstract: 'This report evaluates the thesis that Republicans in the United States often behave less like builders of a coherent rival governing order and more like a moderating or disciplining opposition inside a shared liberal governing field.'
+abstract: This report evaluates the thesis that Republicans in the United States often behave less like
+  builders of a coherent rival governing order and more like a moderating or disciplining opposition inside
+  a shared liberal governing field.
 aliases: []
 author:
 - Salvador Guzman
@@ -22,7 +24,8 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-06-03'
-description: 'An evaluation of whether the Republican party primarily acts as a moderating force on Democratic initiatives rather than establishing its own durable institutional alternatives.'
+description: An evaluation of whether the Republican party primarily acts as a moderating force on Democratic
+  initiatives rather than establishing its own durable institutional alternatives.
 draft: false
 edition: '1'
 epub-chapter-level: 2
@@ -84,7 +87,7 @@ report:
   methods: []
   name: Republicans as Moderating Opposition Without a Rival Order
   notes: ''
-  number: '111'
+  number: '112'
   organization: Marginalia
   period: ''
   period_covered: ''
@@ -105,19 +108,19 @@ report:
   type: report
   version: 1.0.0
   year: 2026
-report-no: '111'
-report-number: '111'
+report-no: '112'
+report-number: '112'
 report-year: '2026'
-report_no: 111
-report_number: 111
+report_no: 112
+report_number: 112
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: Marginalia Reports
-series-number: 111
+series-number: 112
 series-title: Marginalia Reports
-series_number: 111
+series_number: 112
 series_title: Marginalia Reports
 sitemap:
   changefreq: ''
@@ -132,7 +135,8 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: 'An evaluation of whether the Republican party primarily acts as a moderating force on Democratic initiatives rather than establishing its own durable institutional alternatives.'
+summary: An evaluation of whether the Republican party primarily acts as a moderating force on Democratic
+  initiatives rather than establishing its own durable institutional alternatives.
 tags:
 - republicans-as-moderating-opposition-without-a-rival-order
 - politics

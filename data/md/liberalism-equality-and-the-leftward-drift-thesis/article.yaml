@@ -1,6 +1,5 @@
 ---
-abstract: This report explores the thesis that liberal democracy can become systematically biased toward
-  present voters and against younger and future cohorts, functioning as intergenerational extraction.
+abstract: 'An analysis of the thesis that liberalism is inherently unstable and tends to generate pressure for broader equality, assessing whether this leftward drift necessarily culminates in socialism or Marxism.'
 aliases: []
 author:
 - Salvador Guzman
@@ -23,8 +22,7 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-06-03'
-description: An analysis of whether liberal democracies inherently produce intergenerational warfare through
-  pay-as-you-go systems, debt, and age-skewed turnout.
+description: 'An evaluation of whether liberalism''s egalitarian promises inherently lead to socialism, concluding that while liberalism generates leftward pressure, its internal structures usually steer this into social democracy or reformism rather than revolution.'
 draft: false
 edition: '1'
 epub-chapter-level: 2
@@ -36,16 +34,17 @@ expiryDate: ''
 format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:intergenerational-extraction-in-liberal-democracies
+identifier: urn:marginalia:liberalism-equality-and-the-leftward-drift-thesis
 isCJKLanguage: false
 keywords:
-- Intergenerational Extraction in Liberal Democracies
-- Political Economy
-- Sociology
-- Political science (General)
-- Demographics
-- Aging
-- Public Debt
+- Liberalism, Equality, and the Leftward Drift Thesis
+- Political Theory
+- History
+- Philosophy
+- Marxism
+- Social Democracy
+- Politics
+- Equality
 lang: en
 language: English
 lastmod: '2026-06-03'
@@ -55,7 +54,7 @@ library_of_congress_classification:
   description: Politics, political history, social theory, and public debate.
   label: Political science (General)
 license: CC0-1.0
-linkTitle: Intergenerational Extraction in Liberal Democracies
+linkTitle: Liberalism, Equality, and the Leftward Drift Thesis
 markup: ''
 number-sections: true
 outputs: []
@@ -75,16 +74,16 @@ report:
   domain: politics
   emphasis: ''
   focus: ''
-  id: urn:marginalia:intergenerational-extraction-in-liberal-democracies
+  id: urn:marginalia:liberalism-equality-and-the-leftward-drift-thesis
   intent: ''
   is_report: true
   kind: research report
   level: ''
   method: ''
   methods: []
-  name: Intergenerational Extraction in Liberal Democracies
+  name: Liberalism, Equality, and the Leftward Drift Thesis
   notes: ''
-  number: '109'
+  number: '111'
   organization: Marginalia
   period: ''
   period_covered: ''
@@ -101,29 +100,29 @@ report:
   subject: ''
   time_scope: ''
   time_span: ''
-  topic: Intergenerational Extraction in Liberal Democracies
+  topic: Liberalism, Equality, and the Leftward Drift Thesis
   type: report
   version: 1.0.0
   year: 2026
-report-no: '109'
-report-number: '109'
+report-no: '111'
+report-number: '111'
 report-year: '2026'
-report_no: 109
-report_number: 109
+report_no: 111
+report_number: 111
 report_year: 2026
 resources: []
 revision: 1.0.0
 rights: CC0-1.0
 series: Marginalia Reports
-series-number: 109
+series-number: 111
 series-title: Marginalia Reports
-series_number: 109
+series_number: 111
 series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: intergenerational-extraction-in-liberal-democracies
+slug: liberalism-equality-and-the-leftward-drift-thesis
 status: complete
 subject:
 - Politics
@@ -132,14 +131,14 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: An analysis of how liberal democratic institutions, through debt and social spending, facilitate
-  intergenerational extraction at the expense of younger and future cohorts.
+summary: 'An evaluation of whether liberalism''s egalitarian promises inherently lead to socialism, concluding that while liberalism generates leftward pressure, its internal structures usually steer this into social democracy or reformism rather than revolution.'
 tags:
-- intergenerational-extraction-in-liberal-democracies
-- political-economy
-- sociology
-- demographics
-title: Intergenerational Extraction in Liberal Democracies
+- liberalism-equality-and-the-leftward-drift-thesis
+- political-theory
+- philosophy
+- history
+- politics
+title: Liberalism, Equality, and the Leftward Drift Thesis
 toc: true
 toc-depth: 3
 toc-title: Contents
