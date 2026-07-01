@@ -85,7 +85,7 @@ institution always does this, nor that liberalism has no emancipatory
 achievements in rights, pluralism, or legal equality.
 [\[6\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
 
-The geographic assumption follows your instruction: the report defaults
+The geographic assumption is explicit: the report defaults
 to OECD settings unless otherwise noted, and it uses U.S. evidence when
 long OECD-wide series are unavailable. The temporal scope runs from the
 nineteenth century to the present, with attention to the shift from
@@ -218,7 +218,7 @@ management become central mechanisms for organizing life chances.
 ## Theoretical Frameworks
 
 The communitarian critique supplies the most direct philosophical
-vocabulary for your thesis. Walzer writes that one version of the
+vocabulary for this argument. Walzer writes that one version of the
 critique sees liberal societies as homes of "radically isolated
 individuals" and argues that liberalism tells the truth about "the
 asocial society that liberals create," in struggle against traditions
@@ -235,7 +235,7 @@ project of a self-regulating market required social life itself to be
 reorganized around labor, land, and money treated as if they were
 ordinary commodities. That is the classic theory of **disembedding**:
 social relations increasingly become subordinated to market
-coordination, provoking protective countermovements. Your thesis can
+coordination, provoking protective countermovements. The argument can
 therefore be restated in Polanyian terms as: liberal-capitalist
 modernization repeatedly disembeds persons and households, then
 partially re-embeds them through state or expert mediation without fully
@@ -273,7 +273,7 @@ requires continuous sociability and is tied to other forms of capital.
 Chetty's recent work on "economic connectedness" pushes the discussion
 in a more measurable direction: it is especially cross-class ties, not
 all forms of cohesion indiscriminately, that predict upward mobility.
-This matters for your thesis because liberal modernity may
+This matters for the argument because liberal modernity may
 simultaneously **erode thick local solidarity** and **increase the value
 of scarce networked advantages**, thereby making social connection both
 more fragile and more economically consequential.

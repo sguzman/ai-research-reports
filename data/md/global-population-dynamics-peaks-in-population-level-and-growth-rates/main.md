@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-The short answer to your original question is **yes**: the **largest total world population (so far) is occurring in the present era**, and therefore within the last 100 years. This is because global population increased rapidly during the 20th century and has continued rising into the 2020s. [\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+The **largest total world population observed so far is occurring in the present era**, and therefore within the last 100 years. This is because global population increased rapidly during the 20th century and has continued rising into the 2020s. [\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
 
 Key findings from authoritative demographic series:
 

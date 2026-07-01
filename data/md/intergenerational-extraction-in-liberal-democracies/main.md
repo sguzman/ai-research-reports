@@ -481,7 +481,7 @@ usually easier **before** the electorate becomes very old, not after.
 
 ## Open questions and limitations
 
-Two limitations matter. First, some requested metrics --- especially
+Two limitations matter. First, some desired metrics --- especially
 **latest harmonized housing-affordability index values** and
 **age-specific net-worth series for Japan and Israel** --- were not
 retrievable in machine-readable official text during this session, even

@@ -2,8 +2,8 @@
 
 ## Executive Summary
 
-Taken as an analytical hypothesis rather than a moral slogan, the user's
-thesis can be restated as follows: liberal orders often weaken
+Taken as an analytical hypothesis rather than a moral slogan, the core
+claim can be restated as follows: liberal orders often weaken
 inherited, morally dense, and semi-autonomous forms of coordination such
 as churches, extended families, unions, guilds, and place-based
 associations, while replacing some of their functions with
@@ -85,7 +85,7 @@ United States had experienced a long decline in civic participation and
 institutional membership. Skocpol later refined this by showing that
 older federated, membership-based civic organizations increasingly gave
 way to professional advocacy groups with fewer active members and weaker
-local rootedness. That matters for the user's thesis because the key
+local rootedness. That matters for this argument because the key
 contrast is not between "society" and "state" in the abstract, but
 between thick, participatory, self-governing mediating institutions and
 thinner, more centralized or professionally managed substitutes.
@@ -150,7 +150,7 @@ that logic increasingly fuses with commercial surveillance. The FTC's
 recent work on "surveillance pricing" found that firms frequently use
 personal information to set individualized prices and offers,
 illustrating how consumer behavior becomes an object of continuous
-measurement and steering. This is highly compatible with the user's idea
+measurement and steering. This is highly compatible with the argument
 that liberalism can "manage" people through soft systems rather than
 command alone.
 [\[11\]](https://www.college-de-france.fr/en/agenda/lecture/the-birth-of-biopolitics)
@@ -344,7 +344,7 @@ education-spending share did not appear in the retrieved excerpt and is
 therefore left blank rather than guessed.*
 [\[19\]](https://www.oecd.org/en/publications/government-at-a-glance-2025-country-notes_da3361e1-en/united-kingdom_177c0766-en.html)
 
-The **United States** is the clearest case for the user's thesis. Church
+The **United States** is the clearest case for the argument. Church
 membership fell from 73% in 1937 to 45% in 2023. Generalized social
 trust in a recent Pew survey stood at 34%. Union membership fell from
 20.1% in 1983 to 10.0% in 2025. Meanwhile, the administrative and expert
@@ -377,7 +377,7 @@ substitution of central administration for older communal authority.
 France is among the highest public and social spenders in the OECD, and
 OECD family data show that more than 50% of births occur outside
 marriage there. Tertiary attainment among young adults reached 53% in
-2024. In the user's terms, this is a society in which older family and
+2024. In these terms, this is a society in which older family and
 religious forms have not disappeared, but the state and expert system
 occupy a much larger share of social coordination than they did in the
 nineteenth century.
@@ -408,7 +408,7 @@ cameras slated for gradual intelligent upgrades alongside thousands of
 additional installations. Korea therefore shows that intensive
 domestication-like management can emerge through education, technology,
 and surveillance even where Western-style family liberalization remains
-incomplete. In other words, the user's thesis travels beyond the West
+incomplete. In other words, the argument travels beyond the West
 only if it is formulated in terms of legibility and management rather
 than specifically Anglo-American moral liberalization.
 [\[24\]](https://www.oecd.org/en/publications/government-at-a-glance-2025-country-notes_da3361e1-en/korea-republic-of_352d41a8-en.html)
@@ -462,7 +462,7 @@ a single definitive quantitative index of "domestication."
 
 ## Implications and Conclusion
 
-The major theoretical implication is that the user's thesis becomes much
+The major theoretical implication is that the argument becomes much
 more persuasive when translated from moral denunciation into
 institutional analysis. The strongest form is not "liberalism is a
 parasite" but rather: **liberal democracies often achieve order by
@@ -497,7 +497,7 @@ forms. Where it does rebuild them, the system looks less like parasitism
 and more like social recomposition.
 [\[3\]](https://ourworldindata.org/trust)
 
-The concise conclusion, then, is this: the user's thesis is **partly
+The concise conclusion, then, is this: the argument is **partly
 right, overstated in its moral form, and strongest in its sociological
 form**. Liberal democracy has repeatedly weakened older organic
 disciplines and replaced them with softer, more legible, and more

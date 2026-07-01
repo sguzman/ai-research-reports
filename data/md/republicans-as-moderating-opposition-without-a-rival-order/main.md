@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-This report evaluates the thesis that, in the United States since the
+This report examines the claim that, in the United States since the
 1970s, Republicans often behave less like builders of a coherent rival
 governing order and more like a moderating or disciplining opposition
 inside a shared governing field: they block, bargain down, rhetorically
@@ -21,7 +21,7 @@ tools rather than durable legislation.
 [\[1\]](https://www.cbo.gov/publication/52939)
 
 The thesis is weaker, however, if it is read literally or universally.
-Several of the requested cases are not "leftist" in any meaningful
+Several of the cited cases are not "leftist" in any meaningful
 policy-science sense. NAFTA, Glass-Steagall repeal, and much of the
 punitive turn in criminal justice were neoliberal, market-liberal, or
 carceral settlements that Republicans often helped enact rather than
@@ -73,7 +73,7 @@ official statistical series.
 [\[5\]](https://www.comparativeagendas.net/us)
 
 A core assumption should be stated explicitly: the phrase "bad leftist
-policies" is analytically imprecise. Several of the requested cases are
+policies" is analytically imprecise. Several of the cited cases are
 better understood as bipartisan neoliberal reform, bipartisan punitive
 governance, or emergency macro-stabilization. That matters because the
 thesis is more persuasive as an argument about **co-governance,
@@ -411,7 +411,7 @@ Democratic preemption across decades, but that would require a dedicated
 extraction beyond the scope of the present synthesis.
 [\[75\]](https://www.comparativeagendas.net/us)
 
-The biggest substantive limitation is conceptual. The requested case
+The biggest substantive limitation is conceptual. The case
 list mixes left-of-center social insurance, centrist globalization,
 deregulatory finance, punitive criminal law, and border enforcement.
 That mixture is analytically productive, but it means the final judgment

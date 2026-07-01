@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-The thesis can be formalized in a serious, researchable way, but only if
+The argument can be formalized in a serious, researchable way, but only if
 it is stated carefully. The strongest version is **not** that modern
 American progressivism is simply "Puritanism without God," or that every
 progressive reform is a disguised return of seventeenth-century
