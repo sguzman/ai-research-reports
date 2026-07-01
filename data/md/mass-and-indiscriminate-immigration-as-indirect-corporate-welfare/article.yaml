@@ -1,0 +1,163 @@
+---
+abstract: A political-economy report on the claim that mass and indiscriminate immigration can operate
+  as indirect corporate welfare under specific institutional conditions. It synthesizes research on labor-supply
+  effects, tied-status dependency, anti-union dynamics, delayed automation, and public-cost externalization,
+  and argues that the thesis is strongest in segmented labor markets and employer-dependent migration
+  regimes rather than as a universal claim about immigration.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Politics
+- Economics
+- Immigration
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: marginalia-indirect-corporate-welfare-immigration-2026-06-30
+date: '2026-06-30'
+description: A report on when immigration regimes function as state-enabled cost reduction for firms through
+  labor dependence, wage discipline, and public-cost shifting.
+draft: false
+edition: '1'
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:mass-and-indiscriminate-immigration-as-indirect-corporate-welfare
+isCJKLanguage: false
+keywords:
+- Mass and Indiscriminate Immigration as Indirect Corporate Welfare
+- Immigration policy
+- Labor economics
+- Political economy
+- Guestworker systems
+- Corporate welfare
+- Wage discipline
+- Automation
+lang: en
+language: English
+lastmod: '2026-06-30'
+layout: ''
+library_of_congress_classification:
+  class: HD
+  description: Labor markets, migration, political economy, and employer-worker relations.
+  label: Industries. Land use. Labor
+license: CC0-1.0
+linkTitle: Mass and Indiscriminate Immigration as Indirect Corporate Welfare
+markup: ''
+number-sections: false
+outputs: []
+plate_id: ''
+publishDate: '2026-06-30'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general policy-oriented reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-06-30'
+    source_docx: Mass and Indiscriminate Immigration as Indirect Corporate Welfare.docx
+    tool: pandoc 3.6
+  discipline: economics
+  domain: political economy
+  emphasis: labor dependence, guestworker systems, and cost externalization
+  focus: immigration regimes as state-enabled employer advantage
+  id: urn:marginalia:mass-and-indiscriminate-immigration-as-indirect-corporate-welfare
+  intent: test a conditional political-economy claim about immigration and corporate advantage
+  is_report: true
+  kind: analytical report
+  level: ''
+  method: comparative policy and labor-market analysis
+  methods:
+  - literature review
+  - comparative policy analysis
+  - labor-market analysis
+  name: Mass and Indiscriminate Immigration as Indirect Corporate Welfare
+  notes: ''
+  number: '114'
+  organization: Marginalia
+  period: modern and contemporary
+  period_covered: late twentieth century to the present
+  population_focus: migrant workers, employers, and native lower-wage labor
+  primary_texts: []
+  region: comparative
+  region_focus: United States, United Kingdom, Germany, Gulf states, Malaysia
+  scope: Conditional analysis of immigration as indirect subsidy through labor supply, legal dependency,
+    and public-cost shifting
+  scope_years: late twentieth century to present
+  series: Marginalia Reports
+  stance: analytical and conditional
+  structure: executive summary, definitions, mechanisms, empirical tests, cases, counterarguments, policy
+    implications
+  subdiscipline: labor economics and migration policy
+  subject: immigration and labor markets
+  time_scope: contemporary comparative
+  time_span: late twentieth century-present
+  topic: Mass and Indiscriminate Immigration as Indirect Corporate Welfare
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '114'
+report-number: '114'
+report-year: '2026'
+report_no: 114
+report_number: 114
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: Marginalia Reports
+series-number: 114
+series-title: Marginalia Reports
+series_number: 114
+series_title: Marginalia Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: mass-and-indiscriminate-immigration-as-indirect-corporate-welfare
+status: complete
+subject:
+- Political economy
+- Immigration
+- Labor markets
+subjects:
+- Political economy
+- Immigration
+- Labor markets
+subtitle: ''
+summary: A report on when immigration regimes function as state-enabled cost reduction for firms through
+  labor dependence, wage discipline, and public-cost shifting.
+tags:
+- mass-and-indiscriminate-immigration-as-indirect-corporate-welfare
+- immigration
+- political-economy
+- labor-economics
+- guestworker-systems
+- corporate-welfare
+title: Mass and Indiscriminate Immigration as Indirect Corporate Welfare
+toc: false
+toc-depth: 0
+toc-title: ''
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...

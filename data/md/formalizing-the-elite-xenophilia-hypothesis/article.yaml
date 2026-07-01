@@ -1,0 +1,164 @@
+---
+abstract: A comparative analytical report that formalizes the elite xenophilia hypothesis as a set of
+  nested claims about immigration, demographic statecraft, and the long-run political maturation of outsider
+  populations. It distinguishes spiteful, instrumental, structural, and status-cosmopolitan variants of
+  the thesis, compares major cases across the United States, Germany, Argentina, Jordan, Sri Lanka, and
+  Cote d'Ivoire, and argues that durable settlement usually transforms grievance politics rather than
+  abolishing it.
+aliases: []
+author:
+- Salvador Guzman
+- ChatGPT
+authors:
+- Salvador Guzman
+- ChatGPT
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+categories:
+- Politics
+- Immigration
+- Political Theory
+cover-image: ''
+cover_image: ''
+creator:
+- Salvador Guzman
+dataset_id: marginalia-elite-xenophilia-hypothesis-2026-06-30
+date: '2026-06-30'
+description: A comparative report on elite support for outsider incorporation, demographic statecraft,
+  and the political afterlives of immigration regimes.
+draft: false
+edition: '1'
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+format: markdown
+headless: false
+highlight-style: tango
+identifier: urn:marginalia:formalizing-the-elite-xenophilia-hypothesis
+isCJKLanguage: false
+keywords:
+- Formalizing the Elite Xenophilia Hypothesis
+- Immigration politics
+- Political demography
+- Demographic statecraft
+- Elite theory
+- Citizenship
+- Migration policy
+- Political science
+lang: en
+language: English
+lastmod: '2026-06-30'
+layout: ''
+library_of_congress_classification:
+  class: JV
+  description: Migration politics, immigration policy, citizenship, and political demography.
+  label: Colonization. Emigration and immigration
+license: CC0-1.0
+linkTitle: Formalizing the Elite Xenophilia Hypothesis
+markup: ''
+number-sections: false
+outputs: []
+plate_id: ''
+publishDate: '2026-06-30'
+publisher: Marginalia
+reference-section-title: References
+report:
+  audience: general policy-oriented reader
+  code: ''
+  collection: ''
+  conversion:
+    date: '2026-06-30'
+    source_docx: Formalizing the Elite Xenophilia Hypothesis.docx
+    tool: pandoc 3.6
+  discipline: political science
+  domain: politics
+  emphasis: migration politics and demographic statecraft
+  focus: elite support for outsider incorporation and the transformation of grievance politics
+  id: urn:marginalia:formalizing-the-elite-xenophilia-hypothesis
+  intent: formalize and test a comparative political-demographic hypothesis
+  is_report: true
+  kind: analytical report
+  level: ''
+  method: comparative analytical synthesis
+  methods:
+  - comparative historical analysis
+  - political-demographic analysis
+  - literature review
+  name: Formalizing the Elite Xenophilia Hypothesis
+  notes: ''
+  number: '113'
+  organization: Marginalia
+  period: modern and contemporary
+  period_covered: nineteenth century to the present
+  population_focus: migrants, native majorities, and political elites
+  primary_texts: []
+  region: comparative
+  region_focus: United States, Europe, Latin America, Middle East, South Asia, Africa
+  scope: Comparative model of elite pro-outsider politics, immigration regimes, and long-run political
+    incorporation
+  scope_years: nineteenth century to present
+  series: Marginalia Reports
+  stance: analytical and comparative
+  structure: executive summary, conceptual framing, mechanisms, comparative cases, counterarguments, implications,
+    research design
+  subdiscipline: migration politics and political demography
+  subject: immigration politics
+  time_scope: long-run comparative
+  time_span: nineteenth century-present
+  topic: Formalizing the Elite Xenophilia Hypothesis
+  type: report
+  version: 1.0.0
+  year: 2026
+report-no: '113'
+report-number: '113'
+report-year: '2026'
+report_no: 113
+report_number: 113
+report_year: 2026
+resources: []
+revision: 1.0.0
+rights: CC0-1.0
+series: Marginalia Reports
+series-number: 113
+series-title: Marginalia Reports
+series_number: 113
+series_title: Marginalia Reports
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
+slug: formalizing-the-elite-xenophilia-hypothesis
+status: complete
+subject:
+- Politics
+- Immigration
+- Political demography
+subjects:
+- Politics
+- Immigration
+- Political demography
+subtitle: ''
+summary: A comparative report on elite support for outsider incorporation, demographic statecraft, and
+  the political afterlives of immigration regimes.
+tags:
+- formalizing-the-elite-xenophilia-hypothesis
+- politics
+- immigration
+- political-demography
+- demographic-statecraft
+- elite-theory
+title: Formalizing the Elite Xenophilia Hypothesis
+toc: false
+toc-depth: 0
+toc-title: ''
+translationKey: ''
+type: report
+url: ''
+weight: 0
+...
