@@ -27,6 +27,7 @@ KNOWN_STATUSES = PUBLIC_STATUSES | DRAFT_STATUSES | {"archived"}
 
 URL_RE = re.compile(r"https?://", re.I)
 RAW_CITATION_RE = re.compile(r"【[^】]*\d+[^】]*】")
+PANDOC_NUMBERED_LINK_RE = re.compile(r"\[\\\[\d+\\\]\]\(https?://", re.I)
 H1_RE = re.compile(r"^#\s+(.+?)\s*$", re.M)
 FRONTMATTER_RE = re.compile(r"\A---\s*\n")
 PROMPTISH_TITLE_RE = re.compile(r"\b(report request|research scope|prompt)\b", re.I)
@@ -38,6 +39,7 @@ AI_RESIDUE_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
     ("assistant_offer", re.compile(r"\bLet me know if you(?:'d| would) like\b", re.I)),
     ("assistant_meta", re.compile(r"\b(?:as|based on) your (?:request|prompt)\b", re.I)),
     ("assistant_meta", re.compile(r"\bI (?:can|will) (?:also )?(?:provide|create|expand|revise)\b", re.I)),
+    ("user_prompt_leak", re.compile(r"\bthe user (?:did not|didn[’']t|asked|requested|specified)\b", re.I)),
     ("next_steps", re.compile(r"\bnext[- ]step research plan\b", re.I)),
 )
 
@@ -229,6 +231,16 @@ def check_package(folder: Path) -> list[Finding]:
             "body_frontmatter",
             slug,
             "main.md appears to contain YAML frontmatter; canonical metadata belongs in article.yaml",
+            body_path,
+        )
+
+    if PANDOC_NUMBERED_LINK_RE.search(body):
+        add(
+            findings,
+            "warning",
+            "numbered_link_artifact",
+            slug,
+            "body contains escaped numbered links such as [\\[1\\]](url); inspect conversion output",
             body_path,
         )
 
