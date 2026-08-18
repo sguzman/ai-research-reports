@@ -30,13 +30,15 @@ Repeated summaries, duplicated conclusions, assistant outros, abandoned prompt f
 
 ## Links, images, files, and diagrams
 
-Every local image or file referenced by an article must actually exist inside that article package. Canonical articles must not depend on accidental files elsewhere in the repository or on paths that happened to exist on the conversion machine.
+Every local image, downloadable file, or other support asset referenced by an article must be stored beneath that article's `assets/` directory. Canonical articles must not depend on another article's folder, an arbitrary repository path, or a path that happened to exist on the conversion machine.
 
-Local image and file links are checked mechanically by `scripts/article_lint.py`. Missing targets and paths escaping the article package are errors.
+Local image and file links are checked mechanically by `scripts/article_lint.py`. Missing targets, paths escaping the article package, and article-local targets outside `assets/` are errors. This restriction keeps the canonical package portable and guarantees that the publication layer can copy its dependencies without guessing.
 
 External links and externally hosted images should be verified during intake or substantive revision. Link rot years later is not an editorial defect in the historical article; the requirement is that links be valid at the time the article is accepted or republished. Links that are already dead, malformed, redirected to unrelated material, or obviously wrong during review must be repaired or removed.
 
-Diagrams must render rather than merely exist as source text. Mermaid should use a fenced `mermaid` block and a recognized diagram directive. Indented Mermaid-like text, unmatched code fences, empty diagrams, or references to missing diagram assets must be repaired before publication. The blog rendering should be checked when a diagram or image is important to the argument.
+Diagrams must render rather than merely exist as source text. Mermaid source may be retained while an article is in `draft` or `review`, but Marginalia currently has no Mermaid rendering integration. Before an article containing a Mermaid diagram becomes `ready` or `published`, the diagram should therefore be rendered to a stable SVG or PNG under `assets/` and referenced as an ordinary image. Indented Mermaid-like text, unmatched code fences, empty diagrams, or references to missing diagram assets must be repaired before publication.
+
+The rendered blog output should be checked when an image, diagram, download, or other local asset is important to the argument. Source validity and publication rendering are separate gates.
 
 ## Quotations and false positives
 
