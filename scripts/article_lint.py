@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""Read-only editorial and lifecycle checks for canonical research article packages.
-
-This tool intentionally never edits the corpus. It is designed to be safe enough to
-run on every candidate article before publication.
-"""
+"""Read-only editorial, integrity, and lifecycle checks for canonical articles."""
 
 from __future__ import annotations
 
@@ -14,6 +10,7 @@ import sys
 from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any, Iterable
+from urllib.parse import unquote, urlsplit
 
 import yaml
 
@@ -25,6 +22,17 @@ PUBLIC_STATUSES = {"ready", "published", "complete"}
 DRAFT_STATUSES = {"draft", "review"}
 KNOWN_STATUSES = PUBLIC_STATUSES | DRAFT_STATUSES | {"archived"}
 
+CREATIVE_MARKERS = {
+    "fiction",
+    "creative writing",
+    "creative-writing",
+    "memoir",
+    "dialogue",
+    "poetry",
+    "poem",
+    "satire",
+}
+
 URL_RE = re.compile(r"https?://", re.I)
 RAW_CITATION_RE = re.compile(r"【[^】]*\d+[^】]*】")
 PANDOC_NUMBERED_LINK_RE = re.compile(r"\[\\\[\d+\\\]\]\(https?://", re.I)
@@ -32,6 +40,34 @@ H1_RE = re.compile(r"^#\s+(.+?)\s*$", re.M)
 FRONTMATTER_RE = re.compile(r"\A---\s*\n")
 PROMPTISH_TITLE_RE = re.compile(r"\b(report request|research scope|prompt)\b", re.I)
 BROKEN_LINK_RE = re.compile(r"\[[^\]]+\]\(\s*https?:\s+//", re.I)
+FENCED_BLOCK_RE = re.compile(r"(?ms)^```[^\n]*\n.*?^```\s*$")
+INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
+MARKDOWN_TARGET_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)\n]+)\)")
+MERMAID_BLOCK_RE = re.compile(r"(?ms)^```mermaid\s*\n(.*?)^```\s*$")
+UNFENCED_DIAGRAM_RE = re.compile(
+    r"(?m)^(?: {4}|\t)(?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram(?:-v2)?|erDiagram|gantt|pie|journey|mindmap|timeline)\b"
+)
+
+FIRST_PERSON_RE = re.compile(
+    r"\b(?:we|us|our|ours|ourselves|me|my|mine|myself)\b|"
+    r"\bI\s+(?:am|was|have|had|do|did|think|argue|show|examine|use|will|would|can|could|"
+    r"should|propose|suggest|consider|believe|find|found|conclude|assume|define|call)\b",
+    re.I,
+)
+SECOND_PERSON_RE = re.compile(r"\b(?:you|your|yours|yourself|yourselves)\b", re.I)
+SELF_REFERENCE_RE = re.compile(
+    r"\b(?:(?:in|throughout|within|for)\s+)?(?:this|the present)\s+"
+    r"(?:report|article|paper|study|analysis|essay)\b|"
+    r"\bthe\s+(?:report|article|paper|study|analysis|essay)\s+(?:argues|examines|explores|shows|"
+    r"discusses|considers|will|aims|seeks)\b",
+    re.I,
+)
+HYPOTHESIS_TEST_RE = re.compile(
+    r"\b(?:test|tests|tested|testing)\s+(?:out\s+)?(?:(?:a|an|the|this|that|our|its)\s+)?"
+    r"hypothes(?:is|es)\b|"
+    r"\bhypothes(?:is|es)\s+(?:is|are|was|were|will\s+be)\s+(?:being\s+)?tested\b",
+    re.I,
+)
 
 AI_RESIDUE_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
     ("assistant_refusal", re.compile(r"\bI[’']m sorry,\s+but I (?:can(?:not|'t)|won't)\b", re.I)),
@@ -41,6 +77,11 @@ AI_RESIDUE_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
     ("assistant_meta", re.compile(r"\bI (?:can|will) (?:also )?(?:provide|create|expand|revise)\b", re.I)),
     ("user_prompt_leak", re.compile(r"\bthe user (?:did not|didn[’']t|asked|requested|specified)\b", re.I)),
     ("next_steps", re.compile(r"\bnext[- ]step research plan\b", re.I)),
+)
+
+MERMAID_START_RE = re.compile(
+    r"^(?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram(?:-v2)?|erDiagram|gantt|"
+    r"pie|journey|mindmap|timeline|gitGraph|quadrantChart|xychart-beta|sankey-beta)\b"
 )
 
 
@@ -82,7 +123,14 @@ def iter_packages(root: Path, slug: str | None) -> Iterable[Path]:
             yield path
 
 
-def add(findings: list[Finding], severity: str, code: str, slug: str, message: str, path: Path) -> None:
+def add(
+    findings: list[Finding],
+    severity: str,
+    code: str,
+    slug: str,
+    message: str,
+    path: Path,
+) -> None:
     findings.append(
         Finding(
             severity=severity,
@@ -92,6 +140,148 @@ def add(findings: list[Finding], severity: str, code: str, slug: str, message: s
             path=str(path.relative_to(REPO_ROOT)),
         )
     )
+
+
+def prose_for_style(body: str) -> str:
+    """Remove code and URL destinations before perspective/meta-language checks."""
+    text = FENCED_BLOCK_RE.sub("", body)
+    text = INLINE_CODE_RE.sub("", text)
+    text = MARKDOWN_TARGET_RE.sub(lambda m: m.group(2), text)
+    return text
+
+
+def normalized_markers(meta: dict[str, Any]) -> set[str]:
+    values: list[Any] = [meta.get("type"), meta.get("format")]
+    for key in ("categories", "tags", "keywords", "subjects"):
+        value = meta.get(key)
+        if isinstance(value, list):
+            values.extend(value)
+        elif value:
+            values.append(value)
+    return {str(value).strip().lower() for value in values if value is not None}
+
+
+def is_creative(meta: dict[str, Any]) -> bool:
+    markers = normalized_markers(meta)
+    return any(marker in CREATIVE_MARKERS for marker in markers)
+
+
+def target_path(folder: Path, raw_target: str) -> tuple[Path | None, str | None]:
+    target = raw_target.strip()
+    if target.startswith("<") and target.endswith(">"):
+        target = target[1:-1].strip()
+
+    if " " in target and not target.startswith(("http://", "https://")):
+        target = target.split(None, 1)[0]
+
+    parsed = urlsplit(target)
+    if parsed.scheme or target.startswith(("#", "//")):
+        return None, None
+
+    local = unquote(parsed.path)
+    if not local:
+        return None, None
+
+    resolved = (folder / local).resolve()
+    try:
+        resolved.relative_to(folder.resolve())
+    except ValueError:
+        return resolved, "outside"
+    return resolved, None
+
+
+def check_local_targets(
+    body: str,
+    folder: Path,
+    slug: str,
+    findings: list[Finding],
+    body_path: Path,
+) -> None:
+    for match in MARKDOWN_TARGET_RE.finditer(body):
+        is_image = bool(match.group(1))
+        raw_target = match.group(3).strip()
+        resolved, disposition = target_path(folder, raw_target)
+        if resolved is None:
+            continue
+
+        kind = "image" if is_image else "file link"
+        if disposition == "outside":
+            add(
+                findings,
+                "error",
+                "local_target_outside_article",
+                slug,
+                f"{kind} points outside the article package: {raw_target!r}",
+                body_path,
+            )
+            continue
+
+        if not resolved.exists():
+            add(
+                findings,
+                "error",
+                "missing_local_asset" if is_image else "missing_local_file",
+                slug,
+                f"{kind} target is not present in the article package: {raw_target!r}",
+                body_path,
+            )
+        elif not resolved.is_file():
+            add(
+                findings,
+                "error",
+                "nonfile_local_target",
+                slug,
+                f"{kind} target is not a file: {raw_target!r}",
+                body_path,
+            )
+
+
+def check_diagrams(
+    body: str,
+    slug: str,
+    findings: list[Finding],
+    body_path: Path,
+) -> None:
+    if body.count("```") % 2:
+        add(
+            findings,
+            "error",
+            "unbalanced_code_fence",
+            slug,
+            "main.md contains an unmatched triple-backtick fence; diagrams/code may not render",
+            body_path,
+        )
+
+    if UNFENCED_DIAGRAM_RE.search(body):
+        add(
+            findings,
+            "warning",
+            "unfenced_diagram",
+            slug,
+            "diagram-like Mermaid text is indented instead of fenced as ```mermaid; verify rendering",
+            body_path,
+        )
+
+    for block in MERMAID_BLOCK_RE.findall(body):
+        first = next(
+            (
+                line.strip()
+                for line in block.splitlines()
+                if line.strip() and not line.lstrip().startswith("%%")
+            ),
+            "",
+        )
+        if not first:
+            add(findings, "error", "empty_mermaid", slug, "empty Mermaid diagram block", body_path)
+        elif not MERMAID_START_RE.match(first):
+            add(
+                findings,
+                "warning",
+                "unknown_mermaid_start",
+                slug,
+                f"Mermaid block starts with unrecognized directive: {first[:80]!r}",
+                body_path,
+            )
 
 
 def check_package(folder: Path) -> list[Finding]:
@@ -150,7 +340,7 @@ def check_package(folder: Path) -> list[Finding]:
             "warning",
             "legacy_status",
             slug,
-            "status 'complete' is accepted for legacy material; prefer 'published' for the canonical lifecycle",
+            "status 'complete' is legacy; prefer 'published' when the article is next touched",
             meta_path,
         )
 
@@ -183,7 +373,7 @@ def check_package(folder: Path) -> list[Finding]:
             "warning",
             "promptish_title",
             slug,
-            "title looks like an intake/prompt artifact rather than a publication title",
+            "title looks like intake/prompt residue rather than a publication title",
             meta_path,
         )
 
@@ -230,20 +420,18 @@ def check_package(folder: Path) -> list[Finding]:
             "warning",
             "body_frontmatter",
             slug,
-            "main.md appears to contain YAML frontmatter; canonical metadata belongs in article.yaml",
+            "main.md contains YAML frontmatter; canonical metadata belongs in article.yaml",
             body_path,
         )
-
     if PANDOC_NUMBERED_LINK_RE.search(body):
         add(
             findings,
             "warning",
             "numbered_link_artifact",
             slug,
-            "body contains escaped numbered links such as [\\[1\\]](url); inspect conversion output",
+            "body contains escaped numbered links such as [\\[1\\]](url)",
             body_path,
         )
-
     if RAW_CITATION_RE.search(body):
         add(
             findings,
@@ -253,7 +441,6 @@ def check_package(folder: Path) -> list[Finding]:
             "body contains raw ChatGPT citation markers such as 【...】",
             body_path,
         )
-
     if BROKEN_LINK_RE.search(body):
         add(
             findings,
@@ -264,8 +451,49 @@ def check_package(folder: Path) -> list[Finding]:
             body_path,
         )
 
+    style_text = prose_for_style(body)
+    if not is_creative(meta):
+        style_checks = (
+            (
+                "first_person",
+                FIRST_PERSON_RE,
+                "academic prose contains first-person narration",
+            ),
+            (
+                "second_person",
+                SECOND_PERSON_RE,
+                "academic prose addresses the reader in second person",
+            ),
+            (
+                "self_reference",
+                SELF_REFERENCE_RE,
+                "academic prose refers to itself/the report instead of stating the substance directly",
+            ),
+            (
+                "hypothesis_testing_meta",
+                HYPOTHESIS_TEST_RE,
+                "prose describes 'testing' a hypothesis as report-stage meta-language",
+            ),
+        )
+        for code, pattern, message in style_checks:
+            match = pattern.search(style_text)
+            if match:
+                excerpt = re.sub(
+                    r"\s+",
+                    " ",
+                    style_text[max(0, match.start() - 45) : match.end() + 70],
+                ).strip()
+                add(
+                    findings,
+                    "warning",
+                    code,
+                    slug,
+                    f"{message}; inspect: {excerpt!r}",
+                    body_path,
+                )
+
     for code, pattern in AI_RESIDUE_PATTERNS:
-        if pattern.search(body):
+        if pattern.search(style_text):
             add(
                 findings,
                 "warning",
@@ -274,6 +502,9 @@ def check_package(folder: Path) -> list[Finding]:
                 f"body contains probable assistant/prompt residue matching {pattern.pattern!r}",
                 body_path,
             )
+
+    check_local_targets(body, folder, slug, findings, body_path)
+    check_diagrams(body, slug, findings, body_path)
 
     h1_count = len(H1_RE.findall(body))
     if h1_count > 1:
@@ -307,7 +538,11 @@ def main() -> int:
         return 2
 
     try:
-        findings = [f for folder in iter_packages(MD_ROOT, args.slug) for f in check_package(folder)]
+        findings = [
+            f
+            for folder in iter_packages(MD_ROOT, args.slug)
+            for f in check_package(folder)
+        ]
     except FileNotFoundError as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 2
@@ -328,8 +563,11 @@ def main() -> int:
             )
         )
     else:
-        for f in findings:
-            print(f"{f.severity.upper():7} {f.slug}: {f.code}: {f.message} [{f.path}]")
+        for finding in findings:
+            print(
+                f"{finding.severity.upper():7} {finding.slug}: "
+                f"{finding.code}: {finding.message} [{finding.path}]"
+            )
         print(f"\nerrors={len(errors)} warnings={len(warnings)}")
 
     if errors or (args.strict and warnings):
