@@ -2,7 +2,9 @@
 
 ## Supported editorial tooling
 
-- `article_lint.py` — read-only editorial and lifecycle validation. Safe to run against the corpus; it never writes files.
+- `article_lint.py` — read-only editorial, lifecycle, perspective, local-asset, and diagram validation. Safe to run against the corpus; it never writes files.
+
+The linter implements the mechanically safe subset of [`../ACADEMIC_STYLE.md`](../ACADEMIC_STYLE.md). Spelling, grammar, factual review, quotation judgment, and live external-link verification remain editorial responsibilities rather than blind rewrites.
 
 ## Legacy tooling
 
