@@ -22,11 +22,14 @@ Article intake is deliberately operator-driven.
 1. Generate or collect a candidate article outside the repository.
 2. Convert DOCX/PDF to Markdown explicitly when needed.
 3. Run an editorial review of the text before trusting generated metadata.
-4. Create or update the canonical package in this repository.
-5. Run `scripts/article_lint.py`.
-6. Resolve errors and inspect warnings.
-7. Move lifecycle state forward only after editorial approval.
-8. Publish the approved canonical package into Marginalia as a one-way projection.
+4. Enforce `ACADEMIC_STYLE.md` for ordinary nonfiction/report material.
+5. Verify external links and externally hosted images that matter to the article at review time.
+6. Create or update the canonical package in this repository.
+7. Run `scripts/article_lint.py --strict`.
+8. Resolve errors and warnings, distinguishing legitimate quotations/creative exceptions from narration defects.
+9. Record corrections through the repository's established changelog/revision mechanism when that mechanism is present.
+10. Move lifecycle state forward only after editorial approval.
+11. Publish the approved canonical package into Marginalia as a one-way projection.
 
 No GitHub workflow should convert source documents, rewrite article metadata, or commit generated changes back into this repository. CI may validate; it must not edit.
 
@@ -50,6 +53,8 @@ Rules:
 - `complete`: accepted only as a legacy status; migrate it to `published` when an article is next touched.
 
 `ready` is the publication gate. The existence of a folder, DOCX file, Markdown file, or Hugo post is never publication intent.
+
+For ordinary academic material, `ready` also means the article has been checked for spelling and grammar, first/second-person narration, self-reference, prompt/assistant residue, assignment-stage hypothesis language, missing local assets, malformed or presently broken links, and broken diagrams. Creative work may intentionally differ, but that exception should be explicit in its classification rather than accidental.
 
 ## Metadata profiles
 
@@ -79,7 +84,9 @@ python scripts/article_lint.py --json
 python scripts/article_lint.py --strict
 ```
 
-The linter intentionally checks for problems that schema validation misses: lifecycle contradictions, URL-contaminated titles, prompt or assistant residue, raw ChatGPT citation markers, malformed links, multiple H1s, and weak descriptive metadata.
+The linter intentionally checks for problems that schema validation misses: lifecycle contradictions, URL-contaminated titles, prompt or assistant residue, raw ChatGPT citation markers, malformed links, first/second-person narration, self-reference, hypothesis-testing meta-language, local links/images whose targets do not exist inside the article package, paths that escape the package, multiple H1s, unmatched code fences, and suspicious Mermaid rendering.
+
+Some checks remain editorial rather than mechanical. In particular, spelling/grammar and current health of remote HTTP links are verified during review because blind automation is too error-prone for academic vocabulary, proper nouns, quotations, and transient network failures.
 
 ## Publication boundary
 
