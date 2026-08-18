@@ -45,7 +45,8 @@ INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
 MARKDOWN_TARGET_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)\n]+)\)")
 MERMAID_BLOCK_RE = re.compile(r"(?ms)^```mermaid\s*\n(.*?)^```\s*$")
 UNFENCED_DIAGRAM_RE = re.compile(
-    r"(?m)^(?: {4}|\t)(?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram(?:-v2)?|erDiagram|gantt|pie|journey|mindmap|timeline)\b"
+    r"(?m)^(?: {4}|\t)(?:flowchart|graph|sequenceDiagram|classDiagram|"
+    r"stateDiagram(?:-v2)?|erDiagram|gantt|pie|journey|mindmap|timeline)\b"
 )
 
 FIRST_PERSON_RE = re.compile(
@@ -58,13 +59,13 @@ SECOND_PERSON_RE = re.compile(r"\b(?:you|your|yours|yourself|yourselves)\b", re.
 SELF_REFERENCE_RE = re.compile(
     r"\b(?:(?:in|throughout|within|for)\s+)?(?:this|the present)\s+"
     r"(?:report|article|paper|study|analysis|essay)\b|"
-    r"\bthe\s+(?:report|article|paper|study|analysis|essay)\s+(?:argues|examines|explores|shows|"
-    r"discusses|considers|will|aims|seeks)\b",
+    r"\bthe\s+(?:report|article|paper|study|analysis|essay)\s+"
+    r"(?:argues|examines|explores|shows|discusses|considers|will|aims|seeks)\b",
     re.I,
 )
 HYPOTHESIS_TEST_RE = re.compile(
-    r"\b(?:test|tests|tested|testing)\s+(?:out\s+)?(?:(?:a|an|the|this|that|our|its)\s+)?"
-    r"hypothes(?:is|es)\b|"
+    r"\b(?:test|tests|tested|testing)\s+(?:out\s+)?"
+    r"(?:(?:a|an|the|this|that|our|its)\s+)?hypothes(?:is|es)\b|"
     r"\bhypothes(?:is|es)\s+(?:is|are|was|were|will\s+be)\s+(?:being\s+)?tested\b",
     re.I,
 )
@@ -197,6 +198,8 @@ def check_local_targets(
     findings: list[Finding],
     body_path: Path,
 ) -> None:
+    assets_root = (folder / "assets").resolve()
+
     for match in MARKDOWN_TARGET_RE.finditer(body):
         is_image = bool(match.group(1))
         raw_target = match.group(3).strip()
@@ -212,6 +215,19 @@ def check_local_targets(
                 "local_target_outside_article",
                 slug,
                 f"{kind} points outside the article package: {raw_target!r}",
+                body_path,
+            )
+            continue
+
+        try:
+            resolved.relative_to(assets_root)
+        except ValueError:
+            add(
+                findings,
+                "error",
+                "local_target_outside_assets",
+                slug,
+                f"{kind} must live under this article's assets/ directory: {raw_target!r}",
                 body_path,
             )
             continue
@@ -239,6 +255,7 @@ def check_local_targets(
 def check_diagrams(
     body: str,
     slug: str,
+    status: str,
     findings: list[Finding],
     body_path: Path,
 ) -> None:
@@ -262,7 +279,8 @@ def check_diagrams(
             body_path,
         )
 
-    for block in MERMAID_BLOCK_RE.findall(body):
+    mermaid_blocks = MERMAID_BLOCK_RE.findall(body)
+    for block in mermaid_blocks:
         first = next(
             (
                 line.strip()
@@ -282,6 +300,17 @@ def check_diagrams(
                 f"Mermaid block starts with unrecognized directive: {first[:80]!r}",
                 body_path,
             )
+
+    if mermaid_blocks and status in PUBLIC_STATUSES:
+        add(
+            findings,
+            "error",
+            "mermaid_not_blog_safe",
+            slug,
+            "publishable article still contains Mermaid source; render it to an SVG/PNG under assets/ "
+            "before publication because Marginalia has no Mermaid renderer",
+            body_path,
+        )
 
 
 def check_package(folder: Path) -> list[Finding]:
@@ -429,7 +458,7 @@ def check_package(folder: Path) -> list[Finding]:
             "warning",
             "numbered_link_artifact",
             slug,
-            "body contains escaped numbered links such as [\\[1\\]](url)",
+            r"body contains escaped numbered links such as [\[1\]](url)",
             body_path,
         )
     if RAW_CITATION_RE.search(body):
@@ -504,7 +533,7 @@ def check_package(folder: Path) -> list[Finding]:
             )
 
     check_local_targets(body, folder, slug, findings, body_path)
-    check_diagrams(body, slug, findings, body_path)
+    check_diagrams(body, slug, status, findings, body_path)
 
     h1_count = len(H1_RE.findall(body))
     if h1_count > 1:
@@ -539,9 +568,9 @@ def main() -> int:
 
     try:
         findings = [
-            f
+            finding
             for folder in iter_packages(MD_ROOT, args.slug)
-            for f in check_package(folder)
+            for finding in check_package(folder)
         ]
     except FileNotFoundError as exc:
         print(f"error: {exc}", file=sys.stderr)
