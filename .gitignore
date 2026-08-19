@@ -1,2 +1,13 @@
 tmp/
 scratch/
+
+# Python/runtime noise
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
