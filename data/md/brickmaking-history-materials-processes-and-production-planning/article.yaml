@@ -1,5 +1,8 @@
 ---
-abstract: Brickmaking_ History, Materials, Processes, and Production Planning
+abstract: >-
+  A technical and historical survey of brickmaking materials, forming methods, drying and firing,
+  quality control, plant equipment, production planning, economics, environmental constraints,
+  and research-and-development considerations across artisanal and industrial scales.
 aliases: []
 author:
 - Salvador Guzman
@@ -21,9 +24,10 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-04-04'
-description: Brickmaking_ History, Materials, Processes, and Production Planning
-draft: false
+description: A technical survey of brickmaking history, materials, industrial processes, quality control, and production planning.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -36,19 +40,23 @@ highlight-style: tango
 identifier: urn:marginalia:brickmaking-history-materials-processes-and-production-planning
 isCJKLanguage: false
 keywords:
-- Brickmaking_ History, Materials, Processes, and Production Planning
+- brickmaking
+- clay brick
+- kilns
+- ceramic processing
+- production planning
 - Engineering
 - Technology
 lang: en
 language: English
-lastmod: '2026-04-04'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: TA
   description: Engineering, applied technology, infrastructure, and industrial design.
   label: Engineering
 license: CC0-1.0
-linkTitle: Brickmaking_ History, Materials, Processes, and Production Planning
+linkTitle: 'Brickmaking: History, Materials, Processes, and Production Planning'
 markup: ''
 number-sections: false
 outputs: []
@@ -62,21 +70,21 @@ report:
   collection: ''
   conversion:
     date: '2026-04-20'
-    source_docx: Brickmaking_ History, Materials, Processes, and Production Planning.docx
+    source_docx: 'Brickmaking_ History, Materials, Processes, and Production Planning.docx'
     tool: pandoc 3.6
   discipline: engineering
   domain: engineering
-  emphasis: ''
-  focus: ''
+  emphasis: process design and production planning
+  focus: brick materials, forming, drying, firing, quality control, equipment, and scale-up
   id: urn:marginalia:brickmaking-history-materials-processes-and-production-planning
-  intent: ''
+  intent: technical survey and planning reference
   is_report: true
-  kind: historical survey
+  kind: technical historical survey
   level: ''
-  method: ''
+  method: literature and standards synthesis
   methods: []
-  name: Brickmaking_ History, Materials, Processes, and Production Planning
-  notes: ''
+  name: 'Brickmaking: History, Materials, Processes, and Production Planning'
+  notes: Returned to editorial review during the 2026-08-19 pilot because the body still contains citation/export residue, at least one raw ChatGPT citation marker, and economic/current claims that require source verification before republication.
   number: 079
   organization: Marginalia
   period: ''
@@ -85,18 +93,18 @@ report:
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: artisanal through industrial brick production
   scope_years: ''
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral
+  structure: technical survey
   subdiscipline: applied design and technology
-  subject: ''
-  time_scope: ''
+  subject: brick manufacturing
+  time_scope: historical and contemporary
   time_span: ''
-  topic: Brickmaking_ History, Materials, Processes, and Production Planning
+  topic: Brickmaking
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 079
 report-number: 079
@@ -105,7 +113,7 @@ report_no: 79
 report_number: 79
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 79
@@ -117,7 +125,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: brickmaking-history-materials-processes-and-production-planning
-status: complete
+status: review
 subject:
 - Engineering
 - Technology
@@ -125,17 +133,21 @@ subjects:
 - Engineering
 - Technology
 subtitle: ''
-summary: Brickmaking_ History, Materials, Processes, and Production Planning
+summary: >-
+  Covers the evolution of brickmaking from ancient and artisanal methods to mechanized plants,
+  with emphasis on raw-material preparation, forming, drying, kiln operation, testing, defects,
+  environmental constraints, economics, and production-scale decisions.
 tags:
 - brickmaking-history-materials-processes-and-production-planning
 - engineering
 - technology
-title: Brickmaking_ History, Materials, Processes, and Production Planning
+title: 'Brickmaking: History, Materials, Processes, and Production Planning'
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
