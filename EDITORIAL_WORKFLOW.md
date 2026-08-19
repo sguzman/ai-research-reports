@@ -30,7 +30,7 @@ Article intake is deliberately operator-driven.
 6. Verify external links and externally hosted images that matter to the article at review time.
 7. Normalize local support files beneath `assets/` and repair image/file/diagram references.
 8. Create or update the canonical package.
-9. Run read-only mechanical validation.
+9. Run `scripts/editorial_lint.py --strict`.
 10. Resolve findings editorially; a linter finding is evidence for inspection, not permission to destroy intentional voice.
 11. Record changes in the article's `CHANGELOG.md` using the established timestamp/summary table convention.
 12. Move lifecycle state forward only after editorial approval.
@@ -124,9 +124,9 @@ Keep newest entries first. New articles do not need fictional history, but once 
 
 ## Editorial validation
 
-`scripts/article_lint.py` is read-only and never rewrites the corpus. The profile system in `EDITORIAL_STANDARD.md` is authoritative: perspective findings must be interpreted according to `editorial_profile` rather than blindly applied to every artifact.
+`scripts/editorial_lint.py` is read-only and never rewrites the corpus. The profile system in `EDITORIAL_STANDARD.md` is authoritative: perspective findings are selected according to `editorial_profile` rather than blindly applied to every artifact. Legacy articles with no profile are reported as unclassified and are not automatically subjected to academic perspective rules.
 
-Mechanical checks are appropriate for lifecycle contradictions, URL-contaminated titles, prompt/assistant residue, raw citation markers, malformed links, local dependency integrity, H1 structure, unmatched code fences, and diagram/source hazards. Spelling/grammar, quotation judgment, factual review, intentional voice, and live external-link health require editorial judgment.
+Mechanical checks are appropriate for lifecycle contradictions, URL-contaminated titles, prompt/assistant residue, raw citation markers, malformed links, local dependency integrity, H1 structure, unmatched code fences, and diagram/source hazards. Spelling/grammar, quotation judgment, factual review, intentional voice, duplicate resolution, and live external-link health require editorial judgment.
 
 The baseline state of the inherited corpus is documented in `CORPUS_AUDIT.md`. That file is an inventory, not a license for automatic rewriting.
 
