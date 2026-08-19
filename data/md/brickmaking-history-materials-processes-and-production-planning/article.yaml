@@ -84,27 +84,27 @@ report:
   method: literature and standards synthesis
   methods: []
   name: 'Brickmaking: History, Materials, Processes, and Production Planning'
-  notes: Returned to editorial review during the 2026-08-19 pilot because the body still contains citation/export residue, at least one raw ChatGPT citation marker, and economic/current claims that require source verification before republication.
+  notes: Conversion residue was mechanically repaired on 2026-08-19: raw diagram and Gantt source was replaced with normal Markdown structures, both absolute workstation image paths were corrected to canonical assets, orphan figure markers were removed, and the redundant conversion-generated reference export was deleted. The article remains in review because technical standards, CAPEX/OPEX estimates, regulatory claims, and 2026/2027 technology claims require current source verification before publication.
   number: 079
   organization: Marginalia
-  period: ''
-  period_covered: ''
+  period: historical development through contemporary production
+  period_covered: ancient brickmaking through 2026-era industrial practice
   population_focus: ''
   primary_texts: []
-  region: ''
-  region_focus: ''
+  region: comparative
+  region_focus: industrial brickmaking with U.S. standards and international examples
   scope: artisanal through industrial brick production
-  scope_years: ''
+  scope_years: historical through 2026
   series: Marginalia Reports
   stance: neutral
-  structure: technical survey
+  structure: technical survey with process, equipment, quality, environmental, economic, and R&D sections
   subdiscipline: applied design and technology
   subject: brick manufacturing
   time_scope: historical and contemporary
-  time_span: ''
+  time_span: ancient period-present
   topic: Brickmaking
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: 079
 report-number: 079
@@ -113,7 +113,7 @@ report_no: 79
 report_number: 79
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 79
