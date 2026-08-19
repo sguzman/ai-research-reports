@@ -2,26 +2,26 @@
 
 ## Executive summary
 
-This report examines the 2007–2009 global financial crisis centered on U.S. housing and credit markets and the ensuing banking panic. It critiques **common patterns** across major official inquiries—especially the U.S. **Financial Crisis Inquiry Commission (FCIC) 2011 report** and major U.K. parliamentary inquiries—while explicitly labeling which report each illustrative example comes from. [\[1\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
+The 2007–2009 global financial crisis centered on U.S. housing and credit markets and culminated in a banking panic. Major official inquiries—especially the U.S. **Financial Crisis Inquiry Commission (FCIC) 2011 report** and major U.K. parliamentary inquiries—share recurring explanatory patterns, even though individual reports differ in emphasis. [\[1\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
 
 Across these inquiries, the most consequential “bias” is often **structural rather than overt**: reports can acknowledge public-sector failures yet still **protect core state legitimacy** by (a) distributing agency across decades and systems, (b) narrowing the definition of “government wrongdoing” to “failure to foresee/supervise,” and (c) treating extraordinary interventions as an unavoidable “binary choice” between bailout and collapse. [\[2\]](https://fcic.law.stanford.edu/report/conclusions)
 
-A rigorous critique of that bias should **translate narrative into falsifiable claims**, then test each claim against: (1) contemporaneous primary documents (Fed/Treasury/FDIC/SEC/FHFA releases), (2) watchdog audits (SIGTARP, GAO, SEC OIG), and (3) data/time series (FRED, CBO, FHFA). This report provides a concrete template: a rhetorical map, a claims-vs.-counterevidence table, and an event-and-policy timeline. [\[3\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm)
+A rigorous critique of that bias should **translate narrative into falsifiable claims**, then test each claim against: (1) contemporaneous primary documents (Fed/Treasury/FDIC/SEC/FHFA releases), (2) watchdog audits (SIGTARP, GAO, SEC OIG), and (3) data/time series (FRED, CBO, FHFA). The analytical structure used here combines a rhetorical map, a claims-vs.-counterevidence table, and an event-and-policy timeline. [\[3\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm)
 
-A recurring empirical tension emerges: many inquiry narratives emphasize *private* risk-taking, misaligned incentives, and “regulatory failure,” but multiple primary sources show that **regulatory design choices and crisis-management actions** (e.g., model-based capital permissions, implicit guarantees, targeted rescues, and broad guarantees) plausibly **shaped pre-crisis expectations and ex post moral hazard**—the exact channel you flagged (“government encroaching on markets” and “setting up bad expectations”). [\[4\]](https://www.sec.gov/rule-release/34-49830)
+A recurring empirical tension emerges: many inquiry narratives emphasize *private* risk-taking, misaligned incentives, and “regulatory failure,” but multiple primary sources show that **regulatory design choices and crisis-management actions**—including model-based capital permissions, implicit guarantees, targeted rescues, and broad guarantees—plausibly **shaped pre-crisis expectations and ex post moral hazard**. This is the expectation-setting channel in which government intervention can alter market behavior before and after a crisis. [\[4\]](https://www.sec.gov/rule-release/34-49830)
 
 ## Assumptions and corpus of official reports
 
-**Assumption about the “official report.”** This review treats the FCIC final report as the *anchor* U.S. “official inquiry” because it is the most prominent post-crisis commission report and is explicitly a “final report” on crisis causes. It then triangulates with major U.K. parliamentary inquiries and a set of official crisis-response documents that reveal what official reports *normalize* as “necessary” emergency action. [\[5\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
+**Anchor inquiry.** The FCIC final report serves as the anchor U.S. official inquiry because it is the most prominent post-crisis commission report and is explicitly a final report on crisis causes. It is triangulated with major U.K. parliamentary inquiries and official crisis-response documents that reveal what official reports normalize as “necessary” emergency action. [\[5\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
 
-**Core “official/institutional” texts used here (not exhaustive).**  
+**Core official and institutional texts (not exhaustive).**  
 - FCIC final report (U.S., January 2011) and its published conclusions. [\[6\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)  
-- FCIC dissenting views as an internal counter-narrative within the same official product family (notably, the housing-policy causality dispute). [\[7\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf)  
+- FCIC dissenting views as an internal counter-narrative within the same official product family, notably the housing-policy causality dispute. [\[7\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf)  
 - U.K. House of Commons Treasury Committee inquiries: *The run on the Rock* (Northern Rock) and *Banking Crisis: dealing with the failure of the UK banks*. [\[8\]](https://publications.parliament.uk/pa/cm200708/cmselect/cmtreasy/56/56i.pdf)  
 - U.K. Parliamentary Commission on Banking Standards, *Changing banking for good* (professional standards/culture). [\[9\]](https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf)  
-- EU-level institutional diagnosis (for breadth): the de Larosière framework is referenced indirectly here via other official corpora; the higher-value role it plays in this report is as an example of “institutional-design” framing (supervisory architecture as the fix). [\[10\]](https://dorie.ec.europa.eu/en/details/-/card/498496)
+- EU-level institutional diagnosis: the de Larosière framework is referenced indirectly via other official corpora and functions here as an example of institutional-design framing in which supervisory architecture is treated as the remedy. [\[10\]](https://dorie.ec.europa.eu/en/details/-/card/498496)
 
-**Primary “ground truth” documents used to test official framing.**  
+**Primary documents used to test official framing.**  
 - Central-bank and agency crisis actions: AIG rescue terms (Fed Board), Bear Stearns/Maiden Lane terms (New York Fed and Fed), FDIC guarantee programs, FHFA conservatorship materials. [\[11\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm)  
 - Watchdog and oversight audits: SIGTARP’s analysis of AIG counterparty payments at par; GAO one-time audit of Fed emergency actions; SEC OIG audit of Bear Stearns oversight in the SEC consolidated supervision context. [\[12\]](https://fcic.law.stanford.edu/documents/view/1286)  
 - Data: house-price index series and household debt service ratio series (FRED). [\[13\]](https://fred.stlouisfed.org/data/CSUSHPINSA)  
@@ -29,7 +29,7 @@ A recurring empirical tension emerges: many inquiry narratives emphasize *privat
 
 ## Key framing devices and rhetorical strategies that protect government actors
 
-Even when official inquiries criticize regulators, they commonly rely on rhetorical moves that **limit imputable governmental responsibility**. Below are the most recurrent devices (with examples tied to specific reports and tested against primary evidence).
+Even when official inquiries criticize regulators, they commonly rely on rhetorical moves that **limit imputable governmental responsibility**. The following devices recur across the corpus, with examples tied to specific reports and tested against primary evidence.
 
 **Agency diffusion through system-scale abstraction.**  
 A signature move is to explain the crisis primarily as “systemic” (failures “at all levels,” “breakdowns,” “excessive risk-taking,” “gaps in oversight”) rather than as a sequence of attributable public decisions. The FCIC’s published conclusions emphasize broad “failures in financial regulation,” “breakdowns,” and “policy makers who were ill prepared,” which—while critical—tends to spread responsibility across an unnamed set of institutions and decades rather than isolating decision rights, veto points, and ignored warnings. [\[15\]](https://fcic.law.stanford.edu/report/conclusions)
@@ -39,18 +39,18 @@ Labeling policymakers as “ill prepared” implies incapacity or surprise rathe
 
 **The “binary choice” rescue narrative (collapse vs. bailout).**  
 Crisis-management episodes are frequently described as forced “either/or” decisions, a rhetoric that legitimizes extraordinary intervention and suppresses scrutiny of alternative tools (haircuts, controlled resolution, temporary stays, forced conversions, etc.). The **Congressional Oversight Panel’s** AIG report documents how authorities repeatedly stated they faced a “binary choice” framing. [\[17\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf)  
-This framing directly intersects your concern about government setting “bad expectations”: if rescue is repeatedly narrated as the only rational option, future creditors rationally price in rescue probability (classic moral-hazard channel), and official reports can inadvertently lock that expectation into the public record. [\[18\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf)
+If rescue is repeatedly narrated as the only rational option, future creditors can rationally price in rescue probability, creating a classic moral-hazard channel; official reports can inadvertently reinforce that expectation when the framing is reproduced without explicit analysis. [\[18\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf)
 
 **Legitimacy-preserving “taxpayer protection” language in official rescue documents.**  
 Official communications often foreground “protect taxpayers” and “orderly manner” as legitimating terms. For example, the Fed’s AIG rescue release stresses that terms are designed to “protect the interests of the U.S. government and taxpayers” and that the loan facilitates an orderly sale process. [\[19\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm)  
-Whether or not those terms were justified, this rhetorical emphasis tends to (a) morally elevate the state’s role and (b) reduce attention to distributional questions (who was paid, at what prices, and why).
+Whether or not those terms were justified, this rhetorical emphasis tends to (a) morally elevate the state’s role and (b) reduce attention to distributional questions such as who was paid, at what prices, and why.
 
 **“Regulation failed” without “regulation shaped incentives.”**  
 A common protective strategy is to argue that the crisis came from *too little* regulation (gaps, laxity) rather than from *badly designed* regulation that actively distorted incentives (e.g., model-based capital permissions, rating-dependent rules, subsidized/guaranteed funding channels). This is visible in how many narratives treat the shadow banking system as “unregulated,” while other official sources show that government actions and legal/regulatory structures meaningfully shaped its growth and fragility. For example, the New York Fed’s shadow banking work explicitly ties crisis responses and guarantee schemes to backstopping shadow banking exposures, underscoring the public-private entanglement rather than a simple “unregulated” story. [\[20\]](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr458.pdf)
 
 ## Omissions and selective emphasis
 
-This section identifies topics that official inquiry narratives often **downplay, bracket, or treat as secondary**, even when primary sources and datasets show they are central to the “government-encroachment / expectations” channel you care about.
+Official inquiry narratives often **downplay, bracket, or treat as secondary** topics that primary sources and datasets show are central to the government-intervention and expectation-setting channel.
 
 **Pre-crisis moral hazard and the state’s commitment problem.**  
 Official reports often treat “too big to fail” primarily as a discovered problem of 2008–2009 rather than as a long-standing credibility failure: markets learn from repeated interventions that politically connected or systemically important entities will be supported. The U.K. regulatory reform debate explicitly raised “how to offset the moral hazard created by… systemically important banks” as an unresolved core issue—suggesting that moral hazard was not merely a post-crisis talking point but a structural policy problem. [\[21\]](https://centerforfinancialstability.org/forum/turner_systemically_important_banks_200910.pdf)
@@ -65,18 +65,18 @@ The FCIC corpus itself contains dissenting views arguing government housing poli
 
 **Macroeconomic policy and the political economy of credit abundance.**  
 Central banks themselves provide macro narratives (“saving glut,” global forces) that can function as a legitimacy buffer: if the “cause” is global capital flows, domestic policy choices look less central. The Fed’s “global saving glut” framing is a canonical example. [\[25\]](https://www.federalreserve.gov/boarddocs/speeches/2005/200503102/)  
-A rigorous critique must ask: even if global flows mattered, which domestic regulatory and fiscal choices converted that environment into fragile leverage?
+A rigorous critique must still ask which domestic regulatory and fiscal choices converted that environment into fragile leverage, even if global flows mattered.
 
 **Distributional consequences of rescue design (who was paid at what prices).**  
 Official rescue documents emphasize stabilizing markets, but inquiry narratives sometimes treat the micro-design of rescues as a technical detail. Yet, those details are exactly where “market expectations” are manufactured. In AIG’s case, SIGTARP explicitly investigated why counterparties were effectively paid at par value and framed this as a taxpayer-interest question—indicating this was not merely a footnote but a basic accountability issue. [\[26\]](https://fcic.law.stanford.edu/documents/view/1286)
 
 ## Counter-evidence with cases, data, and timelines
 
-This section operationalizes a critique: it converts protective framing into testable propositions and then supplies counter-evidence from primary sources, audits, and data series.
+Protective framing can be converted into testable propositions and compared with primary evidence from audits, agency documents, and data series.
 
 ### Claims vs. counter-evidence table
 
-The table below provides a reusable structure for your own critical report: **(a)** isolate the inquiry’s framing claim, **(b)** identify the rhetorical move, **(c)** test with primary evidence, **(d)** state what alternative inference is warranted.
+The table provides a reusable structure: **(a)** isolate the inquiry’s framing claim, **(b)** identify the rhetorical move, **(c)** test it with primary evidence, and **(d)** state what alternative inference is warranted.
 
 | Official-leaning framing claim (report context) | Why it can function as “government-defensive” rhetoric | Counter-evidence / empirical tension | Primary sources to cite |
 |----|----|----|----|
@@ -95,21 +95,17 @@ The table below provides a reusable structure for your own critical report: **(a
 
 ### Timeline of key events and government actions
 
-The timeline below (a) prioritizes **government decisions with expectation-setting power**, and (b) gives you a scaffold to place official-claim testing.
+The timeline prioritizes **government decisions with expectation-setting power** and provides dated anchors for testing official claims. Bear Stearns support occurred in March 2008, GSE conservatorship on September 7, 2008, AIG emergency lending on September 16, 2008, and the FDIC TLGP announcement on October 14, 2008. [\[33\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
 
-Key dated anchors include: Bear Stearns support (March 2008), GSE conservatorship (September 7, 2008), AIG emergency lending (September 16, 2008), FDIC TLGP announcement (October 14, 2008). [\[33\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
+- **2004–2006:** SEC adopts the alternative net capital and consolidated-supervision framework.
+- **2007–2008:** Early subprime stress becomes visible; the U.K. Northern Rock episode unfolds.
+- **March 2008:** Bear Stearns is supported through New York Fed financing that facilitates its acquisition.
+- **September 7, 2008:** FHFA places Fannie Mae and Freddie Mac into conservatorship.
+- **September 16, 2008:** The Federal Reserve authorizes up to \$85 billion in lending to AIG under section 13(3).
+- **October 14, 2008:** FDIC announces TLGP guarantees for bank debt and certain deposits.
+- **2010–2011:** Post-crisis inquiry reports and audits debate causes and rescue design.
 
-    timeline
-        title Selected crisis timeline emphasizing expectation-setting state actions
-        2004-06 : SEC adopts alternative net capital / consolidated supervision framework
-        2007-08 : Early subprime stress becomes visible; UK Northern Rock episode unfolds
-        2008-03 : Bear Stearns supported via New York Fed financing to facilitate acquisition
-        2008-09-07 : FHFA places Fannie Mae and Freddie Mac into conservatorship
-        2008-09-16 : Fed authorizes up to $85B lending to AIG under 13(3)
-        2008-10-14 : FDIC announces TLGP to guarantee bank debt and certain deposits
-        2010-2011 : Post-crisis inquiry reports + audits debate causes and rescue design
-
-### Case evidence that directly engages “government encroaching on markets” and expectations
+### Case evidence that directly engages government intervention and expectations
 
 **Bear Stearns: public support to facilitate a private acquisition.** The New York Fed states it would provide term financing to facilitate JPMorgan’s acquisition of Bear Stearns, explicitly as an action taken “with the support of the Treasury Department” to bolster liquidity and promote orderly functioning. This is a paradigmatic expectation-setting act: it signals that certain dealers may receive extraordinary support in stress. [\[34\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
 
@@ -123,7 +119,7 @@ Key dated anchors include: Bear Stearns support (March 2008), GSE conservatorshi
 
 ## Alternative causal narratives emphasizing public policy, regulatory design, and government actions
 
-A good critical report does not replace one monocausal story with another; it presents **plausible competing narratives** and shows what evidence would discriminate among them. The narratives below are designed to be *empirically tractable*.
+A rigorous critique should not replace one monocausal story with another; it should present **plausible competing narratives** and show what evidence would discriminate among them. The following narratives are empirically tractable.
 
 **Moral hazard and “credible bailout expectations” narrative.**  
 Mechanism: repeated or credible discretionary support lowers funding costs for risk-taking institutions and encourages leverage/maturity transformation; when stress arrives, authorities are politically and operationally pressured to validate expectations.  
@@ -149,7 +145,7 @@ Evidence fit:
 Mechanism: low safe yields, global capital inflows, and macro policy contributed to a “search for yield,” interacting with weak underwriting and securitization to create systemic exposure; domestic policy then determines whether that environment yields resilient intermediation or fragile leverage.  
 Evidence fit:  
 - The Fed’s “global saving glut” narrative provides an official macro driver that many inquiries cite or echo, often shifting attention away from domestic institutional incentives. [\[25\]](https://www.federalreserve.gov/boarddocs/speeches/2005/200503102/)  
-A critical report should not discard global narratives; it should test whether they are used as causal explanation or as legitimacy buffer.
+A critical interpretation should not discard global narratives; it should test whether they function as causal explanation, legitimacy buffer, or both.
 
 **Shadow banking run narrative with state entanglement.**  
 Mechanism: repo/ABCP/MMMF-based maturity transformation created bank-run dynamics outside insured deposits; state backstops and guarantees eventually stabilized this system, implying that private credit creation had a public tail risk.  
@@ -160,8 +156,8 @@ Evidence fit:
 
 ## Implications for accountability and future policy
 
-**Accountability depends on whether you treat the crisis as “market failure” or “state-market co-production.”**  
-If official inquiries emphasize market actors’ greed and private mismanagement, the governance response tends to be: more disclosure, better risk management, more consumer protection, and tougher supervision. If you treat the crisis as co-produced by state commitments (implicit and explicit), the policy response must also tackle: (a) credible resolution regimes, (b) commitment devices that make bailouts less expected, and (c) rules that do not subsidize fragility. The U.K. parliamentary culture-and-standards focus is an example of the first style, while U.S. oversight/audit documents on AIG illustrate why crisis-management design is central for the second style. [\[44\]](https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf)
+**Accountability depends on whether the crisis is treated as “market failure” or “state-market co-production.”**  
+If official inquiries emphasize market actors’ greed and private mismanagement, the governance response tends to be more disclosure, better risk management, more consumer protection, and tougher supervision. If the crisis is treated as co-produced by state commitments (implicit and explicit), the policy response must also tackle (a) credible resolution regimes, (b) commitment devices that make bailouts less expected, and (c) rules that do not subsidize fragility. The U.K. parliamentary culture-and-standards focus is an example of the first style, while U.S. oversight/audit documents on AIG illustrate why crisis-management design is central for the second style. [\[44\]](https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf)
 
 **Emergency tools create precedents; precedents become prices.**  
 Bear Stearns, AIG, FDIC guarantees, and GSE conservatorship were not only actions; they were signals. Any official report that does not explicitly model “signal → expectations → ex ante leverage” is leaving out a core mechanism of recurrent crises. The documentary record shows these actions were publicly justified as stability measures—precisely the setting where precedent hardens. [\[45\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
@@ -169,128 +165,28 @@ Bear Stearns, AIG, FDIC guarantees, and GSE conservatorship were not only action
 **Transparency is not the same as accountability.**  
 A notable pattern across watchdog documents is that transparency and disclosure around rescues were contested (e.g., AIG counterparty disclosure debates) and required after-the-fact audits. If an inquiry report narrates rescue as “necessary,” but sidelines how information was managed, it may preserve institutional legitimacy while weakening democratic accountability. [\[46\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf)
 
-### Recommended revisions and investigator questions the official reports should have addressed
+### Recommended revisions and investigator questions
 
-To produce a genuinely critical, evidence-based counter-report, frame revisions as **missing questions** that can be answered with primary sources and datasets:
+A genuinely critical, evidence-based counter-report should frame missing issues as questions answerable with primary sources and datasets:
 
-1\) **Expectation-setting audit:** For each major intervention (Bear, AIG, GSEs, FDIC guarantees), what explicit precedent did it set (pricing, counterparties, eligibility, collateral)? What evidence exists that creditors priced rescue probability before vs. after the intervention? [\[47\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
+1. **Expectation-setting audit:** For each major intervention (Bear, AIG, GSEs, FDIC guarantees), what explicit precedent did it set (pricing, counterparties, eligibility, collateral)? What evidence exists that creditors priced rescue probability before vs. after the intervention? [\[47\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
 
-2\) **Decision-right mapping:** Who had legal authority, and who exercised effective veto power? For AIG, how were key parameters (e.g., paying counterparties effectively at par) decided, and what alternative options were analyzed or rejected? [\[26\]](https://fcic.law.stanford.edu/documents/view/1286)
+2. **Decision-right mapping:** Who had legal authority, and who exercised effective veto power? For AIG, how were key parameters (e.g., paying counterparties effectively at par) decided, and what alternative options were analyzed or rejected? [\[26\]](https://fcic.law.stanford.edu/documents/view/1286)
 
-3\) **Regulatory design counterfactual:** If the SEC had not adopted or implemented its alternative net capital / consolidated supervision framework, what leverage constraints would have bound sooner? What would have been the plausible effect on broker-dealer balance sheet dynamics? [\[29\]](https://www.sec.gov/rule-release/34-49830)
+3. **Regulatory design counterfactual:** If the SEC had not adopted or implemented its alternative net capital / consolidated supervision framework, what leverage constraints would have bound sooner? What would have been the plausible effect on broker-dealer balance sheet dynamics? [\[29\]](https://www.sec.gov/rule-release/34-49830)
 
-4\) **Housing-policy mechanism test (not slogans):** Which specific HUD goal changes, GSE portfolio rules, or implied-guarantee subsidies (as estimated by public agencies) can be linked to measured changes in mortgage composition, securitization patterns, and loss concentration? Present both the “housing-policy primary cause” and “housing-policy not primary cause” hypotheses and design discriminating tests. [\[48\]](https://www.huduser.gov/publications/pdf/gse.pdf)
+4. **Housing-policy mechanism test (not slogans):** Which specific HUD goal changes, GSE portfolio rules, or implied-guarantee subsidies (as estimated by public agencies) can be linked to measured changes in mortgage composition, securitization patterns, and loss concentration? Both the “housing-policy primary cause” and “housing-policy not primary cause” hypotheses should be stated and tested against discriminating evidence. [\[48\]](https://www.huduser.gov/publications/pdf/gse.pdf)
 
-5\) **Distributional analysis of rescues:** Who benefited (by institution, by instrument), and how did the chosen rescue design redistribute value (e.g., par payments, collateral retention)? What was the justification at the time, and how did later watchdog work evaluate it? [\[49\]](https://media.corporate-ir.net/media_files/irol/76/76115/releases/031509.pdf)
+5. **Distributional analysis of rescues:** Who benefited by institution and instrument, and how did the chosen rescue design redistribute value (e.g., par payments, collateral retention)? What was the justification at the time, and how did later watchdog work evaluate it? [\[49\]](https://media.corporate-ir.net/media_files/irol/76/76115/releases/031509.pdf)
 
-6\) **Why no credible resolution regime earlier?** Official narratives often treat “no choice but bailout” as self-evident; a critical report must ask why legal/institutional design left bailout as the dominant feasible path, and which reforms actually change that feasibility constraint. (Even post-crisis, credibility remains an empirical—not rhetorical—question.) [\[50\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf)
+6. **Why no credible resolution regime earlier?** Official narratives often treat “no choice but bailout” as self-evident; a critical inquiry must ask why legal and institutional design left bailout as the dominant feasible path, and which reforms actually change that feasibility constraint. Even post-crisis, credibility remains an empirical rather than rhetorical question. [\[50\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf)
 
-## Conclusion and follow-up research questions for investigators
+## Conclusion and follow-up research questions
 
-The core insight for a systematic critique is that “bias” in official financial-crisis inquiry reports often operates through **scope control and legitimacy maintenance**, not through outright factual denial. The most defensible way to demonstrate that bias is to show that: (a) official reports adopt rhetorical frames that imply limited government agency, (b) primary documents and audits demonstrate discretionary, expectation-setting state actions, and (c) key causal mechanisms (moral hazard, implied guarantees, regulatory design incentives) are reported as secondary even when they are empirically testable and policy-relevant. [\[51\]](https://fcic.law.stanford.edu/report/conclusions)
+The core insight is that “bias” in official financial-crisis inquiry reports often operates through **scope control and legitimacy maintenance**, not through outright factual denial. The most defensible way to demonstrate that bias is to show that: (a) official reports adopt rhetorical frames that imply limited government agency, (b) primary documents and audits demonstrate discretionary, expectation-setting state actions, and (c) key causal mechanisms (moral hazard, implied guarantees, regulatory design incentives) are reported as secondary even when they are empirically testable and policy-relevant. [\[51\]](https://fcic.law.stanford.edu/report/conclusions)
 
-To deepen the critique in a way that would stand up to peer review or investigative scrutiny, the highest-priority follow-up research questions are:
+The highest-priority follow-up research questions are:
 
-- **Quantifying expectation changes:** Can you detect shifts in funding spreads or haircuts tied to specific interventions (e.g., post–Bear Stearns) consistent with a “bailout probability” re-pricing? (This is where market microstructure data and repo haircuts—often absent from inquiry narratives—become crucial.) [\[52\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
-- **Attribution with counterfactual discipline:** For each major policy lever (housing goals, implied guarantees, capital rules, emergency lending), what is the best causal identification strategy available (natural experiments, discontinuities, timing shocks, statutory thresholds)? The Fed’s own work frames the housing-policy hypothesis as testable rather than purely rhetorical, which is the standard a critical report should meet. [\[53\]](https://www.federalreserve.gov/pubs/feds/2011/201136/index.html)
-- **Rescue design governance:** What governance reforms would have changed the AIG/counterparty outcome (authority to impose haircuts, transparency mandates, ex ante resolution planning), and what evidence would show they reduce moral hazard rather than simply shifting it? [\[54\]](https://fcic.law.stanford.edu/documents/view/1286)
-
-If you want, I can convert this into a **publishable report template** (claim extraction worksheet + evidence hierarchy + reproducible citation map) keyed to the specific “official report” you meant once you name it—FCIC 2011 is the default assumption here.
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) [\[5\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) [\[6\]](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf
-
-<https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf>
-
-[\[2\]](https://fcic.law.stanford.edu/report/conclusions) [\[15\]](https://fcic.law.stanford.edu/report/conclusions) [\[16\]](https://fcic.law.stanford.edu/report/conclusions) [\[51\]](https://fcic.law.stanford.edu/report/conclusions) https://fcic.law.stanford.edu/report/conclusions
-
-<https://fcic.law.stanford.edu/report/conclusions>
-
-[\[3\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm) [\[11\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm) [\[19\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm) [\[28\]](https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm) https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm
-
-<https://www.federalreserve.gov/newsevents/pressreleases/other20080916a.htm>
-
-[\[4\]](https://www.sec.gov/rule-release/34-49830) [\[22\]](https://www.sec.gov/rule-release/34-49830) [\[29\]](https://www.sec.gov/rule-release/34-49830) https://www.sec.gov/rule-release/34-49830
-
-<https://www.sec.gov/rule-release/34-49830>
-
-[\[7\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf) [\[24\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf) [\[30\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf) https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf
-
-<https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf>
-
-[\[8\]](https://publications.parliament.uk/pa/cm200708/cmselect/cmtreasy/56/56i.pdf) https://publications.parliament.uk/pa/cm200708/cmselect/cmtreasy/56/56i.pdf
-
-<https://publications.parliament.uk/pa/cm200708/cmselect/cmtreasy/56/56i.pdf>
-
-[\[9\]](https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf) [\[44\]](https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf) https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf
-
-<https://www.parliament.uk/documents/banking-commission/Banking-final-report-volume-i.pdf>
-
-[\[10\]](https://dorie.ec.europa.eu/en/details/-/card/498496) https://dorie.ec.europa.eu/en/details/-/card/498496
-
-<https://dorie.ec.europa.eu/en/details/-/card/498496>
-
-[\[12\]](https://fcic.law.stanford.edu/documents/view/1286) [\[26\]](https://fcic.law.stanford.edu/documents/view/1286) [\[35\]](https://fcic.law.stanford.edu/documents/view/1286) [\[54\]](https://fcic.law.stanford.edu/documents/view/1286) https://fcic.law.stanford.edu/documents/view/1286
-
-<https://fcic.law.stanford.edu/documents/view/1286>
-
-[\[13\]](https://fred.stlouisfed.org/data/CSUSHPINSA) [\[31\]](https://fred.stlouisfed.org/data/CSUSHPINSA) https://fred.stlouisfed.org/data/CSUSHPINSA
-
-<https://fred.stlouisfed.org/data/CSUSHPINSA>
-
-[\[14\]](https://www.cbo.gov/sites/default/files/111th-congress-2009-2010/reports/12-23-fanniefreddie.pdf) [\[40\]](https://www.cbo.gov/sites/default/files/111th-congress-2009-2010/reports/12-23-fanniefreddie.pdf) https://www.cbo.gov/sites/default/files/111th-congress-2009-2010/reports/12-23-fanniefreddie.pdf
-
-<https://www.cbo.gov/sites/default/files/111th-congress-2009-2010/reports/12-23-fanniefreddie.pdf>
-
-[\[17\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf) [\[18\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf) [\[27\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf) [\[46\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf) [\[50\]](https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf) https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf
-
-<https://fraser.stlouisfed.org/files/docs/historical/fct/cop_report_20100610.pdf>
-
-[\[20\]](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr458.pdf) [\[41\]](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr458.pdf) https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr458.pdf
-
-<https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr458.pdf>
-
-[\[21\]](https://centerforfinancialstability.org/forum/turner_systemically_important_banks_200910.pdf) https://centerforfinancialstability.org/forum/turner_systemically_important_banks_200910.pdf
-
-<https://centerforfinancialstability.org/forum/turner_systemically_important_banks_200910.pdf>
-
-[\[23\]](https://www.sec.gov/about/oig/audit/2008/446-a.pdf) https://www.sec.gov/about/oig/audit/2008/446-a.pdf
-
-<https://www.sec.gov/about/oig/audit/2008/446-a.pdf>
-
-[\[25\]](https://www.federalreserve.gov/boarddocs/speeches/2005/200503102/) https://www.federalreserve.gov/boarddocs/speeches/2005/200503102/
-
-<https://www.federalreserve.gov/boarddocs/speeches/2005/200503102/>
-
-[\[32\]](https://fred.stlouisfed.org/data/TDSP) https://fred.stlouisfed.org/data/TDSP
-
-<https://fred.stlouisfed.org/data/TDSP>
-
-[\[33\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324) [\[34\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324) [\[38\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324) [\[45\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324) [\[47\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324) [\[52\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324) https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324
-
-<https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324>
-
-[\[36\]](https://www.fhfa.gov/news/fact-sheet/conservatorship-of-fannie-mae-and-freddie-mac) https://www.fhfa.gov/news/fact-sheet/conservatorship-of-fannie-mae-and-freddie-mac
-
-<https://www.fhfa.gov/news/fact-sheet/conservatorship-of-fannie-mae-and-freddie-mac>
-
-[\[37\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2008-10-14%20FDIC%20plan%20to%20free%20up%20liquidity.pdf) [\[43\]](https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2008-10-14%20FDIC%20plan%20to%20free%20up%20liquidity.pdf) https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2008-10-14%20FDIC%20plan%20to%20free%20up%20liquidity.pdf
-
-<https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2008-10-14%20FDIC%20plan%20to%20free%20up%20liquidity.pdf>
-
-[\[39\]](https://www.huduser.gov/publications/pdf/gse.pdf) [\[48\]](https://www.huduser.gov/publications/pdf/gse.pdf) https://www.huduser.gov/publications/pdf/gse.pdf
-
-<https://www.huduser.gov/publications/pdf/gse.pdf>
-
-[\[42\]](https://www.nber.org/system/files/working_papers/w15223/w15223.pdf) https://www.nber.org/system/files/working_papers/w15223/w15223.pdf
-
-<https://www.nber.org/system/files/working_papers/w15223/w15223.pdf>
-
-[\[49\]](https://media.corporate-ir.net/media_files/irol/76/76115/releases/031509.pdf) https://media.corporate-ir.net/media_files/irol/76/76115/releases/031509.pdf
-
-<https://media.corporate-ir.net/media_files/irol/76/76115/releases/031509.pdf>
-
-[\[53\]](https://www.federalreserve.gov/pubs/feds/2011/201136/index.html) https://www.federalreserve.gov/pubs/feds/2011/201136/index.html
-
-<https://www.federalreserve.gov/pubs/feds/2011/201136/index.html>
+- **Quantifying expectation changes:** Can shifts in funding spreads or haircuts tied to specific interventions, such as post–Bear Stearns support, be detected that are consistent with a re-pricing of bailout probability? Market microstructure data and repo haircuts—often absent from inquiry narratives—are especially relevant. [\[52\]](https://www.newyorkfed.org/newsevents/news/markets/2008/rp080324)
+- **Attribution with counterfactual discipline:** For each major policy lever (housing goals, implied guarantees, capital rules, emergency lending), what is the best causal identification strategy available (natural experiments, discontinuities, timing shocks, statutory thresholds)? The Fed’s own work frames the housing-policy hypothesis as testable rather than purely rhetorical, which is the standard a critical inquiry should meet. [\[53\]](https://www.federalreserve.gov/pubs/feds/2011/201136/index.html)
+- **Rescue design governance:** What governance reforms would have changed the AIG/counterparty outcome (authority to impose haircuts, transparency mandates, ex ante resolution planning), and what evidence would show that they reduce moral hazard rather than simply shifting it? [\[54\]](https://fcic.law.stanford.edu/documents/view/1286)
