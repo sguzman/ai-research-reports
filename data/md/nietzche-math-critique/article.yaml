@@ -1,5 +1,8 @@
 ---
-abstract: Dead Symbols and their Worship
+abstract: >-
+  A deliberately Nietzschean polemic against prestige culture in modern mathematics,
+  contrasting the worship of difficulty and open problems with an ethic of conquest,
+  synthesis, completed understanding, and intellectual strength.
 aliases: []
 author:
 - Salvador Guzman
@@ -21,9 +24,10 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-04-20'
-description: Dead Symbols and their Worship
+description: A stylized philosophical critique of prestige, difficulty, and status culture in modern mathematics.
 draft: false
 edition: '1'
+editorial_profile: stylized
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -36,12 +40,15 @@ highlight-style: tango
 identifier: urn:marginalia:nietzche-math-critique
 isCJKLanguage: false
 keywords:
-- Dead Symbols and their Worship
+- mathematical culture
+- prestige
+- open problems
+- Nietzschean critique
 - Philosophy
 - Theory
 lang: en
 language: English
-lastmod: '2026-04-20'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: B
@@ -69,14 +76,14 @@ report:
   emphasis: ''
   focus: ''
   id: urn:marginalia:nietzche-math-critique
-  intent: ''
-  is_report: true
-  kind: research report
+  intent: philosophical critique
+  is_report: false
+  kind: essay
   level: ''
   method: ''
   methods: []
   name: Dead Symbols and their Worship
-  notes: ''
+  notes: Legacy report numbering retained for stable archival identity; the work is editorially classified as a stylized essay.
   number: 091
   organization: Marginalia
   period: ''
@@ -88,15 +95,15 @@ report:
   scope: ''
   scope_years: ''
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: polemical
+  structure: essay
   subdiscipline: social and political philosophy
-  subject: ''
+  subject: mathematical culture and prestige
   time_scope: ''
   time_span: ''
-  topic: Dead Symbols and their Worship
-  type: report
-  version: 1.0.0
+  topic: Mathematical prestige culture
+  type: essay
+  version: 1.0.1
   year: 2026
 report-no: 091
 report-number: 091
@@ -105,7 +112,7 @@ report_no: 91
 report_number: 91
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 91
@@ -117,7 +124,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: nietzche-math-critique
-status: complete
+status: published
 subject:
 - Philosophy
 - Theory
@@ -125,17 +132,22 @@ subjects:
 - Philosophy
 - Theory
 subtitle: ''
-summary: Dead Symbols and their Worship
+summary: >-
+  An intentionally severe, aphoristic essay arguing that parts of mathematical culture
+  confuse abstraction, difficulty, and proximity to unsolved problems with intellectual
+  strength, while undervaluing synthesis, closure, pedagogy, and completed mastery.
 tags:
 - nietzche-math-critique
 - philosophy
 - theory
+- stylized-essay
 title: Dead Symbols and their Worship
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: report
+type: essay
 url: ''
+voice: nietzschean
 weight: 0
 ...

@@ -1,5 +1,9 @@
 ---
-abstract: Critical Review of Major Official Financial-Crisis Inquiry Reports
+abstract: >-
+  A critical comparison of major official inquiries into the 2007–2009 financial crisis,
+  with emphasis on how institutional reports allocate responsibility, frame regulatory failure,
+  describe emergency interventions, and handle competing explanations involving moral hazard,
+  housing policy, financial regulation, and crisis-management design.
 aliases: []
 author:
 - Salvador Guzman
@@ -21,9 +25,10 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-03-21'
-description: Critical Review of Major Official Financial-Crisis Inquiry Reports
-draft: false
+description: A critical review of official financial-crisis inquiries and the institutional framing of responsibility, regulation, and emergency intervention.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -36,13 +41,17 @@ highlight-style: tango
 identifier: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
 isCJKLanguage: false
 keywords:
-- Critical Review of Major Official Financial-Crisis Inquiry Reports
+- financial crisis
+- FCIC
+- official inquiries
+- financial regulation
+- moral hazard
+- crisis intervention
 - Public Finance
 - Economics
-- Public finance
 lang: en
 language: English
-lastmod: '2026-03-21'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: HJ
@@ -67,37 +76,37 @@ report:
     tool: pandoc 3.6
   discipline: economics
   domain: public finance
-  emphasis: ''
-  focus: ''
+  emphasis: institutional framing and accountability
+  focus: official crisis inquiries, regulatory design, moral hazard, and emergency interventions
   id: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
-  intent: ''
+  intent: critical institutional review
   is_report: true
   kind: research report
   level: ''
-  method: ''
+  method: comparative reading of official reports and primary institutional sources
   methods: []
   name: Critical Review of Major Official Financial-Crisis Inquiry Reports
-  notes: ''
+  notes: Returned to editorial review during the 2026-08-19 pilot. Earlier cleanup removed some prompt-conditioned framing, but the body still contains academic-profile violations including document self-reference and direct second-person references to the generating conversation.
   number: 069
   organization: Marginalia
-  period: ''
-  period_covered: ''
+  period: 2007-2009 financial crisis and post-crisis inquiries
+  period_covered: 2007-2011
   population_focus: ''
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: United States and United Kingdom
+  region_focus: United States and United Kingdom
+  scope: major official financial-crisis inquiries and selected primary-source counterevidence
+  scope_years: '2007-2011'
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: critical and evidence-oriented
+  structure: comparative critical review
   subdiscipline: public finance
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  subject: official explanations of the financial crisis
+  time_scope: crisis and immediate post-crisis inquiry period
+  time_span: 2007-2011
+  topic: Official financial-crisis inquiry reports
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 069
 report-number: 069
@@ -106,7 +115,7 @@ report_no: 69
 report_number: 69
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 69
@@ -118,7 +127,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-status: complete
+status: review
 subject:
 - Public finance
 - Fiscal policy
@@ -126,7 +135,10 @@ subjects:
 - Public finance
 - Fiscal policy
 subtitle: ''
-summary: Critical Review of Major Official Financial-Crisis Inquiry Reports
+summary: >-
+  Reviews how major U.S. and U.K. official inquiries explain the financial crisis and tests
+  their institutional framing against primary documents, oversight reports, and alternative
+  accounts of regulation, housing policy, moral hazard, and rescue design.
 tags:
 - critical-review-of-major-official-financial-crisis-inquiry-reports
 - public-finance
@@ -138,5 +150,6 @@ toc-title: ''
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
