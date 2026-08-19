@@ -27,10 +27,10 @@ creator:
 - Salvador Guzman
 dataset_id: judges-in-the-judicial-process-of-the-united-states
 date: '2026-05-03'
-description: A structured guide to U.S. judges and judicial offices across federal and state systems,
-  including tenure, appointment, elections, powers, and pay.
+description: Archived duplicate package of the canonical U.S. judicial-process report retained for migration history.
 draft: true
 edition: '1.0'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -55,7 +55,7 @@ keywords:
 - administrative law judges
 lang: en
 language: English
-lastmod: '2026-05-03'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: KF
@@ -76,21 +76,21 @@ report:
   collection: ''
   conversion:
     date: '2026-05-03'
-    source_docx: Judges in the Judicial Process of the entity[_country_,_United States_,_north america_].docx
+    source_docx: Judges in the Judicial Process of the United States.docx
     tool: pandoc 3.6
   discipline: law
   domain: law
   emphasis: ''
   focus: ''
   id: urn:marginalia:judges-in-the-judicial-process-of-the-united-states
-  intent: ''
+  intent: migration-history duplicate
   is_report: true
-  kind: institutional overview
+  kind: archived duplicate
   level: ''
   method: ''
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: ''
+  notes: Exact-body duplicate of `american-judicial-process` (report 095) at the inherited corpus snapshot. Retained as an archived migration artifact rather than deleted.
   number: 096
   organization: Marginalia
   period: ''
@@ -102,15 +102,15 @@ report:
   scope: federal + representative state systems + powers + selection + compensation
   scope_years: ''
   series: american-law-guides
-  stance: ''
-  structure: ''
+  stance: neutral
+  structure: institutional overview
   subdiscipline: united states law
-  subject: ''
+  subject: judges and judicial administration
   time_scope: ''
   time_span: ''
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 096
 report-number: 096
@@ -119,7 +119,7 @@ report_no: 96
 report_number: 96
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: american-law-guides
 series-number: 96
@@ -131,7 +131,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: judges-in-the-judicial-process-of-the-united-states
-status: draft
+status: archived
 subject:
 - Judges
 - United States courts
@@ -143,8 +143,7 @@ subjects:
 - Judicial powers
 - Judicial compensation
 subtitle: ''
-summary: A structured guide to U.S. judges and judicial offices across federal and state systems, including
-  tenure, appointment, elections, powers, and pay.
+summary: Archived duplicate of report 095; retained only to preserve migration history and stable identifiers.
 tags:
 - judges
 - courts
@@ -152,6 +151,7 @@ tags:
 - article-iii
 - judicial-selection
 - judicial-administration
+- archived-duplicate
 title: Judges in the Judicial Process of the United States
 toc: true
 toc-depth: 3
@@ -159,5 +159,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
