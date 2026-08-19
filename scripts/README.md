@@ -14,6 +14,8 @@ python scripts/editorial_lint.py --json
 python scripts/editorial_lint.py --strict
 ```
 
+Pull requests that change files beneath `data/md/<slug>/` are also checked by `.github/workflows/editorial-lint.yml`. The workflow identifies the changed article packages and runs the read-only linter on each one. It is intentionally not a rewriting, metadata-normalizing, or publication workflow.
+
 Spelling, grammar, factual review, quotation judgment, intentional voice, duplicate resolution, and live external-link verification remain editorial responsibilities rather than blind rewrites.
 
 ## Legacy tooling

@@ -1,0 +1,46 @@
+name: Editorial lint
+
+on:
+  pull_request:
+    paths:
+      - 'data/md/**'
+      - 'scripts/editorial_lint.py'
+      - '.github/workflows/editorial-lint.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  changed-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependency
+        run: python -m pip install PyYAML
+
+      - name: Lint changed article packages
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}" -- data/md \
+            | awk -F/ '$1 == "data" && $2 == "md" && NF >= 4 {print $3}' \
+            | sort -u > changed-slugs.txt
+
+          if [[ ! -s changed-slugs.txt ]]; then
+            echo "No canonical article packages changed."
+            exit 0
+          fi
+
+          while IFS= read -r slug; do
+            echo "== $slug =="
+            python scripts/editorial_lint.py --slug "$slug"
+          done < changed-slugs.txt
