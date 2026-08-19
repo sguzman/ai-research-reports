@@ -1,6 +1,6 @@
 # Editorial workflow
 
-This repository is the canonical source for AI-assisted research articles. The blog repository (`sguzman/marginalia`) is a publication target, not a second editorial source of truth.
+This repository is the canonical source for AI-assisted research articles and other long-form written artifacts. The blog repository (`sguzman/marginalia`) is a publication target, not a second editorial source of truth.
 
 ## Canonical article package
 
@@ -10,28 +10,33 @@ Each article lives at:
 data/md/<slug>/
   main.md
   article.yaml
-  assets/          # optional
+  CHANGELOG.md      # created/maintained once the article has editorial history
+  assets/           # optional; canonical location for local support files
 ```
 
-`main.md` contains the article body. `article.yaml` owns identity, descriptive metadata, lifecycle state, and publication intent. Generated blog frontmatter must never be copied back into this repository.
+`main.md` contains the body. `article.yaml` owns identity, descriptive metadata, editorial classification, lifecycle state, and publication intent. `CHANGELOG.md` records canonical editorial changes. Generated blog frontmatter must never be copied back into this repository.
+
+Legacy packages may still contain root-level covers or `media/` trees. Those are migration debt. New ingestion and normalization place article-local dependencies under `assets/`.
 
 ## Operating model
 
 Article intake is deliberately operator-driven.
 
-1. Generate or collect a candidate article outside the repository.
+1. Generate or collect a candidate artifact outside the repository.
 2. Convert DOCX/PDF to Markdown explicitly when needed.
-3. Run an editorial review of the text before trusting generated metadata.
-4. Enforce `ACADEMIC_STYLE.md` for ordinary nonfiction/report material.
-5. Verify external links and externally hosted images that matter to the article at review time.
-6. Create or update the canonical package in this repository.
-7. Run `scripts/article_lint.py --strict`.
-8. Resolve errors and warnings, distinguishing legitimate quotations/creative exceptions from narration defects.
-9. Record corrections through the repository's established changelog/revision mechanism when that mechanism is present.
-10. Move lifecycle state forward only after editorial approval.
-11. Publish the approved canonical package into Marginalia as a one-way projection.
+3. Inspect the text before trusting generated metadata.
+4. Classify the artifact's **form** (`type`), **editorial profile** (`editorial_profile`), and intentional **voice** (`voice`) under `EDITORIAL_STANDARD.md`.
+5. Apply universal integrity rules and the selected profile-specific prose rules.
+6. Verify external links and externally hosted images that matter to the article at review time.
+7. Normalize local support files beneath `assets/` and repair image/file/diagram references.
+8. Create or update the canonical package.
+9. Run read-only mechanical validation.
+10. Resolve findings editorially; a linter finding is evidence for inspection, not permission to destroy intentional voice.
+11. Record changes in the article's `CHANGELOG.md` using the established timestamp/summary table convention.
+12. Move lifecycle state forward only after editorial approval.
+13. Publish the approved canonical package into Marginalia as a one-way projection.
 
-No GitHub workflow should convert source documents, rewrite article metadata, or commit generated changes back into this repository. CI may validate; it must not edit.
+No GitHub workflow should convert source documents, rewrite article prose or metadata, infer an editorial profile, or commit generated changes back into this repository. CI may validate; it must not edit.
 
 ## Lifecycle
 
@@ -46,57 +51,95 @@ draft -> review -> ready -> published
 Rules:
 
 - `draft`: incomplete or newly imported. `draft: true`.
-- `review`: being fact-checked or edited. `draft: true`.
+- `review`: being fact-checked, classified, or edited. `draft: true`.
 - `ready`: editorially approved and eligible for publication. `draft: false`.
 - `published`: confirmed present in the publication target. `draft: false`.
 - `archived`: retained but not eligible for normal publication.
-- `complete`: accepted only as a legacy status; migrate it to `published` when an article is next touched.
+- `complete`: accepted only as a legacy status; migrate it to `published` when an article is next substantively touched and its publication state is confirmed.
 
 `ready` is the publication gate. The existence of a folder, DOCX file, Markdown file, or Hugo post is never publication intent.
 
-For ordinary academic material, `ready` also means the article has been checked for spelling and grammar, first/second-person narration, self-reference, prompt/assistant residue, assignment-stage hypothesis language, missing local assets, malformed or presently broken links, and broken diagrams. Creative work may intentionally differ, but that exception should be explicit in its classification rather than accidental.
+`ready` means both the universal rules and the declared editorial profile have been satisfied. A `stylized` essay is not required to sound academic; an `academic` report is.
 
-## Metadata profiles
+## Three independent metadata dimensions
 
-The same canonical schema can support differently sized pieces without forcing a short article to imitate a monograph.
+### `type`: what the artifact is
 
-### `note`
+Examples include:
 
-Use for short, focused pieces. The editorially important fields are title, description, date, authorship, classification, lifecycle, and stable identity.
+- `note`
+- `research-brief`
+- `report`
+- `essay`
+- `reference`
+- `dialogue`
+- `fiction`
 
-### `research-brief`
+Size does not by itself determine style. A short note may be academic; a long essay may be stylized.
 
-Use for shorter research articles that make an evidence-backed argument. Add a meaningful summary or abstract, useful discovery metadata, and enough methodological or scope information to understand what the piece is claiming.
+### `editorial_profile`: what prose rules apply
 
-### `report`
+Allowed initial profiles:
 
-Use for substantial reports. Populate the full report, series, and export metadata where it is actually meaningful.
+- `academic`
+- `argumentative`
+- `stylized`
+- `personal`
+- `creative`
 
-Blank compatibility fields may remain present in `article.yaml`; they should not be filled with invented detail merely to satisfy a schema.
+See `EDITORIAL_STANDARD.md` for the contract of each profile.
+
+Legacy articles without this field are **unclassified**, not implicitly academic. The census may propose candidates, but classification becomes canonical only through editorial review.
+
+### `voice`: what intentional voice should be preserved
+
+Examples include `neutral`, `polemical`, `nietzschean`, and `literary`. Blank is valid when no special voice needs to be recorded.
+
+`voice` is descriptive. It never excuses prompt leakage, broken citations, missing files, or other accidental defects.
+
+## Metadata depth by form
+
+The canonical schema can support differently sized pieces without forcing a short article to imitate a monograph.
+
+- `note`: core identity, description, date, authorship, classification, lifecycle, and stable identity.
+- `research-brief`: add a meaningful summary/abstract, useful discovery metadata, and enough method/scope information to understand the claim.
+- `report`: populate report, series, methods, scope, and export metadata where genuinely meaningful.
+- `essay`/creative forms: do not fabricate report metadata merely because legacy tooling expected every artifact to be a report.
+
+Blank compatibility fields may remain present; do not invent values merely to satisfy an old schema.
+
+## Changelog convention
+
+The repository already contains per-article changelogs. Preserve that convention:
+
+```markdown
+# Changelog
+
+| Timestamp | Summary |
+| --- | --- |
+| YYYY-MM-DD HH:MM:SS TZ | Concise description of the editorial change. |
+```
+
+Keep newest entries first. New articles do not need fictional history, but once an established canonical package is corrected, reclassified, fact-repaired, or structurally migrated, the change should be recorded.
 
 ## Editorial validation
 
-`scripts/article_lint.py` is read-only. It never rewrites the corpus.
+`scripts/article_lint.py` is read-only and never rewrites the corpus. The profile system in `EDITORIAL_STANDARD.md` is authoritative: perspective findings must be interpreted according to `editorial_profile` rather than blindly applied to every artifact.
 
-```bash
-python scripts/article_lint.py --slug example-article
-python scripts/article_lint.py --json
-python scripts/article_lint.py --strict
-```
+Mechanical checks are appropriate for lifecycle contradictions, URL-contaminated titles, prompt/assistant residue, raw citation markers, malformed links, local dependency integrity, H1 structure, unmatched code fences, and diagram/source hazards. Spelling/grammar, quotation judgment, factual review, intentional voice, and live external-link health require editorial judgment.
 
-The linter intentionally checks for problems that schema validation misses: lifecycle contradictions, URL-contaminated titles, prompt or assistant residue, raw ChatGPT citation markers, malformed links, first/second-person narration, self-reference, hypothesis-testing meta-language, local links/images whose targets do not exist inside the article package, paths that escape the package, multiple H1s, unmatched code fences, and suspicious Mermaid rendering.
-
-Some checks remain editorial rather than mechanical. In particular, spelling/grammar and current health of remote HTTP links are verified during review because blind automation is too error-prone for academic vocabulary, proper nouns, quotations, and transient network failures.
+The baseline state of the inherited corpus is documented in `CORPUS_AUDIT.md`. That file is an inventory, not a license for automatic rewriting.
 
 ## Publication boundary
 
 Marginalia may read canonical packages and derive Hugo posts. A publisher must:
 
 - never modify this repository;
-- never change `draft` or `status`;
+- never change `draft`, `status`, `editorial_profile`, or `voice`;
 - publish only explicitly eligible states (`ready` or `published`);
 - preserve personal and non-generated Marginalia posts;
+- reproduce canonical local assets;
 - be idempotent;
-- fail closed when source metadata is malformed.
+- fail closed when source metadata or dependencies are malformed.
 
-The publication target may keep a generated manifest for observability, but that manifest is never authoritative over `article.yaml`.
+The publication target may keep generated observability data, but it is never authoritative over the canonical package.
