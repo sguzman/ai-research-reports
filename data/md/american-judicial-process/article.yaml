@@ -91,11 +91,11 @@ report:
   method: synthesis of constitutional, statutory, judicial-administration, and representative state sources
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: Canonical report-095 copy; the later report-096 exact-body duplicate remains archived. Prompt residue, citation-contaminated H1, raw diagram source, document self-reference, and the redundant conversion-generated reference export were repaired on 2026-08-19. The article remains draft because current 2026 compensation figures and multiple citation-to-claim pairings require legal/current-source verification before review or publication.
+  notes: Canonical report-095 copy; the later report-096 exact-body duplicate remains archived. Mechanical conversion defects were repaired earlier on 2026-08-19. A subsequent official-source audit replaced the brittle generated citation lattice with direct U.S. Courts, Senate Judiciary, Constitution Annotated, U.S. Code, OPM, and state-court sources; verified current 2026 federal compensation; removed stale Florida and Virginia salary examples; and removed the unverified homemade 51-jurisdiction selection count. The article is now in review rather than draft, but is not publication-ready until final legal editorial review and link maintenance are complete.
   number: 095
   organization: Marginalia
-  period: current institutional structure with 2025-2026 compensation examples
-  period_covered: current law and representative recent compensation data
+  period: current institutional structure with verified 2026 compensation examples
+  period_covered: current law and selected 2026 compensation data
   population_focus: federal and state judges and judicial officers
   primary_texts: []
   region: United States
@@ -104,14 +104,14 @@ report:
   scope_years: current through 2026
   series: american-law-guides
   stance: neutral
-  structure: executive summary, institutional structure, judge types, selection pathways, tenure and compensation, judicial powers, accountability, and limitations
+  structure: executive summary, federal structure, appointment and career structure, representative state selection systems, tenure and compensation, judicial powers, accountability, and limitations
   subdiscipline: united states law
   subject: judges and judicial administration
   time_scope: current institutional reference
   time_span: through 2026
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.2
+  version: 1.0.3
   year: 2026
 report-no: 095
 report-number: 095
@@ -120,7 +120,7 @@ report_no: 95
 report_number: 95
 report_year: 2026
 resources: []
-revision: 1.0.2
+revision: 1.0.3
 rights: CC0-1.0
 series: american-law-guides
 series-number: 95
@@ -132,7 +132,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: american-judicial-process
-status: draft
+status: review
 subject:
 - Judges
 - United States courts
