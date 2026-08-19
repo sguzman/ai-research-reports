@@ -29,6 +29,7 @@ description: A comparative inquiry into whether displaced nobles and demoted her
   influence on major historical transitions.
 draft: true
 edition: '1.0'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -51,7 +52,7 @@ keywords:
 - White emigres
 lang: en
 language: English
-lastmod: '2026-05-04'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: D13
@@ -90,7 +91,7 @@ report:
   - case study synthesis
   - counterfactual reasoning
   name: Fallen Aristocracy
-  notes: ''
+  notes: Classified as an academic report with neutral voice. The body remains draft because heading hierarchy and first-person methodology language still require editorial cleanup before publication review.
   number: 099
   organization: Marginalia
   period: 1453-20th century
@@ -110,7 +111,7 @@ report:
   time_span: 1453-20th century
   topic: Fallen Aristocracy
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 099
 report-number: 099
@@ -119,7 +120,7 @@ report_no: 99
 report_number: 99
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: comparative-historical-studies
 series-number: 99
@@ -158,5 +159,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
