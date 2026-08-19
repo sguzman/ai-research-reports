@@ -1,11 +1,11 @@
 ---
 abstract: A structured overview of gender-affirming hormone therapy (GAHT) for people assigned male at
-  birth (AMAB), focusing on physiologic effects, risk tradeoffs, and how outcomes differ by age of initiation
-  (including puberty suppression with GnRHa). Summarizes expected changes in body composition, breast
-  development, skin/hair, fertility and sexual function, bone density considerations, cardiovascular and
-  thromboembolic risks by estrogen route, and psychosocial outcomes, while emphasizing evidence limitations
-  and open research gaps.
-aliases: []
+  birth (AMAB), focusing on physiologic effects, risk tradeoffs, and how outcomes differ by age of initiation,
+  including discussion of puberty suppression with GnRH analogues. The inherited report covers body composition,
+  breast development, skin and hair, fertility and sexual function, bone density, cardiovascular and
+  thromboembolic risk, psychosocial outcomes, monitoring, and evidence gaps.
+aliases:
+- gender-and-gaht
 author:
 - Salvador Guzman
 - ChatGPT
@@ -28,11 +28,12 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-02-12'
-description: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected
-  physiologic changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key
-  knowledge gaps.'
-draft: false
+description: An inherited evidence-oriented GAHT overview covering feminizing hormone therapy, timing,
+  physiologic effects, risks, monitoring themes, fertility, psychosocial outcomes, and evidence gaps. The
+  medical and regulatory claims require current primary-source review before publication.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: cover.png
 epub-stylesheet: epub.css
@@ -70,7 +71,7 @@ keywords:
 - Endocrine Society
 lang: en
 language: English
-lastmod: '2026-02-12'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: RA
@@ -95,17 +96,17 @@ report:
     tool: ''
   discipline: public health
   domain: health
-  emphasis: ''
-  focus: ''
+  emphasis: feminizing GAHT effects, risks, timing, monitoring, and evidence limitations
+  focus: inherited clinical and policy claims requiring current evidence review
   id: gva-gender-and-gaht-2026-02-12
-  intent: ''
+  intent: evidence-oriented health overview
   is_report: true
   kind: health overview
   level: ''
-  method: ''
+  method: literature and guideline synthesis
   methods: []
   name: Gender and GAHT
-  notes: ''
+  notes: The canonical package folder is `gaht`; the inherited metadata slug `gender-and-gaht` was moved to aliases on 2026-08-19 to restore package identity. The article is classified as academic with neutral voice and moved from legacy complete to review. Because it contains high-stakes clinical claims, adolescent-treatment material, dosing/monitoring content, and time-sensitive policy or guideline references, no medical claim was substantively rewritten in this classification pass. A current primary medical and regulatory audit is required before any publication decision. The root-level cover file is also legacy asset-layout debt.
   number: '024'
   organization: Marginalia
   period: ''
@@ -116,21 +117,23 @@ report:
   region_focus: ''
   scope:
   - physiologic effects
-  - age of initiation (early vs late)
+  - age of initiation
   - risks and benefits
   - monitoring themes
+  - fertility
+  - psychosocial outcomes
   - evidence gaps
   scope_years: ''
   series: health-reports
-  stance: non-prescriptive summary
-  structure: ''
+  stance: non-prescriptive analytical summary
+  structure: executive summary plus clinical effect, risk, timing, monitoring, and evidence sections
   subdiscipline: health policy and epidemiology
-  subject: ''
-  time_scope: ''
+  subject: gender-affirming hormone therapy
+  time_scope: current clinical evidence subject to re-verification
   time_span: ''
   topic: Gender and GAHT
   type: report
-  version: r1
+  version: r2
   year: 2026
 report-no: '024'
 report-number: '024'
@@ -139,7 +142,7 @@ report_no: 24
 report_number: 24
 report_year: 2026
 resources: []
-revision: r1
+revision: r2
 rights: CC0-1.0
 series: health-reports
 series-number: 24
@@ -150,8 +153,8 @@ sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: gender-and-gaht
-status: complete
+slug: gaht
+status: review
 subject:
 - Gender-affirming care
 - Hormone therapy
@@ -162,15 +165,14 @@ subjects:
 - Gender-affirming hormone therapy
 - Estrogen therapy
 - Androgen suppression
-- Puberty suppression (GnRHa)
+- Puberty suppression
 - Bone health and BMD
 - Cardiovascular and thromboembolic risk
 - Fertility preservation
 - Mental health and quality of life
 subtitle: Physiological Effects, Risks, and Timing
-summary: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected physiologic
-  changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key knowledge
-  gaps.'
+summary: An inherited evidence-oriented overview of feminizing GAHT effects, risks, timing, monitoring,
+  fertility, psychosocial outcomes, and evidence gaps that requires current medical and regulatory review.
 tags:
 - gaht
 - gender
@@ -188,8 +190,8 @@ title: Gender and GAHT
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...

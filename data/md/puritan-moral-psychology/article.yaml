@@ -25,10 +25,10 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-06-01'
-description: An analysis formalizing the genealogical and institutional connection between modern American
-  progressivism and Puritan moral psychology.
-draft: false
+description: An analysis formalizing and testing a genealogical and institutional connection between modern American progressivism and Puritan moral psychology.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -54,7 +54,7 @@ keywords:
 - Civil Religion
 lang: en
 language: English
-lastmod: '2026-06-01'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: JA
@@ -78,38 +78,38 @@ report:
     source_docx: ''
     tool: ''
   discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
+  domain: political and intellectual history
+  emphasis: genealogy, institutional continuity, and moral-political repertoires
+  focus: whether elements of Puritan moral psychology persist in secularized forms within American progressivism
   id: urn:marginalia:puritan-moral-psychology
-  intent: ''
+  intent: evaluate a genealogical thesis through historical and institutional comparison
   is_report: true
   kind: research report
   level: ''
-  method: ''
+  method: historical-genealogical synthesis with explicit counterarguments and boundary conditions
   methods: []
   name: Puritan Moral Psychology and the Genealogy of American Progressivism
-  notes: ''
+  notes: Classified as an academic report with neutral voice on 2026-08-19. Earlier prompt-oriented framing had already been removed. The legacy complete state was returned to review pending full source-quality, citation, and current-link verification before publication.
   number: '106'
   organization: Marginalia
-  period: ''
-  period_covered: ''
+  period: colonial New England through contemporary United States politics
+  period_covered: seventeenth century-present
   population_focus: ''
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: United States
+  region_focus: New England and the wider United States
+  scope: Puritan moral theology, civic institutions, reform traditions, secularization, progressive moral rhetoric, discontinuities, and alternative genealogies
+  scope_years: seventeenth century-present
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: executive summary, thesis and definitions, historical genealogy, mechanisms, counterarguments, and assessment
   subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  subject: Puritan moral psychology and American progressive political culture
+  time_scope: long-run intellectual and institutional history
+  time_span: seventeenth century-present
   topic: Puritan Moral Psychology and the Genealogy of American Progressivism
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '106'
 report-number: '106'
@@ -118,7 +118,7 @@ report_no: 106
 report_number: 106
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 106
@@ -130,7 +130,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: puritan-moral-psychology
-status: complete
+status: review
 subject:
 - Politics
 - History
@@ -138,8 +138,7 @@ subjects:
 - Politics
 - History
 subtitle: ''
-summary: This report argues that American progressivism is best understood as a partly secularized continuation
-  of a moral-political repertoire established by Puritan New England.
+summary: This report evaluates the thesis that American progressivism partly secularizes a moral-political repertoire associated with Puritan New England, while testing discontinuities and rival explanations.
 tags:
 - puritan-moral-psychology
 - politics
@@ -155,5 +154,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
