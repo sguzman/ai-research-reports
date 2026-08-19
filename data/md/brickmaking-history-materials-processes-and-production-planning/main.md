@@ -7,8 +7,8 @@
 - **Formulations & testing:** Body recipes vary (100% clay to clay+shale+grog or sand). Lab tests measure workability (moisture, plasticity) and fired properties: compressive strength, water absorption, modulus, etc. Most structural clay bricks far exceed minimum standards[\[3\]](https://www.gobrick.com/media/file/3a-brick-masonry-material-properties.pdf#:~:text=evaluated%20in%20these%20surveys%20are,1%20Extruded%20only) (typical fired facing bricks average ~100 MPa[\[4\]](https://masonrymagazine.com/Default?pageID=1646#:~:text=One%20of%20the%20requirements%20for,size%20brick%20without%20it%20crushing) vs. ASTM minimum ~17 MPa). Compression (ASTM C109/C67), water absorption, and durability tests guide optimization.
 - **Forming methods:** Three main forming methods are used: **stiff-mud extrusion** (clay ~12–18% water, vacuum-deaired and wire-cut to shape)[\[5\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=A%20typical%20stiff%20mud%20extrusion,which%20is%20then%20continuously%20augered); **soft-mud molding** (20–30% water, pressed in sand or steel molds)[\[6\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=The%20soft%20mud%20process%20is,28%20megapascals); and **dry-pressing** (4–6% moisture, high-pressure pressing in dies). Stiff-mud extrusion dominates modern brickmaking (≈80–90% in industrial plants)[\[5\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=A%20typical%20stiff%20mud%20extrusion,which%20is%20then%20continuously%20augered) because it provides homogeneous plastic flow and easy automation.
 - **Equipment:** Bench-scale production uses small vacuum pugmills (e.g. Peter Pugger), hand- or foot-presses, and small drying ovens. Industrial lines use continuous pugmills/extruders (capacity tons/hour), high-capacity vacuum systems, wire cutters, hydraulic presses, tunnel kilns, and automated conveyors. For example, a startup shaping line (grinder + pugmill + extruder) costing ~\$1.35 M can produce ~50,000 bricks/day[\[7\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=This%20%241%2C350%2C000%20covers%20the%20two,installation%20estimates%20are%20critical%20here), paired with a tunnel kiln (~\$2.5 M) for that scale[\[8\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=Capacity%20Link). Table 1 (below) compares small, medium, and large operation scales.
-- **Process flow & control:** Raw clay is quarried, crushed/granulated, then mixed with water (and grog/sand as needed) in pugmills. The blend is tempered (rested) to homogenize. Forming (extrude/press), then drying (to ~2–3% moisture) and firing follow. Critical control points include moisture content at extrusion, drying rate (to prevent cracks), and kiln temperature profile. See flowchart below for a typical process.
-- **Drying & firing:** Green bricks are dried in chamber or tunnel dryers (up to ~200 °C). Most firing is done in continuous tunnel kilns (~100–150 m long, firing zone ~1,090 °C[\[9\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=8%2F97%20Mineral%20Products%2011.3,common%20type%20of%20kiln%20used)). Single batch periodic kilns are also used in smaller plants. Typical firing cycles last 20–50 hours[\[10\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=backup%20fuel%20use%20vaporized%20propane,between%2020%20and%2050%20hours). Fuel is usually natural gas (some coal, biomass, or oil as backup). **Figure:** small-scale clamp kilns (sun-dried bricks and open firing) are still common in some countries【73†】.
+- **Process flow & control:** Raw clay is quarried, crushed/granulated, then mixed with water (and grog/sand as needed) in pugmills. The blend is tempered (rested) to homogenize. Forming (extrude/press), then drying (to ~2–3% moisture) and firing follow. Critical control points include moisture content at extrusion, drying rate (to prevent cracks), and kiln temperature profile. The typical process sequence is described in the forming and equipment sections below.
+- **Drying & firing:** Green bricks are dried in chamber or tunnel dryers (up to ~200 °C). Most firing is done in continuous tunnel kilns (~100–150 m long, firing zone ~1,090 °C[\[9\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=8%2F97%20Mineral%20Products%2011.3,common%20type%20of%20kiln%20used)). Single batch periodic kilns are also used in smaller plants. Typical firing cycles last 20–50 hours[\[10\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=backup%20fuel%20use%20vaporized%20propane,between%2020%20and%2050%20hours). Fuel is usually natural gas (some coal, biomass, or oil as backup). Photographs later in the report show small-scale clamp firing and outdoor drying.
 - **Quality standards:** In the U.S. and Canada, ASTM C67 governs brick testing (sampling, compressive strength, absorption, freeze-thaw, efflorescence, warpage, etc.)[\[11\]](https://brickandtile.org/astm-c67/#:~:text=These%20test%20methods%20cover%20procedures,and%20determination%20of%20weight%2C%20size). Other relevant standards include ASTM C62/C216 (solid bricks), C652 (hollow brick), and ISO EN methods. Key QC tests are compressive strength (ASTM C109), cold water absorption (ASTM C67), and freeze-thaw durability. Bricks are often classified (e.g. “SW” grade freeze-resistant). Comprehensive QA programs sample from each kiln load.
 - **Failure modes:** Common defects guide process tuning. Under-fired bricks (insufficient peak temperature or soak) show low strength and high absorption[\[12\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=When%20bricks%20are%20not%20burnt,them%20unsuitable%20for%20construction%20work). **Bloating** (spongy swollen appearance) comes from organics or sulfates in clay[\[13\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=Bloating). **Efflorescence** (white salt deposits) comes from soluble alkali salts in clay or water uptake[\[14\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=Efflorescence). **Lime popping** is caused by free CaO/CaCO₃, which absorb moisture and “blow” the brick[\[15\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=Lime%20Blowing). **Cracking and warping** occur if drying or firing is too rapid or uneven[\[16\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=The%20bricks%20are%20subjected%20to,to%20shrinkage%20and%20burning%20cracks). Controlling raw chemistry and adjusting drying/firing ramps mitigate these.
 - **Porosity & microstructure:** Fired bricks are a porous ceramic: total porosity and pore-size distribution strongly influence strength and durability. Denser vitrified bricks (low porosity) have higher compressive strength[\[17\]](https://masonrymagazine.com/Default?pageID=1646#:~:text=What%20we%20find%20is%20that,and%20thereby%20lower%20the%20absorption). However, a small fraction of larger pores can improve freeze-thaw resistance (e.g. Maage factor metric)[\[18\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7503822/#:~:text=is%20a%20good%20correlation%20between,frost%20resistance%20of%20bricks%20could). Advanced characterization (mercury porosimetry, SEM, X-ray CT) can quantify pore sizes. In general, bricks for mechanical robustness aim for minimal pore volume and uniform fine pores (low absorption). Moisture in pores lowers strength and enables freeze damage[\[19\]](https://www.mdpi.com/1996-1944/13/10/2364#:~:text=One%20of%20the%20main%20requirements,literature%20mentions%20some%20indirect%20procedures%2Fmethods).
@@ -17,18 +17,20 @@
 - **Economics (CAPEX/OPEX):** Scale dictates cost. A small artisanal setup (1,000–5,000 bricks/day) might use a single extruder or hand-press, a rack dryer or clamp kiln, and capital of \$\sim\$10–100k. A medium plant (~50k bricks/day) with continuous extrusion, pugmill, shaker, dryer, and a tunnel kiln might be \\5–10M (for equipment and shed)[\[7\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=This%20%241%2C350%2C000%20covers%20the%20two,installation%20estimates%20are%20critical%20here)[\[8\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=Capacity%20Link). A large plant (100k+/day) with multiple lines and kilns could be \\20M+. Table 3 (below) compares scales: equipment lists, throughput, staff, and ballpark costs (CAPEX/OPEX). Utilities (energy, fuel) typically dominate OPEX (30–40% of cost)[\[25\]](https://www.imarcgroup.com/brick-manufacturing-plant-project-report#:~:text=match%20at%20L398%20Raw%20Material,35%25%20Transportation%20Cost%20XX), with raw clay ~25–35% and labor the rest.
 - **Safety & permitting:** Key hazards include kiln fire/heat, dust (silica), and heavy equipment. Permitting covers air (emissions limits), wastewater, and zoning. Brick dust and kiln heat must be controlled (ventilation, filters, PPE). Workplace safety requires training on forklifts, kiln operations, and material handling.
 - **Supply chain:** Clay/shale is bulky – proximity to a clay quarry is critical. Raw materials must be tested (XRF, sieve, Atterberg tests) before plant design. Additives like sand, grog, or fly ash (if used) must be sourced and blended reliably. Byproducts (washoff, scrap bricks) should be recycled on-site (e.g. recycled into grog). Local regulations on mining and transport (truck emissions) apply.
-- **R&D & optimization:** A systematic R&D plan is recommended: lab test raw clays (mineralogy, plasticity), trial bodies (batch pugmills/extruders), and small-kiln firing experiments. Use Design of Experiments (DOE) to vary water content, clay blend, and firing curve. Characterize samples (ASTM C67 tests, porosimetry, SEM). Pilot-scale runs (e.g. 100–1,000 bricks) validate performance before scale-up. Figure below shows a 18–24 month R&D Gantt plan (materials testing → pilot extrusion → kiln trials → optimization). This structured approach de-risks plant startup and ensures product targets (strength, durability, etc.) are met.
+- **R&D & optimization:** A systematic R&D plan is recommended: lab test raw clays (mineralogy, plasticity), trial bodies (batch pugmills/extruders), and small-kiln firing experiments. Use Design of Experiments (DOE) to vary water content, clay blend, and firing curve. Characterize samples (ASTM C67 tests, porosimetry, SEM). Pilot-scale runs (e.g. 100–1,000 bricks) validate performance before scale-up. A 24-month staged R&D schedule appears later in the report. This structured approach de-risks plant startup and ensures product targets (strength, durability, etc.) are met.
 - **Future trends:** The brick industry is moving toward sustainability and automation. Examples include *unfired block presses* (hydraulically compressed fly-ash or clay blocks, eliminating kilns), *geopolymer bricks* (no firing), and *3D-printed masonry*[\[26\]](https://www.mdpi.com/2071-1050/17/14/6459#:~:text=Additive%20manufacturing%20has%20recently%20become,using%20the%20ReCiPe%202016%20method). Advanced materials (foamed insulative bricks, fiber-reinforced composites) are emerging for niche applications. Electrified/hydrogen kilns (to cut fossil fuel) are being piloted[\[23\]](https://www.wienerberger.co.uk/about-us/news-blogs/wienerberger-secures-funding-for-first-hydrogen-fired-brick-kiln.html#:~:text=As%20Denton%20prepares%20for%20hydrogen,on%20product%20quality%20or%20performance). Data-driven process control (AI-monitored kilns, real-time moisture sensors) is also advancing. Adopting these can future-proof a brick plant while meeting stricter CO₂ and quality regulations[\[24\]](https://www.reitmachine.com/fr/2026/02/25/low-emission-brick-solutions-guide/#:~:text=,proofing).
 
 ## History and Lineage
 
-Brickmaking is one of the oldest technologies. Ancient communities used sun-dried mud bricks (e.g. 7000 BC in Mesopotamia), then developed simple firing (e.g. Egyptian and Indus civilizations by 3000 BC). Medieval Europe standardized brick sizes and styles (e.g. Gothic brick cathedrals). The first continuous (ring) kiln was patented by Friedrich Hoffmann in 1858[\[1\]](https://solar.lowtechmagazine.com/2009/10/rings-of-fire-hoffmann-kilns/#:~:text=The%20ring%20oven%20was%20patented,consumption%20and%20labour%20costs%2C%20and), enabling continuous high-temperature firing and mass production. In the late 19th/early 20th century, mechanization (gravity-fed mixers, vacuum pugmills, extrusion presses) allowed further scale-up. By the 1920s–50s tunnel kilns (long continuous tunnels) replaced many intermittent kilns. In recent decades, computer control, emission regulations, and energy efficiency have driven new innovations (Figure below).
+Brickmaking is one of the oldest technologies. Ancient communities used sun-dried mud bricks (e.g. 7000 BC in Mesopotamia), then developed simple firing (e.g. Egyptian and Indus civilizations by 3000 BC). Medieval Europe standardized brick sizes and styles (e.g. Gothic brick cathedrals). The first continuous (ring) kiln was patented by Friedrich Hoffmann in 1858[\[1\]](https://solar.lowtechmagazine.com/2009/10/rings-of-fire-hoffmann-kilns/#:~:text=The%20ring%20oven%20was%20patented,consumption%20and%20labour%20costs%2C%20and), enabling continuous high-temperature firing and mass production. In the late 19th/early 20th century, mechanization (gravity-fed mixers, vacuum pugmills, extrusion presses) allowed further scale-up. By the 1920s–50s tunnel kilns (long continuous tunnels) replaced many intermittent kilns. In recent decades, computer control, emission regulations, and energy efficiency have driven new innovations.
 
-    flowchart LR
-        A[Sun-dried bricks (~7000 BC)] --> B[Fired bricks in ancient civilizations (~3000 BC)];
-        B --> C[Hoffmann continuous kiln (1858)[1]];
-        C --> D[Tunnel kilns become widespread (~1900s)];
-        D --> E[Modern era: automation, hydrogen-fired kilns, geopolymers[23][26]].
+A simplified technological sequence is:
+
+- sun-dried bricks in early settled communities;
+- fired bricks in ancient civilizations;
+- the Hoffmann continuous kiln in the nineteenth century;
+- widespread tunnel-kiln adoption during industrialization; and
+- modern automation, alternative binders, and lower-carbon firing systems.
 
 ## Raw Materials
 
@@ -49,16 +51,16 @@ Bricks can be formed in three principal ways[\[28\]](https://www.epa.gov/sites/d
 - **Soft-mud molding:** Higher moisture (20–30%). The clay is pressed into steel or sand molds (hand-formed or machine-molded). Used for some ornamental or heritage-style bricks. Yields more uneven texture; often requires sand on mold to release. Labor-intensive and less uniform.  
 - **Dry-pressing:** Very low moisture (~5%). Powdered clay/shale is poured into steel molds and pressed under high pressure (up to 80–150 MPa). Produces very dense, precise bricks (often pavers or engineering brick). Equipment is batch (punch or compression molding). Few dusts, but requires extremely tight moisture control and high force.
 
-A **Mermaid** process flow chart (below) illustrates a typical brickmaking workflow.
+A typical process sequence is:
 
-    flowchart TD
-        Raw[Quarry clay/shale] --> Crush(Crushing/grinding)
-        Crush --> Mix(Mixing & tempering)
-        Mix --> Form[Forming (Extrude/Press)]
-        Form --> Dry(Drying)
-        Dry --> Fire(Firing in kiln)
-        Fire --> Cool(Cooling & final testing)
-        Cool --> Pack(Packaging & shipping)
+1. quarry clay or shale;
+2. crush and grind the raw material;
+3. mix and temper the body;
+4. form the brick by extrusion, molding, or pressing;
+5. dry the green brick;
+6. fire it in a kiln;
+7. cool and perform final quality testing; and
+8. package and ship the finished product.
 
 ## Equipment and Scale
 
@@ -67,7 +69,7 @@ A **Mermaid** process flow chart (below) illustrates a typical brickmaking workf
 - **Pugmills:** Small vacuum clay mixers (e.g. studio pugmill, 100–500 kg batch) for mixing and de-airing. *Example:* Peter Pugger VPM-60 (3 hp, ~150 kg/h capacity).
 - **Extruders/Presses:** Table-top extruders (manual or small motor-driven) or hand-presses. These produce a few hundred bricks/day.
 - **Kiln/Dryer:** Electric or gas-fired muffle kiln (for small batches up to ~100 bricks), or even a homemade clamp kiln (earthen stack).
-- **Curing:** Sun-drying on racks or ground (as in Figures).  
+- **Curing:** Sun-drying on racks or ground (as in the photographs below).  
   This scale requires minimal automation and 1–3 operators. CAPEX ~\$5k–\$50k (equipment plus small shed). OPEX is low but labor and manual handling are high.
 
 ### Medium to Large Industrial Scale:
@@ -96,12 +98,12 @@ A **Mermaid** process flow chart (below) illustrates a typical brickmaking workf
 
 After shaping, **green bricks** must be dried (typically to ~2–3% moisture) before firing to avoid steam-blasting. Drying is done in chambers or tunnel dryers with gradual heating (usually \<200 °C). Inexpensive setups simply dry bricks in the open air for 1–2 days, then fire in an improvised stack. Larger plants use heated, insulated dryers (hot air at ~100–204 °C) often powered by waste kiln heat[\[9\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=8%2F97%20Mineral%20Products%2011.3,common%20type%20of%20kiln%20used). Drying schedule is critical: too fast causes cracks, too slow wastes capacity. Typical drying takes 8–24 hours.
 
-Most industrial kilns are **continuous tunnel kilns**: long brick-lined tunnels (100–150 m) on rails where cars of bricks move slowly through zones. Figure \[73\] (below) shows a traditional brickfield with clamp-kilns and drying rows. In the tunnel kiln, bricks are preheated, then a firing zone (~1,090 °C) for sintering[\[9\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=8%2F97%20Mineral%20Products%2011.3,common%20type%20of%20kiln%20used), then cooled. Natural gas is the usual fuel (some plants use coal or biomass). Total kiln cycle is ~20–50 hours[\[10\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=backup%20fuel%20use%20vaporized%20propane,between%2020%20and%2050%20hours). Modern kilns recover heat: exhaust gases are passed through cooler zones and pre-heaters before venting. **Clamp kilns** (as in Figures) are simple open structures where bricks are stacked with fuel; these are cheap but inefficient and polluting. In open clamps, bricks often sun-dry on the ground (foreground in Fig.【73†】) before being fired under bellows or chimney.
+Most industrial kilns are **continuous tunnel kilns**: long brick-lined tunnels (100–150 m) on rails where cars of bricks move slowly through zones. Traditional brickfields instead may use clamp kilns and outdoor drying rows. In the tunnel kiln, bricks are preheated, then a firing zone (~1,090 °C) for sintering[\[9\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=8%2F97%20Mineral%20Products%2011.3,common%20type%20of%20kiln%20used), then cooled. Natural gas is the usual fuel (some plants use coal or biomass). Total kiln cycle is ~20–50 hours[\[10\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=backup%20fuel%20use%20vaporized%20propane,between%2020%20and%2050%20hours). Modern kilns recover heat: exhaust gases are passed through cooler zones and pre-heaters before venting. **Clamp kilns** are simple open structures where bricks are stacked with fuel; these are cheap but inefficient and polluting. In open clamps, bricks often sun-dry on the ground before firing.
 
 Tunnel kilns are far more efficient: waste heat recovery means flue gases exit ~100–150 °C (vs. 800+ °C for simple kilns)[\[29\]](https://solar.lowtechmagazine.com/2009/10/rings-of-fire-hoffmann-kilns/#:~:text=In%20a%20Hoffmann%20kiln%20the,that%20of%20a%20periodic%20kiln). Table 2 compares kiln types (e.g. tunnel vs. periodic). Operating kilns requires precise control: ramp rates (for moisture evaporation, dehydroxylation, vitrification) and soak times determine final microstructure. Control systems monitor zone temperatures and oxygen; occasional fuel “flashing” (reducing atmosphere) is used to adjust brick color[\[30\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=includes%20a%20preheat%20zone%2C%20a,The%20bricks).
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/brickmaking-history-materials-processes-and-production-planning/assets/media/rId59.png" style="width:5.83333in;height:4.375in" />  
-*Figure: Outdoor brickfield with traditional clamp firing (tall chimneys) and drying yard (foreground rows of sun-dried bricks)【73†】.*
+<img src="assets/media/rId59.png" style="width:5.83333in;height:4.375in" />  
+*Figure: Outdoor brickfield with traditional clamp firing (tall chimneys) and drying yard (foreground rows of sun-dried bricks).*
 
 **Kiln firing process:** Evaporate free water (up to 100 °C), dehydrate clays (~100–600 °C), burn out organics (~300–600 °C), oxidize impurities, then sinter/vitrify (~900–1100 °C). The firing zone reaches ~1090 °C[\[31\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=for%20firing%20brick%20is%20the,amounts%20of%20excess%20fuel%20are). After firing, bricks cool gradually. Control of temperature and time is essential: overshoot can cause warping or melt, undershoot gives weak bricks.
 
@@ -156,7 +158,7 @@ Brick plants are energy- and emission-intensive. **Fuel use** (for firing ~1000�
 
 Plants also manage **waste water** (from cleaning extruders/molds) and **solid waste** (dust, damaged bricks). Many operations recycle kiln dust as filler (grog). **Best practices:** scrubbers or electrostatic precipitators capture kiln dust/PM (requiring 95% removal for SOₓ scrubbers in some systems[\[33\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=kilns%20and%20some%20brick%20dryers,The%20primary%20x%202)). Carbon reduction: as noted above, initiatives include switching to biomass or hydrogen fuels[\[23\]](https://www.wienerberger.co.uk/about-us/news-blogs/wienerberger-secures-funding-for-first-hydrogen-fired-brick-kiln.html#:~:text=As%20Denton%20prepares%20for%20hydrogen,on%20product%20quality%20or%20performance), recovering flue heat for drying, and using industrial wastes as feedstock (fly ash, slag, even brick dust). A recent industry guide emphasizes *unfired* block machines (no kiln) and *geopolymers* (cement-free binders) as low-emission alternatives[\[24\]](https://www.reitmachine.com/fr/2026/02/25/low-emission-brick-solutions-guide/#:~:text=,proofing). Environmental audits, stack testing, and life-cycle analyses (LCAs) are recommended for any new plant.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/brickmaking-history-materials-processes-and-production-planning/assets/media/rId70.png" style="width:5.83333in;height:4.375in" />  
+<img src="assets/media/rId70.png" style="width:5.83333in;height:4.375in" />  
 *Figure: Simple clamp kilns at a small brickfield. In the foreground workers have formed bricks drying in the sun; the brick stacks and chimneys fire them in place. Modern plants use enclosed tunnel kilns instead (not shown) to capture heat and filter emissions.*
 
 ## CAPEX, OPEX, and Plant Layout
@@ -172,7 +174,7 @@ Capital and operating costs vary widely by scale and automation. Key cost driver
 
 *Table 3: Indicative CAPEX/OPEX and layout by brick plant size.*
 
-For example, a published estimate gave ~\$1.35M for a mixing+pug+extruder line handling ~50k bricks/day[\[7\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=This%20%241%2C350%2C000%20covers%20the%20two,installation%20estimates%20are%20critical%20here), plus ~\$2.5M for a 100 m tunnel kiln for that output[\[8\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=Capacity%20Link). OPEX is dominated by energy/fuel (often ~30% of cost) and raw clay (20–30%)[\[25\]](https://www.imarcgroup.com/brick-manufacturing-plant-project-report#:~:text=match%20at%20L398%20Raw%20Material,35%25%20Transportation%20Cost%20XX); labor is smaller per brick in large plants. Layout must optimize material flow: typically, raw-clay pit → crusher → pugmill → extruder → green brick rack → dryer → kiln → warehouse. Figure 1 (Mermaid) above illustrates this flow.
+For example, a published estimate gave ~\$1.35M for a mixing+pug+extruder line handling ~50k bricks/day[\[7\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=This%20%241%2C350%2C000%20covers%20the%20two,installation%20estimates%20are%20critical%20here), plus ~\$2.5M for a 100 m tunnel kiln for that output[\[8\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=Capacity%20Link). OPEX is dominated by energy/fuel (often ~30% of cost) and raw clay (20–30%)[\[25\]](https://www.imarcgroup.com/brick-manufacturing-plant-project-report#:~:text=match%20at%20L398%20Raw%20Material,35%25%20Transportation%20Cost%20XX); labor is smaller per brick in large plants. Layout must optimize material flow: typically, raw-clay pit → crusher → pugmill → extruder → green brick rack → dryer → kiln → warehouse. The process sequence above summarizes this flow.
 
 ## Safety, Permitting, and Supply Chain
 
@@ -182,20 +184,14 @@ For example, a published estimate gave ~\$1.35M for a mixing+pug+extruder line h
 
 ## R&D and Optimization Plan
 
-A 12–24 month development program is recommended for a new brick venture:
+A 12–24 month development program is recommended for a new brick venture.
 
-    gantt
-        title 24-Month R&D Plan
-        dateFormat  YYYY-MM
-        section Laboratory Development
-        Raw Material Characterization     :done, a1, 2026-04, 2M
-        Batch Formulation & Mixing Tests :active, a2, 2026-06, 3M
-        section Pilot Trials
-        Small-Scale Extrusion & Drying   :a3, 2026-09, 5M
-        Kiln Firing & Mechanical Testing :a4, 2027-02, 5M
-        section Scale-Up Validation
-        Pilot Plant Commissioning        :a5, 2027-07, 4M
-        Final QA and Optimization        :a6, 2027-11, 4M
+| Phase | Approximate timing | Principal work |
+|----|----|----|
+| Laboratory development | Months 1–6 | Raw-material characterization, batch formulation, mixing tests, and laboratory firing. |
+| Pilot forming and firing | Months 7–12 | Small-scale extrusion, drying optimization, kiln trials, and mechanical testing. |
+| Scale-up validation | Months 13–18 | Durability testing, process refinement, larger pilot batches, and design-of-experiments iteration. |
+| Commissioning and final QA | Months 19–24 | Equipment commissioning, pilot production, final QA protocols, and process documentation. |
 
 **Key tasks:**  
 1. **Months 1–6:** Test raw clays (XRD, XRF) and blends. Perform Atterberg/plasticity tests. Develop small “recipe” batches (vary clay/stone ratio, moisture). Use a laboratory pugmill and small press or mold to make specimens. Dry (room/oven) and fire (laboratory kiln at several profiles). Measure shrinkage, density, compressive strength, absorption. Select promising mixes.  
@@ -210,73 +206,3 @@ This schedule ensures a structured development, minimizing trial-and-error delay
 The brick industry is innovating rapidly around sustainability and automation. **Unfired technologies** – hydraulic block presses that compress fly ash, lime, or cement – can eliminate kilns altogether (zero firing CO₂). **Geopolymers** (fly ash/slag activated by alkalis) are being formulated into extrudable “bricks” that cure at ambient or moderate heat[\[26\]](https://www.mdpi.com/2071-1050/17/14/6459#:~:text=Additive%20manufacturing%20has%20recently%20become,using%20the%20ReCiPe%202016%20method), drastically cutting emissions. For example, 3D-printed foamed geopolymer blocks (using recycled brick/AAC waste) have been demonstrated, offering good insulation and ~5–7 MPa strength[\[34\]](https://www.mdpi.com/2071-1050/17/14/6459#:~:text=lowest%20compressive%20strength%20%28,binder%20reactivity%2C%20and%20microstructural%20cohesion). **Automation/AI:** Vision-based defect inspection and AI kiln controls are emerging to optimize quality and reduce labor. Some plants use robots to stack bricks and automated guided vehicles (AGVs) for material movement. **Low-carbon firing:** Major producers are piloting hydrogen- or electric-fired kilns. Wienerberger plans the world’s first hydrogen brick kiln by 2027[\[23\]](https://www.wienerberger.co.uk/about-us/news-blogs/wienerberger-secures-funding-for-first-hydrogen-fired-brick-kiln.html#:~:text=As%20Denton%20prepares%20for%20hydrogen,on%20product%20quality%20or%20performance). Electricity (from renewables) can power coil or induction heating to 1000+ °C. Over time, these shifts could decarbonize brickmaking while maintaining product performance[\[23\]](https://www.wienerberger.co.uk/about-us/news-blogs/wienerberger-secures-funding-for-first-hydrogen-fired-brick-kiln.html#:~:text=As%20Denton%20prepares%20for%20hydrogen,on%20product%20quality%20or%20performance)[\[24\]](https://www.reitmachine.com/fr/2026/02/25/low-emission-brick-solutions-guide/#:~:text=,proofing). Finally, new brick formats (3D-printed interlocking masonry, gas-filled lightweight bricks, fiber-reinforced composites) are on the horizon, potentially expanding bricks’ applications. Brick plant design should thus remain flexible to adopt such advances.
 
 **Sources:** Authoritative references (EPA AP-42, BIA technical notes, ASTM/NBRC standards), peer-reviewed studies, and industry reports have been used throughout (citations link to specific data above).
-
-------------------------------------------------------------------------
-
-[\[1\]](https://solar.lowtechmagazine.com/2009/10/rings-of-fire-hoffmann-kilns/#:~:text=The%20ring%20oven%20was%20patented,consumption%20and%20labour%20costs%2C%20and) [\[29\]](https://solar.lowtechmagazine.com/2009/10/rings-of-fire-hoffmann-kilns/#:~:text=In%20a%20Hoffmann%20kiln%20the,that%20of%20a%20periodic%20kiln) Rings of Fire: Hoffmann Kilns \| LOW←TECH MAGAZINE
-
-<https://solar.lowtechmagazine.com/2009/10/rings-of-fire-hoffmann-kilns/>
-
-[\[2\]](https://www.jeeng.net/pdf-199456-120712?filename=Production-of-eco-friendl.pdf#:~:text=Table%202,10) jeeng.net
-
-<https://www.jeeng.net/pdf-199456-120712?filename=Production-of-eco-friendl.pdf>
-
-[\[3\]](https://www.gobrick.com/media/file/3a-brick-masonry-material-properties.pdf#:~:text=evaluated%20in%20these%20surveys%20are,1%20Extruded%20only) Brick Masonry Material Properties
-
-<https://www.gobrick.com/media/file/3a-brick-masonry-material-properties.pdf>
-
-[\[4\]](https://masonrymagazine.com/Default?pageID=1646#:~:text=One%20of%20the%20requirements%20for,size%20brick%20without%20it%20crushing) [\[17\]](https://masonrymagazine.com/Default?pageID=1646#:~:text=What%20we%20find%20is%20that,and%20thereby%20lower%20the%20absorption) Compressive Strength Of Fired Facing Brick
-
-<https://masonrymagazine.com/Default?pageID=1646>
-
-[\[5\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=A%20typical%20stiff%20mud%20extrusion,which%20is%20then%20continuously%20augered) [\[6\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=The%20soft%20mud%20process%20is,28%20megapascals) [\[9\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=8%2F97%20Mineral%20Products%2011.3,common%20type%20of%20kiln%20used) [\[10\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=backup%20fuel%20use%20vaporized%20propane,between%2020%20and%2050%20hours) [\[20\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=11.3.3%20Emissions%20And%20Controls3%2C7,HAP%5D%29%2C%20hydrochloric) [\[27\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=A%20typical%20stiff%20mud%20extrusion,augered%20or%20extruded%20through%20dies) [\[28\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=Most%20brick%20are%20formed%20by,The) [\[30\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=includes%20a%20preheat%20zone%2C%20a,The%20bricks) [\[31\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=for%20firing%20brick%20is%20the,amounts%20of%20excess%20fuel%20are) [\[33\]](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf#:~:text=kilns%20and%20some%20brick%20dryers,The%20primary%20x%202) AP-42, CH 11.3: Brick And Structural Clay Product Manufacturing
-
-<https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf>
-
-[\[7\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=This%20%241%2C350%2C000%20covers%20the%20two,installation%20estimates%20are%20critical%20here) [\[8\]](https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu#:~:text=Capacity%20Link) Brick Manufacturing Startup Costs: \$111M CAPEX Breakdown;
-
-<https://financialmodelslab.com/blogs/startup-costs/brick-manufacturing?srsltid=AfmBOooWwn4nU04ZHQmBCUQWuGbrGCoGNK8JyMq6R48tR0kRRSx_fQqu>
-
-[\[11\]](https://brickandtile.org/astm-c67/#:~:text=These%20test%20methods%20cover%20procedures,and%20determination%20of%20weight%2C%20size) ASTM C67 - National Brick Research Center
-
-<https://brickandtile.org/astm-c67/>
-
-[\[12\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=When%20bricks%20are%20not%20burnt,them%20unsuitable%20for%20construction%20work) [\[13\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=Bloating) [\[14\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=Efflorescence) [\[15\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=Lime%20Blowing) [\[16\]](https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks#:~:text=The%20bricks%20are%20subjected%20to,to%20shrinkage%20and%20burning%20cracks) Defects in Bricks - Types, Causes, and Prevention
-
-<https://www.bricknbolt.com/blogs-and-articles/construction-guide/defects-in-bricks>
-
-[\[18\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7503822/#:~:text=is%20a%20good%20correlation%20between,frost%20resistance%20of%20bricks%20could) Influence of the Size and Type of Pores on Brick Resistance to Freeze-Thaw Cycles - PMC
-
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC7503822/>
-
-[\[19\]](https://www.mdpi.com/1996-1944/13/10/2364#:~:text=One%20of%20the%20main%20requirements,literature%20mentions%20some%20indirect%20procedures%2Fmethods) Influence of Pore-Size Distribution on the Resistance of Clay Brick to Freeze–Thaw Cycles \| MDPI
-
-<https://www.mdpi.com/1996-1944/13/10/2364>
-
-[\[21\]](https://www.epa.gov/stationary-sources-air-pollution/brick-and-structural-clay-products-national-emission-standards#:~:text=This%20major%20source%20rule%20covers,matter%2C%20metals%2C%20and%20acid%20gases) Brick and Structural Clay Products: National Emission Standards for Hazardous Air Pollutants (NESHAP) \| US EPA
-
-<https://www.epa.gov/stationary-sources-air-pollution/brick-and-structural-clay-products-national-emission-standards>
-
-[\[22\]](https://www.magnoliabrick.com/the-evolution-of-brickmaking-from-ancient-techniques-to-modern-innovations#:~:text=In%20addition%20to%20improving%20kiln,and%20diverting%20waste%20from%20landfills) The Evolution of Brickmaking: From Ancient Techniques to Modern Innovations
-
-<https://www.magnoliabrick.com/the-evolution-of-brickmaking-from-ancient-techniques-to-modern-innovations>
-
-[\[23\]](https://www.wienerberger.co.uk/about-us/news-blogs/wienerberger-secures-funding-for-first-hydrogen-fired-brick-kiln.html#:~:text=As%20Denton%20prepares%20for%20hydrogen,on%20product%20quality%20or%20performance) wienerberger secures funding for world’s first hydrogen-fired brick kiln
-
-<https://www.wienerberger.co.uk/about-us/news-blogs/wienerberger-secures-funding-for-first-hydrogen-fired-brick-kiln.html>
-
-[\[24\]](https://www.reitmachine.com/fr/2026/02/25/low-emission-brick-solutions-guide/#:~:text=,proofing) 5 Solutions concrètes de fabrication de briques à faibles émissions: UN 2026 Guide pour les fabricants - Fabricants de fabrication de blocs de machines REIT
-
-<https://www.reitmachine.com/fr/2026/02/25/low-emission-brick-solutions-guide/>
-
-[\[25\]](https://www.imarcgroup.com/brick-manufacturing-plant-project-report#:~:text=match%20at%20L398%20Raw%20Material,35%25%20Transportation%20Cost%20XX) Brick Manufacturing Plant Cost, Setup, DPR 2026
-
-<https://www.imarcgroup.com/brick-manufacturing-plant-project-report>
-
-[\[26\]](https://www.mdpi.com/2071-1050/17/14/6459#:~:text=Additive%20manufacturing%20has%20recently%20become,using%20the%20ReCiPe%202016%20method) [\[34\]](https://www.mdpi.com/2071-1050/17/14/6459#:~:text=lowest%20compressive%20strength%20%28,binder%20reactivity%2C%20and%20microstructural%20cohesion) Prospective LCA for 3D-Printed Foamed Geopolymer Composites Using Construction Waste as Additives \| MDPI
-
-<https://www.mdpi.com/2071-1050/17/14/6459>
-
-[\[32\]](https://breathelife2030.org/wp-content/uploads/2016/09/12.pdf#:~:text=Heat%20Input%20%28MJ%29%EF%83%A0%205%2C461,energy%20input%20to%20the%20kiln) breathelife2030.org
-
-<https://breathelife2030.org/wp-content/uploads/2016/09/12.pdf>
