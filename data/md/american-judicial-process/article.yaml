@@ -81,37 +81,37 @@ report:
     tool: pandoc 3.6
   discipline: law
   domain: law
-  emphasis: ''
-  focus: ''
+  emphasis: federal and state judicial structure, selection, powers, tenure, and compensation
+  focus: institutional differences among Article III judges, non-Article III officers, and representative state judiciaries
   id: urn:gva:american-judicial-process
   intent: institutional reference
   is_report: true
   kind: institutional overview
   level: ''
-  method: ''
+  method: synthesis of constitutional, statutory, judicial-administration, and representative state sources
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: Canonical copy of the judicial-process report. The later report-096 package is an exact-body duplicate and is archived separately. Body remains draft pending prompt-residue, citation-title, and diagram cleanup.
+  notes: Canonical report-095 copy; the later report-096 exact-body duplicate remains archived. Prompt residue, citation-contaminated H1, raw diagram source, document self-reference, and the redundant conversion-generated reference export were repaired on 2026-08-19. The article remains draft because current 2026 compensation figures and multiple citation-to-claim pairings require legal/current-source verification before review or publication.
   number: 095
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: current institutional structure with 2025-2026 compensation examples
+  period_covered: current law and representative recent compensation data
+  population_focus: federal and state judges and judicial officers
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: federal + representative state systems + powers + selection + compensation
-  scope_years: ''
+  region: United States
+  region_focus: federal system plus representative state systems
+  scope: federal and representative state systems, powers, selection, tenure, accountability, and compensation
+  scope_years: current through 2026
   series: american-law-guides
   stance: neutral
-  structure: institutional overview
+  structure: executive summary, institutional structure, judge types, selection pathways, tenure and compensation, judicial powers, accountability, and limitations
   subdiscipline: united states law
   subject: judges and judicial administration
-  time_scope: ''
-  time_span: ''
+  time_scope: current institutional reference
+  time_span: through 2026
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: 095
 report-number: 095
@@ -120,7 +120,7 @@ report_no: 95
 report_number: 95
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: american-law-guides
 series-number: 95
