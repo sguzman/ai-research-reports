@@ -72,11 +72,11 @@ Article III’s good-behavior tenure and compensation protection are designed to
 | Federal circuit judge | $264,900 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) |
 | Associate Justice | $306,600 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) |
 | Chief Justice | $320,700 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) |
-| Full-time U.S. magistrate judge | $229,908 | [Current U.S. Courts magistrate-judge vacancy](https://www.uscourts.gov/careers/current-job-openings/138815) |
+| Full-time U.S. magistrate judge | $229,908 | [District of Minnesota 2026 magistrate-judge vacancy notice](https://www.mnd.uscourts.gov/news/notice-us-magistrate-judge-vacancy-2) |
 | U.S. bankruptcy judge | $229,908 | [Current U.S. Courts bankruptcy-judge vacancy](https://www.uscourts.gov/careers/current-job-openings/138624) |
 | Federal ALJ | $131,700–$197,200 basic pay | [OPM 2026 ALJ Pay Table](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx) |
 
-State judicial pay should not be presented as though it were a single comparable national scale. State salary schedules change on different fiscal calendars and may include local supplements or court-specific formulas. As one verified 2026 example, Arizona legislation sets annual salaries of **$225,000 for a Supreme Court justice, $232,000 for the Chief Justice, $210,000 for a court-of-appeals judge, and $200,000 for a superior-court judge** effective January 1, 2026. Because state figures age quickly, a publication intended as a durable institutional reference should treat them as dated examples rather than national benchmarks.
+State judicial pay should not be presented as though it were a single comparable national scale. State salary schedules change on different fiscal calendars and may include local supplements or court-specific formulas. As one verified 2026 example, [Arizona legislation](https://www.azleg.gov/legtext/56leg/2R/summary/S.2897-1735APPROP_ASENACTED.pdf) sets annual salaries of **$225,000 for a Supreme Court justice, $232,000 for the Chief Justice, $210,000 for a court-of-appeals judge, and $200,000 for a superior-court judge** effective January 1, 2026. Because state figures age quickly, a publication intended as a durable institutional reference should treat them as dated examples rather than national benchmarks.
 
 ## Judicial Powers and Constraints
 
@@ -118,8 +118,8 @@ Several propositions hold across the institutional variety:
 
 ## Limitations and Maintenance
 
-This guide emphasizes institutional structure rather than an exhaustive fifty-state survey. Representative state examples are used because state constitutions, statutes, judicial-selection systems, salary schedules, and retirement rules change independently.
+The institutional scope is intentionally narrower than a fifty-state survey. Representative state examples are used because state constitutions, statutes, judicial-selection systems, salary schedules, and retirement rules change independently.
 
-Compensation figures are particularly time-sensitive. Federal 2026 figures above were checked against current U.S. Courts and OPM sources in August 2026. State compensation is intentionally limited to a dated Arizona example rather than mixing fiscal-year figures from multiple states and presenting them as equally current.
+Compensation figures are particularly time-sensitive. Federal 2026 figures were checked against current U.S. Courts and OPM sources in August 2026. State compensation is intentionally limited to a dated Arizona example rather than mixing fiscal-year figures from multiple states and presenting them as equally current.
 
-The guide also distinguishes **source verification** from **legal advice**. It describes institutional structures and publicly available rules; it does not advise litigants how to proceed in a particular case.
+The material describes institutional structures and publicly available rules; it does not provide case-specific legal advice.
