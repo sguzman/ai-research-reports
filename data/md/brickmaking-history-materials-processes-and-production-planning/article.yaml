@@ -1,7 +1,7 @@
 ---
 abstract: >-
   A technical and historical survey of brickmaking materials, forming methods, drying and firing,
-  quality control, plant equipment, production planning, economics, environmental constraints,
+  quality control, plant equipment, production planning, environmental constraints, economics,
   and research-and-development considerations across artisanal and industrial scales.
 aliases: []
 author:
@@ -74,17 +74,17 @@ report:
     tool: pandoc 3.6
   discipline: engineering
   domain: engineering
-  emphasis: process design and production planning
-  focus: brick materials, forming, drying, firing, quality control, equipment, and scale-up
+  emphasis: process design, standards, and production planning
+  focus: brick materials, forming, drying, firing, quality control, environmental controls, equipment, and scale-up
   id: urn:marginalia:brickmaking-history-materials-processes-and-production-planning
   intent: technical survey and planning reference
   is_report: true
   kind: technical historical survey
   level: ''
-  method: literature and standards synthesis
+  method: literature, standards, regulatory, and industry-source synthesis
   methods: []
   name: 'Brickmaking: History, Materials, Processes, and Production Planning'
-  notes: Conversion residue was mechanically repaired on 2026-08-19: raw diagram and Gantt source was replaced with normal Markdown structures, both absolute workstation image paths were corrected to canonical assets, orphan figure markers were removed, and the redundant conversion-generated reference export was deleted. The article remains in review because technical standards, CAPEX/OPEX estimates, regulatory claims, and 2026/2027 technology claims require current source verification before publication.
+  notes: Conversion residue was mechanically repaired earlier on 2026-08-19. A subsequent current-claims audit replaced the inherited ASTM C109 brick-testing error with ASTM C67/C67M-25, anchored forming/drying/firing claims in EPA AP-42, updated active ASTM product specifications, tied U.S. hazardous-air-pollutant discussion to the current EPA NESHAP, removed unsupported universal CAPEX/OPEX ranges and weak commercial cost estimates, and corrected the Wienerberger hydrogen-kiln timeline to the company’s March 2026 announcement. The article remains in review pending final historical/materials source-quality review and rendered-publication inspection.
   number: 079
   organization: Marginalia
   period: historical development through contemporary production
@@ -97,14 +97,14 @@ report:
   scope_years: historical through 2026
   series: Marginalia Reports
   stance: neutral
-  structure: technical survey with process, equipment, quality, environmental, economic, and R&D sections
+  structure: executive summary, historical lineage, materials, forming, drying and firing, standards and quality, failures and microstructure, environmental controls, economic planning, equipment architecture, R&D, current technology, and planning checklist
   subdiscipline: applied design and technology
   subject: brick manufacturing
   time_scope: historical and contemporary
   time_span: ancient period-present
   topic: Brickmaking
   type: report
-  version: 1.0.2
+  version: 1.0.3
   year: 2026
 report-no: 079
 report-number: 079
@@ -113,7 +113,7 @@ report_no: 79
 report_number: 79
 report_year: 2026
 resources: []
-revision: 1.0.2
+revision: 1.0.3
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 79
@@ -134,9 +134,9 @@ subjects:
 - Technology
 subtitle: ''
 summary: >-
-  Covers the evolution of brickmaking from ancient and artisanal methods to mechanized plants,
-  with emphasis on raw-material preparation, forming, drying, kiln operation, testing, defects,
-  environmental constraints, economics, and production-scale decisions.
+  Covers brickmaking from raw-material preparation through forming, drying, firing, testing,
+  environmental control, production-scale planning, and current kiln-decarbonization work,
+  while distinguishing stable process knowledge from time-sensitive standards and project economics.
 tags:
 - brickmaking-history-materials-processes-and-production-planning
 - engineering
