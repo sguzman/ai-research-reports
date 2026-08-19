@@ -26,8 +26,9 @@ dataset_id: ''
 date: '2026-06-03'
 description: This report assesses whether liberalism acts as political domestication by substituting thick
   communal authority with softer but denser forms of behavioral management and administration.
-draft: false
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -51,7 +52,7 @@ keywords:
 - State Capacity
 lang: en
 language: English
-lastmod: '2026-06-03'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: JA
@@ -76,17 +77,17 @@ report:
     tool: ''
   discipline: political science
   domain: politics
-  emphasis: ''
-  focus: ''
+  emphasis: social disembedding, administrative legibility, and behavioral management
+  focus: whether liberal orders replace thick communal coordination with softer forms of administration and management
   id: urn:marginalia:liberalism-as-political-domestication
-  intent: ''
+  intent: evaluate the political-domestication thesis against historical and social-scientific evidence
   is_report: true
   kind: research report
   level: ''
-  method: ''
+  method: theoretical synthesis with comparative empirical evidence
   methods: []
   name: Liberalism as Political Domestication
-  notes: ''
+  notes: Legacy complete state returned to review when the article was first substantively touched under the new editorial standard; publication requires full lint, citation, and current-link verification.
   number: '110'
   organization: Marginalia
   period: ''
@@ -98,15 +99,15 @@ report:
   scope: ''
   scope_years: ''
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: analytical report
   subdiscipline: history and social analysis
-  subject: ''
+  subject: liberalism and political domestication
   time_scope: ''
   time_span: ''
   topic: Liberalism as Political Domestication
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '110'
 report-number: '110'
@@ -115,7 +116,7 @@ report_no: 110
 report_number: 110
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 110
@@ -127,7 +128,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: liberalism-as-political-domestication
-status: complete
+status: review
 subject:
 - Politics
 - History
@@ -150,5 +151,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...

@@ -28,8 +28,9 @@ dataset_id: marginalia-culture-parasitic-unsatisfied-needs-2026-06-30
 date: '2026-06-30'
 description: A report on compensatory culture, symbolic substitution, trauma markets, and the conditions
   under which modern cultural industries feed on unmet needs.
-draft: false
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -52,7 +53,7 @@ keywords:
 - Symbolic substitution
 lang: en
 language: English
-lastmod: '2026-06-30'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: HM
@@ -90,7 +91,7 @@ report:
   - conceptual analysis
   - comparative case synthesis
   name: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
-  notes: ''
+  notes: Legacy complete state returned to review. Conversion-generated asset paths, ChatGPT tracking parameters, redundant reference export, and current-document self-reference were repaired on 2026-08-19; full factual, citation-quality, and current-link verification remain required before publication.
   number: '115'
   organization: Marginalia
   period: modern and contemporary
@@ -103,16 +104,15 @@ report:
     media, advertising, memes, and prestige systems
   scope_years: twentieth century to present
   series: Marginalia Reports
-  stance: analytical and critical
-  structure: executive summary, conceptual framing, essay cluster, mechanisms, cases, counterexamples,
-    judgment
+  stance: neutral analytical and critical
+  structure: executive summary, conceptual framing, mechanisms, cases, counterexamples, and judgment
   subdiscipline: cultural sociology and social psychology
-  subject: cultural reproduction
+  subject: cultural reproduction and unmet human needs
   time_scope: modern comparative
   time_span: twentieth century-present
   topic: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '115'
 report-number: '115'
@@ -121,7 +121,7 @@ report_no: 115
 report_number: 115
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 115
@@ -133,7 +133,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
-status: complete
+status: review
 subject:
 - Culture
 - Social theory
@@ -159,5 +159,6 @@ toc-title: ''
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...

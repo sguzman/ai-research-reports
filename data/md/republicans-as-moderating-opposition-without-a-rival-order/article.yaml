@@ -26,8 +26,9 @@ dataset_id: ''
 date: '2026-06-03'
 description: An evaluation of whether the Republican party primarily acts as a moderating force on Democratic
   initiatives rather than establishing its own durable institutional alternatives.
-draft: false
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -51,7 +52,7 @@ keywords:
 - Policy History
 lang: en
 language: English
-lastmod: '2026-06-03'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: JA
@@ -76,37 +77,37 @@ report:
     tool: ''
   discipline: political science
   domain: politics
-  emphasis: ''
-  focus: ''
+  emphasis: institutional durability, partisan opposition, and policy entrenchment
+  focus: whether Republican governance tends to moderate a shared policy order rather than construct a durable rival order
   id: urn:marginalia:republicans-as-moderating-opposition-without-a-rival-order
-  intent: ''
+  intent: evaluate the moderating-opposition thesis against post-1970 United States policy history
   is_report: true
   kind: research report
   level: ''
-  method: ''
+  method: comparative policy-history synthesis
   methods: []
   name: Republicans as Moderating Opposition Without a Rival Order
-  notes: ''
+  notes: Academic perspective and conversion residue were partially normalized on 2026-08-19, including canonical asset migration and removal of the redundant reference export. The large converted tables still require rendering review, and full factual, citation-quality, and current-link verification remain required before publication.
   number: '112'
   organization: Marginalia
-  period: ''
-  period_covered: ''
+  period: post-1970 United States
+  period_covered: 1970s-present
   population_focus: ''
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: United States
+  region_focus: United States
+  scope: selected federal policy settlements, repeal efforts, regulatory reversals, and bipartisan institutional continuity
+  scope_years: 1970s-present
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: executive summary, scope, theoretical lenses, mechanisms, comparative cases, measurable outcomes, assessment, and limitations
   subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  subject: Republican Party and durable governing orders
+  time_scope: contemporary United States political history
+  time_span: 1970s-present
   topic: Republicans as Moderating Opposition Without a Rival Order
   type: report
-  version: 1.0.0
+  version: 1.0.2
   year: 2026
 report-no: '112'
 report-number: '112'
@@ -115,7 +116,7 @@ report_no: 112
 report_number: 112
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 112
@@ -127,7 +128,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: republicans-as-moderating-opposition-without-a-rival-order
-status: complete
+status: review
 subject:
 - Politics
 - History
@@ -151,5 +152,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...

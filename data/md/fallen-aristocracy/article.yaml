@@ -29,6 +29,7 @@ description: A comparative inquiry into whether displaced nobles and demoted her
   influence on major historical transitions.
 draft: true
 edition: '1.0'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -51,7 +52,7 @@ keywords:
 - White emigres
 lang: en
 language: English
-lastmod: '2026-05-04'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: D13
@@ -90,7 +91,7 @@ report:
   - case study synthesis
   - counterfactual reasoning
   name: Fallen Aristocracy
-  notes: ''
+  notes: Academic body structure and perspective were normalized on 2026-08-19. The article is now in review pending source-quality, factual, citation-format, and current-link verification before publication.
   number: 099
   organization: Marginalia
   period: 1453-20th century
@@ -103,14 +104,14 @@ report:
   scope_years: 1453-20th century
   series: comparative-historical-studies
   stance: analytical
-  structure: methodology plus comparative case study table and conclusion
+  structure: executive summary, methodology, comparative case table, analytical discussion, causal model, conclusions, and limitations
   subdiscipline: elite studies and historical sociology
   subject: fallen aristocrats and historical change
   time_scope: comparative long-run history
   time_span: 1453-20th century
   topic: Fallen Aristocracy
   type: report
-  version: 1.0.0
+  version: 1.0.2
   year: 2026
 report-no: 099
 report-number: 099
@@ -119,7 +120,7 @@ report_no: 99
 report_number: 99
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.2
 rights: CC0-1.0
 series: comparative-historical-studies
 series-number: 99
@@ -131,7 +132,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: fallen-aristocracy
-status: draft
+status: review
 subject:
 - Aristocracy
 - Elite decline
@@ -158,5 +159,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
