@@ -87,7 +87,7 @@ report:
   method: comparative policy-history synthesis
   methods: []
   name: Republicans as Moderating Opposition Without a Rival Order
-  notes: Legacy complete state returned to review when substantively touched under the new editorial standard; full lint, citation, and current-link verification remain required before publication.
+  notes: Academic perspective and conversion residue were partially normalized on 2026-08-19, including canonical asset migration and removal of the redundant reference export. The large converted tables still require rendering review, and full factual, citation-quality, and current-link verification remain required before publication.
   number: '112'
   organization: Marginalia
   period: post-1970 United States
@@ -100,14 +100,14 @@ report:
   scope_years: 1970s-present
   series: Marginalia Reports
   stance: neutral analytical
-  structure: analytical policy-history report
+  structure: executive summary, scope, theoretical lenses, mechanisms, comparative cases, measurable outcomes, assessment, and limitations
   subdiscipline: history and social analysis
   subject: Republican Party and durable governing orders
   time_scope: contemporary United States political history
   time_span: 1970s-present
   topic: Republicans as Moderating Opposition Without a Rival Order
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: '112'
 report-number: '112'
@@ -116,7 +116,7 @@ report_no: 112
 report_number: 112
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 112
