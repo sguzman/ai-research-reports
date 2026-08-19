@@ -27,8 +27,9 @@ dataset_id: ''
 date: '2026-06-02'
 description: An analysis of the distinct failure mode of liberal political economy, focusing on chronic
   disembedding, social fragmentation, and managed dependency.
-draft: false
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -53,7 +54,7 @@ keywords:
 - Social Disembedding
 lang: en
 language: English
-lastmod: '2026-06-02'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: JA
@@ -77,38 +78,38 @@ report:
     source_docx: ''
     tool: ''
   discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
+  domain: political economy and social theory
+  emphasis: social disembedding, commodification, bureaucracy, and managed dependency
+  focus: whether liberal political economy weakens thick social bonds and reconstructs coordination through mediated institutions
   id: urn:marginalia:liberalism-social-disembedding-and-managed-dependency
-  intent: ''
+  intent: evaluate a social-disembedding thesis through political theory, historical sociology, and comparative social evidence
   is_report: true
   kind: research report
   level: ''
-  method: ''
+  method: theoretical synthesis with historical and comparative empirical evidence
   methods: []
   name: Liberalism, Social Disembedding, and Managed Dependency
-  notes: ''
+  notes: Earlier direct-address cleanup was completed in June 2026. The legacy complete state was moved to review when first substantively touched under the new editorial standard; full factual, citation-quality, asset, and current-link verification remain required before publication.
   number: '107'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: modern and contemporary liberal political economy
+  period_covered: nineteenth century-present
+  population_focus: citizens, workers, households, and communities under liberal-capitalist institutions
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: comparative Western democracies
+  region_focus: United States and Europe with broader theoretical comparison
+  scope: liberalism, capitalism, welfare-state counter-movements, neoliberalism, civic trust, social ties, and mediated dependency
+  scope_years: nineteenth century-present
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  stance: neutral analytical
+  structure: executive summary, conceptual framework, historical development, empirical evidence, counterarguments, and synthesis
+  subdiscipline: political economy, historical sociology, and social theory
+  subject: liberalism, social disembedding, and institutional dependency
+  time_scope: modern comparative political economy
+  time_span: nineteenth century-present
   topic: Liberalism, Social Disembedding, and Managed Dependency
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '107'
 report-number: '107'
@@ -117,7 +118,7 @@ report_no: 107
 report_number: 107
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 107
@@ -129,7 +130,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: liberalism-social-disembedding-and-managed-dependency
-status: complete
+status: review
 subject:
 - Politics
 - History
@@ -154,5 +155,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
