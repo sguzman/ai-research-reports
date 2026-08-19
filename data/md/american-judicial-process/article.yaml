@@ -31,6 +31,7 @@ description: A structured guide to U.S. judges and judicial offices across feder
   including tenure, appointment, elections, powers, and pay.
 draft: true
 edition: '1.0'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -55,7 +56,7 @@ keywords:
 - administrative law judges
 lang: en
 language: English
-lastmod: '2026-04-30'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: KF
@@ -83,14 +84,14 @@ report:
   emphasis: ''
   focus: ''
   id: urn:gva:american-judicial-process
-  intent: ''
+  intent: institutional reference
   is_report: true
   kind: institutional overview
   level: ''
   method: ''
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: ''
+  notes: Canonical copy of the judicial-process report. The later report-096 package is an exact-body duplicate and is archived separately. Body remains draft pending prompt-residue, citation-title, and diagram cleanup.
   number: 095
   organization: Marginalia
   period: ''
@@ -102,15 +103,15 @@ report:
   scope: federal + representative state systems + powers + selection + compensation
   scope_years: ''
   series: american-law-guides
-  stance: ''
-  structure: ''
+  stance: neutral
+  structure: institutional overview
   subdiscipline: united states law
-  subject: ''
+  subject: judges and judicial administration
   time_scope: ''
   time_span: ''
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 095
 report-number: 095
@@ -119,7 +120,7 @@ report_no: 95
 report_number: 95
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: american-law-guides
 series-number: 95
@@ -159,5 +160,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
