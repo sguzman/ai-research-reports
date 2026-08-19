@@ -6,6 +6,8 @@
 
 The linter implements the mechanically safe subset of [`../EDITORIAL_STANDARD.md`](../EDITORIAL_STANDARD.md): universal AI-residue/structure/asset checks plus perspective checks selected by `editorial_profile`. Legacy articles with no profile are reported as `unclassified_profile`; the tool deliberately does **not** infer a profile and therefore does not apply academic perspective rules to them.
 
+Local dependency validation covers both ordinary Markdown links/images and converted HTML `<img src="…">` / `<a href="…">` references. Local targets must stay inside the article package and resolve to real files; canonical local support belongs under `assets/`, with legacy locations treated as warnings in draft/review and errors once an article is ready or published.
+
 Examples:
 
 ```bash
