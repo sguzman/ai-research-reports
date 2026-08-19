@@ -25,8 +25,9 @@ dataset_id: ''
 date: '2026-06-03'
 description: An analysis of whether liberal democracies inherently produce intergenerational warfare through
   pay-as-you-go systems, debt, and age-skewed turnout.
-draft: false
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -48,7 +49,7 @@ keywords:
 - Public Debt
 lang: en
 language: English
-lastmod: '2026-06-03'
+lastmod: '2026-08-19'
 layout: ''
 library_of_congress_classification:
   class: JA
@@ -73,37 +74,37 @@ report:
     tool: ''
   discipline: political science
   domain: politics
-  emphasis: ''
-  focus: ''
+  emphasis: age-skewed political power, welfare finance, debt, and cohort distribution
+  focus: conditions under which liberal-democratic institutions can transfer burdens from present voters to younger and future cohorts
   id: urn:marginalia:intergenerational-extraction-in-liberal-democracies
-  intent: ''
+  intent: evaluate a conditional intergenerational-extraction thesis across demographic and political-economic evidence
   is_report: true
   kind: research report
   level: ''
-  method: ''
+  method: comparative political-economy synthesis
   methods: []
   name: Intergenerational Extraction in Liberal Democracies
-  notes: ''
+  notes: Legacy complete state returned to review when substantively touched under the new editorial standard; full lint, citation, and current-link verification remain required before publication.
   number: '109'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: contemporary aging democracies
+  period_covered: late twentieth century-present
+  population_focus: younger, older, and future cohorts
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: comparative OECD democracies
+  region_focus: United States, Japan, Germany, and Israel
+  scope: age-skewed turnout, fertility, welfare finance, public debt, housing, and intergenerational distribution
+  scope_years: late twentieth century-present
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  stance: neutral analytical
+  structure: comparative analytical report
+  subdiscipline: political economy and demography
+  subject: intergenerational distribution in liberal democracies
+  time_scope: contemporary comparative politics
+  time_span: late twentieth century-present
   topic: Intergenerational Extraction in Liberal Democracies
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '109'
 report-number: '109'
@@ -112,7 +113,7 @@ report_no: 109
 report_number: 109
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 109
@@ -124,7 +125,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: intergenerational-extraction-in-liberal-democracies
-status: complete
+status: review
 subject:
 - Politics
 - History
@@ -146,5 +147,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
