@@ -30,6 +30,8 @@ RAW_CHAT_CITATION_RE = re.compile(r"【[^】]*\d+[^】]*】")
 PANDOC_NUMBERED_LINK_RE = re.compile(r"\[\\\[\d+\\\]\]\(https?://", re.I)
 BROKEN_SCHEME_RE = re.compile(r"\[[^\]]+\]\(\s*https?:\s+//", re.I)
 MARKDOWN_TARGET_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)\n]+)\)")
+HTML_IMG_RE = re.compile(r"<img\b[^>]*\bsrc\s*=\s*[\"']([^\"']+)[\"'][^>]*>", re.I)
+HTML_LINK_RE = re.compile(r"<a\b[^>]*\bhref\s*=\s*[\"']([^\"']+)[\"'][^>]*>", re.I)
 FENCED_BLOCK_RE = re.compile(r"(?ms)^```[^\n]*\n.*?^```\s*$")
 INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
 MERMAID_RE = re.compile(r"(?ms)^```mermaid\s*\n(.*?)^```\s*$")
@@ -113,6 +115,8 @@ def iter_packages(slug: str | None) -> Iterable[Path]:
 def prose_only(body: str) -> str:
     text = FENCED_BLOCK_RE.sub("", body)
     text = INLINE_CODE_RE.sub("", text)
+    text = HTML_IMG_RE.sub("", text)
+    text = HTML_LINK_RE.sub("", text)
     return MARKDOWN_TARGET_RE.sub(lambda m: m.group(2), text)
 
 
@@ -135,28 +139,36 @@ def check_targets(folder: Path, body: str, status: str, findings: list[Finding])
     package_root = folder.resolve()
     assets_root = (folder / "assets").resolve()
 
-    for match in MARKDOWN_TARGET_RE.finditer(body):
-        kind = "image" if match.group(1) else "file link"
-        raw = match.group(3).strip()
+    def check_one(kind: str, raw: str) -> None:
         target = local_target(folder, raw)
         if target is None:
-            continue
+            return
         try:
             target.relative_to(package_root)
         except ValueError:
             add(findings, "error", "local_target_outside_package", slug,
                 f"{kind} escapes the article package: {raw!r}", body_path)
-            continue
+            return
         if not target.is_file():
             add(findings, "error", "missing_local_target", slug,
                 f"missing local {kind}: {raw!r}", body_path)
-            continue
+            return
         try:
             target.relative_to(assets_root)
         except ValueError:
             severity = "error" if status in PUBLIC_STATUSES else "warning"
             add(findings, severity, "legacy_asset_location", slug,
                 f"{kind} resolves inside the package but outside canonical assets/: {raw!r}", body_path)
+
+    for match in MARKDOWN_TARGET_RE.finditer(body):
+        kind = "image" if match.group(1) else "file link"
+        check_one(kind, match.group(3).strip())
+
+    for match in HTML_IMG_RE.finditer(body):
+        check_one("HTML image", match.group(1).strip())
+
+    for match in HTML_LINK_RE.finditer(body):
+        check_one("HTML file link", match.group(1).strip())
 
 
 def check_diagrams(folder: Path, body: str, status: str, findings: list[Finding]) -> None:
