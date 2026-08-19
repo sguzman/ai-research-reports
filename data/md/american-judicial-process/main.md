@@ -1,4 +1,4 @@
-# Judges in the Judicial Process of the United States[\[1\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges)
+# Judges in the Judicial Process of the United States
 
 ## Executive Summary
 
@@ -6,11 +6,11 @@ In the American system, “judge” is not a single office. At the federal level
 
 The single clearest divide is between federal Article III judges and everyone else. Justices of the Supreme Court and federal circuit and district judges receive life tenure during “good Behaviour” and salary protection against diminution while in office. Bankruptcy judges, magistrate judges, and administrative law judges do not. Bankruptcy judges serve renewable 14-year terms, magistrate judges serve renewable 8-year full-time terms (4-year part-time terms), and federal administrative law judges are executive-branch adjudicators appointed under statute, protected from removal except for good cause found after prescribed procedures. [\[3\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/)
 
-How judges obtain office is likewise bifurcated. Federal Article III judges are nominated by the President and confirmed by the Senate; the Senate Judiciary Committee is the gatekeeping committee for Article III nominations. State systems are radically more varied. Some states use partisan or nonpartisan elections, some use commission-based merit selection followed by retention elections, some use gubernatorial appointment with little or no public vote, and a few use legislative election. Because the user did not specify a state, the state discussion below is expressly representative rather than exhaustive for every court in every state. [\[4\]](https://constitution.congress.gov/browse/article-2/section-2/clause-2/)
+How judges obtain office is likewise bifurcated. Federal Article III judges are nominated by the President and confirmed by the Senate; the Senate Judiciary Committee is the gatekeeping committee for Article III nominations. State systems are radically more varied. Some states use partisan or nonpartisan elections, some use commission-based merit selection followed by retention elections, some use gubernatorial appointment with little or no public vote, and a few use legislative election. Because state law varies substantially, the state discussion is representative rather than exhaustive for every court in every state. [\[4\]](https://constitution.congress.gov/browse/article-2/section-2/clause-2/)
 
 Judicial power is broad but not unlimited. Judges decide cases within jurisdiction, interpret constitutions and statutes, sentence criminal defendants, manage proceedings, issue remedies, punish contempt, and participate in rulemaking and court administration. But every one of those powers is constrained by jurisdictional limits, appellate review, statutory design, ethics rules, recusal requirements, budgetary and structural controls by the political branches, and—especially in the states—selection systems that can expose judges to electoral or partisan pressure. Landmark cases such as *Marbury v. Madison*, *Martin v. Hunter’s Lessee*, *Cooper v. Aaron*, *Mistretta v. United States*, *United States v. Booker*, and *Lucia v. SEC* illustrate the boundaries and reach of judicial authority. [\[5\]](https://constitution.congress.gov/browse/essay/artIII-S1-3/ALDE_00013514/)
 
-Current federal judicial pay is comparatively easy to state because the Administrative Office of the U.S. Courts publishes a single national salary table: in 2026, district judges earn \$249,900, circuit judges \$264,900, Associate Justices \$306,600, and the Chief Justice \$320,700. Current 2026 public notices list both bankruptcy judges and full-time magistrate judges at \$229,908. State pay, by contrast, varies widely by court level, state budget cycle, supplements, locality, and years of service. Representative recent figures reviewed for this report range from a Texas district-judge base salary of \$175,000 to Arizona superior-court judges at \$200,000 and Virginia circuit judges at \$220,254; Florida’s reviewed itemized figures were for FY 2024–25, with a later 2 percent increase announced for July 1, 2025, but not itemized in the source reviewed. [\[6\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation)
+Current federal judicial pay is comparatively easy to state because the Administrative Office of the U.S. Courts publishes a single national salary table: in 2026, district judges earn \$249,900, circuit judges \$264,900, Associate Justices \$306,600, and the Chief Justice \$320,700. Current 2026 public notices list both bankruptcy judges and full-time magistrate judges at \$229,908. State pay, by contrast, varies widely by court level, state budget cycle, supplements, locality, and years of service. Representative recent figures in the reviewed sources range from a Texas district-judge base salary of \$175,000 to Arizona superior-court judges at \$200,000 and Virginia circuit judges at \$220,254; Florida’s reviewed itemized figures were for FY 2024–25, with a later 2 percent increase announced for July 1, 2025, but not itemized in the source reviewed. [\[6\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation)
 
 ## Institutional Structure and Roles
 
@@ -40,20 +40,21 @@ Federal administrative law judges are also paid differently from Article III jud
 
 For federal Article III judgeships, the constitutional rule is simple: the President nominates and, with the Senate’s advice and consent, appoints. In practice, the steps are more layered. First, a vacancy exists in a judgeship Congress has created. Second, the President selects a nominee and formally sends the nomination to the Senate. Third, the nomination is referred to the United States Senate Committee on the Judiciary[\[20\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation), the committee charged with Article III nominations. Fourth, the committee gathers written materials, typically including a detailed public questionnaire, and may hold a public hearing. Fifth, the committee may vote in executive business meeting to report or not report the nomination. Sixth, the nomination proceeds to the floor of the United States Senate[\[21\]](https://supremecourt.flcourts.gov/the-court/about-the-court/justices/merit-selection-retention-retirement) for debate and a confirmation vote. Under current Senate precedents, debate on nominations can be ended by a simple majority, and in most cases a simple majority confirms. Seventh, after confirmation, the appointment is completed through the constitutional appointment process and the judge assumes office after the required formalities. [\[22\]](https://constitution.congress.gov/browse/article-2/section-2/clause-2/)
 
-    flowchart LR
-        A[Vacancy in an authorized judgeship] --> B[President selects nominee]
-        B --> C[Nomination sent to Senate]
-        C --> D[Referral to Senate Judiciary Committee]
-        D --> E[Questionnaire, background review, and possible hearing]
-        E --> F[Committee executive business meeting and vote]
-        F --> G[Placed on Senate Executive Calendar]
-        G --> H[Floor debate and, if needed, cloture by simple majority]
-        H --> I[Senate confirmation by simple majority]
-        I --> J[Appointment completed and oath taken]
+The sequence can be summarized as follows:
+
+1. A vacancy exists in an authorized federal judgeship.
+2. The President selects a nominee and sends the nomination to the Senate.
+3. The nomination is referred to the Senate Judiciary Committee.
+4. The committee conducts questionnaire, background-review, and hearing procedures as applicable.
+5. The committee decides whether to report the nomination.
+6. A reported nomination is placed on the Senate Executive Calendar.
+7. The Senate considers the nomination, including cloture when necessary under current rules.
+8. Confirmation requires a simple majority of senators voting.
+9. The appointment is completed and the judge takes the required oath.
 
 The modern floor phase is politically consequential. CRS identifies party control, the number of vacancies, the Senate calendar, support from home-state senators, and the committee’s blue-slip practice as factors that materially affect whether nominees advance. That means the constitutional process is stable, but the speed and ease of confirmation are not. [\[23\]](https://crsreports.congress.gov/product/details?prodcode=R46533)
 
-State processes are not uniform. Because no specific state was identified, the table below gives representative state models rather than pretending there is one “state process.”
+State processes are not uniform. The table below therefore gives representative state models rather than implying a single state process.
 
 | Model | Representative jurisdiction | Core procedure | Typical reselection / term pattern | Sources |
 |----|----|----|----|----|
@@ -64,18 +65,18 @@ State processes are not uniform. Because no specific state was identified, the t
 | Gubernatorial appointment with commission confirmation and public confirmation | California[\[32\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected) | Governor appoints appellate justice; Commission on Judicial Appointments holds a public hearing and must confirm; voters then confirm at the next general election. | California Supreme Court and Court of Appeal justices have 12-year terms. | [\[33\]](https://courts.ca.gov/about/state-branch-resources/commission-judicial-appointments) |
 | Legislative election | Virginia[\[34\]](https://www.floridabar.org/the-florida-bar-news/judicial-branch-receives-a-budget-boost/) | Candidate is elected by majority vote of both houses of the General Assembly; governor may make interim appointments when the legislature is out of session. | Virginia Supreme Court justices serve 12 years; circuit judges 8 years; district judges 6 years. | [\[35\]](https://www.vacourts.gov/courts/scv/scvinfo.pdf) |
 
-One useful way to visualize state variation is to look at courts of last resort rather than all courts, because selection methods often vary by court level. The chart below is a harmonized, illustrative coding of high-court initial-selection models across the 50 states plus the District of Columbia; it treats New Mexico[\[36\]](https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A401+edition%3Aprelim%29) as a hybrid because its system combines gubernatorial appointment and partisan election, treats Hawaii[\[37\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) separately because it uses commission-based reselection rather than elections or normal legislative reappointment, and treats the District of Columbia[\[38\]](https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries) separately because its local court judges are federally appointed. That harmonization is necessary because the leading national tallies otherwise overlap on hybrid systems. [\[39\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected)
+One useful way to visualize state variation is to look at courts of last resort rather than all courts, because selection methods often vary by court level. The coding below is a harmonized, illustrative classification of high-court initial-selection models across the 50 states plus the District of Columbia; it treats New Mexico[\[36\]](https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A401+edition%3Aprelim%29) as a hybrid because its system combines gubernatorial appointment and partisan election, treats Hawaii[\[37\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) separately because it uses commission-based reselection rather than elections or normal legislative reappointment, and treats the District of Columbia[\[38\]](https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries) separately because its local court judges are federally appointed. That harmonization is necessary because the leading national tallies otherwise overlap on hybrid systems. [\[39\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected)
 
-    pie showData
-        title Illustrative coding of highest-court selection models
-        "Merit selection + retention" : 16
-        "Contested nonpartisan election" : 14
-        "Contested partisan election" : 7
-        "Hybrid appointment + partisan election" : 1
-        "Gubernatorial appointment, no retention election" : 9
-        "Legislative election" : 2
-        "Commission reappointment" : 1
-        "Federal appointment in D.C." : 1
+| Illustrative highest-court selection model | Jurisdictions |
+|----|---:|
+| Merit selection + retention | 16 |
+| Contested nonpartisan election | 14 |
+| Contested partisan election | 7 |
+| Hybrid appointment + partisan election | 1 |
+| Gubernatorial appointment, no retention election | 9 |
+| Legislative election | 2 |
+| Commission reappointment | 1 |
+| Federal appointment in D.C. | 1 |
 
 ## Tenure, Removal, Compensation, and Career Paths
 
@@ -143,166 +144,8 @@ The most important analytical bottom line is this: judges are powerful because t
 
 ## Open Questions and Limitations
 
-This report is strongest on federal law and on representative state examples with accessible official materials. It is less uniform on state-by-state benefits and salary comparability because states publish compensation and retirement information in different formats and budget cycles, and because some compensation systems rely on supplements or formulas rather than a single statewide number. NCSC itself treats state retirement information as a separate dataset because the plans are not standardized. [\[71\]](https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries)
+The evidence is strongest on federal law and on representative state examples with accessible official materials. It is less uniform on state-by-state benefits and salary comparability because states publish compensation and retirement information in different formats and budget cycles, and because some compensation systems rely on supplements or formulas rather than a single statewide number. NCSC itself treats state retirement information as a separate dataset because the plans are not standardized. [\[71\]](https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries)
 
 The appointment-method chart is intentionally labeled as a harmonized illustration rather than a definitive universal coding because state high-court selection categories overlap in hybrid jurisdictions, especially New Mexico, and because Hawaii and the District of Columbia do not fit neatly into the most common categories. [\[72\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected)
 
 Florida compensation is the clearest example of a current data gap. The reviewed sources itemized FY 2024–25 judicial salaries and separately reported a 2 percent increase effective July 1, 2025, but did not provide the revised itemized salary table in the source reviewed here. Accordingly, the Florida figures above are stated conservatively and transparently. [\[52\]](https://www.floridabar.org/the-florida-bar-news/judicial-branch-receives-a-budget-boost/)
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges) [\[53\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges) https://www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges
-
-<https://www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges>
-
-[\[2\]](https://constitution.congress.gov/browse/article-3/section-1/) [\[8\]](https://constitution.congress.gov/browse/article-3/section-1/) [\[10\]](https://constitution.congress.gov/browse/article-3/section-1/) [\[28\]](https://constitution.congress.gov/browse/article-3/section-1/) https://constitution.congress.gov/browse/article-3/section-1/
-
-<https://constitution.congress.gov/browse/article-3/section-1/>
-
-[\[3\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) [\[37\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) [\[40\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) [\[65\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) [\[70\]](https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/) https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/
-
-<https://constitution.congress.gov/browse/essay/artIII-S1-10-2-3/ALDE_00000686/>
-
-[\[4\]](https://constitution.congress.gov/browse/article-2/section-2/clause-2/) [\[22\]](https://constitution.congress.gov/browse/article-2/section-2/clause-2/) https://constitution.congress.gov/browse/article-2/section-2/clause-2/
-
-<https://constitution.congress.gov/browse/article-2/section-2/clause-2/>
-
-[\[5\]](https://constitution.congress.gov/browse/essay/artIII-S1-3/ALDE_00013514/) [\[56\]](https://constitution.congress.gov/browse/essay/artIII-S1-3/ALDE_00013514/) [\[59\]](https://constitution.congress.gov/browse/essay/artIII-S1-3/ALDE_00013514/) https://constitution.congress.gov/browse/essay/artIII-S1-3/ALDE_00013514/
-
-<https://constitution.congress.gov/browse/essay/artIII-S1-3/ALDE_00013514/>
-
-[\[6\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) [\[20\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) [\[43\]](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) Judicial Compensation
-
-<https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation>
-
-[\[7\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected) [\[32\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected) [\[39\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected) [\[72\]](https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected) https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected
-
-<https://www.brennancenter.org/our-work/research-reports/how-state-judges-are-selected>
-
-[\[9\]](https://www.vacourts.gov/) [\[18\]](https://www.vacourts.gov/) https://www.vacourts.gov/
-
-<https://www.vacourts.gov/>
-
-[\[11\]](https://www.uscourts.gov/about-federal-courts/types-federal-judges) [\[16\]](https://www.uscourts.gov/about-federal-courts/types-federal-judges) [\[17\]](https://www.uscourts.gov/about-federal-courts/types-federal-judges) [\[30\]](https://www.uscourts.gov/about-federal-courts/types-federal-judges) [\[41\]](https://www.uscourts.gov/about-federal-courts/types-federal-judges) https://www.uscourts.gov/about-federal-courts/types-federal-judges
-
-<https://www.uscourts.gov/about-federal-courts/types-federal-judges>
-
-[\[12\]](https://www.uscourts.gov/about-federal-courts/court-role-and-structure) https://www.uscourts.gov/about-federal-courts/court-role-and-structure
-
-<https://www.uscourts.gov/about-federal-courts/court-role-and-structure>
-
-[\[13\]](https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide) [\[14\]](https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide) [\[15\]](https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide) [\[24\]](https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide) [\[64\]](https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide) https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide
-
-<https://www.uscourts.gov/data-news/reports/handbooks-manuals/a-journalists-guide-federal-courts/judges-and-judicial-administration-journalists-guide>
-
-[\[19\]](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx) https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx
-
-<https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx>
-
-[\[21\]](https://supremecourt.flcourts.gov/the-court/about-the-court/justices/merit-selection-retention-retirement) [\[29\]](https://supremecourt.flcourts.gov/the-court/about-the-court/justices/merit-selection-retention-retirement) https://supremecourt.flcourts.gov/the-court/about-the-court/justices/merit-selection-retention-retirement
-
-<https://supremecourt.flcourts.gov/the-court/about-the-court/justices/merit-selection-retention-retirement>
-
-[\[23\]](https://crsreports.congress.gov/product/details?prodcode=R46533) https://crsreports.congress.gov/product/details?prodcode=R46533
-
-<https://crsreports.congress.gov/product/details?prodcode=R46533>
-
-[\[25\]](https://www.txcourts.gov/media/1461313/judge-qualifications-and-selection-chart-2025.pdf) https://www.txcourts.gov/media/1461313/judge-qualifications-and-selection-chart-2025.pdf
-
-<https://www.txcourts.gov/media/1461313/judge-qualifications-and-selection-chart-2025.pdf>
-
-[\[26\]](https://budget.lis.virginia.gov/item/2025/1/HB1600/Chapter/1/34/) [\[50\]](https://budget.lis.virginia.gov/item/2025/1/HB1600/Chapter/1/34/) https://budget.lis.virginia.gov/item/2025/1/HB1600/Chapter/1/34/
-
-<https://budget.lis.virginia.gov/item/2025/1/HB1600/Chapter/1/34/>
-
-[\[27\]](https://www.courts.michigan.gov/4999c7/siteassets/msc-learning-center/justitia_judges.pdf) https://www.courts.michigan.gov/4999c7/siteassets/msc-learning-center/justitia_judges.pdf
-
-<https://www.courts.michigan.gov/4999c7/siteassets/msc-learning-center/justitia_judges.pdf>
-
-[\[31\]](https://www.azcourts.gov/meetthejustices/) https://www.azcourts.gov/meetthejustices/
-
-<https://www.azcourts.gov/meetthejustices/>
-
-[\[33\]](https://courts.ca.gov/about/state-branch-resources/commission-judicial-appointments) https://courts.ca.gov/about/state-branch-resources/commission-judicial-appointments
-
-<https://courts.ca.gov/about/state-branch-resources/commission-judicial-appointments>
-
-[\[34\]](https://www.floridabar.org/the-florida-bar-news/judicial-branch-receives-a-budget-boost/) [\[52\]](https://www.floridabar.org/the-florida-bar-news/judicial-branch-receives-a-budget-boost/) https://www.floridabar.org/the-florida-bar-news/judicial-branch-receives-a-budget-boost/
-
-<https://www.floridabar.org/the-florida-bar-news/judicial-branch-receives-a-budget-boost/>
-
-[\[35\]](https://www.vacourts.gov/courts/scv/scvinfo.pdf) https://www.vacourts.gov/courts/scv/scvinfo.pdf
-
-<https://www.vacourts.gov/courts/scv/scvinfo.pdf>
-
-[\[36\]](https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A401+edition%3Aprelim%29) [\[63\]](https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A401+edition%3Aprelim%29) https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A401+edition%3Aprelim%29
-
-<https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A401+edition%3Aprelim%29>
-
-[\[38\]](https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries) [\[71\]](https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries) https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries
-
-<https://www.ncsc.org/resources-courts/state-state-tracking-judicial-salaries>
-
-[\[42\]](https://newsroom.courts.ca.gov/faq/how-are-justices-supreme-court-selected) https://newsroom.courts.ca.gov/faq/how-are-justices-supreme-court-selected
-
-<https://newsroom.courts.ca.gov/faq/how-are-justices-supreme-court-selected>
-
-[\[44\]](https://www.flmd.uscourts.gov/announcements/public-notice-appointment-magistrate-judge-tpa) https://www.flmd.uscourts.gov/announcements/public-notice-appointment-magistrate-judge-tpa
-
-<https://www.flmd.uscourts.gov/announcements/public-notice-appointment-magistrate-judge-tpa>
-
-[\[45\]](https://www.uscourts.gov/careers/current-job-openings/137761) https://www.uscourts.gov/careers/current-job-openings/137761
-
-<https://www.uscourts.gov/careers/current-job-openings/137761>
-
-[\[46\]](https://www.azleg.gov/legtext/56leg/2R/summary/S.2897-1735APPROP_ASENACTED.pdf) [\[48\]](https://www.azleg.gov/legtext/56leg/2R/summary/S.2897-1735APPROP_ASENACTED.pdf) https://www.azleg.gov/legtext/56leg/2R/summary/S.2897-1735APPROP_ASENACTED.pdf
-
-<https://www.azleg.gov/legtext/56leg/2R/summary/S.2897-1735APPROP_ASENACTED.pdf>
-
-[\[47\]](https://www.azcourts.gov/Portals/0/News%20Release-Applications%20Being%20Accepted-McMurdie.pdf) https://www.azcourts.gov/Portals/0/News%20Release-Applications%20Being%20Accepted-McMurdie.pdf
-
-<https://www.azcourts.gov/Portals/0/News%20Release-Applications%20Being%20Accepted-McMurdie.pdf>
-
-[\[49\]](https://budget.lis.virginia.gov/item/2024/2/HB6001/Introduced/1/1-33/) https://budget.lis.virginia.gov/item/2024/2/HB6001/Introduced/1/1-33/
-
-<https://budget.lis.virginia.gov/item/2024/2/HB6001/Introduced/1/1-33/>
-
-[\[51\]](https://www.txcourts.gov/media/1460947/judicial-salaries-effective-september-2025-updated-7-24-25.pdf) https://www.txcourts.gov/media/1460947/judicial-salaries-effective-september-2025-updated-7-24-25.pdf
-
-<https://www.txcourts.gov/media/1460947/judicial-salaries-effective-september-2025-updated-7-24-25.pdf>
-
-[\[54\]](https://www.judiciary.senate.gov/imo/media/doc/Talley%20SJQ.pdf) https://www.judiciary.senate.gov/imo/media/doc/Talley%20SJQ.pdf
-
-<https://www.judiciary.senate.gov/imo/media/doc/Talley%20SJQ.pdf>
-
-[\[55\]](https://constitution.congress.gov/browse/article-3/section-2/clause-1/) https://constitution.congress.gov/browse/article-3/section-2/clause-1/
-
-<https://constitution.congress.gov/browse/article-3/section-2/clause-1/>
-
-[\[57\]](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section3553) [\[61\]](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section3553) https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section3553
-
-<https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section3553>
-
-[\[58\]](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section2071) [\[62\]](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section2071) https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section2071
-
-<https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section2071>
-
-[\[60\]](https://constitution.congress.gov/browse/essay/artIII-S1-6-5/ALDE_00013233/) https://constitution.congress.gov/browse/essay/artIII-S1-6-5/ALDE_00013233/
-
-<https://constitution.congress.gov/browse/essay/artIII-S1-6-5/ALDE_00013233/>
-
-[\[66\]](https://iaals.du.edu/sites/default/files/documents/publications/judge_faq.pdf) https://iaals.du.edu/sites/default/files/documents/publications/judge_faq.pdf
-
-<https://iaals.du.edu/sites/default/files/documents/publications/judge_faq.pdf>
-
-[\[67\]](https://www.uscourts.gov/administration-policies/judiciary-policies/ethics-policies/code-conduct-united-states-judges) https://www.uscourts.gov/administration-policies/judiciary-policies/ethics-policies/code-conduct-united-states-judges
-
-<https://www.uscourts.gov/administration-policies/judiciary-policies/ethics-policies/code-conduct-united-states-judges>
-
-[\[68\]](https://media.cadc.uscourts.gov/conduct/docs/2025/09/DC-25-90005.PO.O.pdf) https://media.cadc.uscourts.gov/conduct/docs/2025/09/DC-25-90005.PO.O.pdf
-
-<https://media.cadc.uscourts.gov/conduct/docs/2025/09/DC-25-90005.PO.O.pdf>
-
-[\[69\]](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section351) https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section351
-
-<https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title28-section351>
