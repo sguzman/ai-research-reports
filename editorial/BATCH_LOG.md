@@ -4,6 +4,25 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-20
 
+### PR #20 — Rewrite Savonius guide under technical profile
+
+Packages:
+- `savonius-wind-turbines-comprehensive-design-diy-guide`
+
+Result:
+- classified the artifact as `guide` / `technical` / `instructional` and moved legacy `complete` to fail-closed `review`;
+- replaced the conversion-heavy DIY recipe with an engineering design/prototype guide whose worked calculations are explicitly illustrative rather than universal specifications;
+- corrected the tip-speed/RPM relation, the inconsistent power/electrical-output tables, the erroneous 5 m/s daily-energy claim, and the undersized 6 m/s design example;
+- replaced cubed-annual-mean-wind reasoning with a power-curve/wind-frequency approach consistent with current DOE small-wind guidance;
+- corrected Betz-limit framing and removed universal TSR/geometry claims that the underlying Savonius literature does not justify across configurations;
+- repaired the absolute workstation image path to canonical `assets/media/rId31.png`;
+- removed orphaned ChatGPT/export markers, raw Mermaid/Gantt source, and the redundant conversion-generated reference export;
+- replaced generic shaft/bearing/tower dimensions and a universal $450–800 BOM with design-dependent requirements and a quotation-based engineering worksheet;
+- strengthened safety boundaries using DOE, IEC 61400-2, and OSHA 29 CFR 1910.252, including rooftop turbulence/vibration, used-container hot work, positive overspeed protection, loss-of-load behavior, electrical interconnection, and structural/foundation design;
+- added a rich article-local changelog.
+
+Remaining blockers: provenance/publication rights for the retained conceptual image, duplicate-candidate review, and final rendered-publication inspection. The article remains `review` rather than being promoted on the strength of prose cleanup alone.
+
 ### PR #17 — Clean stylized Nietzschean essay without neutralizing voice
 
 Packages:
@@ -192,6 +211,7 @@ The following PRs changed editorial infrastructure rather than article packages:
 - PR #3 — pull-request editorial lint workflow;
 - PR #5 — HTML local-asset validation;
 - PR #10 — duplicate/merge/synthesis policy and read-only duplicate detector;
-- PR #18 — technical/instructional editorial profile.
+- PR #18 — technical/instructional editorial profile;
+- PR #19 — persistent editorial queue, batch log, changelog coverage audit, queue reporter, and same-PR changelog enforcement.
 
 Future batches should append here after their final disposition is known.
