@@ -10,6 +10,7 @@
 # - Do not invent substantive values merely to fill blanks.
 # - `report` is the controlled extension area for report-specific metadata.
 # - `type`, `editorial_profile`, and `voice` describe different dimensions.
+# - document relationships are independent of lifecycle state.
 
 # Identity and display
 title: ""
@@ -64,6 +65,29 @@ library_of_congress_classification:
   class: ""
   label: ""
   description: ""
+
+# Inter-document relationships.
+# Values are canonical slugs. Leave unresolved/empty rather than inventing links.
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ""
+  related: []
+
+# Operator-controlled editorial decisions.
+editorial:
+  duplicate_review:
+    # pending | reviewed | not-applicable
+    status: ""
+    # independent | exact-duplicate | near-duplicate | derived | fork | merge-cluster
+    relationship: ""
+    # keep-separate | archive-duplicate | supersede | merge-into-canonical | synthesize-new-canonical
+    disposition: ""
+    canonical_slug: ""
+    rationale: ""
 
 # Series and numbering
 series: ""
