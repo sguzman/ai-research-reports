@@ -29,7 +29,7 @@ dataset_id: american-judicial-process
 date: '2026-04-30'
 description: A structured guide to U.S. judges and judicial offices across federal and state systems,
   including tenure, appointment, elections, powers, and pay.
-draft: true
+draft: false
 edition: '1.0'
 editorial_profile: academic
 epub-chapter-level: 2
@@ -51,6 +51,8 @@ keywords:
 - state courts
 - magistrate judges
 - bankruptcy judges
+- territorial courts
+- Court of International Trade
 - judicial selection
 - judicial compensation
 - administrative law judges
@@ -98,7 +100,7 @@ report:
   discipline: law
   domain: law
   emphasis: federal and state judicial structure, selection, powers, tenure, and compensation
-  focus: institutional differences among Article III judges, non-Article III officers, and representative state judiciaries
+  focus: institutional differences among Article III judges, territorial judges, non-Article III judicial officers, and representative state judiciaries
   id: urn:gva:american-judicial-process
   intent: institutional reference
   is_report: true
@@ -107,7 +109,7 @@ report:
   method: synthesis of constitutional, statutory, judicial-administration, and representative state sources
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: Canonical report-095 copy; the later report-096 exact-body duplicate is explicitly linked in relationship metadata and remains archived. Mechanical conversion defects were repaired earlier on 2026-08-19. A subsequent official-source audit replaced the brittle generated citation lattice with direct U.S. Courts, Senate Judiciary, Constitution Annotated, U.S. Code, OPM, and state-court sources; verified current 2026 federal compensation; removed stale Florida and Virginia salary examples; and removed the unverified homemade 51-jurisdiction selection count. The article is now in review rather than draft, but is not publication-ready until final legal editorial review and link maintenance are complete.
+  notes: Canonical report-095 copy; the later report-096 exact-body duplicate is explicitly linked in relationship metadata and remains archived. Mechanical conversion defects and prompt residue were repaired on 2026-08-19, followed by a current-source audit of compensation and citation-to-claim pairings. Final legal editorial review on 2026-08-20 clarified the distinction between 91 Article III district courts and three term-appointed territorial district courts, added the Court of International Trade to the Article III inventory, replaced transient salary-vacancy links with the durable statutory 92-percent compensation rule, strengthened representative state-selection sources, and rechecked current 2026 compensation. The article meets the repository's ready threshold as a dated institutional reference; future maintenance should recheck compensation and state-selection links.
   number: 095
   organization: Marginalia
   period: current institutional structure with verified 2026 compensation examples
@@ -127,7 +129,7 @@ report:
   time_span: through 2026
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.4
+  version: 1.0.5
   year: 2026
 report-no: 095
 report-number: 095
@@ -136,7 +138,7 @@ report_no: 95
 report_number: 95
 report_year: 2026
 resources: []
-revision: 1.0.4
+revision: 1.0.5
 rights: CC0-1.0
 series: american-law-guides
 series-number: 95
@@ -148,7 +150,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: american-judicial-process
-status: review
+status: ready
 subject:
 - Judges
 - United States courts
