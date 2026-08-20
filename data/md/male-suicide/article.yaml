@@ -1,12 +1,10 @@
 ---
 abstract: Male suicide has become a critical public health issue in the United States, accounting for
-  the vast majority of suicide deaths. This report provides a comprehensive graduate-level analysis of
-  U.S. male suicide trends from 2000 to the present, synthesizing recent epidemiological data and peer-reviewed
-  literature. It reviews national trends and demographic disparities, examines risk and protective factors,
-  analyzes temporal events and policy influences, surveys intervention evidence, presents case studies
-  of distinct high-risk male subpopulations, and projects rates to 2030 under baseline versus intervention
-  scenarios, concluding with evidence-based recommendations and crisis resources.
-aliases: []
+  the vast majority of suicide deaths. This inherited report provides a broad analysis of U.S. male suicide
+  trends from 2000 onward, synthesizing epidemiological data and literature on demographic disparities,
+  risk and protective factors, policy context, intervention evidence, case studies, and projections.
+aliases:
+- male-suicide-us-2000-present
 author:
 - Salvador Guzman
 - ChatGPT
@@ -30,11 +28,12 @@ creator:
 - Salvador Guzman
 dataset_id: male-suicide-us-2000-present
 date: '2026-02-12'
-description: A comprehensive graduate-level synthesis of U.S. male suicide trends since 2000, integrating
-  mortality data, demographic disparities, risk/protective factors, policy context, intervention evidence,
-  case studies, and projections to 2030.
-draft: false
+description: An inherited synthesis of U.S. male suicide trends since 2000 covering mortality patterns,
+  demographic disparities, risk and protective factors, policy context, intervention evidence, case studies,
+  and projections. Current epidemiological and intervention claims require source re-verification before publication.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: cover.png
 epub-stylesheet: epub.css
@@ -75,7 +74,7 @@ keywords:
 - suicide prevention
 lang: en-US
 language: English
-lastmod: '2026-02-12'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: RA
@@ -96,10 +95,25 @@ plate_id: gva-plate-male-suicide-us-2000-present
 publishDate: '2026-02-12'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - male-suicide-research-outline
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: male-suicide
+    rationale: The older `male-suicide-research-outline` package contains the same substantive finished report apart from its H1/title and package-local conversion paths. This package has the stronger identity and metadata and is retained as canonical; the outline-labeled copy is archived.
 report:
-  false: MENTAL-001
   audience: general policy-oriented reader
-  code: ''
+  code: MENTAL-001
   collection: ''
   conversion:
     date: ''
@@ -107,37 +121,37 @@ report:
     tool: ''
   discipline: public health
   domain: health
-  emphasis: ''
-  focus: ''
+  emphasis: male suicide epidemiology, disparities, risk factors, interventions, and policy
+  focus: inherited U.S. evidence and projections requiring current re-verification
   id: gva:male-suicide-us-2000-present
-  intent: ''
+  intent: public-health research synthesis
   is_report: true
   kind: research report
-  level: ''
-  method: ''
+  level: graduate-level overview
+  method: synthesis of epidemiological data, research literature, policy evidence, case studies, and scenario projections
   methods: []
   name: Male Suicide in the United States (2000--Present)
-  notes: ''
+  notes: The inherited metadata slug `male-suicide-us-2000-present` did not match the canonical folder and was moved to aliases on 2026-08-20. Duplicate review established that `male-suicide-research-outline` contains the same substantive finished report and should be archived behind this package. The article was returned from legacy `published` to `review` because its body still contains absolute workstation image paths, duplicate H1 structure, academic-perspective residue, and numerous time-sensitive epidemiological, clinical-intervention, policy, and projection claims that require current primary-source review. No substantive suicide or clinical claim was rewritten or validated in this duplicate pass. Root-level cover metadata is also legacy asset-layout debt.
   number: '035'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: 2000-present with inherited data concentrated through 2022
+  period_covered: U.S. male suicide trends and evidence, primarily 2000-2022 with inherited forward projections
+  population_focus: males in the United States, including demographic and geographic subgroups
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: Trends, disparities, drivers, interventions, and projections
-  scope_years: ''
+  region: United States
+  region_focus: national with demographic, state, rural, veteran, and other subgroup comparisons
+  scope: trends, disparities, drivers, interventions, policy, case studies, and projections
+  scope_years: 2000-present
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: abstract, executive summary, epidemiology, demographic breakdowns, risk factors, policy, interventions, case studies, projections, limitations, and recommendations
   subdiscipline: health policy and epidemiology
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  subject: male suicide epidemiology and prevention
+  time_scope: contemporary evidence requiring current re-verification
+  time_span: 2000-present
   topic: Male Suicide in the United States (2000--Present)
   type: report
-  version: '1'
+  version: '1.1'
   year: 2026
 report-no: '035'
 report-number: '035'
@@ -146,7 +160,7 @@ report_no: 35
 report_number: 35
 report_year: 2026
 resources: []
-revision: '1'
+revision: '1.1'
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 35
@@ -157,8 +171,8 @@ sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: male-suicide-us-2000-present
-status: published
+slug: male-suicide
+status: review
 subject:
 - Male suicide epidemiology
 - Suicide prevention
@@ -174,9 +188,7 @@ subjects:
 - Firearm policy and safety
 - Social determinants of health
 subtitle: Trends, disparities, drivers, interventions, and projections
-summary: A comprehensive graduate-level synthesis of U.S. male suicide trends since 2000, integrating
-  mortality data, demographic disparities, risk/protective factors, policy context, intervention evidence,
-  case studies, and projections to 2030.
+summary: An inherited U.S. male-suicide research synthesis covering epidemiology, disparities, risk and protective factors, interventions, policy, case studies, and projections; current claims require re-verification before publication.
 tags:
 - male-suicide
 - suicide
@@ -199,5 +211,6 @@ toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
