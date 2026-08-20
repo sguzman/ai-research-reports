@@ -1,14 +1,14 @@
 # Editorial standard
 
-This repository contains more than one kind of writing. A research report, a polemical essay, a deliberately Nietzschean performance, a personal reflection, and a work of fiction should not be forced into the same prose voice.
+This repository contains more than one kind of writing. A research report, a practical technical guide, a polemical essay, a deliberately Nietzschean performance, a personal reflection, and a work of fiction should not be forced into the same prose voice.
 
 Editorial control therefore separates **form**, **editorial profile**, and **voice**.
 
-- `type` describes what the artifact is: for example `report`, `research-brief`, `note`, `essay`, `fiction`, `dialogue`, or `reference`.
-- `editorial_profile` selects the rules that govern its prose: `academic`, `argumentative`, `stylized`, `personal`, or `creative`.
-- `voice` records an intentional voice when useful: for example `neutral`, `polemical`, `nietzschean`, `literary`, or another concise description. It is descriptive rather than a free pass for accidental generation residue.
+- `type` describes what the artifact is: for example `report`, `research-brief`, `note`, `essay`, `guide`, `fiction`, `dialogue`, or `reference`.
+- `editorial_profile` selects the rules that govern its prose: `academic`, `technical`, `argumentative`, `stylized`, `personal`, or `creative`.
+- `voice` records an intentional voice when useful: for example `neutral`, `instructional`, `polemical`, `nietzschean`, `literary`, or another concise description. It is descriptive rather than a free pass for accidental generation residue.
 
-These dimensions are independent. A short `essay` may be `stylized`; a long `report` should normally be `academic`; a `note` may be `academic` or `personal` depending on its purpose.
+These dimensions are independent. A short `essay` may be `stylized`; a long research report should normally be `academic`; a practical engineering `guide` may be `technical`; a `note` may be `academic` or `personal` depending on its purpose.
 
 ## Universal integrity rules
 
@@ -44,6 +44,25 @@ Default rules:
 - headings describe subject matter rather than the writing process.
 
 A hypothesis may of course be tested. The defect is narrating the assignment instead of formulating the proposition, evidence, counterevidence, predictions, and limits directly.
+
+### `technical`
+
+Use for engineering guides, build notes, design references, laboratory procedures, operational manuals, and other artifacts whose primary job is to help a reader design, calculate, fabricate, test, operate, or troubleshoot something.
+
+Procedural prose follows a different contract from an academic report:
+
+- direct imperatives and second-person instructions are allowed when they make a procedure clearer;
+- first-person authorial narration and assignment-stage self-reference are normally avoided;
+- equations, tables, units, dimensional assumptions, worked examples, and numerical claims must be internally consistent;
+- distinguish **illustrative calculations**, **rules of thumb**, **measured results**, **manufacturer ratings**, **code/standard requirements**, and **design specifications** rather than presenting them as interchangeable facts;
+- identify the operating assumptions behind estimates such as efficiency, load, wind speed, duty cycle, material strength, safety factor, or environmental conditions;
+- do not convert an average input into an average nonlinear output without accounting for the relevant distribution or explicitly labeling the result as a crude illustration;
+- safety-critical construction, electrical, structural, thermal, pressure, chemical, or machinery guidance must be bounded by appropriate standards, qualified engineering judgment, code/permitting requirements, and fail-safe controls where relevant;
+- do not present hobbyist anecdotes, vendor copy, or a single prototype as a general engineering specification;
+- cost/BOM figures are dated planning examples unless backed by a defined vendor, date, region, and scope;
+- diagrams, wiring layouts, and local assets must be portable and actually render before publication.
+
+A technical guide may therefore say “measure,” “connect,” or “verify,” but it may not disguise an unverified engineering assumption as a universal specification. Numerical coherence and safety provenance are editorial obligations, not optional polish.
 
 ### `argumentative`
 

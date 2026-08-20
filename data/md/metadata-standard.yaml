@@ -47,12 +47,12 @@ language: ""
 identifier: ""
 dataset_id: ""
 plate_id: ""
-# Form, e.g. report, research-brief, note, essay, fiction, dialogue, reference.
+# Form, e.g. report, research-brief, note, essay, guide, fiction, dialogue, reference.
 type: ""
-# Prose rules: academic, argumentative, stylized, personal, creative.
+# Prose rules: academic, technical, argumentative, stylized, personal, creative.
 # Leave unresolved on legacy material until editorially reviewed; do not bulk-infer.
 editorial_profile: ""
-# Intentional voice, e.g. neutral, polemical, nietzschean, literary. Blank is valid.
+# Intentional voice, e.g. neutral, instructional, polemical, nietzschean, literary. Blank is valid.
 voice: ""
 format: ""
 reference-section-title: ""
