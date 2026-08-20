@@ -1,9 +1,10 @@
 ---
-abstract: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named for
-  Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)[\[2\]](https://hackaday.com/2018/08/14/diy-wind-turbine-for-where-the-sun-doesnt-shine/#:~:text=The%20wind%20turbine%20that%20,Finnish%20engineer%20Sigurd%20Johannes%20Savonius).
-  They spin with simple “S”-shaped or semi-cylindrical scoops that catch wind on the concave side and
-  rotate (Fig. 1). Their chief virtues are **simplicity, ruggedness, and omni-directionality** – no yaw
-  mechanism is needed, and they self-start at very low wind speeds[\[3\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=to%20rotate%20in%20the%20direction,wind%20turbines%…'
+abstract: >-
+  A practical engineering guide to Savonius vertical-axis wind turbines covering aerodynamic
+  fundamentals, transparent power and RPM calculations, rotor geometry, generator matching,
+  site assessment, annual-energy estimation, fabrication planning, overspeed protection,
+  electrical integration, prototype testing, and safety boundaries. Worked examples are explicitly
+  illustrative rather than universal component specifications.
 aliases: []
 author:
 - Salvador Guzman
@@ -25,10 +26,10 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-04-04'
-description: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named
-  for Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…'
-draft: false
+description: A technical design and prototype guide to Savonius wind turbines, with explicit assumptions, corrected power calculations, safety constraints, and current small-wind standards guidance.
+draft: true
 edition: '1'
+editorial_profile: technical
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -41,12 +42,18 @@ highlight-style: tango
 identifier: urn:marginalia:savonius-wind-turbines-comprehensive-design-diy-guide
 isCJKLanguage: false
 keywords:
-- Savonius Wind Turbines – Comprehensive Design & DIY Guide
+- Savonius turbine
+- vertical-axis wind turbine
+- small wind
+- wind turbine design
+- wind energy
+- prototype testing
+- IEC 61400-2
 - Engineering
 - Technology
 lang: en
 language: English
-lastmod: '2026-04-04'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: TA
@@ -60,9 +67,24 @@ outputs: []
 plate_id: ''
 publishDate: '2026-04-04'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources and Further Reading
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: pending
+    relationship: ''
+    disposition: ''
+    canonical_slug: savonius-wind-turbines-comprehensive-design-diy-guide
+    rationale: No duplicate disposition has yet been required; complete duplicate-candidate review before any future advance to ready.
 report:
-  audience: technically curious general reader
+  audience: technically curious general reader and prototype builder
   code: ''
   collection: ''
   conversion:
@@ -71,37 +93,44 @@ report:
     tool: pandoc 3.6
   discipline: engineering
   domain: engineering
-  emphasis: ''
-  focus: ''
+  emphasis: transparent assumptions, numerical coherence, prototype measurement, and small-wind safety
+  focus: Savonius rotor design, power estimation, generator matching, siting, protection, fabrication planning, and testing
   id: urn:marginalia:savonius-wind-turbines-comprehensive-design-diy-guide
-  intent: ''
+  intent: practical technical design reference
   is_report: true
-  kind: practical guide
-  level: ''
-  method: ''
+  kind: practical engineering guide
+  level: introductory to intermediate
+  method: synthesis of current DOE small-wind guidance, IEC small-wind safety scope, OSHA hot-work requirements, and peer-reviewed Savonius review literature
   methods: []
   name: Savonius Wind Turbines – Comprehensive Design & DIY Guide
-  notes: ''
+  notes: >-
+    The 2026-08-20 technical-profile revision replaced an inherited conversion-heavy DIY recipe with
+    a bounded engineering guide. It corrected the RPM relation and inconsistent power/yield examples,
+    removed constant-average-wind annual-energy claims, repaired the canonical image path, replaced raw
+    Mermaid/Gantt source with portable Markdown structures, removed export/citation debris and a universal
+    BOM cost total, and strengthened overspeed, used-container hot-work, rooftop-siting, structural, and
+    electrical safety boundaries using DOE, IEC 61400-2, and OSHA guidance. The article remains in review
+    pending image provenance/publication-rights verification and final duplicate/rendering inspection.
   number: 086
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: current small-wind design guidance reviewed through 2026
+  period_covered: through 2026
+  population_focus: small Savonius wind-turbine prototypes and installations
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: general engineering guidance with U.S. regulatory examples
+  region_focus: general; U.S. DOE/OSHA guidance where named
+  scope: aerodynamic fundamentals, design calculations, mechanical/electrical architecture, siting, safety, testing, and BOM planning
+  scope_years: through 2026
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: applied design and technology
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+  stance: instructional and conservative about unverified design assumptions
+  structure: executive summary, physics, geometry, sizing, mechanical design, fabrication safety, electrical architecture, siting, energy estimation, testing, BOM, checklist, sources, limitations
+  subdiscipline: applied design and renewable-energy technology
+  subject: Savonius vertical-axis wind turbines
+  time_scope: current technical reference
+  time_span: through 2026
+  topic: Savonius wind turbine design and prototyping
   type: guide
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 086
 report-number: 086
@@ -110,7 +139,7 @@ report_no: 86
 report_number: 86
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 86
@@ -122,26 +151,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: savonius-wind-turbines-comprehensive-design-diy-guide
-status: complete
+status: review
 subject:
 - Engineering
 - Technology
 subjects:
-- Engineering
-- Technology
+- Savonius wind turbines
+- Small wind systems
+- Wind turbine engineering
 subtitle: ''
-summary: '**Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named for
-  Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…'
+summary: >-
+  A corrected, safety-bounded guide to Savonius wind-turbine design and prototyping that separates
+  illustrative calculations from specifications and emphasizes site wind data, generator matching,
+  structural design, overspeed protection, electrical safety, and measured validation.
 tags:
 - savonius-wind-turbines-comprehensive-design-diy-guide
 - engineering
 - technology
+- small-wind
+- vertical-axis-wind-turbine
 title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
-toc: false
-toc-depth: 0
-toc-title: ''
+toc: true
+toc-depth: 3
+toc-title: Contents
 translationKey: ''
 type: guide
 url: ''
+voice: instructional
 weight: 0
 ...
