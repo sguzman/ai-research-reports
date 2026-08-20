@@ -27,7 +27,7 @@ creator:
 - Salvador Guzman
 dataset_id: judges-in-the-judicial-process-of-the-united-states
 date: '2026-05-03'
-description: Archived duplicate package of the canonical U.S. judicial-process report retained for migration history.
+description: Archived exact duplicate of the canonical U.S. judicial-process report retained for migration history and stable identifiers.
 draft: true
 edition: '1.0'
 editorial_profile: academic
@@ -55,7 +55,7 @@ keywords:
 - administrative law judges
 lang: en
 language: English
-lastmod: '2026-08-19'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: KF
@@ -70,6 +70,22 @@ plate_id: ''
 publishDate: '2026-05-03'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - american-judicial-process
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: american-judicial-process
+    rationale: This report 096 package duplicated report 095 exactly at the inherited corpus snapshot. The earlier report 095 package is canonical and this package is retained only to preserve migration history and stable identifiers.
 report:
   audience: general legal reader
   code: ''
@@ -90,7 +106,7 @@ report:
   method: ''
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: Exact-body duplicate of `american-judicial-process` (report 095) at the inherited corpus snapshot. Retained as an archived migration artifact rather than deleted.
+  notes: Exact-body duplicate of `american-judicial-process` (report 095) at the inherited corpus snapshot. Relationship metadata now records the canonical target explicitly. Retained as an archived migration artifact rather than deleted.
   number: 096
   organization: Marginalia
   period: ''
@@ -110,7 +126,7 @@ report:
   time_span: ''
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: 096
 report-number: 096
@@ -119,7 +135,7 @@ report_no: 96
 report_number: 96
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: american-law-guides
 series-number: 96
@@ -143,7 +159,7 @@ subjects:
 - Judicial powers
 - Judicial compensation
 subtitle: ''
-summary: Archived duplicate of report 095; retained only to preserve migration history and stable identifiers.
+summary: Archived exact duplicate of report 095; retained only to preserve migration history and stable identifiers.
 tags:
 - judges
 - courts
