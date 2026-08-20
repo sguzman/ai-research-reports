@@ -4,7 +4,7 @@ Baseline: `95875fed7b2687c3ef5e19d21e17529302133298`
 
 Audit date: 2026-08-20
 
-The baseline-to-current Git comparison shows **20 article packages changed by the new editorial pipeline**. Every one of those packages also has a `CHANGELOG.md` addition or modification in the same baseline-to-current history.
+The baseline-to-current Git comparison shows **21 article packages changed by the new editorial pipeline**, including the Savonius technical-guide batch in PR #20. Every one of those packages has an article-local `CHANGELOG.md` addition or modification in the corresponding editorial history.
 
 This establishes coverage; it does not mean every article is finished. `review` and `draft` packages retain their documented blockers.
 
@@ -29,11 +29,12 @@ This establishes coverage; it does not mean every article is finished. `review` 
 | `proudhon-mutualism-report` | #13 | covered | canonical review target; citation/source cleanup remains |
 | `puritan-moral-psychology` | #9 | covered | review; genealogy/source-quality audit remains |
 | `republicans-as-moderating-opposition-without-a-rival-order` | #4 | covered | review; converted-table rendering and source audit remain |
+| `savonius-wind-turbines-comprehensive-design-diy-guide` | #20 | covered | technical/instructional review target; numerical, conversion, and major safety defects repaired; image provenance, duplicate review, and render inspection remain |
 | `testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs` | #4 | covered | review; source/factual/overlap review remains |
 
 ## Required future behavior
 
-Coverage is now enforced as a workflow invariant: if an editorial PR changes an article package, its article-local `CHANGELOG.md` must change in the same PR.
+Coverage is enforced as a workflow invariant: if an editorial PR changes an article package, its article-local `CHANGELOG.md` must change in the same PR.
 
 Changelog entries should be rich enough to reconstruct the editorial action without relying on the PR description. They should identify material repairs, lifecycle/profile decisions, source/factual corrections, relationship decisions, and significant remaining blockers.
 
