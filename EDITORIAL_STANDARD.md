@@ -24,6 +24,7 @@ These rules apply to every profile unless the apparent violation is itself delib
 8. External links and externally hosted images must be valid and relevant when an article is ingested or substantively revised. Later link rot does not retroactively invalidate a historical revision.
 9. Diagrams must actually render. A source-language diagram is not considered publication-ready merely because its text parses.
 10. Editorial changes to an established article are recorded in its `CHANGELOG.md` using the repository's existing timestamp/summary table convention.
+11. New and substantively revised artifacts must be checked for meaningful duplication or derivation against the canonical corpus before they advance to `ready`.
 
 ## Editorial profiles
 
@@ -90,6 +91,23 @@ For legacy articles that lack `editorial_profile`, the field should remain expli
 
 `voice` should be blank or `neutral` when there is no meaningful special voice. It should not contain vague filler.
 
+## Duplicate and synthesis control
+
+Document similarity is an editorial relationship, not a prose-profile issue. The detailed policy is in [`DUPLICATE_POLICY.md`](DUPLICATE_POLICY.md).
+
+A similarity detector may nominate candidates, but it does not decide that two works are duplicates. Editors must distinguish exact duplicates, near duplicates, deliberate summaries, alternate treatments, and merge clusters.
+
+The default rules are:
+
+- do not publish multiple accidental versions of substantially the same work as though they were independent finished reports;
+- do not delete a duplicate before checking it for unique claims, citations, examples, tables, assets, or stronger formulations;
+- when one version is clearly canonical, archive the weaker duplicate and record the relationship;
+- when several versions each contain useful material, prefer claim- and section-level synthesis into a stronger canonical target rather than concatenating source documents;
+- preserve genuinely distinct derivatives or alternate treatments when their form, audience, method, argument, or voice gives them a separate purpose;
+- unresolved duplicate candidates remain in `draft` or `review` and do not advance to `ready`.
+
+Duplicate, superseded, and merged-source are **relationship dispositions**, not additional lifecycle stages. Source packages that should no longer publish normally use the existing `archived` status plus explicit relationship metadata.
+
 ## Change control
 
 Existing per-article changelogs use this form:
@@ -102,10 +120,10 @@ Existing per-article changelogs use this form:
 | YYYY-MM-DD HH:MM:SS TZ | Concise description of the editorial change. |
 ```
 
-Keep newest entries first. Record substantive corrections, perspective normalization, metadata reclassification, citation repair, asset migration, and other changes that materially alter the canonical package. Pure one-way publication into Marginalia does not create a second editorial history.
+Keep newest entries first. Record substantive corrections, perspective normalization, metadata reclassification, citation repair, asset migration, duplicate/derivative decisions, merge provenance, and other changes that materially alter the canonical package. Pure one-way publication into Marginalia does not create a second editorial history.
 
 ## Publication threshold
 
-`ready` means the article has passed the **universal integrity rules** and the rules of its declared `editorial_profile`. `published` additionally means the approved canonical article has been projected successfully to the publication target.
+`ready` means the article has passed the **universal integrity rules**, the rules of its declared `editorial_profile`, and any required duplicate/relationship review. `published` additionally means the approved canonical article has been projected successfully to the publication target.
 
 A strong voice is not a defect. An accidental voice break is. The point of the metadata profile is to make that distinction explicit and enforceable.
