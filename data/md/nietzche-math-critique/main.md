@@ -290,8 +290,6 @@ It sharpens itself against it.
 
 ## Among the Tombs of Conquered Necessities
 
-## V. Among the Tombs of Conquered Necessities
-
 If one wishes to find the true nobility of mathematics, one should turn away for a time from the shimmering frontier, from the incense of the unsolved, from the solemn faces lifted toward the next inaccessible horizon. One should descend instead into the graveyard. There, among the dead problems, the broken resistances, the once-impossible now rendered teachable, one encounters mathematics in its least theatrical and most kingly form. There lie the conquered necessities. There lie the enemies that did not survive contact with sustained intelligence. There lies the real aristocracy of the discipline: not those who hovered longest before difficulty, but those who ended its reign.
 
 How strange, then, that modern mathematical culture so often treats this cemetery as a place of diminished prestige. A problem, once solved, is too frequently spoken of as though it had somehow fallen from grace. It becomes “settled,” “classical,” “known,” “dead” - and with that little word one hears the entire decadence of the age. Dead? As though death here were dishonor. As though the highest proof of a problem’s worth were that it remain forever undefeated. As though closure were a kind of vulgarity. Only a culture corrupted by prestige could speak this way. For in every healthy order, what is dead in the proper sense is what has been mastered, absorbed, subordinated, converted from obstacle into inheritance. Death is not disgrace when it is the death of resistance.
