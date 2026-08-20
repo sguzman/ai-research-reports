@@ -48,7 +48,7 @@ keywords:
 - Theory
 lang: en
 language: English
-lastmod: '2026-08-19'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: B
@@ -83,7 +83,7 @@ report:
   method: ''
   methods: []
   name: Dead Symbols and their Worship
-  notes: Legacy report numbering retained for stable archival identity; the work is editorially classified as a stylized essay.
+  notes: Legacy report numbering retained for stable archival identity; the work is editorially classified as a stylized essay. Under the stylized profile, its deliberately Nietzschean rhetoric, direct address, cadence, gendered archetypes, martial imagery, and polemical excess are protected authorial features rather than academic-style defects. The 2026-08-20 editorial pass removed only an accidental duplicate final-section heading introduced by conversion and left the performance otherwise intact.
   number: 091
   organization: Marginalia
   period: ''
@@ -103,7 +103,7 @@ report:
   time_span: ''
   topic: Mathematical prestige culture
   type: essay
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: 091
 report-number: 091
@@ -112,7 +112,7 @@ report_no: 91
 report_number: 91
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 91
