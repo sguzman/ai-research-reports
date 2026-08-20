@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-20T13:19:38-06:00'
+updated_at: '2026-08-20T13:40:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 20
+packages_changed_since_baseline: 21
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -11,24 +11,30 @@ rules:
   publication_gate: 'canonical status ready/published and draft false only'
 
 next_batch:
-  - savonius-wind-turbines-comprehensive-design-diy-guide
   - nietzche-math-critique
+  - male-suicide
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
-    lifecycle: complete
-    work_state: in-progress
-    priority: P0
-    profile_target: technical
-    voice_target: instructional
+    lifecycle: review
+    work_state: blocked
+    priority: P1
+    profile: technical
+    voice: instructional
+    completed_work:
+      - replaced conversion-heavy DIY recipe with a bounded engineering design/prototype guide
+      - corrected RPM relation and inconsistent power/energy examples
+      - removed constant-average-wind annual-energy reasoning and documented wind-distribution requirement
+      - corrected Betz/TSR framing and softened configuration-specific geometry claims
+      - repaired absolute workstation image path to canonical assets/media/rId31.png
+      - removed raw ChatGPT/export markers, raw flowchart/Gantt source, and duplicate reference export
+      - replaced universal component dimensions and generic $450-800 BOM with design-dependent requirements and quotation workflow
+      - strengthened DOE/IEC/OSHA-backed overspeed, electrical, structural, rooftop, and used-container safety boundaries
     blockers:
-      - legacy complete lifecycle must be replaced with an explicit state
-      - absolute workstation image path despite canonical asset existing under assets/media
-      - raw flowchart and Gantt source cannot publish through Marginalia
-      - orphaned ChatGPT/export citation markers and redundant reference dump
-      - inconsistent power/yield calculations and nonlinear average-wind reasoning
-      - safety, electrical, structural, siting, BOM, and engineering assumptions need source hierarchy review
-    next_action: 'Perform full technical-profile cleanup and source audit; expect review unless all engineering/safety blockers are genuinely cleared.'
+      - retained conceptual image provenance/publication rights must be verified before ready
+      - duplicate-candidate review remains pending
+      - final rendered-publication inspection remains
+    next_action: 'Resolve image provenance, run duplicate review, and inspect final rendering before any ready decision.'
 
   nietzche-math-critique:
     lifecycle: published
@@ -72,13 +78,13 @@ articles:
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - remaining historical/materials source-quality review
-      - final rendering/publication inspection
     completed_work:
       - conversion and asset-path repair
       - current ASTM/EPA/OSHA/technology claims audited
       - unsupported universal CAPEX/OPEX precision removed
+    blockers:
+      - remaining historical/materials source-quality review
+      - final rendering/publication inspection
     next_action: 'Finish historical/materials citation-quality review and rendering inspection.'
 
   critical-review-of-major-official-financial-crisis-inquiry-reports:
@@ -87,14 +93,14 @@ articles:
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - factual and citation-quality review remains
-      - current-link verification remains
     completed_work:
       - direct second-person/prompt framing removed
       - assistant outro removed
       - raw timeline converted
       - redundant reference export removed
+    blockers:
+      - factual and citation-quality review remains
+      - current-link verification remains
     next_action: 'Audit remaining sources and claims; decide whether it can advance to ready.'
 
   fallen-aristocracy:
@@ -103,13 +109,13 @@ articles:
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - factual/source/citation review remains
     completed_work:
       - title/heading hierarchy normalized
       - first-person methodology removed
       - raw diagram source replaced with prose
       - redundant reference export removed
+    blockers:
+      - factual/source/citation review remains
     next_action: 'Source-quality and factual review.'
 
   republicans-as-moderating-opposition-without-a-rival-order:
@@ -118,13 +124,13 @@ articles:
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - two large converted tables need rendering/editorial review
-      - factual and citation-quality verification remains
     completed_work:
       - first-person/current-document framing removed
       - rendered timeline asset migrated into canonical assets/media
       - redundant reference export removed
+    blockers:
+      - two large converted tables need rendering/editorial review
+      - factual and citation-quality verification remains
     next_action: 'Review converted tables, then source/factual audit.'
 
   testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs:
@@ -133,14 +139,14 @@ articles:
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - factual and citation-quality review remains
-      - current-link verification remains
     completed_work:
       - diagram paths repaired to canonical assets
       - ChatGPT UTM tracking stripped
       - current-document framing removed
       - redundant reference export removed
+    blockers:
+      - factual and citation-quality review remains
+      - current-link verification remains
     next_action: 'Source/factual review and duplicate/overlap check against related culture-theory material.'
 
   liberalism-social-disembedding-and-managed-dependency:
@@ -189,12 +195,12 @@ articles:
     priority: P1
     profile: academic
     voice: neutral
+    relationships:
+      archived_duplicate: 3mutualism
     blockers:
       - weak/secondary source mix
       - escaped numbered-link artifacts
       - document self-reference and academic cleanup remain
-    relationships:
-      archived_duplicate: 3mutualism
     next_action: 'Clean citation architecture and academic prose; preserve useful unique evidence if any appears.'
 
   meme-culture-and-borderer-right-style-a-research-report:
@@ -203,11 +209,11 @@ articles:
     priority: P2
     profile: academic
     voice: neutral
+    relationships:
+      related_fork: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
     blockers:
       - source-quality and citation cleanup
       - validate broad cultural claims
-    relationships:
-      related_fork: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
     next_action: 'Review as cultural-analysis report; keep distinct from methodology framework.'
 
   distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo:
@@ -216,11 +222,11 @@ articles:
     priority: P2
     profile: academic
     voice: neutral
+    relationships:
+      related_fork: meme-culture-and-borderer-right-style-a-research-report
     blockers:
       - source-quality review
       - validate coding assumptions, corpus design, and classification rubric
-    relationships:
-      related_fork: meme-culture-and-borderer-right-style-a-research-report
     next_action: 'Review as research-method framework; keep distinct from broad cultural report.'
 
   global-population-dynamics-peaks-in-population-level-and-growth-rates:
