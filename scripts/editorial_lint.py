@@ -18,7 +18,7 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MD_ROOT = REPO_ROOT / "data" / "md"
 
-PROFILES = {"academic", "argumentative", "stylized", "personal", "creative"}
+PROFILES = {"academic", "technical", "argumentative", "stylized", "personal", "creative"}
 PUBLIC_STATUSES = {"ready", "published"}
 DRAFT_STATUSES = {"draft", "review"}
 KNOWN_STATUSES = PUBLIC_STATUSES | DRAFT_STATUSES | {"complete", "archived"}
@@ -215,7 +215,7 @@ def check_profile_style(folder: Path, profile: str, text: str, findings: list[Fi
             ("self_reference", SELF_REFERENCE_RE, "argumentative prose contains document self-reference; verify that it is useful"),
             ("hypothesis_stage_meta", HYPOTHESIS_META_RE, "argumentative prose contains probable assignment-stage hypothesis language"),
         ])
-    # stylized, personal, and creative intentionally have no perspective checks.
+    # technical, stylized, personal, and creative intentionally have no generic perspective checks.
 
     for code, pattern, message in checks:
         excerpt = style_excerpt(text, pattern)
