@@ -47,12 +47,12 @@ language: ""
 identifier: ""
 dataset_id: ""
 plate_id: ""
-# Form, e.g. report, research-brief, note, essay, fiction, dialogue, reference.
+# Form, e.g. report, research-brief, note, essay, guide, fiction, dialogue, reference.
 type: ""
-# Prose rules: academic, argumentative, stylized, personal, creative.
+# Prose rules: academic, technical, argumentative, stylized, personal, creative.
 # Leave unresolved on legacy material until editorially reviewed; do not bulk-infer.
 editorial_profile: ""
-# Intentional voice, e.g. neutral, polemical, nietzschean, literary. Blank is valid.
+# Intentional voice, e.g. neutral, instructional, polemical, nietzschean, literary. Blank is valid.
 voice: ""
 format: ""
 reference-section-title: ""
@@ -78,108 +78,102 @@ relationships:
   related: []
 
 # Operator-controlled editorial decisions.
+# This is not publication lifecycle state. It records why overlapping documents remain
+# separate, are archived, or feed a synthesis target.
 editorial:
   duplicate_review:
-    # pending | reviewed | not-applicable
-    status: ""
-    # independent | exact-duplicate | near-duplicate | derived | fork | merge-cluster
-    relationship: ""
-    # keep-separate | archive-duplicate | supersede | merge-into-canonical | synthesize-new-canonical
-    disposition: ""
+    status: ""       # pending | reviewed | not-applicable
+    relationship: "" # exact-duplicate | near-duplicate | derivative | fork | merge-cluster | none
+    disposition: ""  # archive-duplicate | keep-separate | merge-into-canonical | synthesize-new | none
     canonical_slug: ""
     rationale: ""
 
-# Series and numbering
-series: ""
-series-title: ""
-series-number: 0
-series_title: ""
-series_number: 0
-report-no: ""
-report-number: ""
-report-year: ""
-report_no: 0
-report_number: 0
-report_year: 0
-
-# Rendering and structure
-layout: ""
-markup: ""
-toc: true
-toc-depth: 3
-toc-title: "Contents"
-number-sections: true
-weight: 0
-
-# Cover and EPUB/export settings
-cover-image: ""
-cover_image: ""
-epub-cover-image: ""
-epub_cover_image: ""
-epub-title-page: false
-epub-chapter-level: 2
-epub-stylesheet: "epub.css"
-highlight-style: "tango"
-
-# Hugo/build compatibility
-outputs: []
-headless: false
-isCJKLanguage: false
-translationKey: ""
-resources: []
-build:
-  list: "always"
-  render: "always"
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ""
-  priority: 0
-  filename: "sitemap.xml"
-
-# Report-specific metadata.
-# Keep keys explicit here instead of inventing ad hoc top-level fields.
+# Report-specific compatibility/extension block.
+# Meaningful only when the artifact is actually a report or report-like technical work.
 report:
   id: ""
-  code: ""
   name: ""
-  organization: ""
-  collection: ""
-  series: ""
   number: ""
-  year: 0
+  code: ""
+  organization: ""
+  series: ""
+  collection: ""
   version: ""
+  year: ""
+  is_report: false
   kind: ""
   type: ""
   domain: ""
   discipline: ""
   subdiscipline: ""
-  topic: ""
   subject: ""
+  topic: ""
+  focus: ""
+  emphasis: ""
+  intent: ""
+  stance: ""
+  audience: ""
+  level: ""
+  region: ""
+  region_focus: ""
+  population_focus: ""
+  period: ""
+  period_covered: ""
   scope: ""
   scope_years: ""
   time_scope: ""
   time_span: ""
-  period: ""
-  period_covered: ""
-  region: ""
-  region_focus: ""
-  audience: ""
-  level: ""
-  focus: ""
-  emphasis: ""
-  structure: ""
-  intent: ""
-  methods: []
   method: ""
+  methods: []
+  structure: ""
   primary_texts: []
-  population_focus: ""
-  stance: ""
-  is_report: true
   notes: ""
   conversion:
     source_docx: ""
     tool: ""
     date: ""
 
+# Legacy/report-series compatibility keys. Keep when already present.
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: ""
+report_number: ""
+report_year: ""
+series: ""
+series-number: ""
+series-title: ""
+series_number: ""
+series_title: ""
+
+# Hugo/build compatibility keys retained where useful.
+build:
+  list: always
+  publishResources: true
+  render: always
+cascade: {}
+cover-image: ""
+cover_image: ""
+epub-chapter-level: 0
+epub-cover-image: ""
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ""
+headless: false
+highlight-style: tango
+isCJKLanguage: false
+layout: ""
+markup: ""
+number-sections: false
+outputs: []
+resources: []
+sitemap:
+  changefreq: ""
+  filename: sitemap.xml
+  priority: 0
+toc: false
+toc-depth: 0
+toc-title: ""
+translationKey: ""
+weight: 0
 ...
