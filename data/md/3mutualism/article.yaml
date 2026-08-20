@@ -1,7 +1,5 @@
 ---
-abstract: 'Mutualism is Pierre-Joseph Proudhon''s anti-state form of socialism: markets without capitalism,
-  where reciprocity, possession over property, and mutual credit aim to neutralize profit, rent, and usury
-  without state ownership.'
+abstract: An archived repackaging of the canonical Proudhon mutualism report. Its substantive argument, chronology, citations, and conceptual coverage duplicate `proudhon-mutualism-report`, with differences concentrated in title, metadata, typography, and conversion formatting.
 aliases: []
 author:
 - Salvador Guzman
@@ -24,10 +22,10 @@ creator:
 - Salvador Guzman
 dataset_id: ideology-studies
 date: '2026-02-12'
-description: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the
-  cost principle, mutual banking, and its relationship to cooperative experiments.'
-draft: false
+description: Archived duplicate repackaging of the canonical Proudhon mutualism report, retained for provenance, legacy cover assets, and stable migration history rather than independent publication.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 2
 epub-cover-image: cover.png
 epub-stylesheet: epub.css
@@ -52,7 +50,7 @@ keywords:
 - cooperative movement
 lang: en
 language: English
-lastmod: '2026-02-12'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: HX
@@ -67,47 +65,63 @@ plate_id: gva-ideology-mutualism
 publishDate: '2026-02-12'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - proudhon-mutualism-report
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: proudhon-mutualism-report
+    rationale: This package is a later repackaging of the same substantive Proudhon mutualism report. Its body has rougher conversion/table formatting and its inherited metadata slug `mutualism` did not match folder `3mutualism`; the cleaner `proudhon-mutualism-report` package is therefore canonical.
 report:
   audience: general reader
   code: ''
-  collection: ''
+  collection: ideology-studies
   conversion:
     date: ''
     source_docx: ''
     tool: ''
   discipline: political theory
   domain: political theory
-  emphasis: ''
-  focus: ''
+  emphasis: archived duplicate provenance
+  focus: duplicate relationship to canonical Proudhon mutualism report
   id: gva-mutualism-2026-001
-  intent: ''
+  intent: preserve later repackaging, cover assets, and migration history
   is_report: true
-  kind: ideology-study
+  kind: archived duplicate ideology study
   level: ''
-  method: ''
+  method: inherited historical and conceptual synthesis
   methods: []
   name: 'Mutualism: Markets Without Capitalism'
-  notes: ''
+  notes: Duplicate review on 2026-08-20 established that this package and `proudhon-mutualism-report` contain the same substantive report, with differences concentrated in title, typography, table conversion, and packaging. The cleaner `proudhon-mutualism-report` body is canonical. The inherited metadata slug `mutualism` is preserved as an alias on the canonical package rather than here. This package is archived and retains its legacy root-level cover assets for provenance; no substantive political-theory claim was rewritten or validated in this pass.
   number: '013'
   organization: Marginalia
-  period: ''
-  period_covered: ''
+  period: nineteenth-century origins with later reception
+  period_covered: duplicate of canonical Proudhon mutualism report
   population_focus: ''
   primary_texts: []
-  region: ''
+  region: France and transatlantic reception
   region_focus: ''
-  scope: Proudhon's anti-state market socialism and mutual credit
-  scope_years: ''
+  scope: duplicate Proudhon mutualism ideology study
+  scope_years: nineteenth century with later reception
   series: Ideology Studies
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: duplicate full report with rougher conversion formatting
   subdiscipline: socialist and radical thought
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  subject: Proudhonian mutualism
+  time_scope: historical intellectual analysis
+  time_span: nineteenth century-present reception
   topic: 'Mutualism: Markets Without Capitalism'
-  type: article
-  version: 1.0.0
+  type: report
+  version: 1.0.1
   year: 2026
 report-no: '013'
 report-number: '013'
@@ -116,7 +130,7 @@ report_no: 13
 report_number: 13
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Ideology Studies
 series-number: 13
@@ -127,8 +141,8 @@ sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: mutualism
-status: published
+slug: 3mutualism
+status: archived
 subject:
 - Mutualism (Proudhon)
 - Pierre-Joseph Proudhon
@@ -142,24 +156,20 @@ subjects:
 - Socialism
 - Mutual credit
 subtitle: Proudhon's anti-state market socialism and mutual credit
-summary: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the cost
-  principle, mutual banking, and its relationship to cooperative experiments.'
+summary: Archived duplicate repackaging of canonical `proudhon-mutualism-report`, retained for provenance and legacy cover assets rather than independent publication.
 tags:
 - mutualism
 - proudhon
 - anarchism
 - socialism
-- market socialism
-- mutual banking
-- cooperatives
-- 19th century
-- france
+- archived-duplicate
 title: 'Mutualism: Markets Without Capitalism'
 toc: true
 toc-depth: 3
 toc-title: Contents
 translationKey: ''
-type: article
+type: report
 url: ''
+voice: neutral
 weight: 0
 ...

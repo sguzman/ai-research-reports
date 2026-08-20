@@ -1,9 +1,7 @@
 ---
-abstract: '**Executive Summary** Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as *anti‑state*
-  and market‐friendly, coining the slogan “property is theft!”[\[1\]](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship)
-  yet refusing to “abolish” property by decree[\[2\]](https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital).
-  He distinguished **property** (exploitative, absentee ownership) from **possession** (personal use‐rights)[\[3\]](https://openlibrary.org/works/OL960281W/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%…'
-aliases: []
+abstract: A historical and conceptual study of Pierre-Joseph Proudhon's mutualism, including property versus possession, reciprocity and the cost principle, mutual banking, the People's Bank, cooperative antecedents, later influence, and contemporary criticisms.
+aliases:
+- mutualism
 author:
 - Salvador Guzman
 - ChatGPT
@@ -19,16 +17,17 @@ categories:
 - Political Theory
 - History
 - Socialism
+- Anarchism
 cover-image: ''
 cover_image: ''
 creator:
 - Salvador Guzman
-dataset_id: ''
+dataset_id: ideology-studies
 date: '2026-01-25'
-description: '**Executive Summary** Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as *anti‑state*
-  and market‐friendly, coining the slogan “property is theft!”[\[1\]](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20w…'
-draft: false
+description: A historical and conceptual study of Proudhon's anti-state market socialism, property and possession, reciprocity, mutual credit, cooperative experiments, and intellectual legacy.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -41,21 +40,26 @@ highlight-style: tango
 identifier: urn:marginalia:proudhon-mutualism-report
 isCJKLanguage: false
 keywords:
-- Proudhon Mutualism Report
-- Political Theory
-- History
-- Socialism
-- Socialism. Communism. Anarchism
+- mutualism
+- Pierre-Joseph Proudhon
+- mutual banking
+- People's Bank
+- property is theft
+- possession
+- reciprocity
+- market socialism
+- libertarian socialism
+- cooperative movement
 lang: en
 language: English
-lastmod: '2026-01-25'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: HX
   description: Socialism, communism, anarchism, and related intellectual history.
   label: Socialism. Communism. Anarchism
 license: CC0-1.0
-linkTitle: Proudhon Mutualism Report
+linkTitle: 'Mutualism: Markets Without Capitalism'
 markup: ''
 number-sections: false
 outputs: []
@@ -63,47 +67,63 @@ plate_id: ''
 publishDate: '2026-01-25'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - 3mutualism
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: proudhon-mutualism-report
+    rationale: `3mutualism` contains the same substantive Proudhon mutualism report with formatting and conversion differences. This package has cleaner Markdown table structure and a folder/slug identity that already satisfies the canonical package invariant, so it is retained as the canonical body.
 report:
   audience: general reader
   code: ''
-  collection: ''
+  collection: ideology-studies
   conversion:
     date: '2026-04-20'
     source_docx: Proudhon Mutualism Report.docx
     tool: pandoc 3.6
   discipline: political theory
   domain: political theory
-  emphasis: ''
-  focus: ''
+  emphasis: property, possession, reciprocity, mutual banking, cooperative experiments, and intellectual legacy
+  focus: Proudhon's anti-state market socialism and mutual credit
   id: urn:marginalia:proudhon-mutualism-report
-  intent: ''
+  intent: historical and conceptual ideology study
   is_report: true
   kind: research report
-  level: ''
-  method: ''
+  level: general analytical reference
+  method: historical and conceptual synthesis of primary texts, secondary literature, and movement history
   methods: []
   name: Proudhon Mutualism Report
-  notes: ''
+  notes: Duplicate review on 2026-08-20 established that `3mutualism` is a later repackaging of the same substantive report with formatting/conversion differences. This package is canonical because its Markdown body is cleaner and its package identity is already structurally valid. The inherited `mutualism` publication slug is preserved as an alias. The article remains in review because its citation base includes weak or secondary sources, escaped numbered-link artifacts, document self-reference, and other academic cleanup that should be resolved before publication.
   number: 008
   organization: Marginalia
-  period: ''
-  period_covered: ''
+  period: nineteenth-century origins with later intellectual reception
+  period_covered: 1840s mutualism through later anarchist and cooperative influence
   population_focus: ''
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: France and transatlantic reception
+  region_focus: France, Britain, and the United States where relevant to mutualist and cooperative history
+  scope: Proudhon's property theory, exchange, reciprocity, mutual credit, historical experiments, criticisms, and legacy
+  scope_years: nineteenth century with later reception
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: executive summary, chronology, intellectual profile, conceptual analysis, institutions, experiments, criticisms, and legacy
   subdiscipline: socialist and radical thought
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Proudhon Mutualism Report
+  subject: Proudhonian mutualism
+  time_scope: historical intellectual and institutional analysis
+  time_span: nineteenth century-present reception
+  topic: Proudhon and Mutualism
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 008
 report-number: 008
@@ -112,7 +132,7 @@ report_no: 8
 report_number: 8
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 8
@@ -124,21 +144,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: proudhon-mutualism-report
-status: complete
+status: review
 subject:
 - Political theory
 - Socialism
+- Anarchism
+- Pierre-Joseph Proudhon
 subjects:
-- Political theory
+- Mutualism
+- Pierre-Joseph Proudhon
+- Anarchism
 - Socialism
+- Mutual credit
 subtitle: ''
-summary: '**Executive Summary** Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as *anti‑state*
-  and market‐friendly, coining the slogan “property is theft!”[\[1\]](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20w…'
+summary: A historical and conceptual study of Proudhonian mutualism, including property and possession, reciprocity, mutual credit, cooperative experiments, criticisms, and later influence.
 tags:
 - proudhon-mutualism-report
+- mutualism
+- proudhon
 - political-theory
-- history
+- anarchism
 - socialism
+- mutual-banking
 title: Proudhon Mutualism Report
 toc: false
 toc-depth: 0
@@ -146,5 +173,6 @@ toc-title: ''
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
