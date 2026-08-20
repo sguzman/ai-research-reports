@@ -23,7 +23,7 @@ These rules apply to every profile unless the apparent violation is itself delib
 7. New and normalized local support files belong under `data/md/<slug>/assets/`. Legacy `media/`, root-level cover files, and other historical layouts are migration debt rather than a reason to perpetuate the layout.
 8. External links and externally hosted images must be valid and relevant when an article is ingested or substantively revised. Later link rot does not retroactively invalidate a historical revision.
 9. Diagrams must actually render. A source-language diagram is not considered publication-ready merely because its text parses.
-10. Editorial changes to an established article are recorded in its `CHANGELOG.md` using the repository's existing timestamp/summary table convention.
+10. Every editorial PR that changes an established article package must update that package's `CHANGELOG.md` in the same PR with a newest-first entry describing the material changes, reasons, and important remaining blockers.
 11. New and substantively revised artifacts must be checked for meaningful duplication or derivation against the canonical corpus before they advance to `ready`.
 
 ## Editorial profiles
@@ -129,7 +129,7 @@ Duplicate, superseded, and merged-source are **relationship dispositions**, not 
 
 ## Change control
 
-Existing per-article changelogs use this form:
+Article-local changelogs use this form:
 
 ```markdown
 # Changelog
@@ -139,7 +139,13 @@ Existing per-article changelogs use this form:
 | YYYY-MM-DD HH:MM:SS TZ | Concise description of the editorial change. |
 ```
 
-Keep newest entries first. Record substantive corrections, perspective normalization, metadata reclassification, citation repair, asset migration, duplicate/derivative decisions, merge provenance, and other changes that materially alter the canonical package. Pure one-way publication into Marginalia does not create a second editorial history.
+Keep newest entries first. Every editorial PR that changes an established article package must update its changelog in that same PR. Record substantive body corrections, perspective normalization, metadata/profile/lifecycle reclassification, citation and source repair, factual correction, asset migration, duplicate/derivative decisions, merge provenance, and publication-state changes that materially alter the canonical package.
+
+Entries should be rich enough to reconstruct the editorial action without requiring the chat or PR description. State **what changed, why it changed, and important blockers that remain**. Avoid entries such as “cleaned article,” “updated metadata,” or “fixed citations” without naming the material action. If several materially different repairs occurred in one batch, name them in the entry.
+
+Do not rewrite old changelog entries merely to make the history look cleaner. If an older entry proves too vague or incomplete, append a later audit/backfill entry explaining the missing context. Pure one-way publication rendering into Marginalia does not create a second editorial history; the corresponding canonical lifecycle transition, when one occurs, is recorded here.
+
+Repository-level progress tracking under `editorial/` complements these article-local histories but never replaces them.
 
 ## Publication threshold
 
