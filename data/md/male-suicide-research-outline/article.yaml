@@ -1,9 +1,5 @@
 ---
-abstract: <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png"
-  style="width:5.83333in;height:3.61814in" /> **Figure 1:** *Age-adjusted suicide rates (deaths per 100,000)
-  in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line)
-  throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through
-  a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.*
+abstract: An archived duplicate of the canonical `male-suicide` report. Despite its historical “Research Outline” title, the package contains the same substantive finished report as the later canonical package apart from the H1/title and package-local conversion paths.
 aliases: []
 author:
 - Salvador Guzman
@@ -19,17 +15,17 @@ cascade: {}
 categories:
 - Health
 - Public Health
+- Epidemiology
 cover-image: ''
 cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-01-25'
-description: <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png"
-  style="width:5.83333in;height:3.61814in" /> **Figure 1:** *Age-adjusted suicide rates (deaths per 100,000)
-  in t…
-draft: false
+description: Archived exact substantive duplicate of canonical `male-suicide`, retained for provenance and migration history rather than as an independent research outline.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -42,13 +38,14 @@ highlight-style: tango
 identifier: urn:marginalia:male-suicide-research-outline
 isCJKLanguage: false
 keywords:
-- Male Suicide Research Outline
-- Health
-- Public Health
-- Public aspects of medicine
+- male suicide
+- suicide epidemiology
+- United States
+- suicide prevention
+- public health
 lang: en
 language: English
-lastmod: '2026-01-25'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: RA
@@ -63,6 +60,22 @@ plate_id: ''
 publishDate: '2026-01-25'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - male-suicide
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: male-suicide
+    rationale: Body comparison shows that the package is not merely an outline; it contains the same substantive finished report as `male-suicide` apart from the H1/title and package-local conversion paths. The later `male-suicide` package has the stronger canonical identity and metadata.
 report:
   audience: general policy-oriented reader
   code: ''
@@ -73,37 +86,37 @@ report:
     tool: pandoc 3.6
   discipline: public health
   domain: health
-  emphasis: ''
-  focus: ''
+  emphasis: archived duplicate provenance
+  focus: duplicate relationship to canonical `male-suicide`
   id: urn:marginalia:male-suicide-research-outline
-  intent: ''
+  intent: preserve an earlier mislabeled duplicate and migration history
   is_report: true
-  kind: research outline
+  kind: archived duplicate report
   level: ''
-  method: ''
+  method: inherited synthesis of epidemiological data and research literature
   methods: []
   name: Male Suicide Research Outline
-  notes: ''
+  notes: The inherited metadata mislabeled this package as a research outline and embedded absolute workstation image paths in its abstract, description, and summary. Duplicate review on 2026-08-20 established that the body is the same substantive finished report as canonical `male-suicide` apart from the H1/title and package-local conversion paths. The contaminated metadata was replaced and the package archived. The historical body is retained as migration evidence and is not publication-eligible; no suicide, clinical, or intervention claim was substantively rewritten or validated in this duplicate pass.
   number: '005'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: 2000-present with inherited data concentrated through 2022
+  period_covered: inherited U.S. male-suicide report duplicated by canonical `male-suicide`
+  population_focus: males in the United States
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: United States
+  region_focus: national and subgroup comparisons
+  scope: duplicate of the canonical male-suicide research report
+  scope_years: 2000-present
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: neutral analytical
+  structure: full research report despite historical outline title
   subdiscipline: health policy and epidemiology
-  subject: ''
-  time_scope: ''
-  time_span: ''
+  subject: male suicide epidemiology and prevention
+  time_scope: inherited evidence
+  time_span: 2000-present
   topic: Male Suicide Research Outline
-  type: outline
-  version: 1.0.0
+  type: report
+  version: 1.0.1
   year: 2026
 report-no: '005'
 report-number: '005'
@@ -112,7 +125,7 @@ report_no: 5
 report_number: 5
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 5
@@ -124,27 +137,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: male-suicide-research-outline
-status: complete
+status: archived
 subject:
-- Public health
-- Health policy
+- Male suicide epidemiology
+- Suicide prevention
 subjects:
 - Public health
-- Health policy
+- Epidemiology
+- Suicide prevention
 subtitle: ''
-summary: <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png"
-  style="width:5.83333in;height:3.61814in" /> **Figure 1:** *Age-adjusted suicide rates (deaths per 100,000)
-  in t…
+summary: Archived duplicate of canonical `male-suicide`; retained to preserve the earlier outline-labeled artifact and migration history.
 tags:
 - male-suicide-research-outline
+- male-suicide
 - health
 - public-health
+- archived-duplicate
 title: Male Suicide Research Outline
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: outline
+type: report
 url: ''
+voice: neutral
 weight: 0
 ...
