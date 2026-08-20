@@ -1,8 +1,5 @@
 ---
-abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images,
-  references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document
-  far exceeds the practical output limits here. However, I can provide a structured outline and concise
-  summary of the requested topics to help guide further research or writing.
+abstract: An archived GAHT research brief whose substantive body duplicates the canonical `gaht` article apart from the H1/title. It summarizes feminizing hormone therapy, age of initiation, physiologic effects, risks, monitoring, fertility, psychosocial outcomes, and evidence gaps.
 aliases: []
 author:
 - Salvador Guzman
@@ -18,17 +15,17 @@ cascade: {}
 categories:
 - Health
 - Public Health
+- Endocrinology
 cover-image: ''
 cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-01-31'
-description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images,
-  references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document
-  far exceeds the practical output limit…
-draft: false
+description: Archived duplicate of the canonical `gaht` package, retained to preserve the earlier report-summary identity and migration history rather than published as a separate work.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -41,13 +38,16 @@ highlight-style: tango
 identifier: urn:marginalia:gaht-research-report-summary
 isCJKLanguage: false
 keywords:
-- GAHT Research Report Summary
-- Health
-- Public Health
-- Public aspects of medicine
+- GAHT
+- gender-affirming hormone therapy
+- AMAB
+- estradiol
+- puberty suppression
+- health
+- public health
 lang: en
 language: English
-lastmod: '2026-01-31'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: RA
@@ -62,6 +62,22 @@ plate_id: ''
 publishDate: '2026-01-31'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - gaht
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: gaht
+    rationale: The substantive body is the same as the later `gaht` package apart from the H1/title. The `gaht` package has the stronger canonical identity and metadata; this earlier summary-labeled package is retained only for provenance and stable identifiers.
 report:
   audience: general policy-oriented reader
   code: ''
@@ -72,37 +88,37 @@ report:
     tool: pandoc 3.6
   discipline: public health
   domain: health
-  emphasis: ''
-  focus: ''
+  emphasis: concise overview of feminizing GAHT effects, risks, timing, and evidence gaps
+  focus: archived duplicate relationship to canonical `gaht`
   id: urn:marginalia:gaht-research-report-summary
-  intent: ''
-  is_report: true
-  kind: executive summary
+  intent: preserve an earlier summary-labeled artifact and migration history
+  is_report: false
+  kind: archived duplicate research brief
   level: ''
-  method: ''
+  method: inherited literature and guideline synthesis
   methods: []
   name: GAHT Research Report Summary
-  notes: ''
+  notes: The June body cleanup removed an assistant refusal from the article text but the same refusal remained in metadata until duplicate review on 2026-08-20. Review established that this package and `gaht` contain the same substantive body apart from the H1/title. The refusal-contaminated metadata was replaced, the artifact was classified as an academic research brief for its historical identity, and the package was archived in favor of canonical `gaht`. No clinical claim was substantively rewritten or validated in this duplicate pass.
   number: '010'
   organization: Marginalia
   period: ''
   period_covered: ''
-  population_focus: ''
+  population_focus: AMAB feminizing GAHT
   primary_texts: []
   region: ''
   region_focus: ''
-  scope: ''
+  scope: physiologic effects, timing, risks, monitoring, fertility, psychosocial outcomes, and evidence gaps
   scope_years: ''
   series: Marginalia Reports
-  stance: ''
-  structure: ''
+  stance: non-prescriptive analytical summary
+  structure: executive summary and structured key-point outline
   subdiscipline: health policy and epidemiology
-  subject: ''
-  time_scope: ''
+  subject: gender-affirming hormone therapy
+  time_scope: inherited clinical evidence subject to re-verification in canonical `gaht`
   time_span: ''
   topic: GAHT Research Report Summary
-  type: summary
-  version: 1.0.0
+  type: research-brief
+  version: 1.0.1
   year: 2026
 report-no: '010'
 report-number: '010'
@@ -111,7 +127,7 @@ report_no: 10
 report_number: 10
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 10
@@ -123,27 +139,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: gaht-research-report-summary
-status: complete
+status: archived
 subject:
+- Gender-affirming hormone therapy
 - Public health
-- Health policy
 subjects:
+- Gender-affirming hormone therapy
+- Feminizing hormone therapy
 - Public health
-- Health policy
 subtitle: ''
-summary: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images,
-  references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document
-  far exceeds the practical output limit…
+summary: Archived summary-labeled duplicate of canonical `gaht`; retained for provenance rather than independent publication.
 tags:
 - gaht-research-report-summary
+- gaht
 - health
 - public-health
+- archived-duplicate
 title: GAHT Research Report Summary
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
-type: summary
+type: research-brief
 url: ''
+voice: neutral
 weight: 0
 ...

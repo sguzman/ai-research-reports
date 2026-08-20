@@ -56,7 +56,7 @@ keywords:
 - administrative law judges
 lang: en
 language: English
-lastmod: '2026-08-19'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: KF
@@ -71,6 +71,22 @@ plate_id: ''
 publishDate: '2026-04-30'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates:
+  - judges-in-the-judicial-process-of-the-united-states
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: american-judicial-process
+    rationale: Report 096 was an exact-body duplicate of this report 095 at the inherited corpus snapshot. Report 095 remains canonical; report 096 is retained only as an archived migration artifact.
 report:
   audience: general legal reader
   code: ''
@@ -91,7 +107,7 @@ report:
   method: synthesis of constitutional, statutory, judicial-administration, and representative state sources
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: Canonical report-095 copy; the later report-096 exact-body duplicate remains archived. Mechanical conversion defects were repaired earlier on 2026-08-19. A subsequent official-source audit replaced the brittle generated citation lattice with direct U.S. Courts, Senate Judiciary, Constitution Annotated, U.S. Code, OPM, and state-court sources; verified current 2026 federal compensation; removed stale Florida and Virginia salary examples; and removed the unverified homemade 51-jurisdiction selection count. The article is now in review rather than draft, but is not publication-ready until final legal editorial review and link maintenance are complete.
+  notes: Canonical report-095 copy; the later report-096 exact-body duplicate is explicitly linked in relationship metadata and remains archived. Mechanical conversion defects were repaired earlier on 2026-08-19. A subsequent official-source audit replaced the brittle generated citation lattice with direct U.S. Courts, Senate Judiciary, Constitution Annotated, U.S. Code, OPM, and state-court sources; verified current 2026 federal compensation; removed stale Florida and Virginia salary examples; and removed the unverified homemade 51-jurisdiction selection count. The article is now in review rather than draft, but is not publication-ready until final legal editorial review and link maintenance are complete.
   number: 095
   organization: Marginalia
   period: current institutional structure with verified 2026 compensation examples
@@ -111,7 +127,7 @@ report:
   time_span: through 2026
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.3
+  version: 1.0.4
   year: 2026
 report-no: 095
 report-number: 095
@@ -120,7 +136,7 @@ report_no: 95
 report_number: 95
 report_year: 2026
 resources: []
-revision: 1.0.3
+revision: 1.0.4
 rights: CC0-1.0
 series: american-law-guides
 series-number: 95
