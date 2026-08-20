@@ -4,25 +4,27 @@
 
 In the United States, “judge” is not a single office. The federal system distinguishes constitutional Article III judges from other federal judicial officers, while each state creates its own court structure, selection rules, terms, and disciplinary mechanisms. The result is a family of offices that share adjudicative functions but differ substantially in tenure, appointment, jurisdiction, accountability, and compensation.
 
-Article III judges—Supreme Court justices, federal circuit judges, and federal district judges—hold office during good behavior and receive constitutional protection against salary diminution while in office. Bankruptcy judges and magistrate judges are federal judicial officers but are not Article III judges: bankruptcy judges serve renewable 14-year terms and full-time magistrate judges renewable 8-year terms. Federal administrative law judges (ALJs) are executive-branch adjudicators governed by a separate statutory appointment and pay system. The Administrative Office of the U.S. Courts provides a current overview of [types of federal judges](https://www.uscourts.gov/about-federal-courts/types-federal-judges), while the constitutional basis for Article III tenure appears in [Article III, Section 1](https://constitution.congress.gov/browse/article-3/section-1/).
+Article III judges include Supreme Court justices, judges of the U.S. courts of appeals, judges serving in 91 of the 94 federal judicial districts, and judges of the U.S. Court of International Trade. Three territorial district courts—the U.S. Virgin Islands, Guam, and the Northern Mariana Islands—use presidentially appointed judges who serve renewable 10-year terms rather than Article III good-behavior tenure. Bankruptcy judges and magistrate judges are federal judicial officers but are not Article III judges: bankruptcy judges serve renewable 14-year terms and full-time magistrate judges renewable 8-year terms. Federal administrative law judges (ALJs) are executive-branch adjudicators governed by a separate statutory appointment and pay system. The Administrative Office of the U.S. Courts provides current overviews of [types of federal judges](https://www.uscourts.gov/about-federal-courts/types-federal-judges) and [U.S. district courts](https://www.uscourts.gov/about-federal-courts/court-role-and-structure/about-us-district-courts), while the constitutional basis for Article III tenure appears in [Article III, Section 1](https://constitution.congress.gov/browse/article-3/section-1/).
 
 Federal Article III appointments follow the Constitution’s Appointments Clause: the President nominates and, with the Senate’s advice and consent, appoints federal judges. Judicial nominations within the Senate Judiciary Committee’s jurisdiction include nominees to the Supreme Court, courts of appeals, district courts, and Court of International Trade. The committee’s current [nominations page](https://www.judiciary.senate.gov/nominations) also links to the Senate Executive Calendar and current judicial vacancies.
 
-State systems are more heterogeneous. Texas uses partisan judicial elections for major courts; Florida and Arizona use commission-based merit selection followed by retention elections for important appellate offices; California uses gubernatorial appointment with confirmation by the Commission on Judicial Appointments and later voter confirmation. These examples illustrate why there is no single national “state judge” selection process.
+State systems are more heterogeneous. Texas uses partisan judicial elections for major courts; Florida and Arizona use commission-based merit selection followed by retention elections for important appellate offices; California uses gubernatorial appointment or nomination with confirmation by the Commission on Judicial Appointments and later voter retention or confirmation. These examples illustrate why there is no single national “state judge” selection process.
 
-Current federal compensation is comparatively easy to verify. For calendar year 2026, the Administrative Office of the U.S. Courts lists annual salaries of **$249,900 for district judges, $264,900 for circuit judges, $306,600 for Associate Justices, and $320,700 for the Chief Justice** on its [Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) page. Current 2026 federal vacancy notices list **$229,908** for full-time magistrate judges and bankruptcy judges. Federal ALJ basic pay ranges from **$131,700 to $197,200** on the Office of Personnel Management’s [2026 ALJ pay table](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx).
+Current federal compensation is comparatively easy to verify. For calendar year 2026, the Administrative Office of the U.S. Courts lists annual salaries of **$249,900 for district judges, $264,900 for circuit judges, $306,600 for Associate Justices, and $320,700 for the Chief Justice** on its [Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) page. By statute, full-time magistrate judges and bankruptcy judges receive **92 percent of a district judge’s salary**, which produces a 2026 salary of **$229,908**. Federal ALJ basic pay ranges from **$131,700 to $197,200** on the Office of Personnel Management’s [2026 ALJ pay table](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx).
 
 ## Federal Court Structure
 
-Article III establishes the federal judicial power, creates the Supreme Court, and authorizes Congress to establish lower federal courts. The Administrative Office of the U.S. Courts currently describes a federal structure with the Supreme Court at the apex, **13 U.S. courts of appeals, 94 U.S. district courts, and 90 U.S. bankruptcy courts**. Its [Court Role and Structure](https://www.uscourts.gov/about-federal-courts/court-role-and-structure) page distinguishes those courts from several Article I courts created by Congress outside the Article III judicial branch.
+Article III establishes the federal judicial power, creates the Supreme Court, and authorizes Congress to establish lower federal courts. The Administrative Office of the U.S. Courts currently describes a federal structure with **13 U.S. courts of appeals, 94 federal judicial districts, and 90 U.S. bankruptcy courts**. All but three federal judicial districts have lifetime-appointed Article III district judges; judges in the territorial district courts of the U.S. Virgin Islands, Guam, and the Northern Mariana Islands serve renewable 10-year terms. The U.S. Court of International Trade is a separate Article III trial court with nine judges. See [Court Role and Structure](https://www.uscourts.gov/about-federal-courts/court-role-and-structure), [About U.S. District Courts](https://www.uscourts.gov/about-federal-courts/court-role-and-structure/about-us-district-courts), and [Types of Federal Judges](https://www.uscourts.gov/about-federal-courts/types-federal-judges).
 
-The main federal judicial roles are:
+The main federal judicial roles include:
 
 | Office | Institutional role | Tenure or term |
 |---|---|---|
 | Supreme Court justice | Highest federal appellate authority; limited original jurisdiction | Article III good-behavior tenure |
 | Circuit judge | Reviews district-court decisions and many federal agency decisions | Article III good-behavior tenure |
-| District judge | Federal trial judge for civil and criminal cases within jurisdiction | Article III good-behavior tenure |
+| District judge | Federal trial judge for civil and criminal cases within jurisdiction; Article III judges serve in 91 of the 94 federal judicial districts | Article III good-behavior tenure |
+| Court of International Trade judge | Article III trial judge for specified customs and international-trade matters | Article III good-behavior tenure |
+| Territorial district judge | Federal trial judge in the U.S. Virgin Islands, Guam, or Northern Mariana Islands | Renewable 10-year term |
 | Bankruptcy judge | Judicial officer of a district court exercising bankruptcy jurisdiction | Renewable 14-year term |
 | Magistrate judge | District-court judicial officer handling assigned pretrial, misdemeanor, warrant, and consent matters | Renewable 8-year full-time term; 4-year part-time term |
 | Administrative law judge | Executive-branch adjudicator under federal statute | Career appointment under the federal ALJ system rather than Article III tenure |
@@ -31,7 +33,7 @@ The U.S. Courts’ [FAQs for Federal Judges](https://www.uscourts.gov/about-fede
 
 ## Federal Appointment and Career Structure
 
-The constitutional rule for Article III appointments is contained in [Article II, Section 2, Clause 2](https://constitution.congress.gov/browse/article-2/section-2/clause-2/). In practical terms, the process is:
+The constitutional rule for Article III appointments is contained in [Article II, Section 2, Clause 2](https://constitution.congress.gov/browse/article-2/section-2/clause-2/). In the ordinary nomination process:
 
 1. A vacancy exists in an authorized Article III judgeship.
 2. The President selects and formally nominates a candidate.
@@ -40,7 +42,7 @@ The constitutional rule for Article III appointments is contained in [Article II
 5. The committee decides whether to report the nomination.
 6. A reported nomination proceeds to the Senate Executive Calendar.
 7. The Senate considers the nomination under its current rules.
-8. Confirmation requires a majority of senators voting.
+8. Confirmation requires a majority vote.
 9. After confirmation and appointment formalities, the judge may assume office.
 
 The Senate Judiciary Committee’s [Nominations](https://www.judiciary.senate.gov/nominations) page states that it considers federal judicial nominations and links directly to the current Senate Executive Calendar. The constitutional allocation of nomination and confirmation authority is discussed in the Congressional Research Service material collected by [Constitution Annotated](https://constitution.congress.gov/browse/article-2/section-2/clause-2/).
@@ -53,12 +55,12 @@ State judicial systems cannot be accurately described with one national selectio
 
 | State | Representative model | Official source |
 |---|---|---|
-| Texas | Major appellate and district judges are selected through partisan elections; vacancies are filled under state-law appointment procedures | [Texas Judicial Branch judicial-selection materials](https://www.txcourts.gov/tcjs/) |
+| Texas | Major appellate and district judges are selected through partisan elections; vacancies are filled under state-law appointment procedures | [Texas Judicial Branch: Information on Texas Judges](https://www.txcourts.gov/statistics/information-on-texas-judges/) and [Texas Constitution, Article V](https://statutes.capitol.texas.gov/Docs/CN/pdf/CN.5.pdf) |
 | Florida | Supreme Court justices are selected through a judicial nominating commission and gubernatorial appointment, followed by merit-retention elections | [Florida Supreme Court: Merit Selection, Retention & Retirement](https://supremecourt.flcourts.gov/the-court/about-the-court/justices/merit-selection-retention-retirement) |
-| Arizona | Appellate judges are selected through a merit-selection system and later stand for retention; Arizona also uses different systems for some trial courts depending on jurisdiction | [Arizona Judicial Branch](https://www.azcourts.gov/meetthejustices/) |
-| California | Appellate appointments are made by the governor and reviewed by the Commission on Judicial Appointments; justices later face voter confirmation | [California Courts: Commission on Judicial Appointments](https://courts.ca.gov/about/state-branch-resources/commission-judicial-appointments) |
+| Arizona | Supreme Court and Court of Appeals judges are appointed through merit selection and later stand for retention; superior-court selection varies by county | [Arizona Judicial Branch: Selection of Judges](https://www.azcourts.gov/guidetoazcourts/Selection-of-Judges) |
+| California | Supreme Court and Court of Appeal appointments or nominations are made by the governor, become effective after Commission on Judicial Appointments confirmation where applicable, and are subject to voter confirmation or retention under the state’s appellate election system | [California Courts: Judicial Selection](https://newsroom.courts.ca.gov/branch-facts/judicial-selection-how-california-chooses-its-judges-and-justices) and [Commission on Judicial Appointments](https://courts.ca.gov/about/state-branch-resources/commission-judicial-appointments) |
 
-The purpose of these examples is descriptive rather than exhaustive. They establish the central institutional fact: state judges may reach office through contested elections, commission-based merit selection, gubernatorial appointment, retention elections, or combinations of those mechanisms. A national count of selection “types” can become misleading because hybrid states and court-level differences make categories overlap.
+These examples are descriptive rather than exhaustive. They establish the central institutional fact: state judges may reach office through contested elections, commission-based merit selection, gubernatorial appointment, retention elections, or combinations of those mechanisms. A national count of selection “types” can become misleading because hybrid states and court-level differences make categories overlap.
 
 ## Tenure, Compensation, and Independence
 
@@ -72,11 +74,11 @@ Article III’s good-behavior tenure and compensation protection are designed to
 | Federal circuit judge | $264,900 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) |
 | Associate Justice | $306,600 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) |
 | Chief Justice | $320,700 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) |
-| Full-time U.S. magistrate judge | $229,908 | [District of Minnesota 2026 magistrate-judge vacancy notice](https://www.mnd.uscourts.gov/news/notice-us-magistrate-judge-vacancy-2) |
-| U.S. bankruptcy judge | $229,908 | [Current U.S. Courts bankruptcy-judge vacancy](https://www.uscourts.gov/careers/current-job-openings/138624) |
+| Full-time U.S. magistrate judge | $229,908 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) (92% of district-judge salary) |
+| U.S. bankruptcy judge | $229,908 | [U.S. Courts Judicial Compensation](https://www.uscourts.gov/about-federal-courts/about-federal-judges/judicial-compensation) (92% of district-judge salary) |
 | Federal ALJ | $131,700–$197,200 basic pay | [OPM 2026 ALJ Pay Table](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/26Tables/exec/html/ALJ.aspx) |
 
-State judicial pay should not be presented as though it were a single comparable national scale. State salary schedules change on different fiscal calendars and may include local supplements or court-specific formulas. As one verified 2026 example, [Arizona legislation](https://www.azleg.gov/legtext/56leg/2R/summary/S.2897-1735APPROP_ASENACTED.pdf) sets annual salaries of **$225,000 for a Supreme Court justice, $232,000 for the Chief Justice, $210,000 for a court-of-appeals judge, and $200,000 for a superior-court judge** effective January 1, 2026. Because state figures age quickly, a publication intended as a durable institutional reference should treat them as dated examples rather than national benchmarks.
+State judicial pay should not be presented as though it were a single comparable national scale. State salary schedules change on different fiscal calendars and may include local supplements or court-specific formulas. As one verified 2026 example, [Arizona legislation](https://www.azleg.gov/legtext/56leg/2R/bills/SB1735S.htm) sets annual salaries of **$225,000 for a Supreme Court justice, $232,000 for the Chief Justice, $210,000 for a court-of-appeals judge, and $200,000 for a superior-court judge** effective January 1, 2026. Later 2026 budget legislation schedules another increase for January 1, 2027—to **$235,000 for other Supreme Court justices, $242,000 for the Chief Justice, $220,000 for court-of-appeals judges, and $210,000 for superior-court judges**—illustrating how quickly state compensation examples can age.
 
 ## Judicial Powers and Constraints
 
@@ -110,8 +112,8 @@ State accountability systems differ. Elections, retention votes, fixed terms, re
 
 Several propositions hold across the institutional variety:
 
-1. **Federal Article III judges are unusually insulated.** Life tenure during good behavior and compensation protection distinguish them from most other American judges.
-2. **Non-Article III federal adjudicators are not constitutionally interchangeable with Article III judges.** Magistrate judges, bankruptcy judges, and ALJs have different appointment, tenure, jurisdiction, and removal structures.
+1. **Federal Article III judges are unusually insulated.** Good-behavior tenure and compensation protection distinguish them from most other American judges.
+2. **Non-Article III federal adjudicators are not constitutionally interchangeable with Article III judges.** Territorial district judges, magistrate judges, bankruptcy judges, and ALJs have different appointment, tenure, jurisdiction, or removal structures.
 3. **State judges cannot be reduced to one national model.** Selection and reselection procedures vary by state and court level.
 4. **Judicial power is broad but jurisdiction-bound.** Judges interpret law, control proceedings, sentence defendants, issue remedies, and participate in administration, but those powers operate within constitutional and statutory limits.
 5. **Independence and accountability are designed together.** Tenure, appointment, elections, ethics rules, appellate review, discipline, and political-branch powers all shape the practical authority of judges.
@@ -120,6 +122,6 @@ Several propositions hold across the institutional variety:
 
 The institutional scope is intentionally narrower than a fifty-state survey. Representative state examples are used because state constitutions, statutes, judicial-selection systems, salary schedules, and retirement rules change independently.
 
-Compensation figures are particularly time-sensitive. Federal 2026 figures were checked against current U.S. Courts and OPM sources in August 2026. State compensation is intentionally limited to a dated Arizona example rather than mixing fiscal-year figures from multiple states and presenting them as equally current.
+Compensation figures are particularly time-sensitive. Federal 2026 figures were checked against current U.S. Courts and OPM sources in August 2026. State compensation is intentionally limited to a dated Arizona example, with a noted scheduled 2027 change, rather than mixing fiscal-year figures from multiple states and presenting them as equally current.
 
 The material describes institutional structures and publicly available rules; it does not provide case-specific legal advice.
