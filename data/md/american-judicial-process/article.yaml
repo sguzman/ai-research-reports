@@ -109,7 +109,7 @@ report:
   method: synthesis of constitutional, statutory, judicial-administration, and representative state sources
   methods: []
   name: Judges in the Judicial Process of the United States
-  notes: Canonical report-095 copy; the later report-096 exact-body duplicate is explicitly linked in relationship metadata and remains archived. Mechanical conversion defects and prompt residue were repaired on 2026-08-19, followed by a current-source audit of compensation and citation-to-claim pairings. Final legal editorial review on 2026-08-20 clarified the distinction between 91 Article III district courts and three term-appointed territorial district courts, added the Court of International Trade to the Article III inventory, replaced transient salary-vacancy links with the durable statutory 92-percent compensation rule, strengthened representative state-selection sources, and rechecked current 2026 compensation. The article meets the repository's ready threshold as a dated institutional reference; future maintenance should recheck compensation and state-selection links.
+  notes: Canonical report-095 copy; the later report-096 exact-body duplicate is explicitly linked in relationship metadata and remains archived. Mechanical conversion defects and prompt residue were repaired on 2026-08-19, followed by a current-source audit of compensation and citation-to-claim pairings. Final legal editorial review on 2026-08-20 clarified the distinction between 91 Article III district courts and three term-appointed territorial district courts, added the Court of International Trade to the Article III inventory, replaced transient salary-vacancy links with the durable statutory 92-percent compensation rule, strengthened representative state-selection sources, and rechecked current 2026 compensation. The article passed the repository's ready threshold and was published to Marginalia on 2026-08-20 as a publisher-managed projection. Future maintenance should recheck compensation and state-selection links.
   number: 095
   organization: Marginalia
   period: current institutional structure with verified 2026 compensation examples
@@ -129,7 +129,7 @@ report:
   time_span: through 2026
   topic: Judges in the Judicial Process of the United States
   type: report
-  version: 1.0.5
+  version: 1.0.6
   year: 2026
 report-no: 095
 report-number: 095
@@ -138,7 +138,7 @@ report_no: 95
 report_number: 95
 report_year: 2026
 resources: []
-revision: 1.0.5
+revision: 1.0.6
 rights: CC0-1.0
 series: american-law-guides
 series-number: 95
@@ -150,7 +150,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: american-judicial-process
-status: ready
+status: published
 subject:
 - Judges
 - United States courts
