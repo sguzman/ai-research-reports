@@ -1,6 +1,5 @@
 ---
-abstract: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research
-  Framewo
+abstract: A methodological research framework for distinguishing proposed “borderer/right-coded” internet memes from “left/awkward-authentic” memes using operational definitions, observable coding dimensions, corpus design, human-coder procedures, a classification rubric, and testable expectations.
 aliases: []
 author:
 - Salvador Guzman
@@ -16,16 +15,17 @@ cascade: {}
 categories:
 - Culture
 - Media Studies
+- Research Methods
 cover-image: ''
 cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-03-04'
-description: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research
-  Framewo
-draft: false
+description: A methodological framework for operationalizing and testing a distinction between “borderer/right-coded” and “left/awkward-authentic” internet memes through content analysis and a coding rubric.
+draft: true
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -38,21 +38,24 @@ highlight-style: tango
 identifier: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
 isCJKLanguage: false
 keywords:
-- Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
-- Culture
-- Media Studies
-- Literature and media studies
+- internet memes
+- political memes
+- borderer-right coding
+- awkward authenticity
+- content analysis
+- coding rubric
+- research framework
+- political communication
 lang: en
 language: English
-lastmod: '2026-03-04'
+lastmod: '2026-08-20'
 layout: ''
 library_of_congress_classification:
   class: PN
   description: Literature, media studies, criticism, and cultural analysis.
   label: Literature and media studies
 license: CC0-1.0
-linkTitle: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research
-  Framewo
+linkTitle: 'Distinguishing “Borderer/Right-coded” vs “Left/Awkward-Authentic” Internet Memes: A Research Framework'
 markup: ''
 number-sections: false
 outputs: []
@@ -60,49 +63,66 @@ plate_id: ''
 publishDate: '2026-03-04'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - meme-culture-and-borderer-right-style-a-research-report
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: fork
+    disposition: keep-separate
+    canonical_slug: ''
+    rationale: This article shares concepts and sources with the broad `meme-culture-and-borderer-right-style-a-research-report` analysis but serves a distinct methodological function: it operationalizes two meme categories, proposes a corpus/coding design, and supplies a classification rubric. The companion article is the broader cultural analysis. Both are retained and cross-linked.
 report:
-  audience: general reader
+  audience: readers interested in meme research and content-analysis design
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
-    source_docx: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research
-      Framewo.docx
+    source_docx: 'Distinguishing “Borderer_Right-coded” vs “Left_Awkward-Authentic” Internet Memes_ A Research Framewo.docx'
     tool: pandoc 3.6
   discipline: media and cultural studies
   domain: culture
-  emphasis: ''
-  focus: ''
+  emphasis: operational definitions, coding variables, corpus design, coder procedures, and classification validity
+  focus: distinguishing proposed borderer/right-coded and left/awkward-authentic meme styles empirically
   id: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-  intent: ''
+  intent: methodological research framework
   is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
-  notes: ''
+  kind: research framework
+  level: analytical methods reference
+  method: proposed comparative content analysis with human coding, explicit feature definitions, and a reusable rubric
+  methods:
+  - content analysis
+  - coding rubric
+  - comparative corpus design
+  name: 'Distinguishing “Borderer/Right-coded” vs “Left/Awkward-Authentic” Internet Memes: A Research Framework'
+  notes: Overlap review on 2026-08-20 determined that this framework and `meme-culture-and-borderer-right-style-a-research-report` should remain separate related works rather than be collapsed as duplicates. The inherited metadata title was truncated and conversion-contaminated; it was restored from the clean body H1. This piece is methodological, while the companion is a broader cultural-analysis report. The legacy complete state was returned to review pending source-quality verification, validation of the proposed coding assumptions, citation cleanup, and academic-prose normalization.
   number: 059
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: contemporary internet meme culture
+  period_covered: methodological framework for contemporary meme corpora
+  population_focus: internet meme artifacts across political and platform contexts
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: primarily Anglophone internet culture
+  region_focus: cross-platform online meme communities
+  scope: operational definitions, coding dimensions, research design, corpus construction, coder reliability, rubric design, examples, limitations, and testable hypotheses
+  scope_years: contemporary digital era
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: criticism and interpretation
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research
-    Framewo
+  stance: neutral analytical
+  structure: executive summary, operational definitions, research design, coding rubric, examples, limitations, and implications
+  subdiscipline: research methods and media analysis
+  subject: empirical classification of political meme styles
+  time_scope: contemporary digital culture
+  time_span: internet era-present
+  topic: Borderer/Right-coded vs Left/Awkward-Authentic Internet Meme Classification
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: 059
 report-number: 059
@@ -111,7 +131,7 @@ report_no: 59
 report_number: 59
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 59
@@ -123,26 +143,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-status: complete
+status: review
 subject:
 - Culture
 - Media studies
+- Research methods
 subjects:
-- Culture
-- Media studies
+- Internet memes
+- Political communication
+- Content analysis
+- Coding methodology
 subtitle: ''
-summary: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research
-  Framewo
+summary: A methodological framework for operationalizing and testing a two-style meme classification using observable features, corpus design, human coding, and an explicit rubric.
 tags:
-- distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-- culture
+- internet-memes
+- borderer-right
+- awkward-authentic
+- research-methods
+- content-analysis
+- coding-rubric
 - media-studies
-title: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
+title: 'Distinguishing “Borderer/Right-coded” vs “Left/Awkward-Authentic” Internet Memes: A Research Framework'
 toc: false
 toc-depth: 0
 toc-title: ''
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
