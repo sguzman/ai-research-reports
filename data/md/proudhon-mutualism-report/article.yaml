@@ -1,72 +1,79 @@
 ---
-abstract: A historical and conceptual study of Pierre-Joseph Proudhon's mutualism, including property versus possession, reciprocity and the cost principle, mutual banking, the People's Bank, cooperative antecedents, later influence, and contemporary criticisms.
+title: 'Proudhon’s Mutualism: Property, Reciprocity, and Mutual Credit'
+linkTitle: 'Proudhon’s Mutualism: Property, Reciprocity, and Mutual Credit'
+subtitle: Property, Reciprocity, and Mutual Credit
+slug: proudhon-mutualism-report
 aliases:
 - mutualism
+date: '2026-01-25'
+lastmod: '2026-08-21'
+publishDate: '2026-01-25'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.2
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
-build:
-  list: always
-  publishResources: true
-  render: always
-cascade: {}
+creator:
+- Salvador Guzman
 categories:
 - Political Theory
 - History
 - Socialism
 - Anarchism
-cover-image: ''
-cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ideology-studies
-date: '2026-01-25'
-description: A historical and conceptual study of Proudhon's anti-state market socialism, property and possession, reciprocity, mutual credit, cooperative experiments, and intellectual legacy.
-draft: true
-edition: '1'
-editorial_profile: academic
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
-format: markdown
-headless: false
-highlight-style: tango
-identifier: urn:marginalia:proudhon-mutualism-report
-isCJKLanguage: false
+tags:
+- mutualism
+- proudhon
+- political-theory
+- anarchism
+- socialism
+- mutual-credit
+- federalism
 keywords:
 - mutualism
 - Pierre-Joseph Proudhon
-- mutual banking
-- People's Bank
+- mutual credit
+- Banque du Peuple
 - property is theft
-- possession
+- property is liberty
 - reciprocity
+- federalism
 - market socialism
-- libertarian socialism
-- cooperative movement
-lang: en
-language: English
-lastmod: '2026-08-20'
-layout: ''
-library_of_congress_classification:
-  class: HX
-  description: Socialism, communism, anarchism, and related intellectual history.
-  label: Socialism. Communism. Anarchism
-license: CC0-1.0
-linkTitle: 'Mutualism: Markets Without Capitalism'
-markup: ''
-number-sections: false
-outputs: []
-plate_id: ''
-publishDate: '2026-01-25'
-publisher: Marginalia
-reference-section-title: References
+- anarchism
+subject:
+- Political theory
+- Socialism
+- Anarchism
+- Pierre-Joseph Proudhon
+subjects:
+- Mutualism
+- Pierre-Joseph Proudhon
+- Anarchism
+- Socialism
+- Mutual credit
+- Federalism
+summary: >-
+  A source-audited study of Proudhon’s evolving mutualism, from the 1840 critique of absolute property
+  through reciprocal exchange, the 1849 People’s Bank, mature federalism, the later rehabilitation of
+  dispersed property as counter-power, and the divergent French and American mutualist legacies.
+description: >-
+  Examines Proudhon’s property theory, reciprocity, mutual credit, federation, the Banque du Peuple,
+  later mutualist reception, economic criticisms, and the patriarchal limits of his anti-domination politics.
+abstract: >-
+  This report treats Proudhonian mutualism as an evolving theory of countervailing social power rather than
+  a fixed labor-note blueprint. It distinguishes Proudhon’s own property, credit, association, and federalist
+  arguments from later Warren-Greene-Tucker mutualism; evaluates the short-lived Banque du Peuple without
+  treating it as proof of mutual-credit viability; and incorporates the later antinomy of property as both
+  exploitation and possible protection against state centralization.
 relationships:
   exact_duplicates:
   - 3mutualism
@@ -82,97 +89,121 @@ editorial:
     relationship: exact-duplicate
     disposition: archive-duplicate
     canonical_slug: proudhon-mutualism-report
-    rationale: `3mutualism` contains the same substantive Proudhon mutualism report with formatting and conversion differences. This package has cleaner Markdown table structure and a folder/slug identity that already satisfies the canonical package invariant, so it is retained as the canonical body.
+    rationale: >-
+      `3mutualism` contains the same substantive Proudhon mutualism report with formatting and conversion
+      differences. This package has the cleaner canonical identity and was retained for the substantive rewrite;
+      `3mutualism` remains archived as migration/repackaging provenance.
 report:
-  audience: general reader
-  code: ''
+  number: 008
+  year: 2026
+  type: report
+  version: 1.0.2
+  kind: research report
   collection: ideology-studies
+  discipline: political theory
+  subdiscipline: socialist, anarchist, and radical thought
+  domain: political theory and intellectual history
+  topic: Proudhon and Mutualism
+  subject: Proudhonian mutualism
+  audience: general reader
+  intent: >-
+    Reconstruct Proudhon’s changing theory of property, reciprocity, mutual credit, association, and federation;
+    distinguish his own positions from later mutualist syntheses; and evaluate the historical evidence for his
+    institutional experiments and intellectual legacy.
+  method: >-
+    Historical and conceptual synthesis using Proudhon’s primary texts, specialist intellectual history,
+    nineteenth-century credit history, reception history, and explicit separation of primary doctrine from
+    later French and American mutualist developments.
+  emphasis:
+  - property as exploitation and counter-power
+  - reciprocity and exchange
+  - mutual credit and the Banque du Peuple
+  - association and federation
+  - Bastiat and Marx critiques
+  - French and American mutualist reception
+  - anti-feminism and patriarchal household authority
+  focus: Proudhon’s evolving anti-authoritarian socialism and its later mutualist receptions
+  scope:
+  - 1840 property critique
+  - 1846 economic contradictions
+  - 1848-1849 mutual-credit proposals
+  - mature federalism and theory of property
+  - First International reception
+  - American mutualist synthesis
+  - economic and political criticisms
+  - gender hierarchy as an internal limitation
+  period: nineteenth-century origins with later intellectual reception
+  period_covered: 1840s through contemporary scholarly reception
+  region: France and transatlantic reception
+  region_focus: France, Britain, and the United States where relevant to mutualist history
+  stance: neutral analytical
+  structure: evolution of mutualism, property, reciprocity, mutual credit, critiques, federation, contested legacy, internal limits, and assessment
+  time_scope: historical intellectual and institutional analysis
+  time_span: nineteenth century-present reception
+  population_focus: ''
+  primary_texts:
+  - What Is Property? (1840)
+  - System of Economic Contradictions (1846)
+  - The Principle of Federation (1863)
+  - Theory of Property (posthumous 1866)
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:proudhon-mutualism-report
   conversion:
     date: '2026-04-20'
     source_docx: Proudhon Mutualism Report.docx
     tool: pandoc 3.6
-  discipline: political theory
-  domain: political theory
-  emphasis: property, possession, reciprocity, mutual banking, cooperative experiments, and intellectual legacy
-  focus: Proudhon's anti-state market socialism and mutual credit
-  id: urn:marginalia:proudhon-mutualism-report
-  intent: historical and conceptual ideology study
-  is_report: true
-  kind: research report
-  level: general analytical reference
-  method: historical and conceptual synthesis of primary texts, secondary literature, and movement history
-  methods: []
-  name: Proudhon Mutualism Report
-  notes: Duplicate review on 2026-08-20 established that `3mutualism` is a later repackaging of the same substantive report with formatting/conversion differences. This package is canonical because its Markdown body is cleaner and its package identity is already structurally valid. The inherited `mutualism` publication slug is preserved as an alias. The article remains in review because its citation base includes weak or secondary sources, escaped numbered-link artifacts, document self-reference, and other academic cleanup that should be resolved before publication.
-  number: 008
-  organization: Marginalia
-  period: nineteenth-century origins with later intellectual reception
-  period_covered: 1840s mutualism through later anarchist and cooperative influence
-  population_focus: ''
-  primary_texts: []
-  region: France and transatlantic reception
-  region_focus: France, Britain, and the United States where relevant to mutualist and cooperative history
-  scope: Proudhon's property theory, exchange, reciprocity, mutual credit, historical experiments, criticisms, and legacy
-  scope_years: nineteenth century with later reception
-  series: Marginalia Reports
-  stance: neutral analytical
-  structure: executive summary, chronology, intellectual profile, conceptual analysis, institutions, experiments, criticisms, and legacy
-  subdiscipline: socialist and radical thought
-  subject: Proudhonian mutualism
-  time_scope: historical intellectual and institutional analysis
-  time_span: nineteenth century-present reception
-  topic: Proudhon and Mutualism
-  type: report
-  version: 1.0.1
-  year: 2026
+  notes: >-
+    Duplicate review previously established `3mutualism` as an archived duplicate/repackaging. The 2026-08-21
+    final audit replaced the weak conversion-heavy citation architecture with named primary and specialist sources,
+    corrected the projection of Warren/Tucker’s later cost principle backward onto Proudhon, treated property as an
+    evolving antinomy rather than a static possession/property dichotomy, and bounded the Banque du Peuple evidence
+    to what its brief 1849 operation can support. The obsolete converted image was removed. No known source,
+    conversion, asset, duplicate, or rendering blocker remains.
 report-no: 008
 report-number: 008
 report-year: '2026'
 report_no: 8
 report_number: 8
 report_year: 2026
-resources: []
-revision: 1.0.1
-rights: CC0-1.0
 series: Marginalia Reports
 series-number: 8
 series-title: Marginalia Reports
 series_number: 8
 series_title: Marginalia Reports
+identifier: urn:marginalia:proudhon-mutualism-report
+dataset_id: ideology-studies
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources
+format: markdown
+resources: []
+cover-image: ''
+cover_image: ''
+edition: '1'
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+headless: false
+highlight-style: tango
+isCJKLanguage: false
+layout: ''
+markup: ''
+outputs: []
+plate_id: ''
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: proudhon-mutualism-report
-status: review
-subject:
-- Political theory
-- Socialism
-- Anarchism
-- Pierre-Joseph Proudhon
-subjects:
-- Mutualism
-- Pierre-Joseph Proudhon
-- Anarchism
-- Socialism
-- Mutual credit
-subtitle: ''
-summary: A historical and conceptual study of Proudhonian mutualism, including property and possession, reciprocity, mutual credit, cooperative experiments, criticisms, and later influence.
-tags:
-- proudhon-mutualism-report
-- mutualism
-- proudhon
-- political-theory
-- anarchism
-- socialism
-- mutual-banking
-title: Proudhon Mutualism Report
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
-voice: neutral
 weight: 0
 ...
