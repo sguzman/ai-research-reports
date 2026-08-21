@@ -1,156 +1,98 @@
 ---
-abstract: An analysis of the thesis that liberal orders weaken inherited forms of coordination and replace
-  them with legal-rational administration, credentialed expertise, and therapeutic governance, producing
-  domestication rather than simple emancipation.
-aliases: []
+title: Liberalism as Political Domestication
+linkTitle: Liberalism as Political Domestication
+slug: liberalism-as-political-domestication
+date: '2026-06-03'
+lastmod: '2026-08-21'
+draft: true
+status: archived
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.2
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
-build:
-  list: always
-  publishResources: true
-  render: always
-cascade: {}
 categories:
 - Politics
 - History
 - Political Theory
-cover-image: ''
-cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-06-03'
-description: This report assesses whether liberalism acts as political domestication by substituting thick
-  communal authority with softer but denser forms of behavioral management and administration.
-draft: true
-edition: '1'
-editorial_profile: academic
-epub-chapter-level: 2
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
-format: markdown
-headless: false
-highlight-style: tango
-identifier: urn:marginalia:liberalism-as-political-domestication
-isCJKLanguage: false
-keywords:
-- Liberalism as Political Domestication
-- Politics
-- History
-- Political Theory
-- Political science (General)
-- Liberalism
-- Domestication
-- Sociology
-- State Capacity
-lang: en
-language: English
-lastmod: '2026-08-19'
-layout: ''
-library_of_congress_classification:
-  class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
-license: CC0-1.0
-linkTitle: Liberalism as Political Domestication
-markup: ''
-number-sections: true
-outputs: []
-plate_id: ''
-publishDate: '2026-06-03'
-publisher: Marginalia
-reference-section-title: References
+tags:
+- liberalism
+- political-domestication
+- state-legibility
+- governmentality
+- merged-source
+summary: >-
+  Archived merged source whose distinctive analysis of legal-rational substitution, state legibility,
+  governmentality, credentialing, and administrative management was incorporated into
+  `liberalism-social-disembedding-and-managed-dependency`.
+description: >-
+  Retained as provenance for the political-domestication framing after substantive synthesis into the broader
+  canonical social-disembedding and managed-dependency report.
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: liberalism-social-disembedding-and-managed-dependency
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: merge-cluster
+    disposition: merge-into-canonical
+    canonical_slug: liberalism-social-disembedding-and-managed-dependency
+    rationale: >-
+      This package substantially overlaps the broader canonical report in thesis, evidence, mechanisms, and
+      conclusion. Its distinct Weber/Scott/Foucault framing of legal-rational substitution, state legibility,
+      and government through incentives was incorporated into the canonical synthesis before archival.
 report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
+  number: '110'
+  year: 2026
+  type: report
+  version: 1.0.2
+  kind: merged-source provenance
   discipline: political science
   domain: politics
-  emphasis: social disembedding, administrative legibility, and behavioral management
-  focus: whether liberal orders replace thick communal coordination with softer forms of administration and management
-  id: urn:marginalia:liberalism-as-political-domestication
-  intent: evaluate the political-domestication thesis against historical and social-scientific evidence
-  is_report: true
-  kind: research report
-  level: ''
-  method: theoretical synthesis with comparative empirical evidence
-  methods: []
-  name: Liberalism as Political Domestication
-  notes: Legacy complete state returned to review when the article was first substantively touched under the new editorial standard; publication requires full lint, citation, and current-link verification.
-  number: '110'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: neutral analytical
-  structure: analytical report
-  subdiscipline: history and social analysis
-  subject: liberalism and political domestication
-  time_scope: ''
-  time_span: ''
   topic: Liberalism as Political Domestication
-  type: report
-  version: 1.0.1
-  year: 2026
+  subject: liberalism and political domestication
+  audience: general reader
+  intent: historical source retained after merge synthesis
+  stance: neutral analytical
+  notes: >-
+    On 2026-08-21 this report was adjudicated as part of a merge cluster with
+    `liberalism-social-disembedding-and-managed-dependency`. Its distinctive material on Weberian
+    legal-rational administration, Scott-style legibility, Foucauldian governmentality, and softer forms of
+    institutional management was incorporated into the canonical synthesis. The source body is retained
+    unchanged for editorial provenance and is excluded from normal publication by `status: archived` and
+    `draft: true`.
 report-no: '110'
 report-number: '110'
 report-year: '2026'
 report_no: 110
 report_number: 110
 report_year: 2026
-resources: []
-revision: 1.0.1
-rights: CC0-1.0
 series: Marginalia Reports
 series-number: 110
 series-title: Marginalia Reports
 series_number: 110
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
-slug: liberalism-as-political-domestication
-status: review
-subject:
-- Politics
-- History
-subjects:
-- Politics
-- History
-subtitle: ''
-summary: This report assesses whether liberalism acts as political domestication by substituting thick
-  communal authority with softer but denser forms of behavioral management and administration.
-tags:
-- liberalism-as-political-domestication
-- politics
-- history
-- political-theory
-- sociology
-title: Liberalism as Political Domestication
+identifier: urn:marginalia:liberalism-as-political-domestication
+language: English
+lang: en
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
-type: report
-url: ''
-voice: neutral
-weight: 0
+number-sections: true
+reference-section-title: References
+format: markdown
+resources: []
 ...
