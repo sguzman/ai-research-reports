@@ -4,6 +4,22 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #30 — Finalize culture-parasitism hypothesis for publication
+
+Packages:
+- `testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs`
+
+Result:
+- substantially rewrote the report around four distinct claims—compensatory use, symbolic substitution, affective reproduction, and system-level reproductive dependence—instead of letting evidence for one level stand in for another;
+- grounded bounded compensatory mechanisms in Mandel et al. on self-discrepancy and compensatory consumption, Derrick et al. on favored-media social surrogacy, and Kay et al. on compensatory control;
+- retained online outrage research as evidence that social feedback and sharing incentives can reinforce high-arousal cultural expression, while removing the unsupported inference that those studies prove platforms create or require unmet needs;
+- used current IAB/PwC advertising-market figures and WHO loneliness prevalence only as scale/background context rather than causal proof of cultural dependence;
+- added self-determination theory and arts/well-being findings as explicit counterexamples to a universal theory in which culture disappears as needs are satisfied;
+- removed the legacy `Related Marginalia Essays` section and old `/posts/` URLs from the evidentiary architecture, recording related corpus artifacts only through canonical relationship metadata;
+- replaced two converted Mermaid PNG dependencies with native Markdown structures and deleted both unprovenanced, now-unused assets;
+- completed duplicate review as independent/keep-separate inside a broader related culture-theory cluster;
+- updated scope/method/notes, advanced revision/version to 1.0.2, and advanced lifecycle `review` → `ready` with `draft: false` and no known source, conversion, asset, or duplicate blocker remaining.
+
 ### PR #29 — Record build-derived publication of ready reports
 
 Packages:
