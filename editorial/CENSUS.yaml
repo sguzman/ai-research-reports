@@ -680,22 +680,21 @@ packages:
     - duplicate_review_unresolved
     - h1_count_not_one
   fallen-aristocracy:
-    title: Fallen Aristocracy
-    lifecycle: review
-    draft: true
+    title: 'Fallen Aristocrats: Status Loss, Elite Conversion, and Political Reaction'
+    lifecycle: ready
+    draft: false
     type: report
     editorial_profile: academic
     voice: neutral
-    duplicate_review: null
+    duplicate_review: reviewed
     has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 23705
+    body_bytes: 17952
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - duplicate_review_unresolved
+    mechanical_flags: []
   federal-legal-landscape:
     title: Federal Legal Landscape
     lifecycle: complete
@@ -1887,21 +1886,20 @@ packages:
     - duplicate_review_unresolved
   republicans-as-moderating-opposition-without-a-rival-order:
     title: Republicans as Moderating Opposition Without a Rival Order
-    lifecycle: review
-    draft: true
+    lifecycle: ready
+    draft: false
     type: report
     editorial_profile: academic
     voice: neutral
-    duplicate_review: null
+    duplicate_review: reviewed
     has_changelog: true
-    asset_files: 1
+    asset_files: 0
     legacy_media_files: 0
-    body_bytes: 46005
+    body_bytes: 20965
     h1_count: 1
-    local_link_or_image_count: 1
+    local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - duplicate_review_unresolved
+    mechanical_flags: []
   savonius-wind-turbines-comprehensive-design-diy-guide:
     title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
     lifecycle: review
