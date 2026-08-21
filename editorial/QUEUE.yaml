@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T14:13:00-06:00'
+updated_at: '2026-08-21T14:24:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 21
@@ -11,8 +11,8 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
   - liberalism-social-disembedding-and-managed-dependency
+  - liberalism-as-political-domestication
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -175,20 +175,24 @@ articles:
     maintenance: 'Recheck post-2026 legislation and institutional durability if the contemporary comparison is updated.'
 
   testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs:
-    lifecycle: review
-    work_state: queued
+    lifecycle: ready
+    work_state: ready-for-publication
     priority: P1
     profile: academic
     voice: neutral
     completed_work:
-      - diagram paths repaired to canonical assets
-      - ChatGPT UTM tracking stripped
-      - current-document framing removed
-      - redundant reference export removed
-    blockers:
-      - factual and citation-quality review remains
-      - current-link verification remains
-    next_action: 'Source/factual review and duplicate/overlap check against related culture-theory material.'
+      - repaired tracked URLs, self-reference, and conversion residue in the earlier cleanup
+      - rewrote the thesis into separate claims of compensation, symbolic substitution, affective reproduction, and system-level dependence
+      - grounded compensatory mechanisms in self-discrepancy consumption, social-surrogacy, and compensatory-control research
+      - treated online outrage research as evidence of reinforcement and transmission rather than proof that platforms create unmet needs
+      - used current IAB market scale and WHO loneliness prevalence only as contextual evidence rather than causal proof
+      - added self-determination and arts/well-being evidence as counterexamples to a universal deficit theory of culture
+      - removed the legacy Related Marginalia Essays section and dead /posts/ citation architecture, retaining related corpus artifacts only in metadata
+      - replaced two converted Mermaid images with native Markdown structures and deleted the unprovenanced assets
+      - completed duplicate review as independent/keep-separate within a related cultural-theory cluster
+      - advanced review to ready at revision 1.0.2
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   liberalism-social-disembedding-and-managed-dependency:
     lifecycle: review
