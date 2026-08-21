@@ -4,6 +4,21 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #40 — Finalize global population dynamics report
+
+Packages:
+- `global-population-dynamics-peaks-in-population-level-and-growth-rates`
+
+Result:
+- corrected the conversion-contaminated title and reclassified the artifact from inherited public-health metadata to an academic/neutral demography and population-studies report;
+- rewrote the analysis around the distinction between population level, percentage growth rate, and absolute annual change, retaining the observed global growth-rate peak near 2.3 per cent in 1963 while treating the projected population-level maximum as a separate future event;
+- confirmed World Population Prospects 2024 remains the current global UN revision through August 2026 and documented the 19 January 2026 interim update, which corrected Togo estimates and medium projections only, left global/regional aggregates unchanged, and postponed the next full WPP revision to 11 July 2027;
+- replaced the inherited single-year pseudo-precision of a 10.289-billion 2084 peak with the UN's published central result of about 10.3 billion in the mid-2080s and an approximately 80 per cent probability that global population peaks within the twenty-first century;
+- replaced an unreproducible exact major-region peak table with the UN's directly published country/area peak-timing groups: 63 peaked by 2024, 48 are projected to peak during 2025–2054, and 126 are projected to continue growing through 2054;
+- added stock-flow accounting, population momentum, demographic-transition framing, migration effects, and explicit deterministic/probabilistic projection interpretation;
+- removed speculative historical mechanism padding that was not sourced to the same standard as the demographic core, plus raw Mermaid, empty visualization placeholders, escaped numbered-link citations, and the duplicated conversion reference export;
+- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.1 and legacy lifecycle `complete` → `ready` / `draft: false`, and intentionally exhausted the explicit ordinary `next_batch` queue rather than inventing a new priority from the corpus census.
+
 ### PR #39 — Finalize Borderer meme hypothesis pair
 
 Packages:
@@ -96,7 +111,7 @@ Result:
 - made housing the strongest directly observed political mechanism using evidence on homeowner turnout, local meeting participation, opposition to new construction, and representative voting;
 - updated the four-country comparison around demographic pressure, fiscal exposure, pension adjustment, and electoral-age structure rather than a synthetic extraction ranking;
 - removed escaped numbered-link citations, the duplicated conversion reference export, tracked source URLs, and three obsolete converted diagram assets;
-- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the persistent queue to Puritan moral psychology followed by Proudhon mutualism.
+- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` with `draft: false`, and advanced the persistent queue to Puritan moral psychology followed by Proudhon mutualism.
 
 ### PR #33 — Record culture-parasitism publication
 
