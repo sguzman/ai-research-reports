@@ -200,7 +200,7 @@ Packages:
 Result:
 - replaced the inherited bullet-heavy overview with a current evidence review of feminizing GAHT;
 - separated established adult physical effects from uncertain long-term outcomes and avoided presenting observational associations as settled causal effects;
-- treated puberty suppression and adolescent hormone treatment as distinct evidence questions rather than extrapolating adults into minors;
+- treated puberty suppression and adolescent hormone treatment as distinct evidence questions rather than extrapolating adult evidence into minors;
 - removed generic dosing instructions and prescribing-style monitoring language from the public-facing research article;
 - corrected overstatements about inevitable infertility, universal bone loss, lipid normalization, and adolescent pelvic or brain development;
 - replaced the inherited blanket benefits-outweigh-risks conclusion with endpoint-specific uncertainty and evidence-quality language;
