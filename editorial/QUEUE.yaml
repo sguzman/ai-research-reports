@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-21T14:24:00-06:00'
+updated_at: '2026-08-21T15:30:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 21
+packages_changed_since_baseline: 23
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -11,8 +11,9 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - liberalism-social-disembedding-and-managed-dependency
-  - liberalism-as-political-domestication
+  - intergenerational-extraction-in-liberal-democracies
+  - puritan-moral-psychology
+  - proudhon-mutualism-report
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -195,24 +196,40 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   liberalism-social-disembedding-and-managed-dependency:
-    lifecycle: review
-    work_state: queued
+    lifecycle: ready
+    work_state: ready-for-publication
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - full factual/citation/asset/current-link verification remains
-    next_action: 'Complete source-quality and rendering review.'
+    completed_work:
+      - rewrote the inherited atomization thesis as a dependency-shift model distinguishing personal, market, administrative, credential, and platform dependence
+      - treated welfare decommodification and defamilialization as genuine counterexamples to a simple more-state-equals-more-dependency thesis
+      - incorporated the unique legal-rational administration, state-legibility, and governmentality material from liberalism-as-political-domestication as a subordinate mechanism
+      - grounded contemporary algorithmic-management and social-connection claims in current OECD evidence
+      - retained U.S. generalized-trust decline as an empirical outcome while explicitly rejecting unsupported ideological causal attribution
+      - replaced five obsolete converted chart dependencies with native Markdown and removed the now-unused PNG assets
+      - resolved the duplicate cluster by selecting this package as canonical and recording liberalism-as-political-domestication in merged_from
+      - completed duplicate review as merge-cluster/merge-into-canonical
+      - advanced review to ready at revision 1.1.0
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   liberalism-as-political-domestication:
-    lifecycle: review
-    work_state: queued
-    priority: P1
+    lifecycle: archived
+    work_state: done-for-now
+    priority: P3
     profile: academic
     voice: neutral
-    blockers:
-      - full factual/citation/current-link review remains
-    next_action: 'Complete source-quality review.'
+    relationships:
+      merged_into: liberalism-social-disembedding-and-managed-dependency
+    completed_work:
+      - adjudicated as the non-canonical member of the liberalism/disembedding merge cluster
+      - incorporated its distinct Weber/Scott/Foucault legal-rational administration, legibility, and governmentality material into the canonical synthesis
+      - preserved the historical body unchanged for editorial provenance
+      - recorded merged_into relationship and completed duplicate review as merge-cluster/merge-into-canonical
+      - advanced review to archived at revision 1.0.2 with draft true
+    blockers: []
+    next_action: 'Retain as merge provenance only; do not independently publish.'
 
   intergenerational-extraction-in-liberal-democracies:
     lifecycle: review
