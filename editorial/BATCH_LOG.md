@@ -2,6 +2,37 @@
 
 This is the repository-level operational history of corpus cleanup. It complements—never replaces—the richer `data/md/<slug>/CHANGELOG.md` inside each changed article package.
 
+## 2026-08-21
+
+### PR #24 — Rewrite male-suicide report from current primary evidence
+
+Packages:
+- `male-suicide`
+
+Result:
+- replaced the 278 KB inherited conversion artifact with an approximately 5,300-word academic synthesis rather than preserving generated bulk for its own sake;
+- corrected the mortality trend using final NCHS evidence: male suicide rose substantially through 2018 but had no statistically significant trend from 2018–2023; the final 2023 male rate was 22.7 per 100,000 with 39,046 male deaths;
+- separated the final 2024 all-sex decline from the latest final sex-specific 2023 analysis instead of inferring an unsupported male 2024 rate;
+- refreshed age, method, 2021 race/ethnicity, 2021 occupation, 2023 Veteran, and 2024 NSDUH evidence from federal sources;
+- distinguished suicide mortality from self-reported ideation and attempts and removed simplistic explanations that treated the male death ratio as a direct measure of suicidal distress;
+- removed fictional case studies, static crisis-resource directories, duplicate H1 structure, absolute workstation image paths, ChatGPT/Pandoc citation residue, weak popular-press/Wikipedia citation chains, assignment-stage methodology, and generated prescriptive padding;
+- removed the unsupported linear 2030 forecast and assumed intervention trajectory rather than cosmetically updating an invalid forecasting model;
+- replaced overconfident treatment claims with endpoint-specific evidence for suicide-focused cognitive therapy, safety planning/follow-up, continuity of care, lethal-means safety, and condition-specific psychiatric treatment;
+- explicitly corrected the inherited fixed-percentage lithium claim because contemporary randomized-trial meta-analyses remain statistically inconclusive;
+- removed five now-unused legacy chart assets so stale or unverified graphics cannot later enter the build-derived publication tree;
+- normalized title, scope, descriptive metadata, report notes, and revision/version to 1.2;
+- kept the article fail-closed at `review` / `draft: true` pending one independent high-stakes claim-to-source and rendering pass.
+
+Infrastructure in the same PR: made the generated 115-package corpus census self-refresh on same-repository PR branches, while fork PRs remain read-only and must supply a fresh snapshot themselves.
+
+### PR #23 — Add mechanical corpus census
+
+Result:
+- added `scripts/corpus_census.py`, a read-only mechanical census generator that records lifecycle/profile/changelog/duplicate-review presence, asset/media counts, body size, H1 count, local-link counts, obvious conversion/path/diagram defects, and conservative literal risk hints without making editorial decisions;
+- committed the first complete `editorial/CENSUS.yaml` snapshot covering all 115 canonical packages;
+- added CI generation and freshness validation so the census has durable repository presence rather than living only in chat or an ephemeral audit;
+- established the baseline counts of 58 legacy `complete` packages, 96 unresolved profiles, 92 missing changelogs, and 106 unresolved duplicate reviews, plus mechanical defect/risk hints for triage.
+
 ## 2026-08-20
 
 ### PR #20 — Rewrite Savonius guide under technical profile
@@ -212,6 +243,7 @@ The following PRs changed editorial infrastructure rather than article packages:
 - PR #5 — HTML local-asset validation;
 - PR #10 — duplicate/merge/synthesis policy and read-only duplicate detector;
 - PR #18 — technical/instructional editorial profile;
-- PR #19 — persistent editorial queue, batch log, changelog coverage audit, queue reporter, and same-PR changelog enforcement.
+- PR #19 — persistent editorial queue, batch log, changelog coverage audit, queue reporter, and same-PR changelog enforcement;
+- PR #23 — full mechanical corpus census and generated-snapshot CI.
 
 Future batches should append here after their final disposition is known.
