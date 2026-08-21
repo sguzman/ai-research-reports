@@ -1307,7 +1307,7 @@ packages:
     - duplicate_review_unresolved
   liberalism-social-disembedding-and-managed-dependency:
     title: Liberalism, Social Disembedding, and Managed Dependency
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic

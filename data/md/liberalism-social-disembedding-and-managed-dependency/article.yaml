@@ -7,7 +7,7 @@ date: '2026-06-02'
 lastmod: '2026-08-21'
 publishDate: '2026-06-02'
 draft: false
-status: ready
+status: published
 type: report
 editorial_profile: academic
 voice: neutral
@@ -129,7 +129,9 @@ report:
     administrative systems can displace inherited personal dependence, while welfare can reduce dependence
     on markets or relatives. OECD social-connection and U.S. trust trends are treated as outcomes requiring
     causal caution, not proof that liberalism produced them. Five converted chart assets were replaced by
-    native Markdown and removed. No known source, conversion, asset, or relationship blocker remains.
+    native Markdown and removed. The build-derived Marginalia page was subsequently verified at
+    `/research/liberalism-social-disembedding-and-managed-dependency/`; publication closure changed no prose,
+    sources, assets, or revision/version.
 report-no: '107'
 report-number: '107'
 report-year: '2026'

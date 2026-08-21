@@ -4,6 +4,17 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #35 — Record liberalism report publication
+
+Packages:
+- `liberalism-social-disembedding-and-managed-dependency`
+
+Result:
+- verified the build-derived Marginalia page at `/research/liberalism-social-disembedding-and-managed-dependency/` and confirmed it carries the source-audited title, description, dependency-shift executive summary, and canonical rewritten body;
+- advanced canonical lifecycle `ready` → `published` while retaining `draft: false`;
+- added a package-local lifecycle-only changelog entry and moved the queue item to `done-for-now` / P3 maintenance;
+- left article prose, sources, assets, and revision/version 1.1.0 unchanged.
+
 ### PR #34 — Finalize intergenerational-extraction report
 
 Packages:

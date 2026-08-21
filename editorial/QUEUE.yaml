@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T16:20:00-06:00'
+updated_at: '2026-08-21T16:24:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 24
@@ -44,7 +44,7 @@ articles:
     voice: nietzschean
     completed_work:
       - reclassified from legacy report metadata to stylized Nietzschean essay without neutralizing the prose
-      - removed the accidental duplicate final-section heading
+      - removed the accidental duplicate numbered final-section heading
       - explicitly recorded independent/not-applicable duplicate review for the strict publication gate
       - migrated live delivery away from the legacy committed Marginalia copy to build-derived research publication
       - verified the deployed page at /research/nietzche-math-critique/ after the build-derived publication cutover
@@ -196,9 +196,9 @@ articles:
     maintenance: 'Recheck dated empirical sources if the article receives a substantive refresh.'
 
   liberalism-social-disembedding-and-managed-dependency:
-    lifecycle: ready
-    work_state: ready-for-publication
-    priority: P1
+    lifecycle: published
+    work_state: done-for-now
+    priority: P3
     profile: academic
     voice: neutral
     completed_work:
@@ -211,8 +211,9 @@ articles:
       - resolved the duplicate cluster by selecting this package as canonical and recording liberalism-as-political-domestication in merged_from
       - completed duplicate review as merge-cluster/merge-into-canonical
       - advanced review to ready at revision 1.1.0
+      - verified build-derived deployment at /research/liberalism-social-disembedding-and-managed-dependency/ and recorded ready to published
     blockers: []
-    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+    maintenance: 'Recheck dated OECD/workplace evidence if the report receives a substantive update.'
 
   liberalism-as-political-domestication:
     lifecycle: archived
