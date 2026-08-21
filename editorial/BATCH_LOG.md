@@ -4,6 +4,23 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #34 — Finalize intergenerational-extraction report
+
+Packages:
+- `intergenerational-extraction-in-liberal-democracies`
+
+Result:
+- replaced the inherited generational-war framing with a stricter lifetime cohort-incidence test: ordinary age redistribution, life-cycle wealth accumulation, pension insurance, and gross public debt no longer count as extraction without evidence that politically advantaged present cohorts improve their lifetime net position by shifting uncompensated costs to younger or future cohorts;
+- replaced the provisional U.S. 2024 fertility rate with the final NCHS value of 1.5995, refreshed Japan and Germany fertility evidence through 2025 where available, and retained Israel as the high-fertility counterexample;
+- refreshed 2026 IMF debt context, OECD `Pensions at a Glance 2025` replacement-rate modelling, the 2026 Social Security Trustees projections, and CBO fiscal evidence;
+- removed the inherited inference that debt is automatically a one-for-one transfer to future taxpayers, distinguishing current-consumption borrowing from productive investment and grounding the forward-burden channel in future investment, output, interest-cost, and fiscal-space effects;
+- reframed Federal Reserve and Bundesbank age-wealth profiles as life-cycle evidence rather than proof of cohort exploitation;
+- added Tepe and Vanhuysse as comparative counterevidence to a simple gerontocracy model, distinguishing demographic increases in aggregate pension spending from benefit generosity per retiree;
+- made housing the strongest directly observed political mechanism using evidence on homeowner turnout, local meeting participation, opposition to new construction, and representative voting;
+- updated the four-country comparison around demographic pressure, fiscal exposure, pension adjustment, and electoral-age structure rather than a synthetic extraction ranking;
+- removed escaped numbered-link citations, the duplicated conversion reference export, tracked source URLs, and three obsolete converted diagram assets;
+- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the persistent queue to Puritan moral psychology followed by Proudhon mutualism.
+
 ### PR #33 — Record culture-parasitism publication
 
 Packages:
