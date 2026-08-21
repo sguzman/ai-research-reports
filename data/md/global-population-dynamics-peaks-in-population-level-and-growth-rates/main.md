@@ -2,175 +2,156 @@
 
 ## Executive summary
 
-The **largest total world population observed so far is occurring in the present era**, and therefore within the last 100 years. This is because global population increased rapidly during the 20th century and has continued rising into the 2020s. [\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+Population **level** and population **growth rate** are different quantities, and their peaks occur at very different times. The world population is still increasing, so its highest observed level is the present-era level. By contrast, the *rate* at which the world population grows peaked more than six decades ago.
 
-Key findings from authoritative demographic series:
+The current United Nations global demographic revision is **World Population Prospects 2024 (WPP 2024)**. A January 2026 interim update corrected population estimates and medium projections for Togo only; it explicitly left all other locations and global and regional aggregates unchanged. The same release postponed the next full World Population Prospects revision until **11 July 2027**. Accordingly, WPP 2024 remains the appropriate current global source as of August 2026. [UN Population Division, *World Population Prospects 2024*](https://www.un.org/development/desa/pd/world-population-prospects-2024); [UN Population Division, *World Population Prospects 2024: Interim Update*](https://population.un.org/wpp/assets/Files/WPP2024_Release-Note-rev1.pdf)
 
-Global **population level (size)**  
-The most recent official UN assessment reports the world at **~8.2 billion in 2024** and projects a **peak in the mid‑2080s at ~10.3 billion**, followed by a slight decline to **~10.2 billion by 2100**. [\[2\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)  
-Independent calculations from the UN’s probabilistic projection outputs (median) place the world peak at **~10.289 billion in 2084**. [\[3\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx)
+The main findings are:
 
-Global **population growth rate**  
-Multiple syntheses based on UN estimates show the **global annual population growth rate peaked around 1963** at roughly **2.3% per year**, and has declined substantially since. [\[4\]](https://ourworldindata.org/population-growth-over-time)
+| Quantity | Current best-supported statement |
+| --- | --- |
+| World population in 2024 | about **8.2 billion** |
+| Central projected world-population peak | about **10.3 billion in the mid-2080s** |
+| Probability that the world population peaks before 2100 | about **80%** |
+| Central projected world population in 2100 | about **10.2 billion** |
+| Historical peak in the annual global population growth rate | **1963**, about **2.3% per year** |
+| Global annual population growth rate in 2023 | about **0.9% per year** |
 
-Regional differences are large and persistent  
-Using the UN’s 2024–2100 probabilistic median projections (major-region aggregates), the highest current (2024) growth remains in **Africa**, while **Europe** is already in net decline (negative growth). Several regions are projected to **peak in size before 2100** (notably Asia and Latin America & the Caribbean), while Africa, Northern America, and Oceania are projected to **still be increasing at 2100** under median assumptions. [\[5\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx)
+The first four figures are headline results of WPP 2024. The growth-rate history is reconstructed from the UN series by Our World in Data, which reports the annual global growth rate peaking at roughly 2.3 per cent in 1963 and falling below 1 per cent by 2020. [UN DESA, *World Population Prospects 2024: Summary of Results*](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-summary-results-0); [Our World in Data, “Global population growth peaked six decades ago,” 2026](https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago)
 
-## Data sources and methodological approach
+These two trajectories are fully compatible. A population can keep reaching new record levels while its growth rate falls, so long as the growth rate remains positive. A car can still move forward while decelerating; likewise, the world can add people each year while adding them at an ever-smaller percentage rate.
 
-This report relies primarily on:
+The geography of population change is also heterogeneous. WPP 2024 groups countries and areas by the timing of their population peak rather than implying that every region follows the same schedule. Sixty-three countries and areas had already peaked by 2024; another 48 are projected to peak between 2025 and 2054; the remaining 126 are expected to continue growing through 2054 and may peak later in the century or beyond 2100. These categories are better supported for publication than a homemade table of exact regional peak years calculated from an external workbook because they are directly reported by the UN and retain the uncertainty appropriate to long-range projections. [UN DESA, Policy Brief No. 167](https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-167-leveraging-population-trends-more-sustainable-and)
 
-- United Nations Department of Economic and Social Affairs[\[6\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/), Population Division outputs associated with **World Population Prospects 2024** (population projections, growth rates, and peak-year statements). [\[7\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
-- Our World in Data[\[8\]](https://www.ungeneva.org/en/news-media/news/2024/07/95264/growing-or-shrinking-what-latest-trends-tell-us-about-worlds) for transparent reconstructions of population growth trajectories and key milestones, explicitly based on UN historical estimates and medium-scenario projections. [\[9\]](https://ourworldindata.org/population-growth-over-time)
+## 1. What does a population peak mean?
 
-### Definitions used in this analysis
+### 1.1 Population level
 
-**Population “peak (year)”**  
-The year when total population reaches its maximum within a defined time window. For forward-looking analysis, “peak” is often reported for the **projection horizon** (here: 2024–2100 in the probabilistic files used for computations). [\[10\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+Population level is the number of people alive in a population at a particular time. A population reaches a **level peak** when that number reaches a maximum and subsequently falls.
 
-**Annual population growth rate**  
-Typically computed as an annual percentage (often expressed as an exponential rate). In the UN/OWID contexts, “growth rate” is the annual change rate of total population (births–deaths ± migration effects), reported as percent per year. [\[11\]](https://ourworldindata.org/population-growth-over-time)
+For the world as a whole, population level is still increasing. WPP 2024 estimates about 8.2 billion people in 2024 and projects continued growth for another five or six decades. Its central trajectory reaches roughly 10.3 billion in the mid-2080s and then declines gradually to about 10.2 billion by 2100. The UN estimates an 80 per cent probability that the global population reaches its maximum during the twenty-first century. [UN Population Division, WPP 2024](https://www.un.org/development/desa/pd/world-population-prospects-2024)
 
-### What is “historical peak” vs “projected peak”?
+The phrase **mid-2080s** should be preferred to an unnecessarily exact single-year claim. Long-range population projections are conditional results generated from assumptions and probabilistic models for fertility, mortality and migration. WPP 2024 provides both deterministic scenarios and probabilistic projections; for the latter, the Population Division generates thousands of trajectories and summarizes their distributions. The exact year of the eventual maximum therefore has uncertainty even though a late-century flattening of the global trajectory is now highly probable. [UN Population Division, WPP 2024 methodology](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-methodology-report)
 
-- **Historical peak to date**: the highest population observed/estimated up to the most recent year (for the world, essentially “now,” since the world has not yet begun to shrink overall). [\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
-- **Projected peak**: the highest population in the forecast window (UN typically reports the **median** or “central” trajectory). [\[7\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+### 1.2 Population growth rate
 
-## World population size peaks and global growth-rate peaks
+The annual population growth rate measures the proportional change in population over a year. Its peak is not the same event as the maximum population level.
 
-### Global population level: record highs and the projected maximum
+According to the UN-based historical series assembled by Our World in Data, the global annual population growth rate reached approximately **2.3 per cent in 1963**. It then declined for decades, falling to about **0.9 per cent in 2023**. The UN central projection continues that decline and eventually crosses below zero near the end of the century. [Our World in Data, “How has the world population growth rate changed?”](https://ourworldindata.org/population-growth-over-time)
 
-The UN’s 2024 release emphasizes that the world is expected to continue growing for decades, peaking **in the mid‑2080s** and then declining slightly by 2100. [\[2\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+Thus the world passed **peak percentage growth** in the 1960s while remaining decades away from the most likely peak in **population size**.
 
-A widely used visualization of the same UN-based trajectory highlights major milestones (e.g., ~1 billion in the early 1800s; ~2 billion by the 1920s; ~5 billion in the late 1980s; and ~8 billion in 2022), reinforcing how concentrated the absolute increase has been in the last century. [\[12\]](https://ourworldindata.org/population-growth-over-time)
+### 1.3 Absolute annual increase is a third quantity
 
-### Global population growth rate: the mid-20th-century apex
+A third quantity is the absolute number of people added in a year. It differs from both the level and the percentage growth rate because the same percentage applied to a larger population produces a larger absolute change.
 
-The global growth rate is **not** exponential in the long run. It rose through the early and mid‑20th century, reached a maximum in the early 1960s, and has been falling since. [\[13\]](https://ourworldindata.org/population-growth)
+This report does not assign an exact historical peak year to annual absolute population increase. Doing so requires a consistent annual series and a clearly specified convention for measuring the interval. The central analytical point does not depend on that additional statistic: level, percentage growth and absolute annual change are separate measures and should not be interchanged.
 
-Authoritative summaries based on UN historical estimates place: - **Peak growth rate**: ~**2.3% per year**  
-- **Peak year**: **1963** [\[4\]](https://ourworldindata.org/population-growth-over-time)
+## 2. Why can population keep growing after the growth rate has peaked?
 
-This decline in growth rate can coexist with continued increases in total population because the world remains in positive growth; the annual percentage is smaller, but the base population is much larger. [\[14\]](https://ourworldindata.org/population-growth)
+At a national level, a population stock changes through births, deaths and net international migration:
 
-## Regional dynamics and differences
+\[
+P_{t+1} = P_t + B_t - D_t + M_t,
+\]
 
-### Projected population peak timing by major region
+where \(P\) is population, \(B\) births, \(D\) deaths and \(M\) net migration. At the global level, international migration redistributes people among countries but sums to zero for the world as a whole.
 
-Using the UN probabilistic outputs for total population and growth rates (median), the table below summarizes **regional population peaks within 2024–2100**, along with start-of-period and end-of-century levels. These are computed directly from the UN’s 2024 probabilistic output files for total population and population growth rate (median). [\[3\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx)
+A declining growth rate means the proportional difference between additions and losses is becoming smaller. It does **not** imply that the difference has already become negative. For example, a world growing at 0.9 per cent is growing more slowly than one growing at 2.3 per cent, but both are still increasing.
 
-| Region | 2024 pop (B) | Peak year (median) | Peak pop (B) | 2100 pop (B) | Peak status | 2024 growth (%) | 2100 growth (%) |
-|----|----|----|----|----|----|----|----|
-| World | 8.162 | 2084 | 10.289 | 10.180 | peaks within 2024–2100 | 0.858 | -0.127 |
-| Africa | 1.515 | 2100 | 3.814 | 3.814 | still rising in 2100 (peak \>2100) | 2.274 | 0.359 |
-| Asia | 4.807 | 2054 | 5.288 | 4.613 | peaks within 2024–2100 | 0.599 | -0.479 |
-| Europe | 0.745 | 2024 | 0.745 | 0.592 | declining after 2024 (peak ≈2024) | -0.080 | -0.291 |
-| Latin America and the Caribbean | 0.663 | 2053 | 0.731 | 0.613 | peaks within 2024–2100 | 0.681 | -0.606 |
-| Northern America | 0.385 | 2100 | 0.475 | 0.475 | still rising in 2100 (peak \>2100) | 0.597 | 0.151 |
-| Oceania | 0.046 | 2100 | 0.073 | 0.073 | still rising in 2100 (peak \>2100) | 1.140 | 0.305 |
+Age structure also creates **population momentum**. A population with a large number of people entering reproductive ages can continue growing for some time even after fertility has fallen substantially, because the number of potential parents remains large. WPP 2024 explicitly incorporates age structure when decomposing projected population change and treats demographic momentum separately from future fertility, mortality and migration effects. [UN Population Division, WPP 2024 methodology](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-methodology-report)
 
-Interpretation:
+This lag between a falling growth rate and a later maximum population level is therefore not anomalous. It is a normal consequence of stock-flow arithmetic and demographic age structure.
 
-- **Europe** is already in aggregate decline in the 2020s under these trajectories (negative growth), so its peak in this projection window occurs immediately at 2024. [\[15\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopGrowthRate.xlsx)
-- **Asia** and **Latin America & the Caribbean** peak around the **2050s**, then decline—consistent with broad UN messaging that many countries/areas have already peaked or will peak mid‑century. [\[2\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
-- **Africa** continues rising strongly through 2100 in the median path, reflecting later (and slower) fertility transition and ongoing demographic momentum. [\[7\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+## 3. The global demographic transition
 
-### Growth-rate peak patterns: global vs regions
+WPP 2024 organizes its analysis around the **demographic transition**: the long-run movement toward longer lives and smaller families. Countries are at different positions in that transition, which helps explain why some are shrinking while others are still growing rapidly. [UN DESA, *World Population Prospects 2024: Summary of Results*](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-summary-results-0)
 
-For the world, the **growth-rate peak** occurs around 1963 (~2.3%/yr). [\[4\]](https://ourworldindata.org/population-growth-over-time)  
-Across regions, the qualitative ordering in UN-based analyses is:
+Historically, declines in mortality can initially accelerate population growth when fertility remains high. Later fertility decline narrows the gap between births and deaths and slows population growth. Eventually, sustained low fertility, population ageing and the exhaustion of earlier demographic momentum can bring population growth close to zero or below zero. Migration can materially alter the timing of this sequence for individual countries.
 
-- Growth rates peaked earliest in regions that underwent earlier fertility declines (Europe and much of Asia). [\[16\]](https://www.ungeneva.org/en/news-media/news/2024/07/95264/growing-or-shrinking-what-latest-trends-tell-us-about-worlds)
-- Regions where fertility decline began later (especially many African countries) experienced later and more persistent high growth into the late 20th and early 21st centuries. [\[7\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+The transition is a framework, not a claim that every society follows an identical path at an identical speed. WPP 2024 models countries separately and incorporates uncertainty in fertility, mortality and net international migration. The 2024 revision is also the first WPP edition to produce probabilistic projections of net international migration. [UN Population Division, WPP 2024](https://www.un.org/development/desa/pd/world-population-prospects-2024)
 
-Because the UN probabilistic output files used for numeric computation here begin at 2024, the table above reports **current and projected** growth rates for 2024–2100. The **historical regional peak growth-rate years** require the full 1950–2023 annual regional series; those are reported in UN WPP and used by OWID, but are not directly recoverable from the two probabilistic projection workbooks alone. [\[17\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopGrowthRate.xlsx)
+## 4. Countries are already at different population-peak stages
 
-## Case studies of major rise and decline episodes in population dynamics
+The UN’s country grouping provides a more defensible summary of global heterogeneity than imposing one regional timetable.
 
-This section synthesizes the main mechanisms—**mortality**, **fertility**, **migration**, **policy**, and **technology**—that shaped major population turning points. The key structural lens used in modern population analysis is the demographic transition: mortality declines tend to precede fertility declines, producing a temporary interval of rapid growth that later slows as fertility falls. [\[18\]](https://population.un.org/wpp/assets/Files/WPP2024_Methodology-Report_Final.pdf)
+| Population-peak group | Countries/areas | Share of 2024 world population | Examples and interpretation |
+| --- | ---: | ---: | --- |
+| Peaked by 2024 | 63 | 28% | Includes China, Germany, Japan and the Russian Federation; total population of the group is projected to decline substantially over the next three decades. |
+| Projected to peak in 2025–2054 | 48 | 10% | Includes Brazil, Iran, Türkiye and Viet Nam; these populations are generally in later stages of the demographic transition. |
+| Projected to keep growing through 2054 | 126 | More than half | Includes India, Indonesia, Nigeria, Pakistan and the United States; some may peak later this century, while others may still be growing after 2100. |
 
-**Agricultural Revolution and early long-run growth**  
-Early population growth was extremely slow by modern standards, constrained by high mortality, food supply variability, and limited disease control. The shift toward agriculture increased carrying capacity and enabled denser settlement, but also introduced new disease ecologies and periodic mortality crises; the net effect over millennia was a gradual rise from very low baselines. Long-run reconstructed series used in widely cited visualizations combine historical reconstructions (e.g., HYDE and other sources) with the UN series for the modern period. [\[19\]](https://ourworldindata.org/grapher/population)
+Source: [UN DESA, WPP 2024 press release](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/) and [UN DESA Policy Brief No. 167](https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-167-leveraging-population-trends-more-sustainable-and).
 
-**Black Death and large mortality shocks**  
-Pandemic disease shocks create abrupt declines in population level and (temporarily) in growth rates by sharply increasing mortality. The mid‑14th‑century plague waves are the canonical example in Eurasian history, and they illustrate why “population level” is not always monotonic over centuries even if it is monotonic in the contemporary global series.
+The categories show why statements such as “the world is overpopulating” or “the world is depopulating” are too coarse to describe present demographic conditions. Both rapid growth and sustained decline are occurring simultaneously in different places.
 
-**Industrial Revolution and the mortality transition**  
-In the 18th–20th centuries, sustained improvements in agricultural productivity, transport, sanitation, and later medical technologies reduced mortality and raised life expectancy. When fertility remained high while mortality fell, growth accelerated. This is the structural setup for the global growth-rate crest that emerges in UN-based reconstructions in the mid‑20th century. [\[20\]](https://ourworldindata.org/population-growth-over-time)
+### 4.1 Already-peaked populations
 
-**Twentieth-century baby boom and postwar acceleration**  
-Post‑1945, many high-income countries experienced temporary fertility rises (baby booms), while many low- and middle-income countries experienced rapid mortality declines (public health improvements, diffusion of medical technologies) without immediate fertility declines. In UN-based global series, the combined effect is visible as the rapid climb toward the early‑1960s peak growth rate. [\[21\]](https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago)
+In the first group, low fertility has persisted long enough that population ageing and natural decrease are already important. WPP 2024 reports that these 63 countries and areas contained 28 per cent of the world’s population in 2024. Their combined population is projected to fall by about 14 per cent over the following three decades. China, Germany, Japan and the Russian Federation are prominent examples. [UN DESA Policy Brief No. 167](https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-167-leveraging-population-trends-more-sustainable-and)
 
-**Post‑1960s slowdown: fertility transition diffusion**  
-After the early‑1960s peak, global growth rates fell as fertility declines spread across regions—driven by urbanization, female education, rising opportunity costs of childbearing, expanded contraception access, and changes in desired family size. UN-based summaries and OWID syntheses both highlight that global growth rates have more than halved since the peak and are expected to keep falling. [\[22\]](https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago)
+### 4.2 Populations approaching a peak
 
-**Recent fertility declines and population peaking in many countries**  
-Recent UN communication stresses that fertility has fallen faster or further than previously anticipated in some places, contributing to an earlier and lower projected global population peak, and notes that dozens of countries already have peaked populations with projected declines over coming decades. These dynamics are central to why Asia and Latin America & the Caribbean are projected to peak mid‑century, and why Europe is already in aggregate decline in many scenarios. [\[2\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+The 48 countries and areas expected to peak between 2025 and 2054 represented about 10 per cent of the 2024 world population. Their growth is slowing as fertility falls and their age structures become older. The UN includes Brazil, Iran and Viet Nam in this group; its 2024 press materials also identify Türkiye. [UN DESA, WPP 2024 press release](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
 
-## Visualizations and timeline
+### 4.3 Populations continuing to grow
 
-### UN median projections for population level and growth rates, 2024–2100
+The remaining 126 countries and areas are projected to keep growing through at least 2054. This group is internally diverse. Some countries are still in a relatively high-fertility stage of the demographic transition; others have lower fertility but continue growing because of population momentum or immigration.
 
-The following charts visualize the UN probabilistic median projections (2024–2100) used to compute the regional peak table above. [\[3\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx)
+The distinction is especially important for high-income immigration destinations. WPP 2024 notes that Australia, Canada and the United States would likely reach their population peaks substantially earlier without immigration. At the other end of the demographic spectrum, many countries in sub-Saharan Africa retain youthful age structures and considerably higher projected growth. [UN DESA Policy Brief No. 167](https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-167-leveraging-population-trends-more-sustainable-and)
 
-World population projection (median), 2024–2100
+## 5. What changed in the 2024 UN projection?
 
-World annual growth rate projection (median), 2024–2100
+The projected global peak is earlier and lower than in older UN revisions. The 2024 release attributes much of the shift to faster-than-previously-anticipated fertility decline in several populous countries, especially China. Compared with expectations a decade earlier, the projected population in 2100 is about 700 million lower. [UN DESA, WPP 2024 press release](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
 
-Population by major region (median), 2024–2100
+That revision history illustrates an important principle: population projections are not immutable forecasts. New censuses, surveys, registration data and observed fertility, mortality and migration trends alter both the estimated starting population and future trajectories.
 
-Growth rate by major region (median), 2024–2100
+This point is visible again in the **January 2026 interim update**. Detailed results from Togo’s 2022 census exposed a double adjustment in previous estimates. The Population Division corrected Togo’s population estimates and medium projection while leaving fertility and mortality rates unchanged. It explicitly stated that results for all other locations were unchanged and that global and regional aggregates were not revised. The same note postponed the next full WPP revision, originally expected in 2026, until July 2027. [UN Population Division, WPP 2024 Interim Update](https://population.un.org/wpp/assets/Files/WPP2024_Release-Note-rev1.pdf)
 
-### Mermaid timeline of major demographic events and transitions
+For a global report written in August 2026, the correct approach is therefore to continue using WPP 2024 for global and regional conclusions while documenting that limited 2026 update rather than implying that “WPP 2026” exists.
 
-The timing below combines standard historical demography periodization with the key turning points visible in UN/OWID modern-series narratives (e.g., growth acceleration into the mid‑20th century and the post‑1960s slowdown). [\[23\]](https://ourworldindata.org/population-growth-over-time)
+## 6. Projection uncertainty and the danger of false precision
 
-    timeline
-      title Major episodes shaping global population dynamics
-      10000 BCE : Agricultural transition begins in multiple regions; long-run carrying capacity rises
-      1347-1353 : Black Death pandemic mortality shock in Eurasia
-      1750-1900 : Industrial-era mortality decline accelerates in parts of Europe and North America
-      1918-1920 : Influenza pandemic adds a global mortality shock
-      1945-1970 : Postwar baby boom in many high-income countries; rapid mortality decline expands globally
-      1963 : Global population growth rate reaches its modern peak (early 1960s)
-      1970-2000 : Fertility transitions spread; global growth rate declines steadily
-      2000-2020 : Continued fertility decline and population aging; growth concentrates increasingly in Africa
-      2024-2100 : World population projected to peak mid-century/late-century and then stabilize or decline (median path)
+A projection is conditional on demographic assumptions. WPP 2024 explicitly models uncertainty rather than treating one path as certain. The methodology produces probabilistic trajectories for fertility, mortality and migration and uses them to generate probabilistic population paths to 2100. [UN Population Division, WPP 2024 methodology](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-methodology-report)
 
-------------------------------------------------------------------------
+Several consequences follow.
 
-[\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/) [\[2\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/) [\[6\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/) [\[7\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/) [\[10\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/) https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/
+First, **10.3 billion in the mid-2080s** is a useful central summary, not a promise that a particular year will contain an exactly specified number of people. Second, the **80 per cent probability of a peak during this century** is more informative than a single deterministic peak date because it communicates the direction and remaining uncertainty simultaneously. Third, country and regional forecasts should not be reported to spurious precision merely because a spreadsheet can return many decimal places.
 
-<https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/>
+Long-range demographic projections are generally more constrained than arbitrary extrapolations because today’s age structure places meaningful limits on the near future. They nevertheless become increasingly sensitive to uncertain fertility, mortality and migration paths as the horizon lengthens.
 
-[\[3\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx) [\[5\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx) https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx
+## 7. What is established, and what remains conditional?
 
-<https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopTot.xlsx>
+Several conclusions are strongly established from observed demographic history:
 
-[\[4\]](https://ourworldindata.org/population-growth-over-time) [\[9\]](https://ourworldindata.org/population-growth-over-time) [\[11\]](https://ourworldindata.org/population-growth-over-time) [\[12\]](https://ourworldindata.org/population-growth-over-time) [\[20\]](https://ourworldindata.org/population-growth-over-time) [\[23\]](https://ourworldindata.org/population-growth-over-time) https://ourworldindata.org/population-growth-over-time
+- the world population is much larger than a century ago and remains at an all-time observed high;
+- the annual global population growth rate peaked in the early 1960s and has declined substantially since;
+- fertility is below replacement level in more than half of countries and areas;
+- many countries have already reached a population maximum while others continue rapid growth;
+- demographic conditions differ sharply across countries because fertility, mortality, age structure and migration differ.
 
-<https://ourworldindata.org/population-growth-over-time>
+Other conclusions are projections and should remain labeled as such:
 
-[\[8\]](https://www.ungeneva.org/en/news-media/news/2024/07/95264/growing-or-shrinking-what-latest-trends-tell-us-about-worlds) [\[16\]](https://www.ungeneva.org/en/news-media/news/2024/07/95264/growing-or-shrinking-what-latest-trends-tell-us-about-worlds) https://www.ungeneva.org/en/news-media/news/2024/07/95264/growing-or-shrinking-what-latest-trends-tell-us-about-worlds
+- the global population will most likely peak around the mid-2080s rather than in some other late-century period;
+- the central path will reach about 10.3 billion before declining to around 10.2 billion by 2100;
+- any particular country’s peak year, especially several decades ahead;
+- the size and timing of long-run decline after a peak.
 
-<https://www.ungeneva.org/en/news-media/news/2024/07/95264/growing-or-shrinking-what-latest-trends-tell-us-about-worlds>
+The UN’s current 80 per cent estimate makes a twenty-first-century global peak highly likely, but not certain. That distinction is essential for interpreting WPP correctly.
 
-[\[13\]](https://ourworldindata.org/population-growth) [\[14\]](https://ourworldindata.org/population-growth) https://ourworldindata.org/population-growth
+## 8. Conclusion
 
-<https://ourworldindata.org/population-growth>
+The most important feature of contemporary global population dynamics is not one peak but the separation between several different peaks.
 
-[\[15\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopGrowthRate.xlsx) [\[17\]](https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopGrowthRate.xlsx) https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopGrowthRate.xlsx
+The **global growth-rate peak is historical**: annual percentage growth reached about 2.3 per cent in 1963 and has fallen to below 1 per cent. The **global population-level peak is still projected**: WPP 2024 places the central maximum at about 10.3 billion in the mid-2080s, with an estimated 80 per cent probability that the maximum occurs during this century. Meanwhile, individual countries occupy every stage of the demographic transition, from sustained decline to rapid growth.
 
-<https://population.un.org/wpp/assets/Excel%20Files/2_Indicators%20%28Probabilistic%29/EXCEL_FILES/2_Population/UN_PPP2024_Output_PopGrowthRate.xlsx>
+This framework resolves the apparent contradiction between headlines about continuing population records and headlines about demographic slowdown. The world is still growing, but it is growing progressively more slowly. The most likely long-run outcome under the current UN assessment is a late-century global maximum followed by gradual decline—not indefinite exponential growth and not an already-begun global population collapse.
 
-[\[18\]](https://population.un.org/wpp/assets/Files/WPP2024_Methodology-Report_Final.pdf) https://population.un.org/wpp/assets/Files/WPP2024_Methodology-Report_Final.pdf
+## Sources
 
-<https://population.un.org/wpp/assets/Files/WPP2024_Methodology-Report_Final.pdf>
-
-[\[19\]](https://ourworldindata.org/grapher/population) https://ourworldindata.org/grapher/population
-
-<https://ourworldindata.org/grapher/population>
-
-[\[21\]](https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago) [\[22\]](https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago) https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago
-
-<https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago>
+- United Nations Department of Economic and Social Affairs, Population Division. [*World Population Prospects 2024*](https://www.un.org/development/desa/pd/world-population-prospects-2024).
+- United Nations Department of Economic and Social Affairs, Population Division. [*World Population Prospects 2024: Summary of Results*](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-summary-results-0).
+- United Nations Department of Economic and Social Affairs, Population Division. [*World Population Prospects 2024: Methodology report*](https://www.un.org/development/desa/pd/content/world-population-prospects-2024-methodology-report).
+- United Nations Department of Economic and Social Affairs, Population Division. [*World Population Prospects 2024: Interim Update*, 19 January 2026](https://population.un.org/wpp/assets/Files/WPP2024_Release-Note-rev1.pdf).
+- Menozzi, Clare, Thomas Spoorenberg, and Lina Bassarsky. [UN DESA Policy Brief No. 167: *Leveraging population trends for a more sustainable and inclusive future*](https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-167-leveraging-population-trends-more-sustainable-and), 2024.
+- Ortiz-Ospina, Esteban, and Pablo Arriagada. [“Global population growth peaked six decades ago”](https://ourworldindata.org/data-insights/global-population-growth-peaked-six-decades-ago), Our World in Data, 23 July 2026. Data source: UN World Population Prospects 2024.
+- Roser, Max, Hannah Ritchie, and Veronika Samborska. [“How has the world population growth rate changed?”](https://ourworldindata.org/population-growth-over-time), Our World in Data. Data source for the modern series: UN World Population Prospects 2024.
