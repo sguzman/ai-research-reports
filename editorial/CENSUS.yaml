@@ -1056,7 +1056,7 @@ packages:
     - raw_diagram_source
   intergenerational-extraction-in-liberal-democracies:
     title: Intergenerational Extraction in Liberal Democracies
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -1798,7 +1798,7 @@ packages:
     mechanical_flags: []
   puritan-moral-psychology:
     title: Puritan Moral Psychology and the Genealogy of American Progressivism
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
