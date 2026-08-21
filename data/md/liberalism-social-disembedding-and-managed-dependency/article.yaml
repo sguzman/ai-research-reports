@@ -1,160 +1,154 @@
 ---
-abstract: This report explores the thesis that actually existing liberalism, especially when fused to
-  advanced capitalism, tends to dissolve pre-liberal or nonmarket social bonds, reconstructing social
-  coordination through commodified, bureaucratic, therapeutic, credentialed, and managerial mechanisms
-  that create new dependencies.
-aliases: []
+title: Liberalism, Social Disembedding, and Managed Dependency
+linkTitle: Liberalism, Social Disembedding, and Managed Dependency
+subtitle: Dependency Shifts, Re-Embedding, and Contestability
+slug: liberalism-social-disembedding-and-managed-dependency
+date: '2026-06-02'
+lastmod: '2026-08-21'
+publishDate: '2026-06-02'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.1.0
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
-build:
-  list: always
-  publishResources: true
-  render: always
-cascade: {}
 categories:
 - Politics
 - History
 - Political Theory
-cover-image: ''
-cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-06-02'
-description: An analysis of the distinct failure mode of liberal political economy, focusing on chronic
-  disembedding, social fragmentation, and managed dependency.
-draft: true
-edition: '1'
-editorial_profile: academic
-epub-chapter-level: 2
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
-format: markdown
-headless: false
-highlight-style: tango
-identifier: urn:marginalia:liberalism-social-disembedding-and-managed-dependency
-isCJKLanguage: false
+tags:
+- liberalism
+- social-disembedding
+- managed-dependency
+- political-economy
+- welfare-state
+- decommodification
+- state-legibility
+- algorithmic-management
 keywords:
-- Liberalism, Social Disembedding, and Managed Dependency
+- liberalism
+- social disembedding
+- managed dependency
+- decommodification
+- defamilialization
+- welfare state
+- political domestication
+- state legibility
+- algorithmic management
+- social trust
+subject:
 - Politics
 - History
-- Political Theory
-- Political science (General)
+- Political economy
+subjects:
 - Liberalism
-- Capitalism
-- Bureaucracy
-- Atomization
-- Social Disembedding
-lang: en
-language: English
-lastmod: '2026-08-19'
-layout: ''
-library_of_congress_classification:
-  class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
-license: CC0-1.0
-linkTitle: Liberalism, Social Disembedding, and Managed Dependency
-markup: ''
-number-sections: true
-outputs: []
-plate_id: ''
-publishDate: '2026-06-02'
-publisher: Marginalia
-reference-section-title: References
+- Social disembedding
+- Welfare state
+- State capacity
+- Algorithmic management
+- Social trust
+summary: >-
+  Examines how modern liberal-capitalist societies shift dependency from inherited persons and communities
+  toward markets, public administration, credentials, professions, and digital infrastructures, and asks
+  when those systems expand practical freedom versus creating opaque or weakly contestable dependency.
+description: >-
+  A comparative political-economy account of dependency shifts under liberal modernity, including marketization,
+  welfare re-embedding, state legibility, credentials, digital administration, social connection, and trust.
+abstract: >-
+  A source-audited analysis of how modern liberal-capitalist societies shift dependency among personal,
+  market, administrative, credentialed, and digital institutions. Welfare decommodification and
+  defamilialization are treated as counterexamples to a simple atomization theory, while institutional
+  contestability is used to distinguish enabling mediation from domination.
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from:
+  - liberalism-as-political-domestication
+  merged_into: ''
+  related:
+  - intergenerational-extraction-in-liberal-democracies
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: merge-cluster
+    disposition: merge-into-canonical
+    canonical_slug: liberalism-social-disembedding-and-managed-dependency
+    rationale: >-
+      `liberalism-as-political-domestication` substantially overlaps this report in thesis, mechanisms,
+      theorists, empirical indicators, and conclusion. Its distinct material on legal-rational substitution,
+      state legibility, and government through incentives has been synthesized here as one mechanism rather
+      than maintained as a second independent report.
 report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
-  discipline: political science
-  domain: political economy and social theory
-  emphasis: social disembedding, commodification, bureaucracy, and managed dependency
-  focus: whether liberal political economy weakens thick social bonds and reconstructs coordination through mediated institutions
-  id: urn:marginalia:liberalism-social-disembedding-and-managed-dependency
-  intent: evaluate a social-disembedding thesis through political theory, historical sociology, and comparative social evidence
-  is_report: true
-  kind: research report
-  level: ''
-  method: theoretical synthesis with historical and comparative empirical evidence
-  methods: []
-  name: Liberalism, Social Disembedding, and Managed Dependency
-  notes: Earlier direct-address cleanup was completed in June 2026. The legacy complete state was moved to review when first substantively touched under the new editorial standard; full factual, citation-quality, asset, and current-link verification remain required before publication.
   number: '107'
-  organization: Marginalia
-  period: modern and contemporary liberal political economy
-  period_covered: nineteenth century-present
-  population_focus: citizens, workers, households, and communities under liberal-capitalist institutions
-  primary_texts: []
-  region: comparative Western democracies
-  region_focus: United States and Europe with broader theoretical comparison
-  scope: liberalism, capitalism, welfare-state counter-movements, neoliberalism, civic trust, social ties, and mediated dependency
-  scope_years: nineteenth century-present
-  series: Marginalia Reports
-  stance: neutral analytical
-  structure: executive summary, conceptual framework, historical development, empirical evidence, counterarguments, and synthesis
-  subdiscipline: political economy, historical sociology, and social theory
-  subject: liberalism, social disembedding, and institutional dependency
-  time_scope: modern comparative political economy
-  time_span: nineteenth century-present
-  topic: Liberalism, Social Disembedding, and Managed Dependency
-  type: report
-  version: 1.0.1
   year: 2026
+  type: report
+  version: 1.1.0
+  kind: research report
+  discipline: political science
+  subdiscipline: political economy, historical sociology, and social theory
+  domain: political economy and social theory
+  topic: Liberalism, Social Disembedding, and Managed Dependency
+  subject: liberalism, social disembedding, and institutional dependency
+  audience: general reader
+  intent: >-
+    Evaluate social-disembedding and political-domestication critiques against historical sociology,
+    welfare-state research, social-connection evidence, and current workplace administration.
+  method: >-
+    Comparative institutional synthesis that treats market dependence, family dependence, welfare
+    decommodification, administrative legibility, credentials, digital management, social connection, and
+    generalized trust as distinct mechanisms rather than one atomization index.
+  scope:
+  - marketization and commodification
+  - welfare decommodification and defamilialization
+  - political domestication and state legibility
+  - credentials and professions
+  - algorithmic management
+  - social connection and trust
+  - institutional contestability
+  period: modern and contemporary liberal political economy
+  period_covered: nineteenth century through 2026 evidence context
+  region: comparative OECD democracies
+  region_focus: United States and Europe with comparative welfare and workplace evidence
+  stance: neutral analytical
+  structure: dependency framework, market disembedding, welfare re-embedding, administrative mediation, social evidence, counterevidence, contestability criteria, and conclusion
+  notes: >-
+    The 2026-08-21 final audit resolved a merge cluster with `liberalism-as-political-domestication` and
+    incorporated its unique Weber/Scott/Foucault legibility material into this broader canonical report.
+    The revised article replaces a blanket atomization story with a dependency-shift model: market and
+    administrative systems can displace inherited personal dependence, while welfare can reduce dependence
+    on markets or relatives. OECD social-connection and U.S. trust trends are treated as outcomes requiring
+    causal caution, not proof that liberalism produced them. Five converted chart assets were replaced by
+    native Markdown and removed. No known source, conversion, asset, or relationship blocker remains.
 report-no: '107'
 report-number: '107'
 report-year: '2026'
 report_no: 107
 report_number: 107
 report_year: 2026
-resources: []
-revision: 1.0.1
-rights: CC0-1.0
 series: Marginalia Reports
 series-number: 107
 series-title: Marginalia Reports
 series_number: 107
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
-slug: liberalism-social-disembedding-and-managed-dependency
-status: review
-subject:
-- Politics
-- History
-subjects:
-- Politics
-- History
-subtitle: ''
-summary: An analysis of the distinct failure mode of liberal political economy, focusing on chronic disembedding,
-  social fragmentation, and managed dependency.
-tags:
-- liberalism-social-disembedding-and-managed-dependency
-- politics
-- history
-- political-theory
-- political-economy
-- sociology
-- social-theory
-title: Liberalism, Social Disembedding, and Managed Dependency
+identifier: urn:marginalia:liberalism-social-disembedding-and-managed-dependency
+language: English
+lang: en
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
-type: report
-url: ''
-voice: neutral
-weight: 0
+number-sections: true
+reference-section-title: Sources
+format: markdown
+resources: []
 ...
