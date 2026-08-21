@@ -4,6 +4,16 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #41 — Refill ordinary editorial queue from corpus census
+
+Result:
+- refilled the empty ordinary `next_batch` from the current 115-package mechanical census rather than selecting a new topic ad hoc;
+- used an explicit low-risk/low-friction rule: favor legacy-finalized `draft: false` artifacts with no health/self-harm, engineering/physical-safety, or time-sensitive policy/market risk hint, exactly one H1, roughly 120 KB or less of body text, and minimal conversion/path/asset defects;
+- gave additional preference to existing changelog coverage and deferred sensitive or high-stakes streams whose mechanical simplicity would understate their review burden;
+- selected, in order, `emptiness-of-deleuze`, `culture-gothic`, `the-u-s-post-world-war-ii-boom-1945-1975`, `american-conservatism`, and `a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture`;
+- recorded each selected package as queued P2 work with explicit classification, duplicate/relationship, source-audit, and media blockers where applicable;
+- did not classify, approve, archive, publish, or otherwise advance any article from census heuristics alone, and left the dedicated GAHT, male-suicide, and Savonius blocked streams unchanged.
+
 ### PR #40 — Finalize global population dynamics report
 
 Packages:
