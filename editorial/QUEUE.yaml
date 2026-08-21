@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T17:35:00-06:00'
+updated_at: '2026-08-21T17:42:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 27
@@ -10,7 +10,12 @@ rules:
   article_changelog_required_on_every_package_change: true
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
-next_batch: []
+next_batch:
+  - emptiness-of-deleuze
+  - culture-gothic
+  - the-u-s-post-world-war-ii-boom-1945-1975
+  - american-conservatism
+  - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -355,6 +360,57 @@ articles:
       - completed duplicate review as independent/keep-separate and advanced legacy complete to ready at revision 1.0.1
     blockers: []
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+
+  emptiness-of-deleuze:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending
+      - final source-quality and citation audit remains
+    next_action: 'Classify form/profile/voice, audit the existing changelog and source architecture, perform duplicate review, and retain or revise the thesis according to the evidence.'
+
+  culture-gothic:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending, including similarly titled Liberal Gothic artifacts
+      - source-quality and citation audit remains
+    next_action: 'Classify form/profile/voice, inspect the Liberal Gothic relationship cluster, and complete a source and prose audit before any lifecycle advance.'
+
+  the-u-s-post-world-war-ii-boom-1945-1975:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate review remains pending
+      - historical/economic claim-to-source audit remains
+    next_action: 'Classify as appropriate, audit the postwar-growth causal and quantitative claims against historical economic sources, complete duplicate review, and remove conversion residue if present.'
+
+  american-conservatism:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending
+      - source-quality and conceptual-history audit remains
+      - one legacy-media dependency needs provenance and portability review
+    next_action: 'Classify form/profile/voice, review related political-theory artifacts, audit the founding/conservatism thesis and sources, and resolve the remaining media dependency.'
+
+  a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate review remains pending
+      - mathematical-history source and citation audit remains
+    next_action: 'Classify form/profile/voice, audit historical and mathematical claims without overtechnicalizing the literary treatment, complete duplicate review, and add the missing package changelog.'
 
   american-judicial-process:
     lifecycle: published
