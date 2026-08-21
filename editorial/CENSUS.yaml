@@ -1273,21 +1273,20 @@ packages:
     - raw_diagram_source
   liberalism-as-political-domestication:
     title: Liberalism as Political Domestication
-    lifecycle: review
+    lifecycle: archived
     draft: true
     type: report
     editorial_profile: academic
     voice: neutral
-    duplicate_review: null
+    duplicate_review: reviewed
     has_changelog: true
     asset_files: 0
     legacy_media_files: 4
-    body_bytes: 40007
+    body_bytes: 39821
     h1_count: 1
     local_link_or_image_count: 4
     risk_hints: []
-    mechanical_flags:
-    - duplicate_review_unresolved
+    mechanical_flags: []
   liberalism-equality-and-the-leftward-drift-thesis:
     title: Liberalism, Equality, and the Leftward Drift Thesis
     lifecycle: complete
@@ -1310,21 +1309,20 @@ packages:
     - duplicate_review_unresolved
   liberalism-social-disembedding-and-managed-dependency:
     title: Liberalism, Social Disembedding, and Managed Dependency
-    lifecycle: review
-    draft: true
+    lifecycle: ready
+    draft: false
     type: report
     editorial_profile: academic
     voice: neutral
-    duplicate_review: null
+    duplicate_review: reviewed
     has_changelog: true
     asset_files: 0
-    legacy_media_files: 5
-    body_bytes: 61180
+    legacy_media_files: 0
+    body_bytes: 32093
     h1_count: 1
-    local_link_or_image_count: 5
+    local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - duplicate_review_unresolved
+    mechanical_flags: []
   linear-algebra-history-report:
     title: The Making of Linear Algebra
     lifecycle: draft

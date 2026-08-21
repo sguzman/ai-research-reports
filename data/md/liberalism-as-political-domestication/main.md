@@ -107,7 +107,7 @@ management.**
 
   -----------------------------------------------------------------------------------------------------
                                        ![Rendered Mermaid diagram
-   1](data/md/liberalism-as-political-domestication/media/media/rId28.png){width="5.833333333333333in"
+   1](media/media/rId28.png){width="5.833333333333333in"
                                      height="2.3765430883639547in"}
 
   -----------------------------------------------------------------------------------------------------
@@ -119,7 +119,7 @@ Putnam, and Skocpol into a single mechanism chain.
 
   -----------------------------------------------------------------------------------------------------
                                        ![Rendered Mermaid diagram
-   2](data/md/liberalism-as-political-domestication/media/media/rId32.png){width="5.833333333333333in"
+   2](media/media/rId32.png){width="5.833333333333333in"
                                      height="3.7808639545056866in"}
 
   -----------------------------------------------------------------------------------------------------
@@ -217,7 +217,6 @@ prove a single causal chain by itself, but it shows a durable pattern:
 associational and family forms weaken while therapeutic, bureaucratic,
 and regulatory capacities expand.
 [\[16\]](https://news.gallup.com/poll/358364/religious-americans.aspx)
-
   -----------------------------------------------------------------------
   Indicator           Early benchmark  Latest benchmark What changed
   ----------------- ----------------- ----------------- -----------------
@@ -268,7 +267,7 @@ administrative thickening even though 2024 was below those peaks.*
 
   -----------------------------------------------------------------------------------------------------
                                        ![Rendered Mermaid diagram
-   3](data/md/liberalism-as-political-domestication/media/media/rId44.png){width="5.833333333333333in"
+   3](media/media/rId44.png){width="5.833333333333333in"
                                       height="4.393003062117235in"}
 
   -----------------------------------------------------------------------------------------------------
@@ -280,7 +279,7 @@ local solidarity, and voluntary discipline.
 
   -----------------------------------------------------------------------------------------------------
                                        ![Rendered Mermaid diagram
-   4](data/md/liberalism-as-political-domestication/media/media/rId48.png){width="5.833333333333333in"
+   4](media/media/rId48.png){width="5.833333333333333in"
                                       height="4.393003062117235in"}
 
   -----------------------------------------------------------------------------------------------------

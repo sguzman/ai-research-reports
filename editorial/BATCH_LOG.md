@@ -4,7 +4,24 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
-### PR #30 — Finalize culture-parasitism hypothesis for publication
+### PR #32 — Merge liberalism disembedding/domestication cluster
+
+Packages:
+- `liberalism-social-disembedding-and-managed-dependency`
+- `liberalism-as-political-domestication`
+
+Result:
+- adjudicated the two reports as a substantive merge cluster rather than preserving two heavily overlapping canonical articles;
+- retained `liberalism-social-disembedding-and-managed-dependency` as canonical and rewrote its inherited atomization thesis into a dependency-shift framework distinguishing inherited personal dependence, market dependence, welfare/administrative mediation, credential dependence, and platform/algorithmic mediation;
+- treated welfare decommodification and defamilialization as genuine counterexamples to any simple claim that modern liberal orders merely increase dependency, while preserving administrative mediation as a distinct contestability question;
+- incorporated the non-canonical report's distinctive Weberian legal-rational administration, Scott-style legibility, and Foucauldian governmentality material as a subordinate mechanism inside the broader synthesis;
+- grounded current algorithmic-management and social-connection claims in 2025 OECD evidence and retained U.S. generalized-trust decline only with explicit causal caution rather than ideological attribution;
+- replaced five obsolete converted chart/PNG dependencies with native Markdown structures and deleted the now-unused `rId42`, `rId47`, `rId51`, `rId55`, and `rId60` assets;
+- completed duplicate review as `merge-cluster / merge-into-canonical`, recorded `liberalism-as-political-domestication` in the canonical package's `merged_from`, and recorded the reciprocal `merged_into` provenance on the archived source package;
+- preserved the archived source body unchanged for provenance while advancing it `review` → `archived` / `draft: true` at revision 1.0.2;
+- added rich changelog entries to both packages, advanced the canonical synthesis `review` → `ready` / `draft: false` at revision 1.1.0, and moved the editorial queue to the next ordinary review cluster.
+
+### PR #31 — Finalize culture-parasitism hypothesis for publication
 
 Packages:
 - `testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs`
@@ -19,6 +36,8 @@ Result:
 - replaced two converted Mermaid PNG dependencies with native Markdown structures and deleted both unprovenanced, now-unused assets;
 - completed duplicate review as independent/keep-separate inside a broader related culture-theory cluster;
 - updated scope/method/notes, advanced revision/version to 1.0.2, and advanced lifecycle `review` → `ready` with `draft: false` and no known source, conversion, asset, or duplicate blocker remaining.
+
+Transport provenance: PR #30 contained the same branch/result but was closed unmerged after the connector refused the draft→ready transition. The unchanged branch was reopened as non-draft PR #31 and merged as `ebb24d99ffba75df2a702a0281fa0993bc90bdf9`; PR #30 itself did not merge.
 
 ### PR #29 — Record build-derived publication of ready reports
 
