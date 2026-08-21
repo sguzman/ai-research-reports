@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T07:05:00-06:00'
+updated_at: '2026-08-21T13:00:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 21
@@ -11,8 +11,8 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - fallen-aristocracy
-  - republicans-as-moderating-opposition-without-a-rival-order
+  - testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
+  - liberalism-social-disembedding-and-managed-dependency
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -132,34 +132,43 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   fallen-aristocracy:
-    lifecycle: review
-    work_state: queued
+    lifecycle: ready
+    work_state: ready-for-publication
     priority: P1
     profile: academic
     voice: neutral
     completed_work:
-      - title/heading hierarchy normalized
-      - first-person methodology removed
-      - raw diagram source replaced with prose
-      - redundant reference export removed
-    blockers:
-      - factual/source/citation review remains
-    next_action: 'Source-quality and factual review.'
+      - normalized title/heading hierarchy and removed first-person, diagram, and reference-export conversion residue in the earlier pass
+      - narrowed the category to hereditary or estate-based elites that lose formal privilege while retaining convertible elite resources
+      - replaced the inherited undifferentiated six-case catalogue with strong cases plus explicit boundary/negative cases
+      - treated French noble émigrés, former samurai as a functional analogue, and post-WWI aristocratic intellectuals as the strongest comparisons
+      - demoted Russian White émigrés, Byzantine scholars, and Latin American creoles to boundary cases rather than misclassifying them as equivalent fallen aristocracies
+      - replaced deterministic grievance claims with a conditional model of status threat, residual capacity, restoration opportunity, resource convertibility, and successor-state incorporation
+      - replaced mixed legacy sourcing with direct Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat sources
+      - completed duplicate review as independent/keep-separate
+      - advanced review to ready at revision 1.0.3
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   republicans-as-moderating-opposition-without-a-rival-order:
-    lifecycle: review
-    work_state: queued
+    lifecycle: ready
+    work_state: ready-for-publication
     priority: P1
     profile: academic
     voice: neutral
     completed_work:
-      - first-person/current-document framing removed
-      - rendered timeline asset migrated into canonical assets/media
-      - redundant reference export removed
-    blockers:
-      - two large converted tables need rendering/editorial review
-      - factual and citation-quality verification remains
-    next_action: 'Review converted tables, then source/factual audit.'
+      - removed first-person/current-document framing and redundant conversion residue in the earlier pass
+      - replaced two conversion-heavy tables with a compact domain comparison based on explicit rival-order criteria
+      - revised the blanket moderating-opposition thesis in light of current-through-2026 counterexamples
+      - classified TANF as durable replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative architecture, and USMCA as hybrid institutional replacement
+      - treated Gramm-Leach-Bliley and First Step as bipartisan directional changes rather than simple one-party ratchets
+      - added Public Law 119-21 immigration-enforcement capacity as a major affirmative state-building case
+      - replaced weak legacy sources with direct CBO, CRS, USTR, Federal Reserve History, and Senate evidence
+      - removed the obsolete rendered timeline asset after the rewritten body no longer depended on it
+      - completed duplicate review as independent/keep-separate
+      - advanced review to ready at revision 1.0.3
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs:
     lifecycle: review
