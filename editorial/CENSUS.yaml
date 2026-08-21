@@ -1056,22 +1056,20 @@ packages:
     - raw_diagram_source
   intergenerational-extraction-in-liberal-democracies:
     title: Intergenerational Extraction in Liberal Democracies
-    lifecycle: review
-    draft: true
+    lifecycle: ready
+    draft: false
     type: report
     editorial_profile: academic
     voice: neutral
-    duplicate_review: null
+    duplicate_review: reviewed
     has_changelog: true
     asset_files: 0
-    legacy_media_files: 3
-    body_bytes: 39255
+    legacy_media_files: 0
+    body_bytes: 28679
     h1_count: 1
-    local_link_or_image_count: 3
+    local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - duplicate_review_unresolved
-    - conversion_or_chatgpt_marker
+    mechanical_flags: []
   javascript-history:
     title: The Formal and Informal History of JavaScript (1995--2025)
     lifecycle: draft

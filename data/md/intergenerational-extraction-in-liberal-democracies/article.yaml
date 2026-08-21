@@ -1,6 +1,9 @@
 ---
-abstract: This report explores the thesis that liberal democracy can become systematically biased toward
-  present voters and against younger and future cohorts, functioning as intergenerational extraction.
+abstract: >-
+  Evaluates when aging democratic institutions generate genuine intergenerational extraction rather than
+  ordinary life-cycle redistribution. The report distinguishes cohort lifetime incidence from cross-sectional
+  age wealth, pension transfers, and gross public debt, and identifies turnout asymmetry, pension design,
+  persistent deficits, and incumbent-protecting housing politics as conditional burden-shifting mechanisms.
 aliases: []
 author:
 - Salvador Guzman
@@ -12,99 +15,123 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
 - Politics
 - History
 - Political Theory
-cover-image: ''
-cover_image: ''
 creator:
 - Salvador Guzman
-dataset_id: ''
 date: '2026-06-03'
-description: An analysis of whether liberal democracies inherently produce intergenerational warfare through
-  pay-as-you-go systems, debt, and age-skewed turnout.
-draft: true
+description: >-
+  A source-audited political-economy analysis of when aging democracies shift uncompensated lifetime costs
+  from politically advantaged present cohorts to younger or future cohorts.
+draft: false
 edition: '1'
 editorial_profile: academic
-epub-chapter-level: 2
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:intergenerational-extraction-in-liberal-democracies
-isCJKLanguage: false
 keywords:
-- Intergenerational Extraction in Liberal Democracies
-- Political Economy
-- Sociology
-- Political science (General)
-- Demographics
-- Aging
-- Public Debt
+- intergenerational extraction
+- cohort incidence
+- political economy
+- aging
+- pensions
+- public debt
+- housing politics
+- voter turnout
 lang: en
 language: English
-lastmod: '2026-08-19'
-layout: ''
+lastmod: '2026-08-21'
 library_of_congress_classification:
   class: JA
   description: Politics, political history, social theory, and public debate.
   label: Political science (General)
 license: CC0-1.0
 linkTitle: Intergenerational Extraction in Liberal Democracies
-markup: ''
 number-sections: true
-outputs: []
-plate_id: ''
 publishDate: '2026-06-03'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - liberalism-social-disembedding-and-managed-dependency
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: intergenerational-extraction-in-liberal-democracies
+    rationale: >-
+      The 115-package corpus census and title-level review found no competing package centered on lifetime
+      cohort incidence, age-skewed electoral power, pensions, debt, and housing as an intergenerational
+      distribution problem. The liberalism/disembedding report is a conceptual neighbor but addresses
+      institutional dependency rather than cohort burden allocation.
 report:
   audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
   discipline: political science
   domain: politics
-  emphasis: age-skewed political power, welfare finance, debt, and cohort distribution
-  focus: conditions under which liberal-democratic institutions can transfer burdens from present voters to younger and future cohorts
+  emphasis: cohort lifetime incidence, age-skewed political power, pension finance, debt, and housing politics
+  focus: >-
+    conditions under which liberal-democratic institutions shift uncompensated lifetime costs from politically
+    advantaged present cohorts to younger or future cohorts
   id: urn:marginalia:intergenerational-extraction-in-liberal-democracies
-  intent: evaluate a conditional intergenerational-extraction thesis across demographic and political-economic evidence
+  intent: >-
+    test a conditional intergenerational-extraction thesis while distinguishing genuine cohort burden shifting
+    from ordinary age redistribution, life-cycle wealth accumulation, and productive public borrowing
   is_report: true
   kind: research report
-  level: ''
-  method: comparative political-economy synthesis
-  methods: []
+  method: >-
+    Comparative political-economy synthesis using current demographic, fiscal, pension, electoral, household-
+    finance, and housing-politics evidence, with explicit counterevidence and a cohort-incidence falsification test
+  methods:
+  - comparative institutional analysis
+  - cohort-incidence framework
+  - current-source audit
+  - counterexample testing
   name: Intergenerational Extraction in Liberal Democracies
-  notes: Legacy complete state returned to review when substantively touched under the new editorial standard; full lint, citation, and current-link verification remain required before publication.
+  notes: >-
+    The 2026-08-21 final audit replaced the inherited generational-war framing with a stricter lifetime
+    cohort-incidence test. It corrected the provisional U.S. 2024 fertility rate to the final NCHS value,
+    updated Japan and Germany fertility evidence through 2025 where available, refreshed 2026 IMF debt
+    context and OECD Pensions at a Glance 2025 replacement-rate modelling, and added current Social Security
+    Trustees and CBO evidence. Cross-sectional age-wealth gaps are no longer treated as proof of extraction,
+    gross debt is no longer treated as a one-for-one transfer to future taxpayers, and pension transfers are
+    explicitly evaluated as social insurance before any extraction inference. Current political-economy
+    evidence on homeowner participation, local housing opposition, and representative responsiveness now
+    supplies the strongest directly observed incumbent-versus-entrant mechanism. Conversion-era numbered-link
+    citations, the duplicated reference export, tracked URLs, and three obsolete converted diagram assets were
+    removed. Duplicate review found no competing canonical artifact. No known source, conversion, asset, or
+    relationship blocker remains.
   number: '109'
   organization: Marginalia
   period: contemporary aging democracies
-  period_covered: late twentieth century-present
+  period_covered: late twentieth century through 2026 evidence context
   population_focus: younger, older, and future cohorts
   primary_texts: []
   region: comparative OECD democracies
   region_focus: United States, Japan, Germany, and Israel
-  scope: age-skewed turnout, fertility, welfare finance, public debt, housing, and intergenerational distribution
-  scope_years: late twentieth century-present
+  scope: >-
+    cohort lifetime incidence, age-skewed turnout, fertility, pension finance, public debt, housing scarcity,
+    incumbent asset politics, and institutional escape conditions
+  scope_years: late twentieth century through 2026 evidence context
   series: Marginalia Reports
   stance: neutral analytical
-  structure: comparative analytical report
+  structure: >-
+    extraction criterion, political representation, pensions, debt, housing, four-country comparison,
+    established and unsupported claims, empirical test design, and conclusion
   subdiscipline: political economy and demography
   subject: intergenerational distribution in liberal democracies
   time_scope: contemporary comparative politics
   time_span: late twentieth century-present
   topic: Intergenerational Extraction in Liberal Democracies
   type: report
-  version: 1.0.1
+  version: '1.0.2'
   year: 2026
 report-no: '109'
 report-number: '109'
@@ -113,40 +140,43 @@ report_no: 109
 report_number: 109
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: '1.0.2'
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 109
 series-title: Marginalia Reports
 series_number: 109
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: intergenerational-extraction-in-liberal-democracies
-status: review
+status: ready
 subject:
 - Politics
-- History
+- Political economy
 subjects:
-- Politics
-- History
-subtitle: ''
-summary: An analysis of how liberal democratic institutions, through debt and social spending, facilitate
-  intergenerational extraction at the expense of younger and future cohorts.
+- Intergenerational distribution
+- Cohort incidence
+- Pension systems
+- Public debt
+- Housing politics
+subtitle: Cohort Incidence, Political Power, and Long-Horizon Burden Shifting
+summary: >-
+  Finds a real democratic vulnerability to intergenerational burden shifting, but reserves the term
+  extraction for cases where politically advantaged present cohorts improve their lifetime net position by
+  externalizing uncompensated costs to younger or future cohorts.
 tags:
-- intergenerational-extraction-in-liberal-democracies
+- intergenerational-extraction
+- cohort-incidence
 - political-economy
-- sociology
 - demographics
+- pensions
+- public-debt
+- housing-politics
+- voter-turnout
 title: Intergenerational Extraction in Liberal Democracies
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
 type: report
-url: ''
 voice: neutral
 weight: 0
 ...
