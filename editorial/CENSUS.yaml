@@ -1,0 +1,2298 @@
+schema_version: 1
+kind: mechanical-corpus-census
+editorial_warning: Facts and heuristic risk hints only; this file does not classify, approve, archive, or publish articles.
+package_count: 115
+packages:
+  1inventing-socialism:
+    title: Inventing Socialism
+    lifecycle: published
+    draft: false
+    type: essay
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 55271
+    h1_count: 5
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - h1_count_not_one
+  2christian-socialism:
+    title: Christian Socialism in Mid-Victorian Britain
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 79599
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  3mutualism:
+    title: 'Mutualism: Markets Without Capitalism'
+    lifecycle: archived
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 97203
+    h1_count: 1
+    local_link_or_image_count: 1
+    risk_hints: []
+    mechanical_flags: []
+  4chartist:
+    title: Chartists & Radical Republicans, 1840-1865
+    lifecycle: draft
+    draft: true
+    type: research-essay
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 103276
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  a-history-of-functional-analysis:
+    title: A History of Functional Analysis
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 50771
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
+    title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 115233
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  a-post-chomskyan-theory-of-language-in-the-age-of-llms:
+    title: A Post-Chomskyan Theory of Language in the Age of LLMs
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 41712
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  algebra-evolution:
+    title: The Evolution and Frontiers of Algebra
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 248850
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  american-conservatism:
+    title: American Conservatism and the Liberal-Revolutionary Founding
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 1
+    body_bytes: 44233
+    h1_count: 1
+    local_link_or_image_count: 1
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  american-judicial-process:
+    title: Judges in the Judicial Process of the United States
+    lifecycle: published
+    draft: false
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 18995
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags: []
+  analysis-semantics:
+    title: The Semantics of "Analysis" in Mathematics
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 230311
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  brickmaking-history-materials-processes-and-production-planning:
+    title: 'Brickmaking: History, Materials, Processes, and Production Planning'
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 29181
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  category-theory:
+    title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
+    lifecycle: complete
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 199252
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  category-theory-research-scope:
+    title: Category Theory Research Scope
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 200613
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  cesar-chavez-after-the-allegations:
+    title: Cesar Chavez After the Allegations
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 53619
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  chip-industry:
+    title: The Worldwide Computer Chip Industry
+    lifecycle: published
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 136401
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  christian-socialism-report-request:
+    title: Christian Socialism Report Request
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 77939
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  civilizing-injustice-colonial-conquest-and-moral-pretexts:
+    title: Civilizing Injustice_ Colonial Conquest and Moral Pretexts
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 46867
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  co-opting-the-left:
+    title: Co-opting the Left
+    lifecycle: final-draft
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 697557
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  complex-plane-canvas:
+    title: Complex Analysis as a Universal Canvas
+    lifecycle: published
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 127033
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  complex-plane-culture:
+    title: Imagining the Imaginary
+    lifecycle: published
+    draft: false
+    type: posts
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 54023
+    h1_count: 1
+    local_link_or_image_count: 2
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  conserving-radicalism:
+    title: Conservation of Radicalism and Asymmetric Co-optability
+    lifecycle: draft
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 307562
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  corporate-capital-and-progressive-cultural-politics:
+    title: Corporate Capital and Progressive Cultural Politics
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 56958
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  critical-review-of-major-official-financial-crisis-inquiry-reports:
+    title: Critical Review of Major Official Financial-Crisis Inquiry Reports
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 32775
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags:
+    - duplicate_review_unresolved
+  css-history:
+    title: A Comprehensive History of CSS
+    lifecycle: complete
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 193546
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  culture-gothic:
+    title: Aesthetics for the Maimed
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 57641
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  current-year-structure-of-taxes-in-the-united-states:
+    title: Current-Year Structure of Taxes in the United States
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 43673
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  darrieus-vawt-design-construction-1-10-kw:
+    title: Darrieus VAWT Design & Construction (1–10 kW)
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 42818
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  desalination-plant-design-and-construction:
+    title: Desalination Plant Design and Construction
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 64015
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo:
+    title: ''
+    lifecycle: unknown
+    draft: null
+    type: null
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 3
+    legacy_media_files: 0
+    body_bytes: 34022
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  electric-motor-design-principles-types-and-practices:
+    title: Electric Motor Design_ Principles, Types, and Practices
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 48344
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  electric-motors-v2:
+    title: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 49382
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  emptiness-of-deleuze:
+    title: The Emptiness of Deleuze
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 56850
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - duplicate_review_unresolved
+  fake-populism-and-neil-young:
+    title: Fake Populism and Neil Young
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 39615
+    h1_count: 9
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - h1_count_not_one
+  fallen-aristocracy:
+    title: Fallen Aristocracy
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 23705
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  federal-legal-landscape:
+    title: Federal Legal Landscape
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 47382
+    h1_count: 8
+    local_link_or_image_count: 0
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - h1_count_not_one
+  formalizing-the-elite-xenophilia-hypothesis:
+    title: Formalizing the Elite Xenophilia Hypothesis
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 46296
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  gaht:
+    title: Gender and GAHT
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 12699
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - health_or_self_harm
+    mechanical_flags: []
+  gaht-research-report-summary:
+    title: GAHT Research Report Summary
+    lifecycle: archived
+    draft: true
+    type: research-brief
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 12712
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - health_or_self_harm
+    mechanical_flags: []
+  geometry-semantics:
+    title: The Semantics of "Geometry" from Euler to Today
+    lifecycle: final
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 257589
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  global-population-dynamics-peaks-in-population-level-and-growth-rates:
+    title: Global Population Dynamics_ Peaks in Population Level and Growth Rates
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 18952
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - duplicate_review_unresolved
+  grrm-deconstructed:
+    title: George R.R. Martin Deconstructed
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 70779
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  hasan:
+    title: HasanAbi as a Platform-Native Political Brand
+    lifecycle: draft
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 190020
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  hasanabi-popularity-analysis:
+    title: HasanAbi Popularity Analysis
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 183513
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  heaviside:
+    title: Oliver Heaviside
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 34659
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  highway-engineering:
+    title: From Dirt Track to Durable Highway
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 67818
+    h1_count: 1
+    local_link_or_image_count: 1
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  history-of-business-accounting:
+    title: History of Business Accounting
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 47238
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  history-of-quantitative-finance:
+    title: A History of Quantitative Finance
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 51902
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  hitler-philosophy:
+    title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 47565
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  homological-algebra:
+    title: The History and Impact of Homological Algebra
+    lifecycle: published
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 208189
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  how-llms-challenge-chomskyan-assumptions-analytical-report:
+    title: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 63390
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  html-history:
+    title: History of HTML (1990--2025)
+    lifecycle: published
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 150531
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  in-house-vertical-farms:
+    title: In-House Vertical Farms
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 54737
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  intergenerational-extraction-in-liberal-democracies:
+    title: Intergenerational Extraction in Liberal Democracies
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 3
+    body_bytes: 39255
+    h1_count: 1
+    local_link_or_image_count: 3
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  javascript-history:
+    title: The Formal and Informal History of JavaScript (1995--2025)
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 211082
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  jewish-political-activism:
+    title: Jewish Political Activism in the United States
+    lifecycle: published
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 38600
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence:
+    title: Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 58095
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  judges-in-the-judicial-process-of-the-united-states:
+    title: Judges in the Judicial Process of the United States
+    lifecycle: archived
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 49823
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - raw_diagram_source
+  kern-weed:
+    title: Kern County and the Cannabis Legal Environment
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 48451
+    h1_count: 8
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - h1_count_not_one
+  labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in:
+    title: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 55835
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  land-rooted-ethno:
+    title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+    lifecycle: published
+    draft: false
+    type: research-essay
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 283540
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens:
+    title: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 63269
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  liberal-gothic-an-analytical-report:
+    title: Liberal Gothic_ An Analytical Report
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 42596
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  liberal-gothic-quick-facts:
+    title: 'Liberal Gothic: Quick Facts'
+    lifecycle: complete
+    draft: false
+    type: briefing
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 29109
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  liberalism-as-political-domestication:
+    title: Liberalism as Political Domestication
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 4
+    body_bytes: 40007
+    h1_count: 1
+    local_link_or_image_count: 4
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  liberalism-equality-and-the-leftward-drift-thesis:
+    title: Liberalism, Equality, and the Leftward Drift Thesis
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 2
+    body_bytes: 49521
+    h1_count: 1
+    local_link_or_image_count: 2
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  liberalism-social-disembedding-and-managed-dependency:
+    title: Liberalism, Social Disembedding, and Managed Dependency
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 5
+    body_bytes: 61180
+    h1_count: 1
+    local_link_or_image_count: 5
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  linear-algebra-history-report:
+    title: The Making of Linear Algebra
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 25413
+    h1_count: 6
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - h1_count_not_one
+  male-suicide:
+    title: Male Suicide in the United States (2000--Present)
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 5
+    legacy_media_files: 0
+    body_bytes: 277928
+    h1_count: 2
+    local_link_or_image_count: 0
+    risk_hints:
+    - health_or_self_harm
+    mechanical_flags:
+    - absolute_path_in_body
+    - conversion_or_chatgpt_marker
+    - h1_count_not_one
+  male-suicide-research-outline:
+    title: Male Suicide Research Outline
+    lifecycle: archived
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 5
+    legacy_media_files: 0
+    body_bytes: 277993
+    h1_count: 2
+    local_link_or_image_count: 0
+    risk_hints:
+    - health_or_self_harm
+    mechanical_flags:
+    - absolute_path_in_body
+    - conversion_or_chatgpt_marker
+    - h1_count_not_one
+  marx-engels:
+    title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+    lifecycle: complete
+    draft: false
+    type: research-essay
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 65895
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  marx-engels-manifesto-analysis:
+    title: Marx Engels Manifesto Analysis
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 61060
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  marxism-bibliography:
+    title: Comprehensive Marxist Literature (1840--2025)
+    lifecycle: complete
+    draft: false
+    type: research
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 200335
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  marxism-evolution:
+    title: Evolution of Marxism
+    lifecycle: published
+    draft: false
+    type: essay
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 407429
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  marxism-research-clarifications:
+    title: Marxism Research Clarifications
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 392729
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  mass-and-indiscriminate-immigration-as-indirect-corporate-welfare:
+    title: Mass and Indiscriminate Immigration as Indirect Corporate Welfare
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 48052
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  matrix-culture:
+    title: The Matrix as Cultural Technology
+    lifecycle: stable
+    draft: false
+    type: essay
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 189465
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  mauler:
+    title: Ad Hoc "Maulerian School of Film Criticism"
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 185582
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  maxwells-equations-a-human-centered-historical-and-scientific-analysis:
+    title: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 34148
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  meme-culture-and-borderer-right-style-a-research-report:
+    title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 63999
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - absolute_path_in_body
+    - raw_diagram_source
+  moby-dick-as-yankee-self-aggrandizement-and-self-indictment:
+    title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 48115
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  modern-progressive-marxism:
+    title: Formalizing the Connection Between Modern Progressive Politics and Marxism
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 2
+    body_bytes: 54396
+    h1_count: 1
+    local_link_or_image_count: 2
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  nations-right-wing-critique:
+    title: Nation's Right-Wing Critique
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 3
+    legacy_media_files: 0
+    body_bytes: 39090
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  neural-networks:
+    title: History of Neural Networks in Computing (1940s--2026)
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 250301
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  nietzche-math-critique:
+    title: Dead Symbols and their Worship
+    lifecycle: published
+    draft: false
+    type: essay
+    editorial_profile: stylized
+    voice: nietzschean
+    duplicate_review: not-applicable
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 67089
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags: []
+  number-theory-from-euler:
+    title: Number Theory from Euler to Today
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 97202
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  obj-vs-sub:
+    title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 68675
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+  operators-social-history:
+    title: A Social History of "Operators" in Mathematics
+    lifecycle: published
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 143174
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  piketty-liberal-pmc-critique:
+    title: 'Piketty and the Liberal PMC: A Critique'
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 54476
+    h1_count: 8
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+    - h1_count_not_one
+  prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850:
+    title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 46671
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  proudhon-mutualism-report:
+    title: ''
+    lifecycle: unknown
+    draft: null
+    type: null
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 91470
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  puritan-moral-psychology:
+    title: Puritan Moral Psychology and the Genealogy of American Progressivism
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 0
+    legacy_media_files: 1
+    body_bytes: 53008
+    h1_count: 1
+    local_link_or_image_count: 1
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti:
+    title: Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 61632
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  report-elite-discourse-and-structural-critique:
+    title: Elite Discourse and Structural Critique
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 25291
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - raw_diagram_source
+  republican-administrations-as-the-enforcers-of-u-s-imperial-policy:
+    title: Republican Administrations as the Enforcers of U.S. Imperial Policy
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 42811
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  republicans-as-moderating-opposition-without-a-rival-order:
+    title: Republicans as Moderating Opposition Without a Rival Order
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 46005
+    h1_count: 1
+    local_link_or_image_count: 1
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  savonius-wind-turbines-comprehensive-design-diy-guide:
+    title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+    lifecycle: review
+    draft: true
+    type: guide
+    editorial_profile: technical
+    voice: instructional
+    duplicate_review: pending
+    has_changelog: true
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 26524
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags:
+    - duplicate_review_unresolved
+  selective-freudian-explanations-in-political-and-media-discourse:
+    title: Selective Freudian Explanations in Political and Media Discourse
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 37686
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  structure-and-layout-of-the-cryptocurrency-ecosystem:
+    title: Structure and Layout of the Cryptocurrency Ecosystem
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 55486
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  structure-and-sources-of-american-law:
+    title: Structure and Sources of American Law
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 45594
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  symbolic-post-masculinity:
+    title: Symbolic Post-Masculinity
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 1
+    legacy_media_files: 0
+    body_bytes: 43035
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  taylor:
+    title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
+    lifecycle: complete
+    draft: false
+    type: bibliography
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 287147
+    h1_count: 11
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - h1_count_not_one
+  testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs:
+    title: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
+    lifecycle: review
+    draft: true
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: null
+    has_changelog: true
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 31864
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - duplicate_review_unresolved
+  the-carousel-of-right-wing-resistance-in-the-united-states:
+    title: The Carousel of Right-Wing Resistance in the United States
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 56705
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  the-economy-of-non-bitcoin-cryptocurrencies:
+    title: The Economy of Non-Bitcoin Cryptocurrencies
+    lifecycle: draft
+    draft: true
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 46123
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  the-female-shadow:
+    title: The Female Shadow
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 3
+    body_bytes: 77699
+    h1_count: 1
+    local_link_or_image_count: 3
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  the-u-s-post-world-war-ii-boom-1945-1975:
+    title: The U.S. Post–World War II Boom, 1945–1975
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 53910
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  topology:
+    title: Topology
+    lifecycle: complete
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 147333
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  tyler-and-jews:
+    title: Tyler and Jews
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 41050
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  type-theory-history:
+    title: A Comprehensive History of Type Theory (1900s--Present)
+    lifecycle: draft
+    draft: false
+    type: article
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 32958
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  united-states-of-empire:
+    title: The United States of Empire
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 2
+    legacy_media_files: 0
+    body_bytes: 35718
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - absolute_path_in_body
+  when-subverted-masculinity-boomerangs-into-underdog-masculinity:
+    title: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 72464
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - conversion_or_chatgpt_marker
+    - raw_diagram_source
+  yankee-courts-and-legal-bias:
+    title: Yankee Courts and Legal Bias
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 29387
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+  yankee-left:
+    title: The Yankee Left
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 50301
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
+    - raw_diagram_source
+  yankee-white-supremacy:
+    title: Yankee White Supremacy
+    lifecycle: complete
+    draft: false
+    type: report
+    editorial_profile: null
+    voice: null
+    duplicate_review: null
+    has_changelog: false
+    asset_files: 0
+    legacy_media_files: 0
+    body_bytes: 40418
+    h1_count: 1
+    local_link_or_image_count: 0
+    risk_hints: []
+    mechanical_flags:
+    - legacy_or_unknown_lifecycle
+    - editorial_profile_unresolved
+    - changelog_missing
+    - duplicate_review_unresolved
