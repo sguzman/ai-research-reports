@@ -107,7 +107,9 @@ report:
     supplies the strongest directly observed incumbent-versus-entrant mechanism. Conversion-era numbered-link
     citations, the duplicated reference export, tracked URLs, and three obsolete converted diagram assets were
     removed. Duplicate review found no competing canonical artifact. No known source, conversion, asset, or
-    relationship blocker remains.
+    relationship blocker remains. Build-derived deployment was subsequently verified at
+    `/research/intergenerational-extraction-in-liberal-democracies/`; this lifecycle-only publication closure
+    changes no article prose, sources, assets, or revision/version.
   number: '109'
   organization: Marginalia
   period: contemporary aging democracies
@@ -148,7 +150,7 @@ series-title: Marginalia Reports
 series_number: 109
 series_title: Marginalia Reports
 slug: intergenerational-extraction-in-liberal-democracies
-status: ready
+status: published
 subject:
 - Politics
 - Political economy
