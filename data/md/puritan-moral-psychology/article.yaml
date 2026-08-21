@@ -1,8 +1,9 @@
 ---
-abstract: This report analyzes the formal thesis that modern American progressivism inherited and secularized
-  a durable moral-political grammar first institutionalized in New England Puritanism. The grammar includes
-  covenantal mission, collective guilt, moralized authority, public scrutiny of conduct, and disciplinary
-  institutions.
+abstract: >-
+  Tests claims that American progressivism secularized Puritan moral psychology by separating direct
+  transmission, later reception and reuse, morphological continuity, and mere analogy. The evidence supports
+  a transformed Protestant reform lineage and later reinvention of Puritan national symbols, but not a single
+  uninterrupted Puritan genealogy for Progressive-era or modern administrative politics.
 aliases: []
 author:
 - Salvador Guzman
@@ -14,102 +15,131 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
 - Politics
 - History
 - Political Theory
-cover-image: ''
-cover_image: ''
 creator:
 - Salvador Guzman
-dataset_id: ''
 date: '2026-06-01'
-description: An analysis formalizing and testing a genealogical and institutional connection between modern American progressivism and Puritan moral psychology.
-draft: true
+description: >-
+  A source-audited genealogy of Puritan influence on American reform that distinguishes Protestant
+  transmission and later reception from analogy, while incorporating transatlantic and alternative lineages
+  of Progressivism.
+draft: false
 edition: '1'
 editorial_profile: academic
-epub-chapter-level: 2
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:puritan-moral-psychology
-isCJKLanguage: false
 keywords:
-- Puritan Moral Psychology and the Genealogy of American Progressivism
-- Politics
-- History
-- Political Theory
-- Political science (General)
 - Puritanism
-- American Progressivism
-- Moral Psychology
-- Genealogy
-- Covenant
-- Civil Religion
+- American progressivism
+- moral reform
+- jeremiad
+- Social Gospel
+- revivalism
+- transatlantic progressivism
+- American exceptionalism
 lang: en
 language: English
-lastmod: '2026-08-19'
-layout: ''
+lastmod: '2026-08-21'
 library_of_congress_classification:
   class: JA
   description: Politics, political history, social theory, and public debate.
   label: Political science (General)
 license: CC0-1.0
 linkTitle: Puritan Moral Psychology and the Genealogy of American Progressivism
-markup: ''
 number-sections: true
-outputs: []
-plate_id: ''
 publishDate: '2026-06-01'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - liberalism-social-disembedding-and-managed-dependency
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: puritan-moral-psychology
+    rationale: >-
+      Corpus title/topic review found no competing package centered on the historical transmission and later
+      reception of Puritan moral-political forms in American reform. Related political-theory reports address
+      liberal institutional dependency rather than the Puritan/revivalist/Social-Gospel genealogy developed here.
 report:
   audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
-  discipline: political science
+  discipline: history
   domain: political and intellectual history
-  emphasis: genealogy, institutional continuity, and moral-political repertoires
-  focus: whether elements of Puritan moral psychology persist in secularized forms within American progressivism
+  emphasis: transmission, reception, reform Protestantism, historiography, and competing genealogies
+  focus: >-
+    which elements of New England Puritan moral-political culture were actually transmitted into later
+    American reform, which were recovered through later reception, and which are only structural analogies
   id: urn:marginalia:puritan-moral-psychology
-  intent: evaluate a genealogical thesis through historical and institutional comparison
+  intent: >-
+    evaluate a Puritan-to-progressive genealogy without converting rhetorical resemblance into unsupported
+    historical descent
   is_report: true
   kind: research report
-  level: ''
-  method: historical-genealogical synthesis with explicit counterarguments and boundary conditions
-  methods: []
+  method: >-
+    Historical-genealogical synthesis distinguishing direct transmission, documented reception/reuse,
+    morphological continuity, and analogy, with explicit counterevidence from transatlantic reform history
+    and alternative religious and political lineages
+  methods:
+  - intellectual history
+  - reception history
+  - institutional genealogy
+  - counterexample testing
   name: Puritan Moral Psychology and the Genealogy of American Progressivism
-  notes: Classified as an academic report with neutral voice on 2026-08-19. Earlier prompt-oriented framing had already been removed. The legacy complete state was returned to review pending full source-quality, citation, and current-link verification before publication.
+  notes: >-
+    The 2026-08-21 final audit replaced the inherited linear Puritan-to-modern-progressivism chain with an
+    evidence-graded genealogy. Puritan New England remains an important source of covenantal community,
+    disciplined moral order, jeremiadic correction, and exemplary mission, while revivalism and the Social
+    Gospel provide the strongest transformed Protestant transmission path into later reform. Daniel Rodgers's
+    transatlantic history of Progressive social policy and the direct Toynbee Hall influence on Hull House
+    substantially limit any self-contained New England genealogy. African American prophetic traditions are
+    treated as independent and interacting sources of American reform rhetoric rather than as derivatives of
+    white Puritanism. Abram Van Engen's reception history of Winthrop's `city upon a hill` demonstrates that
+    some modern Puritan influence was produced by twentieth-century recovery and canonization rather than
+    uninterrupted cultural memory. Contemporary DEI, bias-response, and cancellation practices were removed
+    from the core genealogy because the inherited article supplied analogy rather than traceable transmission.
+    Escaped numbered-link citations, conversion tables, the duplicate reference export, first-person process
+    narration, and the obsolete converted Mermaid asset were removed. Duplicate review found no competing
+    canonical artifact. No known source, conversion, asset, or relationship blocker remains.
   number: '106'
   organization: Marginalia
-  period: colonial New England through contemporary United States politics
-  period_covered: seventeenth century-present
-  population_focus: ''
-  primary_texts: []
-  region: United States
-  region_focus: New England and the wider United States
-  scope: Puritan moral theology, civic institutions, reform traditions, secularization, progressive moral rhetoric, discontinuities, and alternative genealogies
-  scope_years: seventeenth century-present
+  period: colonial New England through the Progressive Era, with later reception history
+  period_covered: seventeenth century through twentieth-century reception
+  population_focus: American religious reformers, Progressive-era reform networks, and later national mythmakers
+  primary_texts:
+  - John Winthrop, A Modell of Christian Charity
+  - John Winthrop, On Liberty
+  - Massachusetts Body of Liberties
+  - American Anti-Slavery Society, Declaration of Sentiments
+  region: United States and North Atlantic
+  region_focus: New England, the wider United States, Britain, and transatlantic reform networks
+  scope: >-
+    Puritan covenant and discipline, the jeremiad, revivalism, abolitionism, Social Gospel reform,
+    Progressive-era pluralism, transatlantic policy borrowing, Black prophetic alternatives, and modern
+    reception of Puritan national symbols
+  scope_years: seventeenth century through twentieth-century reception
   series: Marginalia Reports
   stance: neutral analytical
-  structure: executive summary, thesis and definitions, historical genealogy, mechanisms, counterarguments, and assessment
-  subdiscipline: history and social analysis
-  subject: Puritan moral psychology and American progressive political culture
+  structure: >-
+    genealogical method, Puritan foundations, evangelical transmission, Social Gospel bridge, Progressive
+    pluralism and transatlantic origins, reception history, alternative prophetic lineages, revised map, and conclusion
+  subdiscipline: American intellectual, religious, and political history
+  subject: Puritan influence and the multiple genealogies of American progressivism
   time_scope: long-run intellectual and institutional history
-  time_span: seventeenth century-present
+  time_span: seventeenth century-twentieth century
   topic: Puritan Moral Psychology and the Genealogy of American Progressivism
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: '106'
 report-number: '106'
@@ -118,42 +148,42 @@ report_no: 106
 report_number: 106
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 106
 series-title: Marginalia Reports
 series_number: 106
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: puritan-moral-psychology
-status: review
+status: ready
 subject:
 - Politics
 - History
+- Religion
 subjects:
-- Politics
-- History
-subtitle: ''
-summary: This report evaluates the thesis that American progressivism partly secularizes a moral-political repertoire associated with Puritan New England, while testing discontinuities and rival explanations.
+- Puritanism
+- American progressivism
+- Protestant reform
+- Reception history
+subtitle: Transmission, Reinvention, and the Limits of a Genealogy
+summary: >-
+  Finds real Puritan influence through transformed Protestant reform and later national reception, while
+  rejecting a single uninterrupted genealogy that reduces the heterogeneous and transnational Progressive
+  movement to secularized New England moral psychology.
 tags:
-- puritan-moral-psychology
-- politics
-- history
-- political-theory
 - puritanism
 - american-progressivism
-- sociology-of-religion
+- jeremiad
+- social-gospel
+- revivalism
+- reception-history
+- transatlantic-history
 title: Puritan Moral Psychology and the Genealogy of American Progressivism
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
 type: report
-url: ''
 voice: neutral
 weight: 0
 ...
