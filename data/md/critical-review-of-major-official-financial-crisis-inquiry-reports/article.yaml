@@ -1,9 +1,8 @@
 ---
 abstract: >-
-  A critical comparison of major official inquiries into the 2007–2009 financial crisis,
-  with emphasis on how institutional reports allocate responsibility, frame regulatory failure,
-  describe emergency interventions, and handle competing explanations involving moral hazard,
-  housing policy, financial regulation, and crisis-management design.
+  A critical comparison of major U.S. and U.K. official inquiries into the 2007–2009 financial crisis,
+  examining how they allocate responsibility and how their causal framing compares with primary evidence
+  on investment-bank supervision, housing policy, emergency rescues, and shadow banking.
 aliases: []
 author:
 - Salvador Guzman
@@ -25,8 +24,8 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-03-21'
-description: A critical review of official financial-crisis inquiries and the institutional framing of responsibility, regulation, and emergency intervention.
-draft: true
+description: A source-disciplined critical review of official financial-crisis inquiries and competing causal accounts of regulation, housing policy, rescue design, and shadow banking.
+draft: false
 edition: '1'
 editorial_profile: academic
 epub-chapter-level: 0
@@ -47,11 +46,14 @@ keywords:
 - financial regulation
 - moral hazard
 - crisis intervention
-- Public Finance
-- Economics
+- shadow banking
+- Fannie Mae
+- Freddie Mac
+- AIG
+- Bear Stearns
 lang: en
 language: English
-lastmod: '2026-08-19'
+lastmod: '2026-08-21'
 layout: ''
 library_of_congress_classification:
   class: HJ
@@ -66,6 +68,24 @@ plate_id: ''
 publishDate: '2026-03-21'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: critical-review-of-major-official-financial-crisis-inquiry-reports
+    rationale: >-
+      Corpus triage found no second package presenting the same comparative official-inquiry review or a
+      competing canonical version. Other economics and political-economy material in the corpus is topical
+      context rather than a duplicate of this bounded FCIC/U.K.-inquiry analysis.
 report:
   audience: policy-oriented general reader
   code: ''
@@ -76,37 +96,56 @@ report:
     tool: pandoc 3.6
   discipline: economics
   domain: public finance
-  emphasis: institutional framing and accountability
-  focus: official crisis inquiries, regulatory design, moral hazard, and emergency interventions
+  emphasis: institutional framing, causal identification, regulatory design, and crisis accountability
+  focus: FCIC and major U.K. inquiry narratives tested against primary institutional and empirical evidence
   id: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
   intent: critical institutional review
   is_report: true
   kind: research report
   level: ''
-  method: comparative reading of official reports and primary institutional sources
+  method: >-
+    Comparative reading of official inquiry reports with claim-to-source testing against contemporaneous
+    agency documents, inspector-general and GAO records, and empirical Federal Reserve/NBER research.
+    Interpretive claims about institutional framing are explicitly separated from factual and causal claims.
   methods: []
   name: Critical Review of Major Official Financial-Crisis Inquiry Reports
-  notes: Prompt-conditioned direct address, document self-reference, raw timeline source, assistant-outro language, and the redundant conversion-generated reference export were removed on 2026-08-19. The article remains in review pending factual, citation-quality, and current-link verification.
+  notes: >-
+    Prompt-conditioned direct address, document self-reference, raw timeline source, assistant-outro language,
+    and the redundant conversion-generated reference export were removed on 2026-08-19. The 2026-08-21 final
+    evidence pass substantially rewrote the report rather than preserving its inherited anti-state causal
+    shorthand. It corrected the myth that the SEC's 2004 CSE amendments simply removed a universal 12:1
+    leverage cap while retaining the documented CSE supervision failures identified by the SEC Inspector
+    General; separated the narrow CRA/GSE affordable-housing-goals hypothesis from broader GSE guarantee and
+    mortgage-market questions; qualified AIG counterparty-at-par claims using GAO's record of alternative
+    Maiden Lane III structures; recast shadow banking as private intermediation embedded in a public legal and
+    emergency-support order; and recognized that the FCIC and U.K. inquiries directly criticized regulators
+    rather than treating official authorship as proof of self-exoneration. The period was extended through
+    2013 because the retained Parliamentary Commission on Banking Standards report postdates 2011. Duplicate
+    review found no competing canonical artifact. No known factual, citation, conversion, asset, or duplicate
+    blocker remains after this pass.
   number: 069
   organization: Marginalia
-  period: 2007-2009 financial crisis and post-crisis inquiries
-  period_covered: 2007-2011
+  period: 2007-2009 financial crisis and major post-crisis inquiries
+  period_covered: 2007-2013
   population_focus: ''
-  primary_texts: []
+  primary_texts:
+  - Financial Crisis Inquiry Commission final report and dissents
+  - U.K. Treasury Committee crisis inquiries
+  - Parliamentary Commission on Banking Standards final report
   region: United States and United Kingdom
   region_focus: United States and United Kingdom
-  scope: major official financial-crisis inquiries and selected primary-source counterevidence
-  scope_years: '2007-2011'
+  scope: major official financial-crisis inquiries and primary-source tests of disputed causal claims
+  scope_years: '2007-2013'
   series: Marginalia Reports
   stance: critical and evidence-oriented
-  structure: comparative critical review
-  subdiscipline: public finance
+  structure: executive summary, scope and method, inquiry comparison, contested causal mechanisms, framing analysis, accountability framework, conclusion
+  subdiscipline: public finance and financial regulation
   subject: official explanations of the financial crisis
-  time_scope: crisis and immediate post-crisis inquiry period
-  time_span: 2007-2011
+  time_scope: crisis and post-crisis inquiry period
+  time_span: 2007-2013
   topic: Official financial-crisis inquiry reports
   type: report
-  version: 1.0.2
+  version: 1.0.3
   year: 2026
 report-no: 069
 report-number: 069
@@ -115,7 +154,7 @@ report_no: 69
 report_number: 69
 report_year: 2026
 resources: []
-revision: 1.0.2
+revision: 1.0.3
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 69
@@ -127,22 +166,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-status: review
+status: ready
 subject:
 - Public finance
-- Fiscal policy
+- Financial regulation
+- Financial crisis inquiries
 subjects:
 - Public finance
-- Fiscal policy
-subtitle: ''
+- Financial regulation
+- Financial crisis inquiries
+subtitle: Institutional Framing, Causal Claims, and Accountability
 summary: >-
-  Reviews how major U.S. and U.K. official inquiries explain the financial crisis and tests
-  their institutional framing against primary documents, oversight reports, and alternative
-  accounts of regulation, housing policy, moral hazard, and rescue design.
+  Compares the FCIC and major U.K. inquiry reports with primary evidence on investment-bank supervision,
+  housing policy, AIG and Bear Stearns rescue design, and shadow banking, distinguishing legitimate framing
+  critique from unsupported claims of institutional intent.
 tags:
-- critical-review-of-major-official-financial-crisis-inquiry-reports
+- financial-crisis
+- fcic
+- financial-regulation
 - public-finance
-- economics
+- moral-hazard
+- shadow-banking
+- aig
+- gse
 title: Critical Review of Major Official Financial-Crisis Inquiry Reports
 toc: false
 toc-depth: 0

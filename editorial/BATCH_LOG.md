@@ -4,6 +4,24 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #27 — Finalize financial-crisis inquiry review
+
+Packages:
+- `critical-review-of-major-official-financial-crisis-inquiry-reports`
+
+Result:
+- substantially rewrote the inherited report around claim-to-source comparison instead of preserving a rhetorically strong but technically loose anti-state causal narrative;
+- retained the legitimate critical thesis that official institutions are part of the financial order they later investigate, while replacing claims of institutional intent with a narrower testable argument about administrative and causal framing;
+- corrected the common but inaccurate shorthand that the SEC's 2004 CSE amendments simply removed a universal 12:1 leverage cap; the final rule did permit approved internal-model calculations for some market/credit-risk deductions, while imposing minimum capital, reporting, risk-management, and consolidated-supervision conditions;
+- retained and strengthened the separate accountability case against the CSE program using the SEC Inspector General's findings on leverage, liquidity, concentration, stress testing, model oversight, and supervisory weakness, plus the SEC's subsequent termination of the voluntary program;
+- separated the narrow CRA/GSE affordable-housing-goals hypothesis from broader GSE guarantee, funding, portfolio, and mortgage-market questions; Federal Reserve threshold/quasi-experimental studies provide little support for the claim that CRA or the affordable-housing goals principally drove the subprime boom;
+- retained AIG counterparty-at-par scrutiny but qualified the inference using GAO evidence that multiple Maiden Lane III structures were considered and that documented discretion does not by itself prove a safe or legally feasible haircut alternative existed;
+- recast shadow banking as private maturity transformation embedded in a public legal and emergency-support order rather than either a purely unregulated market or a disguised state system;
+- explicitly recognized that the FCIC majority and U.K. Treasury Committee directly blamed regulatory failures, which limits any universal bureaucratic-self-exoneration theory;
+- replaced the escaped numbered conversion-citation lattice with named direct official, watchdog, and research sources;
+- extended metadata scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
+- completed duplicate review as independent/keep-separate and advanced lifecycle `review` → `ready` with `draft: false` at revision 1.0.3.
+
 ### PR #26 — Finalize brickmaking report for publication
 
 Packages:

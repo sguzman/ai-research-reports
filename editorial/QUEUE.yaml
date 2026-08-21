@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T06:48:00-06:00'
+updated_at: '2026-08-21T07:05:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 21
@@ -11,8 +11,8 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - critical-review-of-major-official-financial-crisis-inquiry-reports
   - fallen-aristocracy
+  - republicans-as-moderating-opposition-without-a-rival-order
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -111,20 +111,25 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   critical-review-of-major-official-financial-crisis-inquiry-reports:
-    lifecycle: review
-    work_state: queued
+    lifecycle: ready
+    work_state: ready-for-publication
     priority: P1
     profile: academic
     voice: neutral
     completed_work:
-      - direct second-person/prompt framing removed
-      - assistant outro removed
-      - raw timeline converted
-      - redundant reference export removed
-    blockers:
-      - factual and citation-quality review remains
-      - current-link verification remains
-    next_action: 'Audit remaining sources and claims; decide whether it can advance to ready.'
+      - removed prompt, assistant, raw-timeline, and redundant reference-export residue in earlier cleanup
+      - replaced the inherited numbered conversion-citation lattice with named direct official and research sources
+      - corrected the false shorthand that the SEC 2004 CSE framework simply removed a universal 12-to-1 leverage cap
+      - retained and grounded the SEC Inspector General findings on CSE leverage, liquidity, concentration, model, and stress-test supervision failures
+      - separated CRA and GSE affordable-housing-goal claims from broader GSE guarantee and mortgage-market questions using Federal Reserve empirical studies
+      - qualified AIG counterparty-at-par claims with GAO evidence on alternative Maiden Lane III structures and real-time constraints
+      - recast shadow banking as private intermediation embedded in a public legal and emergency-support framework
+      - replaced a universal government-self-protection thesis with a narrower testable institutional-framing argument
+      - extended the inquiry scope through 2013 to include the retained Parliamentary Commission on Banking Standards report
+      - completed duplicate review as independent/keep-separate
+      - advanced review to ready at revision 1.0.3
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   fallen-aristocracy:
     lifecycle: review
