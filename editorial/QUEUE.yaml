@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-21T17:15:00-06:00'
+updated_at: '2026-08-21T17:35:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 26
+packages_changed_since_baseline: 27
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -10,8 +10,7 @@ rules:
   article_changelog_required_on_every_package_change: true
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
-next_batch:
-  - global-population-dynamics-peaks-in-population-level-and-growth-rates
+next_batch: []
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -338,13 +337,24 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   global-population-dynamics-peaks-in-population-level-and-growth-rates:
-    lifecycle: unknown
-    work_state: queued
-    priority: P2
-    blockers:
-      - metadata title conversion defect noted during earlier triage
-      - population projections are date-sensitive and need current UN-source audit
-    next_action: 'Classify academic/neutral if body still supports it, normalize metadata, and audit demographic projections.'
+    lifecycle: ready
+    work_state: ready-for-publication
+    priority: P1
+    profile: academic
+    voice: neutral
+    completed_work:
+      - corrected conversion-contaminated title metadata and reclassified the report from public health to demography and population studies
+      - confirmed World Population Prospects 2024 remains the current global UN revision through August 2026 and documented the Togo-only January 2026 interim update
+      - documented that the next full World Population Prospects revision is postponed until 11 July 2027 and that global/regional aggregates were unchanged by the interim update
+      - separated population level, percentage growth rate, and absolute annual change so their distinct peaks are not conflated
+      - retained the observed global growth-rate peak near 2.3 percent in 1963 while treating the mid-2080s 10.3-billion population maximum as a probabilistic projection rather than an observed fact
+      - replaced the inherited unreproducible exact regional peak table with the UN's directly published 63/48/126 country-and-area peak-timing groups
+      - added stock-flow accounting, population momentum, demographic-transition framing, and projection-uncertainty interpretation
+      - removed speculative historical mechanism padding not supported to the same standard as the demographic core
+      - removed raw Mermaid, empty visualization placeholders, escaped numbered-link citations, and the duplicate conversion reference export
+      - completed duplicate review as independent/keep-separate and advanced legacy complete to ready at revision 1.0.1
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   american-judicial-process:
     lifecycle: published

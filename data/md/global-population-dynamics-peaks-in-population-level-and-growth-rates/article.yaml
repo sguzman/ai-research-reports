@@ -1,28 +1,192 @@
 ---
-abstract: Global Population Dynamics_ Peaks in Population Level and Growth Rates
+title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
+linkTitle: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
+subtitle: Growth Slowdown, Population Peaks, and Projection Uncertainty
+slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
 aliases: []
+date: '2026-03-21'
+lastmod: '2026-08-21'
+publishDate: '2026-03-21'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Demography
+- Population Studies
+- Public Policy
+tags:
+- population
+- demography
+- population-growth
+- fertility
+- mortality
+- migration
+- demographic-transition
+- population-projections
+keywords:
+- world population
+- population growth rate
+- population peak
+- World Population Prospects 2024
+- demographic transition
+- fertility
+- mortality
+- migration
+- population momentum
+subject:
+- Demography
+- Population studies
+subjects:
+- Global population dynamics
+- Population projections
+- Demographic transition
+- Population growth
+- Fertility and mortality
+summary: >-
+  Distinguishes the historical peak in the global population growth rate from the still-projected peak in
+  world population size, using the current UN World Population Prospects 2024 revision and its 2026 interim update.
+description: >-
+  A source-audited demographic analysis of global population level, growth-rate peaks, demographic transition,
+  country peak timing, population momentum, and uncertainty in long-range UN projections.
+abstract: >-
+  The global population growth rate peaked at about 2.3 per cent per year in 1963, while world population size
+  continues to rise. World Population Prospects 2024 places the central population-level peak at about 10.3 billion
+  in the mid-2080s and assigns an approximately 80 per cent probability to a peak within the twenty-first century.
+  The report distinguishes observed history from projection, replaces unreproducible regional pseudo-precision with
+  directly published UN peak-timing groups, and documents the January 2026 Togo-only interim update that left global
+  and regional aggregates unchanged and postponed the next full WPP revision until July 2027.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Health
-- Public Health
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
+    rationale: >-
+      Corpus title/topic review found no competing package centered on the distinction between global population-level
+      peaks, growth-rate peaks, demographic-transition timing, and current UN population projections. The article is
+      therefore retained as an independent canonical demographic report.
+report:
+  number: '070'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: research report
+  collection: demography
+  discipline: demography
+  subdiscipline: population studies and demographic projections
+  domain: population studies
+  topic: Global Population Dynamics
+  subject: peaks in population level and population growth rates
+  audience: general policy-oriented reader
+  intent: >-
+    distinguish population level, percentage growth, and absolute population change; identify the observed global
+    growth-rate peak and the current projected population-level peak; and explain how fertility, mortality, migration,
+    age structure, and projection uncertainty shape those trajectories.
+  method: >-
+    Source audit centered on United Nations World Population Prospects 2024, its methodology and January 2026 interim
+    update, supplemented by transparent Our World in Data reconstructions of the UN historical growth-rate series.
+    Observed demographic history is separated from deterministic and probabilistic projection statements, and
+    externally computed regional peak values are excluded where their derivation is not preserved in the artifact.
+  methods:
+  - demographic trend synthesis
+  - current-source audit
+  - projection-uncertainty review
+  - source-to-claim verification
+  emphasis:
+  - population level versus growth rate
+  - global and national population peaks
+  - demographic transition
+  - fertility, mortality, migration, and population momentum
+  - deterministic versus probabilistic projections
+  focus: global population dynamics under the current United Nations demographic revision
+  scope:
+  - observed world population growth
+  - WPP 2024 global projections through 2100
+  - country peak-timing groups
+  - demographic-transition mechanisms
+  - projection uncertainty
+  period: historical growth-rate evidence with projections through 2100
+  period_covered: 1950-2100, with limited long-run context
+  population_focus: global population and UN country/area peak-timing groups
+  primary_texts:
+  - United Nations, World Population Prospects 2024: Summary of Results
+  - United Nations, World Population Prospects 2024: Methodology report
+  - United Nations, World Population Prospects 2024: Interim Update (2026)
+  region: global
+  region_focus: world and comparative country/area groups
+  scope_years: 1950-2100
+  stance: neutral analytical
+  structure: >-
+    executive summary, definitions of population peaks, stock-flow mechanics, demographic transition, country peak
+    groups, WPP revision history, projection uncertainty, established versus conditional claims, and conclusion
+  time_scope: historical estimates and long-range projections
+  time_span: 1950-2100
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
+  conversion:
+    date: '2026-04-20'
+    source_docx: Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-21 final audit corrected the inherited conversion title and reclassified the artifact from public-health
+    metadata to demography/population studies. It removed an unreproducible exact regional peak table, raw Mermaid,
+    empty visualization placeholders, escaped numbered-link citations, and the duplicated conversion reference export.
+    The report now uses the official WPP 2024 headline precision for the global population peak, distinguishes observed
+    growth-rate history from projected population size, and documents the January 2026 interim update: Togo estimates
+    and medium projections were corrected, global/regional aggregates were unchanged, and the next full WPP revision
+    was postponed to 11 July 2027. No known source, conversion, duplicate, asset, or rendering blocker remains.
+report-no: '070'
+report-number: '070'
+report-year: '2026'
+report_no: 70
+report_number: 70
+report_year: 2026
+series: Marginalia Reports
+series-number: 70
+series-title: Marginalia Reports
+series_number: 70
+series_title: Marginalia Reports
+identifier: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
+dataset_id: WPP2024
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-03-21'
-description: Global Population Dynamics_ Peaks in Population Level and Growth Rates
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -30,113 +194,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
 isCJKLanguage: false
-keywords:
-- Global Population Dynamics_ Peaks in Population Level and Growth Rates
-- Health
-- Public Health
-- Public aspects of medicine
-lang: en
-language: English
-lastmod: '2026-03-21'
 layout: ''
-library_of_congress_classification:
-  class: RA
-  description: Public health, health policy, epidemiology, and medicine in society.
-  label: Public aspects of medicine
-license: CC0-1.0
-linkTitle: Global Population Dynamics_ Peaks in Population Level and Growth Rates
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-03-21'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general policy-oriented reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx
-    tool: pandoc 3.6
-  discipline: public health
-  domain: health
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
-  intent: ''
-  is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: Global Population Dynamics_ Peaks in Population Level and Growth Rates
-  notes: ''
-  number: '070'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: health policy and epidemiology
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Global Population Dynamics_ Peaks in Population Level and Growth Rates
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '070'
-report-number: '070'
-report-year: '2026'
-report_no: 70
-report_number: 70
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 70
-series-title: Marginalia Reports
-series_number: 70
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
-status: complete
-subject:
-- Public health
-- Health policy
-subjects:
-- Public health
-- Health policy
-subtitle: ''
-summary: Global Population Dynamics_ Peaks in Population Level and Growth Rates
-tags:
-- global-population-dynamics-peaks-in-population-level-and-growth-rates
-- health
-- public-health
-title: Global Population Dynamics_ Peaks in Population Level and Growth Rates
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
