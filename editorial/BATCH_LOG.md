@@ -4,6 +4,23 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #28 — Finalize fallen-aristocracy and Republican-order reports
+
+Packages:
+- `fallen-aristocracy`
+- `republicans-as-moderating-opposition-without-a-rival-order`
+
+Result:
+- rewrote `fallen-aristocracy` around a disciplined category of hereditary or estate-based elites that lose formal privilege while retaining convertible prestige, education, wealth, networks, or organizational capacity;
+- separated strong cases from category errors: French noble émigrés, former samurai as an explicit functional analogue, and post-First World War aristocratic intellectuals now carry the comparison, while Russian White émigrés, Byzantine scholars, and Latin American creoles are retained only as boundary/negative cases;
+- replaced deterministic status-loss psychology with a conditional model of status threat, residual elite capacity, restoration opportunity, resource convertibility, and successor-state incorporation, supported by Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat evidence;
+- substantially revised the Republican moderating-opposition thesis rather than merely updating links: TANF is treated as durable institutional replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative Republican architecture, USMCA as replacement within an inherited trade paradigm, and Public Law 119-21 immigration enforcement as affirmative capacity building;
+- reclassified Gramm-Leach-Bliley and the First Step Act as bipartisan directional changes rather than evidence for a simple one-party ratchet;
+- replaced the Republican report's weak legacy source mix and conversion-heavy tables with direct CBO, CRS, USTR, Federal Reserve History, Senate, and historical-institutionalist sources;
+- removed the Republican package's obsolete rendered timeline asset after the rewritten body no longer depended on it;
+- completed duplicate review for both packages as independent/keep-separate after repository title/body searches found no competing canonical treatment;
+- added rich package-local changelog entries, updated descriptive/scope metadata, bumped both reports to revision/version 1.0.3, and advanced both `review` → `ready` with `draft: false`.
+
 ### PR #27 — Finalize financial-crisis inquiry review
 
 Packages:
