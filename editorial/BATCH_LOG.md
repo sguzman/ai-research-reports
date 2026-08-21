@@ -4,6 +4,24 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #25 — Rewrite GAHT report from current primary evidence
+
+Packages:
+- `gaht`
+
+Result:
+- replaced the inherited bullet-heavy overview with a current evidence review of feminizing GAHT;
+- separated established adult physical effects from uncertain long-term outcomes and avoided presenting observational associations as settled causal effects;
+- treated puberty suppression and adolescent hormone treatment as distinct evidence questions rather than extrapolating adult evidence into minors;
+- removed generic dosing instructions and prescribing-style monitoring language from the public-facing research article;
+- corrected overstatements about inevitable infertility, universal bone loss, lipid normalization, and adolescent pelvic or brain development;
+- replaced the inherited blanket benefits-outweigh-risks conclusion with endpoint-specific uncertainty and evidence-quality language;
+- distinguished empirical treatment evidence from professional guideline recommendations and from jurisdictional policy or court decisions;
+- explicitly separated current Endocrine Society/WPATH recommendations from NHS England commissioning policy and the U.S. Supreme Court's legal ruling in `United States v. Skrmetti`;
+- removed legacy cover metadata pointing to a nonexistent root-level asset;
+- normalized title, scope, period, evidence-method metadata, and revision to `r4`;
+- kept the article fail-closed at `review` / `draft: true` pending one independent high-stakes claim-to-source and rendered-publication pass.
+
 ### PR #24 — Rewrite male-suicide report from current primary evidence
 
 Packages:
