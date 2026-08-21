@@ -4,6 +4,24 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #39 — Finalize Borderer meme hypothesis pair
+
+Packages:
+- `meme-culture-and-borderer-right-style-a-research-report`
+- `distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo`
+
+Result:
+- replaced the broad report's inherited claim that meme culture naturally maps onto a right-coded Borderer style with a falsifiable style-vector hypothesis separating political ideology from low deference, antagonistic humor, taboo-breaking, anti-elitism, irony, status inversion, performative aggression, and in-group signaling;
+- retained bounded far-right evidence on aggressive humor, anti-elitism, hate, conspiracy narratives, and humorous ideological packaging while adding direct counterevidence from r/DankLeft and Spanish political-meme research showing that taboo-breaking, threatening out-groups, ridicule, and antagonism are not right-exclusive;
+- added cross-national far-right evidence showing that memes are unevenly central across organizations and countries, plus commemorative far-right meme evidence that rejects a universal crude/anonymous/right-wing meme aesthetic;
+- narrowed inherited persuasion, radicalization, and trust claims using field-experimental and panel evidence rather than treating memes as intrinsically powerful ideological conversion devices;
+- explicitly treated “borderer” as a proposed analytic style label rather than an established scholarly category or proof of historical Borderer ancestry;
+- replaced the companion framework's circular right-aggression/left-empathy classification with independent ideological labels and neutral coding dimensions for targets, hostility, humor, taboo, irony, anti-elitism, status inversion, performative aggression, in-group signaling, self-disclosure, care/solidarity, and aesthetic register;
+- redesigned the framework around balanced ideology/platform/topic/time sampling, apolitical negative controls, engagement-independent sampling, template-family leakage protection, reduced-metadata coding where feasible, coder training, per-variable reliability, latent-construct testing, multivariable controls, and held-out platform/community/time validation;
+- added preregistered hypotheses and explicit retain/split/reject rules so the proposed borderer construct can fail rather than having its conclusion embedded in the codebook;
+- removed conversion citations, raw diagrams/timelines, predetermined expected results, hand-picked illustrative classifications, and four unprovenanced converted images across the pair;
+- retained the two packages as a legitimate cultural-analysis/methodology fork, advanced both to revision/version 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the ordinary queue to the global-population dynamics report.
+
 ### PR #38 — Record intergenerational and Puritan publication
 
 Packages:

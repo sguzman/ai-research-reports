@@ -1,5 +1,9 @@
 ---
-abstract: A cultural and media-studies analysis of internet meme practices associated with a proposed “borderer-right” style, emphasizing irreverence, mockery, transgressive humor, anti-elite rhetoric, in-group signaling, platform affordances, far-right strategic use, and comparative left-wing meme practices.
+abstract: >-
+  Tests the proposed “borderer-right” meme-style hypothesis against political-meme research. The report
+  treats low deference, antagonistic humor, taboo-breaking, anti-elitism, ironic distance, status inversion,
+  performative aggression, and in-group signaling as potentially measurable style dimensions rather than
+  defining them as inherently right-wing, and evaluates cross-ideological, platform, and effects evidence.
 aliases: []
 author:
 - Salvador Guzman
@@ -11,58 +15,46 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
 - Culture
 - Media Studies
 - Political Communication
-cover-image: ''
-cover_image: ''
 creator:
 - Salvador Guzman
-dataset_id: ''
 date: '2026-03-04'
-description: A broad cultural-analysis report on “borderer-right” meme style, political meme practices, platform differences, far-right strategic use, comparative left usage, and implications for online political culture.
-draft: true
+description: >-
+  A source-audited cultural and political-communication test of the “borderer-right” meme-style hypothesis,
+  separating observable meme style from ideology and comparing far-right, left-wing, cross-national,
+  platform, and political-effects evidence.
+draft: false
 edition: '1'
 editorial_profile: academic
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:meme-culture-and-borderer-right-style-a-research-report
-isCJKLanguage: false
 keywords:
 - internet memes
 - political memes
-- borderer-right style
+- borderer style hypothesis
 - far-right memes
-- meme culture
+- left-wing memes
 - political communication
-- digital carnivalesque
-- platform affordances
+- antagonistic humor
+- anti-elitism
+- taboo-breaking
+- platform effects
 lang: en
 language: English
-lastmod: '2026-08-20'
-layout: ''
+lastmod: '2026-08-21'
 library_of_congress_classification:
   class: PN
   description: Literature, media studies, criticism, and cultural analysis.
   label: Literature and media studies
 license: CC0-1.0
-linkTitle: 'Meme Culture and “Borderer-Right” Style: A Research Report'
-markup: ''
-number-sections: false
-outputs: []
-plate_id: ''
+linkTitle: 'Meme Culture and the “Borderer-Right” Style Hypothesis'
+number-sections: true
 publishDate: '2026-03-04'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
 relationships:
   exact_duplicates: []
   near_duplicates: []
@@ -78,48 +70,71 @@ editorial:
     relationship: fork
     disposition: keep-separate
     canonical_slug: ''
-    rationale: This article overlaps strongly with the companion meme-classification framework but has a different editorial function. It is a broad cultural-analysis report covering meme style, political use, platforms, history, and implications, whereas the companion article operationalizes a two-category coding framework and research design. Neither should be archived as a duplicate.
+    rationale: >-
+      This article and the companion framework share the proposed borderer-style construct and core meme
+      literature but serve different functions. This artifact evaluates the cultural and empirical thesis;
+      the companion operationalizes a non-circular comparative research design. Both remain independently useful.
 report:
   audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: 'Meme Culture and “Borderer-Right” Style_ A Research Report.docx'
-    tool: pandoc 3.6
   discipline: media and cultural studies
-  domain: culture
-  emphasis: meme style, political communication, platform affordances, and comparative ideological use
-  focus: the proposed relationship between internet meme culture and a “borderer-right” cultural style
+  domain: culture and political communication
+  emphasis: >-
+    meme style, ideological symmetry, far-right and left-wing comparative evidence, platform/context effects,
+    and bounded political consequences
+  focus: >-
+    whether a proposed low-deference, antagonistic, taboo-breaking, anti-elite meme style is disproportionately
+    associated with the political right or instead reflects broader political and platform subcultures
   id: urn:marginalia:meme-culture-and-borderer-right-style-a-research-report
-  intent: broad cultural and media analysis
+  intent: >-
+    test a borderer-right cultural hypothesis without defining political ideology through the very stylistic
+    features whose ideological distribution is being investigated
   is_report: true
   kind: research report
-  level: general analytical reference
-  method: synthesis of meme scholarship, political-communication research, platform comparison, and illustrative cases
-  methods: []
-  name: 'Meme Culture and “Borderer-Right” Style: A Research Report'
-  notes: Duplicate/overlap review on 2026-08-20 determined that this article and the companion `distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo` article are related but not duplicates. This article is the broad cultural-analysis treatment; the companion is a methodological classification framework. They are retained separately and cross-linked. The legacy complete state was returned to review pending source-quality verification, citation cleanup, and academic-prose normalization.
+  method: >-
+    comparative media-studies synthesis separating source ideology from meme style and testing the proposed
+    style against far-right, left-wing, cross-ideological, cross-national, platform, and effects research
+  methods:
+  - comparative literature synthesis
+  - ideological symmetry check
+  - construct falsification
+  - platform/context comparison
+  name: 'Meme Culture and the “Borderer-Right” Style Hypothesis'
+  notes: >-
+    The 2026-08-21 final audit replaced the inherited claim that internet meme culture naturally maps onto a
+    right-coded borderer style with a falsifiable style-vector hypothesis. Evidence from specific far-right
+    corpora supports aggressive humor, anti-elitism, taboo, ironic ambiguity, and in-group signaling in some
+    contexts, while research on r/DankLeft and Spanish political memes demonstrates that taboo-breaking,
+    threatening out-groups, ridicule, and antagonism are not right-exclusive. Cross-national far-right research
+    also shows that memes are unevenly important across organizations and countries. Political-effects claims
+    were narrowed using experimental and longitudinal evidence rather than treating memes as inherently
+    radicalizing or trust-destroying. The report explicitly rejects any inference of historical Borderer ancestry
+    absent transmission evidence. Conversion-era citation residue, raw diagrams/timelines, unsupported illustrative
+    typologies, and the unprovenanced converted image were removed. The companion methodological fork remains
+    separate. No known source, conversion, asset, duplicate, or rendering blocker remains.
   number: '065'
   organization: Marginalia
   period: contemporary internet meme culture
-  period_covered: early internet meme culture through the mid-2020s
+  period_covered: early internet meme culture through current scholarly evidence
   population_focus: political meme communities and platforms
   primary_texts: []
-  region: primarily Anglophone internet culture with comparative examples
-  region_focus: online platforms and political subcultures
-  scope: meme definitions, borderer-right traits, far-right meme research, comparative left usage, platforms, history, effects, and implications
-  scope_years: contemporary digital era
+  region: comparative digital political culture
+  region_focus: Anglophone, European, and other studied political-meme contexts
+  scope: >-
+    meme definitions, proposed borderer-style dimensions, far-right evidence, left-wing counterevidence,
+    anti-elitism, irony, taboo, platform effects, political consequences, construct falsification, and research implications
+  scope_years: internet era through 2026 evidence context
   series: Marginalia Reports
   stance: neutral analytical
-  structure: executive summary, conceptual definition, feature operationalization, empirical literature, comparative political usage, platforms, history, implications, and research recommendations
-  subdiscipline: criticism and interpretation
-  subject: political meme culture and borderer-right style
+  structure: >-
+    conceptual definition, bounded far-right evidence, symmetry test, anti-elitism, irony/taboo, platform effects,
+    political consequences, revised hypothesis, falsification criteria, and conclusion
+  subdiscipline: political communication and digital culture
+  subject: political meme style and the borderer-right hypothesis
   time_scope: contemporary digital culture
   time_span: internet era-present
-  topic: Meme Culture and “Borderer-Right” Style
+  topic: Meme Culture and the Borderer-Right Style Hypothesis
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: '065'
 report-number: '065'
@@ -128,19 +143,15 @@ report_no: 65
 report_number: 65
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 65
 series-title: Marginalia Reports
 series_number: 65
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: meme-culture-and-borderer-right-style-a-research-report
-status: review
+status: ready
 subject:
 - Culture
 - Media studies
@@ -149,24 +160,28 @@ subjects:
 - Internet memes
 - Political memes
 - Far-right digital culture
+- Left-wing digital culture
 - Platform studies
-subtitle: ''
-summary: A broad analysis of the proposed “borderer-right” meme style, its political and platform manifestations, comparative left usage, and implications for digital political culture.
+- Political communication
+subtitle: Style, Ideology, and a Falsifiable Cultural Hypothesis
+summary: >-
+  Finds that a low-deference, antagonistic “borderer” meme style is plausible as a measurable construct but
+  cannot be equated with the political right in advance: far-right evidence is substantial in some contexts,
+  while taboo, ridicule, out-group hostility, and irony also occur in left-wing and other meme communities.
 tags:
 - meme-culture
-- borderer-right
+- borderer-style
 - political-memes
 - media-studies
 - political-communication
 - far-right
-- platforms
-title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
-toc: false
-toc-depth: 0
-toc-title: ''
-translationKey: ''
+- left-wing
+- platform-effects
+title: 'Meme Culture and the “Borderer-Right” Style Hypothesis'
+toc: true
+toc-depth: 3
+toc-title: Contents
 type: report
-url: ''
 voice: neutral
 weight: 0
 ...
