@@ -214,7 +214,7 @@ packages:
     - duplicate_review_unresolved
   brickmaking-history-materials-processes-and-production-planning:
     title: 'Brickmaking: History, Materials, Processes, and Production Planning'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -450,7 +450,7 @@ packages:
     - raw_diagram_source
   critical-review-of-major-official-financial-crisis-inquiry-reports:
     title: Critical Review of Major Official Financial-Crisis Inquiry Reports
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -681,7 +681,7 @@ packages:
     - h1_count_not_one
   fallen-aristocracy:
     title: 'Fallen Aristocrats: Status Loss, Elite Conversion, and Political Reaction'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -1886,7 +1886,7 @@ packages:
     - duplicate_review_unresolved
   republicans-as-moderating-opposition-without-a-rival-order:
     title: Republicans as Moderating Opposition Without a Rival Order
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic

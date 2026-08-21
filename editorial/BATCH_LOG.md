@@ -4,6 +4,22 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #29 — Record build-derived publication of ready reports
+
+Packages:
+- `brickmaking-history-materials-processes-and-production-planning`
+- `critical-review-of-major-official-financial-crisis-inquiry-reports`
+- `fallen-aristocracy`
+- `republicans-as-moderating-opposition-without-a-rival-order`
+
+Result:
+- verified all four build-derived pages in the deployed Marginalia `gh-pages` tree under their canonical `/research/<slug>/` paths;
+- confirmed the generated pages carry the final source-audited titles/descriptions and render the approved canonical bodies rather than legacy `content/posts` copies;
+- advanced canonical lifecycle `ready` → `published` for all four packages while retaining `draft: false`;
+- added package-local changelog entries that identify the verified deployed path and explicitly state that this publication closure changed no article prose, sourcing, assets, or revision/version;
+- moved the four operational queue entries from `ready-for-publication` to `done-for-now` / P3 maintenance;
+- left the next substantive batch unchanged: culture-as-parasitic hypothesis followed by liberalism/social-disembedding.
+
 ### PR #28 — Finalize fallen-aristocracy and Republican-order reports
 
 Packages:
