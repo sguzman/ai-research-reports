@@ -4,6 +4,21 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #38 — Record intergenerational and Puritan publication
+
+Packages:
+- `intergenerational-extraction-in-liberal-democracies`
+- `puritan-moral-psychology`
+
+Result:
+- verified the build-derived Marginalia pages at `/research/intergenerational-extraction-in-liberal-democracies/` and `/research/puritan-moral-psychology/` and confirmed that both render the source-audited canonical rewrites rather than legacy copies;
+- confirmed the intergenerational page carries the cohort-incidence framing that distinguishes genuine uncompensated lifetime burden shifting from ordinary age redistribution, pension insurance, life-cycle wealth accumulation, and public borrowing;
+- confirmed the Puritan page carries the evidence-graded genealogy distinguishing direct transmission, documented reception/reuse, morphological continuity, and analogy, including the transatlantic and alternative-lineage qualifications from the final audit;
+- advanced both canonical lifecycles `ready` → `published` while retaining `draft: false`;
+- added package-local lifecycle-only changelog entries and moved both queue items to `done-for-now` / P3 maintenance;
+- left article prose, sources, assets, and revision/version 1.0.2 unchanged for both reports;
+- left `proudhon-mutualism-report` at `ready` because its build-derived page had not yet been verified in the deployed `gh-pages` tree.
+
 ### PR #37 — Finalize Proudhon mutualism report
 
 Packages:
@@ -185,7 +200,7 @@ Packages:
 Result:
 - replaced the inherited bullet-heavy overview with a current evidence review of feminizing GAHT;
 - separated established adult physical effects from uncertain long-term outcomes and avoided presenting observational associations as settled causal effects;
-- treated puberty suppression and adolescent hormone treatment as distinct evidence questions rather than extrapolating adult evidence into minors;
+- treated puberty suppression and adolescent hormone treatment as distinct evidence questions rather than extrapolating adults into minors;
 - removed generic dosing instructions and prescribing-style monitoring language from the public-facing research article;
 - corrected overstatements about inevitable infertility, universal bone loss, lipid normalization, and adolescent pelvic or brain development;
 - replaced the inherited blanket benefits-outweigh-risks conclusion with endpoint-specific uncertainty and evidence-quality language;
