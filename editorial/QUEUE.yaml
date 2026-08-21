@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-20T13:40:00-06:00'
+updated_at: '2026-08-20T19:27:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 21
@@ -8,10 +8,9 @@ rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
   unlisted_article_state: untriaged
   article_changelog_required_on_every_package_change: true
-  publication_gate: 'canonical status ready/published and draft false only'
+  publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - nietzche-math-critique
   - male-suicide
 
 articles:
@@ -38,13 +37,17 @@ articles:
 
   nietzche-math-critique:
     lifecycle: published
-    work_state: maintenance
-    priority: P0
+    work_state: done-for-now
+    priority: P3
     profile: stylized
     voice: nietzschean
-    blockers:
-      - Marginalia copy is a legacy unmanaged pre-boundary projection with stale report-style metadata
-    next_action: 'Perform one-time legacy-to-managed Marginalia migration from the canonical published essay without neutralizing the body.'
+    completed_work:
+      - reclassified from legacy report metadata to stylized Nietzschean essay without neutralizing the prose
+      - removed the accidental duplicate final-section heading
+      - explicitly recorded independent/not-applicable duplicate review for the strict publication gate
+      - migrated live delivery away from the legacy committed Marginalia copy to build-derived research publication
+      - verified the deployed page at /research/nietzche-math-critique/ after the build-derived publication cutover
+    maintenance: 'Preserve the intentional voice; future edits must remain changelogged and continue to satisfy the canonical gate.'
 
   male-suicide:
     lifecycle: review
@@ -249,7 +252,8 @@ articles:
       - prompt/conversion/diagram defects repaired
       - official-source legal and compensation audit completed
       - final Article III/territorial/CIT distinctions corrected
-      - published to managed Marginalia projection
+      - published through the build-derived Marginalia research projection
+      - verified the deployed page at /research/american-judicial-process/
     maintenance: 'Recheck compensation and state-selection links when substantively refreshed.'
 
   judges-in-the-judicial-process-of-the-united-states:
