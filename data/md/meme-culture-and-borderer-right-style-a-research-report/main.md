@@ -1,352 +1,201 @@
-# Meme Culture and “Borderer-Right” Style: A Research Report
+# Meme Culture and the “Borderer-Right” Style Hypothesis
 
-**Executive Summary:** Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.). These stylistic features amplify contempt for authority and a celebratory aggression that fuels polarization. Empirical studies show far-right groups exploit memes’ humor to mainstream extremist ideas (masking ideology with jokes)[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.), but left and centrist activists also use meme forms (often with different targets or tones)[\[4\]](https://www.wired.com/story/left-wing-memes/#:~:text=the%202016%20presidential%20election%20%E2%80%93,being%20the%20most%20obvious%20example)[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes). We review methods (corpus analysis, content coding, network/virality metrics, discourse analysis) and provide examples linking specific meme features to borderer traits. Platform differences are highlighted (4chan anonymity vs. Twitter’s brevity vs. TikTok video dynamics) in a comparative table. Historical context (from early internet memes to TikTok era) is sketched via a timeline. Finally, we discuss implications (emotional persuasion, echo chambers, trust erosion) and recommend further research, platform strategies, and civic education. Throughout, we cite primary research on meme politics[\[6\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=The%20far%20right%20is%20increasingly,related%20factors%20to%20analyze%20their)[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks) and note when assumptions (e.g. corpus size) are made.
+## Executive summary
 
-## 1. Defining “Borderer-Right” Style
+Internet memes are unusually well suited to ridicule, compression, remix, ambiguity, in-group signaling, and rapid circulation. Those affordances make them compatible with a proposed cultural style called **“borderer”** in this report: low deference, taunting or agonistic humor, status inversion, anti-elite hostility, taboo-breaking, performative aggression, and pleasure in informal or deliberately unserious expression. But **“borderer-right” is an analytical hypothesis, not an established category in meme studies, political communication, or American social history**. The evidence does not justify treating meme culture as inherently right-wing or interpreting these stylistic traits as proof of a historical Borderer lineage.
 
-We interpret “borderer-right” as a shorthand for an emotional/grand cultural style often found in right-wing or “reactionary” subcultures. Key traits include: - **Anti-elite stance:** Open contempt or ridicule of political, cultural, or intellectual elites. - **Honor/taunt culture:** Communication as challenge and one-upmanship, treating language as combat (insults, bragging). - **Low deference:** Dismissal of authority, tradition, and decorum. Institutions and experts are targets of mockery. - **Performative aggression:** Boasting bravado, using offensive or taboo humor for effect. Confrontation is seen as strength. - **Status inversion:** Elevating underdogs or internet subcultures as heroes; belittling high-status figures.
+The strongest evidence is narrower. Research on particular far-right meme environments documents aggressive humor, anti-elitism, hate speech, conspiracy narratives, ironic distancing, and strategic combinations of ideology and humor. A content analysis of 1,200 memes from German-language far-right Telegram channels found humor in 54.7 percent of the corpus, aggressive humor in 35.3 percent, anti-elitism in 50.9 percent, and hate speech in 39.6 percent; the combination of far-right narratives and humor was associated with greater reach than either element alone. [Schmid et al., “Memes, humor, and the far right’s strategic mainstreaming”](https://doi.org/10.1080/1369118X.2024.2329610)
 
-This style contrasts with “civilized” or managerial discourse. As one researcher notes, online meme humor often *“mocks the sincere, trivializes the serious, disrupts the static, and adds layers of irony to online interactions.”* It is a digital “carnivalesque” worldview that inverts social hierarchies[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions). We will analyze how meme culture’s features embody these borderer-right sensibilities.
+That result does **not** establish a general right-wing monopoly on transgression. Merrill, Gardell, and Lindgren’s study of 366 popular memes from the Marxist, anarchist, and democratic-socialist subreddit r/DankLeft found that left-wing memes also constructed threatening out-groups and used taboo-breaking, including memes that invoked or endorsed violence. [Merrill, Gardell, and Lindgren, “How ‘the left’ meme”](https://doi.org/10.1177/14614448241232144) A 636-meme study of Spanish political memes likewise found ideological confrontation, disqualification, and polarizing rhetoric across the political field rather than a clean stylistic split in which one side attacks and the other merely expresses care. [Paz, Mayagoitia-Soria, and González-Aguilar, “From Polarization to Hate”](https://doi.org/10.1177/20563051211062920)
 
-## 2. Operationalizing Meme Features
+Nor are far-right digital cultures uniformly memetic. McSwiney, Vaughan, Heft, and Hoffmann examined 25 far-right organizations across Australia, Italy, Germany, and the United States and unexpectedly found memes played only a limited role overall, with substantial national and organizational variation. [McSwiney et al., “Sharing the hate?”](https://doi.org/10.1080/1369118X.2021.1961006) Trillò and Shifman’s Italian far-right “alternative calendar” memes are also a useful counterexample to the stereotype that right-coded memes must be anonymous, crude, purely irreverent, or nihilistic: their corpus combined memetic values such as authenticity and self-direction with collectivist values such as patriotism and tradition. [Trillò and Shifman, “Memetic commemorations”](https://doi.org/10.1080/1369118X.2021.1974516)
 
-**Meme Definitions:** Internet memes are multimodal (image + text or video) units of culture that spread by copying/remixing across social media[\[8\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=The%20article%20explores%20the%20role,limiting%20exposure%20to%20opposing%20viewpoints). Common formats include image macros (picture with caption), short videos (TikTok clips), GIFs, and simple text images. They are often crudely produced (“poor technical merit”[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)) and ephemeral.
+The defensible conclusion is therefore conditional:
 
-We break down meme features into:
+> **A “borderer” style can be investigated as a bundle of observable communicative features, but it cannot be equated in advance with political rightness.** Some far-right meme communities strongly exhibit antagonistic humor, anti-elitism, ironic distance, taboo-breaking, and in-group signaling. Similar features also occur in left-wing and other political meme communities. Whether the bundle is statistically associated with ideology is an empirical question that requires independent ideological labels, cross-platform sampling, and controls for topic, community, format, time, and audience selection.
 
-- **Tone/Humor Type:**
+The evidence on political effects is also more restrained than common claims about “meme warfare” imply. Galipeau’s three-month Facebook field experiment found political memes had generally minimal persuasive effects, although out-group memes could produce backlash and greater polarization among strong party identifiers. [Galipeau, “The Impact of Political Memes”](https://doi.org/10.1080/19331681.2022.2150737) A two-wave Hong Kong panel study reported a longitudinal association between political meme use and political intolerance, but this does not by itself establish that memes uniformly radicalize users across political systems. [Masood, Tuzov, and Skoric, “Political Meme Use Can Lead to Political Intolerance”](https://doi.org/10.1093/ijpor/edae052)
 
-- *Satire/Irony:* Indirect ridicule (e.g. SpongeBob ironic memes).
+The result is a more useful research program than the inherited binary. The question is not whether “the right can meme” because it possesses aggression while “the left cannot” because it possesses sincerity. The question is **which styles appear in which political communities, under which platform and topical conditions, and with what measurable consequences**.
 
-- *Insult/Parody:* Explicit mockery of targets (e.g. calling a politician “clown”).
+## 1. What counts as a meme—and what “borderer” means here
 
-- *Dark/Offensive Humor:* Shocking, taboo themes (racist/sexist slurs, gore, black humor).
+Limor Shifman’s influential media-studies definition treats an internet meme not as a single viral object but as a group of digital items that share characteristics of **content, form, and/or stance**, are created with awareness of one another, and are circulated, imitated, or transformed by many users. [Shifman, *Memes in Digital Culture*](https://mitpress.mit.edu/9780262525435/memes-in-digital-culture/) This distinction is crucial because political ideology is only one possible part of meme content. A meme’s form and stance can travel across ideologies.
 
-- *Self-Deprecation/Meta-humor:* Less common in borderer memes, but some memes mock their own style.
+A reaction image, Wojak panel, captioned photograph, short video, or remixed screenshot can be reused by socialists, conservatives, libertarians, nationalists, centrists, or apolitical communities. The same template can carry incompatible claims. Consequently, the politics of a meme cannot safely be inferred from its technical roughness, use of irony, anonymity, or status inversion alone.
 
-- **Targets/Subjects:** Common targets are politicians, journalists, activists (especially left-wing or elites), and cultural outgroups. Memes often *“mock the ‘other’ (establishment, progressives, minorities)”* to build in-group cohesion[\[9\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=,). For example, far-right memes ridicule liberals or immigrants with exaggerated stereotypes. But left-leaning memes mock corporations or politicians too, albeit differently (see Section 6).
+This report therefore uses **borderer style** as a provisional vector of communicative features:
 
-- **Format/Modalities:**
+- low deference toward formal authority or prestige;
+- ridicule, taunting, or agonistic treatment of opponents;
+- anti-elite framing;
+- taboo-breaking or willingness to violate decorum;
+- ironic distance and ambiguity about literal commitment;
+- performative aggression or enjoyment of confrontation;
+- status inversion, especially elevating low-status insiders over official or elite targets;
+- dense in-group signaling, slang, or intertextual references;
+- deliberately informal, rough, or unserious presentation when used as a status gesture.
 
-- Static images with Impact font captions (image macros).
+These features are not inherently right-wing. They are also not evidence of descent from the historical Borderers of the British-American backcountry. **No source reviewed here establishes that internet meme style is genetically, genealogically, or institutionally transmitted from that historical population.** The term is useful only if treated as an explicit analytic construction whose empirical association with political ideology remains open to test.
 
-- Viral videos and remixes (TikTok dances/skits).
+That distinction prevents three category errors that weakened the inherited report:
 
-- Text memes (tweets with punchlines, dark quotes).
+1. evidence about **far-right memes** cannot automatically be generalized to **all memes**;
+2. evidence that a style appears often in one ideological community cannot establish that the style is **exclusive** to that ideology;
+3. resemblance between contemporary online aggression and a historical honor culture cannot establish **historical ancestry** without a documented transmission mechanism.
 
-- Multi-image collages or comic panels.
+## 2. What far-right meme research actually establishes
 
-- Platforms afford variations: Twitter favors quick text+image jokes; TikTok favors sound-based video memes; 4chan permits green text stories.
+### 2.1 Strategic humor exists, but it is contextual
 
-- **Platform Affordances:**
+Schmid and colleagues’ study of 1,200 memes from German-language far-right Telegram channels provides unusually concrete evidence. Humor appeared in slightly more than half of the corpus, and aggressive humor was the most common humorous category. Anti-elitism, conspiracy narratives, and hate speech were common. Most importantly, the study found that **the interaction between explicit far-right narratives and humor** was associated with greater reach. [Schmid et al.](https://doi.org/10.1080/1369118X.2024.2329610)
 
-- *Anonymity vs Real IDs:* 4chan/pol are fully anonymous and unmoderated (fostering extremity), Reddit is pseudonymous with subcommunities, Twitter requires accounts (semi-public persona), TikTok/Instagram emphasize follower networks and trending algorithms.
+This supports a bounded strategic claim: in those Telegram environments, humor could help package ideological material for circulation. It does not show that humor itself is far-right, that all far-right communication is humorous, or that exposure necessarily converts recipients.
 
-- *Virality mechanics:* Memes spread via retweets, shares, reposts, and algorithmic boosts. On Twitter, the “retweet” or “hashtag trend” drives reach; on TikTok, the “For You” page can catapult obscure users; on Reddit, upvotes determine visibility (see Table 1 below).
+The same restraint applies to research on hate and ironic ambiguity. Political humor can create a zone in which speakers shift between sincerity and play, allowing audiences to participate without always resolving what is “really meant.” Such ambiguity matters for extremist communication because it can widen participation and create plausible deniability, but ironic ambiguity is a general property of internet culture rather than a proprietary ideological technology.
 
-- **Collective Production:** Memes evolve by remix; the same “template” is reused with different text across contexts. Audiences know many templates and catchphrases, forming closed “meme communities”[\[10\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=closed%20circles%2C%20such%20as%20online,absurd%2C%20twisted%20or%20bizarre%20jokes). This in-group coding can disguise meaning from outsiders.
+### 2.2 Far-right memes do not have one aesthetic
 
-We will see how each of these features tends to line up with borderer traits.
+Trillò and Shifman studied a distinctive Italian far-right genre: “alternative calendar commemorations” that memorialized people and events important to the movement. These memes combined traditionalist and patriotic collectivism with memetic values such as authenticity and self-direction. [Trillò and Shifman](https://doi.org/10.1080/1369118X.2021.1974516)
 
-## 3. Empirical Evidence and Case Studies
+That case is analytically important because it breaks several stereotypes built into the inherited “borderer-right” model. Far-right memes need not be crude, anonymous, anti-traditional, or purely mocking. Memetic communication can carry reverence as well as irreverence. The politics lies partly in **what is commemorated, how the group is imagined, and what values are attached to the form**, not simply in whether the image looks rough or offensive.
 
-### 3.1 Far-Right Meme Studies
+### 2.3 Memes are not equally central across the far right
 
-Researchers have extensively documented how far-right activists harness meme culture. Key findings include:
+McSwiney and colleagues compared 25 far-right non-party organizations and alternative-media actors in four countries. Contrary to expectations, memes played only a limited role in the corpus and were concentrated unevenly, particularly in Anglophone alt-media. The researchers also found relatively little direct transnational circulation of identical images; national context remained important. [McSwiney et al.](https://doi.org/10.1080/1369118X.2021.1961006)
 
-- **Humor as Trojan Horse:** Far-right groups use humorous memes to *“soften their ideological content”* and make extreme ideas more palatable[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.). Schmid et al. (2024) found in a study of German far-right Telegram that memes containing both extremist narratives *and* humor had much higher reach than those without humor[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing). In short, *“memes combining humor with ideological framing”* spread more broadly[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.). The joking tone acts as a shield: if accused of bigotry, meme-makers shrug “it’s just a joke” (Perez 2022)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.).
+This is a strong warning against treating highly visible U.S. imageboard culture as the natural form of right-wing politics. A platform-specific subculture can be historically important without being globally representative.
 
-- **Polarizing and Mobilizing Affects:** Humor in far-right memes tends to *“polarize and mobilize affects through humor and repetition”* rather than foster deliberation[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20). They mock opponents (progressives, minorities) to create group cohesion and “collective pleasure” in shared contempt[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20). This aligns with borderer honor-culture: enemies are taunted publicly, raising the morale of the in-group.
+## 3. The symmetry problem: left-wing memes also antagonize
 
-- **Narrative and Aesthetic Asymmetry:** Fernandez Salguero (2025 preprint) argues that right-wing movements use “memes” strategically to mobilize grievances (humor and resentment), whereas left-wing movements rely more on creative protest art (songs, murals) to build solidarity[\[12\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=Mobilization). This *aesthetic asymmetry* suggests memes fit the right’s goal of provoking emotions quickly, not elaborate cultural narratives.
+A theory that codes aggression, ridicule, taboo, and out-group construction as intrinsically right-coded fails a basic symmetry check.
 
-- **Values Encoding:** Trillò & Shifman (2021) studied Italian far-right meme “commemorations” and found they interweave collectivist nationalist values (patriotism, tradition) with meme-culture values (authenticity, creativity)[\[13\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=The%20main%20premise%20of%20this,right%20constitu)[\[14\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=lished%2C%20Shifman%20,authenticity%2C%20creativity%2C%20communal%20loyalty%2C%20free). Far-right politics (authority, hierarchy) contrasts with memes’ ethos (freedom of expression, communal inside jokes). Interestingly, their far-right meme corpus showed both: appeals to *tradition* and to *self-direction/authenticity*[\[13\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=The%20main%20premise%20of%20this,right%20constitu)[\[14\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=lished%2C%20Shifman%20,authenticity%2C%20creativity%2C%20communal%20loyalty%2C%20free). The result is a hybrid discourse: reverent about heroes/tradition (status inversion by elevating in-group) but also playful and “authentic” in a meme sense.
+Merrill, Gardell, and Lindgren studied r/DankLeft, a U.S.-centric Marxist, anarchist, and democratic-socialist meme community. Their corpus contained 366 popular memes, with 41 taboo-related memes examined in deeper multimodal analysis. Popular memes frequently concerned perceived threats to the community. The authors found taboo-breaking on the left and specifically discussed representations that endorsed, inferred, or justified violence against threatening out-groups. [Merrill, Gardell, and Lindgren](https://doi.org/10.1177/14614448241232144)
 
-- **Limited to Niche Spaces:** Not all studies found global dominance of memes in far-right media. McSwiney et al. (2021) surveyed 25 far-right media organizations (Australia, Italy, Germany, US) and *unexpectedly* found memes play a *limited* role, often confined to English-speaking alt-media[\[15\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=Abstract). They caution against assuming memes are globally central to far-right identity. Still, where they do occur, patterns emerge: they revolve around fascist imagery, western identity, and pop culture (three discourses)[\[16\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=organisation%E2%80%99s%20national%20and%20political%20context,within%20the%20far%20right%20online), with humor lowering barriers to extreme ideologies[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.).
+This does not imply an equivalence of every left- and right-wing movement, nor does it tell us that the same kinds or frequencies of taboo occur in every community. It establishes the narrower point needed here: **taboo-breaking, threatening out-group construction, and aggressive humor cannot be used as circular definitions of right-wingness.**
 
-These studies consistently report: **memes allow disrespect to flourish.** They enable attackers to sneer at authority and lampoon opponents with impunity[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.). The anonymity and virality of meme forums make them potent echo chambers for borderer aggression.
+Paz, Mayagoitia-Soria, and González-Aguilar reached a related conclusion from a very different setting. Their content analysis of 636 Spanish political memes published on Twitter in 2020 found that memes tended to echo existing ideological confrontation and disqualification rather than create a uniquely subversive counterculture. Anonymity could intensify offensive expression. [Paz et al.](https://doi.org/10.1177/20563051211062920)
 
-### 3.2 Left and Center Usage
+The broader implication is that antagonism can be a **political-meme property**, a **community property**, or a **platform property**, not necessarily an ideological essence.
 
-While the far right’s memetic strategy has drawn much attention, the left has increasingly embraced memes too (often satirically or subversively). Examples and observations:
+## 4. Anti-elitism and status inversion
 
-- **Evolution since 2016:** In 2016, right-wing memes dominated online politics, leading to the taunt “the left can’t meme”[\[17\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=I%20n%20the%20run%20up,to%20the%202016%20US%20presidential). But post-2016, leftist meme communities grew rapidly. Wired (2019) reports a surge of “left-wing meme-makers” reclaiming meme culture[\[18\]](https://www.wired.com/story/left-wing-memes/#:~:text=The%20left,reclaim%20meme%20culture). Progressive politicians (e.g. AOC) and activists now routinely use meme formats to communicate. For instance, Rep. Alexandria Ocasio-Cortez responded to a Chase Bank meme with her own economic critique, using the same form[\[19\]](https://www.wired.com/story/left-wing-memes/#:~:text=Woods%20highlights%20a%20Twitter%20post,%E2%80%9D).
+Anti-elitism is one of the stronger candidates for the proposed borderer vector because it can be identified without presupposing an ideology. A meme can portray journalists, academics, bureaucrats, politicians, billionaires, party leaders, corporations, celebrities, religious authorities, or movement elites as ridiculous, corrupt, stupid, parasitic, or fraudulent.
 
-- **Left Memes Features:** Fabio Braun Carrasco (2024) describes “left memes” as humorous yet also embedding *hope, despair, and criticism* about capitalism and social justice[\[20\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=that%20they%20offer%20easy%20entry,points%20into%20theoretical). They often parody existing formats to “summarize complex topics” in a few images[\[21\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=present,be%20successful). Left memes are more likely to be explicitly ideological (e.g. invoking Lenin’s slogans as memes)[\[22\]](https://www.wired.com/story/left-wing-memes/#:~:text=Edmund%20Schluessel%2C%20a%20page%20admin,%E2%80%9D). However, many adopt standard meme templates and even reproduce their gender or cultural stereotypes (e.g. “suspicious girlfriend” meme repurposed for anti-colonial commentary[\[23\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=from%20the%20general%20meme%20stock,in%20circulation%2C%20left)).
+Yet even this variable must be separated from ideological identity. Populist movements of the left and right both oppose selected elites. Libertarian communities attack state officials; socialist communities attack capital owners; nationalist communities attack cosmopolitan institutions; centrist satire can attack partisan politicians indiscriminately. The relevant empirical questions are therefore:
 
-- **Community-building:** Leftist organizers see memes as movement-building. Matt Zarb-Cousin (ex-Corbyn spokesman) notes that when a political group gains critical mass, their ability to create viral memes rises, thus entering mainstream discourse[\[24\]](https://www.wired.com/story/left-wing-memes/#:~:text=Matt%20Zarb,our%20movement%20as%20a%20result%E2%80%9D). The “Centrist Dad” meme from Left Twitter is cited as a viral example that even BBC covered[\[24\]](https://www.wired.com/story/left-wing-memes/#:~:text=Matt%20Zarb,our%20movement%20as%20a%20result%E2%80%9D).
+- Which elites are targeted?
+- Is the target represented as incompetent, immoral, alien, exploitative, weak, hypocritical, or dangerous?
+- Is the meme merely critical, or does it invert status by presenting the official target as beneath the meme-making in-group?
+- How much of the variance is explained by ideology after accounting for topic and community?
 
-- **Differences in Style:** In general, left memes tend to attack corporations, plutocrats, and right-wing hypocrisy, often invoking empathy or solidarity (e.g. poverty memes). Their humor can be biting but is framed as collective struggle (“meme as slogan”), not honor confrontation. Nonetheless, they share internet-style irreverence and self-satire.
+The German Telegram study shows anti-elitism can be exceptionally common in a far-right corpus. [Schmid et al.](https://doi.org/10.1080/1369118X.2024.2329610) It does not establish a universal mapping between anti-elitism and the right.
 
-- **Echo Chambers:** Just as with right-wing memes, left-leaning memes circulate mainly within ideological silos[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes). Alafnan (2025) finds memes “predominantly circulate within political echo chambers, fostering engagement within homogenous groups while limiting exposure to opposing views”[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes). Thus, both left and right primarily preach to the choir, though their rhetorical targets differ.
+## 5. Irony, taboo, and “just joking”
 
-In summary, **all sides use the same memetic “playbook”**, but the borderer-right style is most naturally aligned with right-wing subculture. Left memes adopt the form but often with more explicit political messaging or hopeful tones[\[20\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=that%20they%20offer%20easy%20entry,points%20into%20theoretical). Table 2 (below) sketches some contrasts.
+Irony deserves separate treatment from hostility. A meme may be highly ironic but non-hostile, hostile but literal, sincere and aggressive, or playful and affiliative. The inherited report treated irony, callousness, rough aesthetics, anonymity, and right-wing ideology as if they formed one natural package. The literature does not support that assumption.
 
-### 3.3 Platform Studies & Metrics
+Memetic stance often depends on layered quotation and remix. A user can reproduce an image to endorse it, mock it, parody a previous use, signal subcultural competence, or deliberately make interpretation unstable. In Shifman’s content/form/stance framework, that instability is part of what should be coded rather than treated as evidence of a predetermined ideology.
 
-Different platforms shape meme style and spread:
+For the proposed borderer vector, the most defensible variables are therefore not “right-wing humor” or “left-wing sincerity” but narrower observables:
 
-- **Platform Comparisons:** Rogers (2021) analyzed top content on TikTok, 4chan, Reddit, Twitter, Facebook, Instagram, Google. Key findings:
+| Dimension | Examples of observable coding |
+| --- | --- |
+| Target orientation | self, in-group, out-group, institution, individual elite, diffuse social category |
+| Hostility | none, mild ridicule, contempt, dehumanization, threat/violence |
+| Taboo-breaking | profanity, sexual taboo, racial/ethnic taboo, violence, sacrilege, other norm violation |
+| Irony/ambiguity | literal, parody, obvious irony, ambiguous sincerity, explicit “just joking” distancing |
+| Anti-elitism | absent/present; target class separately recorded |
+| Status inversion | official/high-status target lowered; marginal/low-status in-group elevated |
+| In-group signaling | slang, symbols, coded references, template literacy, named community references |
+| Self-disclosure | vulnerability, confession, self-deprecation, identity disclosure |
+| Care/solidarity | reassurance, mutual aid, affiliative sentiment, collective hope |
+| Aesthetic register | polished, ordinary template, intentionally rough, heavily remixed/degraded |
 
-- *TikTok:* Memes often parody mainstream media (e.g. satirical news clips)[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks). Youthful platforms allow *sarcastic delivery*, making intent ambiguous[\[25\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=The%20misinformation%20problem%20differs%20per,collection%20of%20sources%20are%20extreme).
+None of these dimensions should determine ideology by definition.
 
-- *4chan/Reddit:* Users *dismiss mainstream sources* and link to alternative influencer or extremist content[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks). These anonymized boards rarely cite mainstream media; instead, they circulate conspiracy videos (YouTube alt-network)[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks)[\[25\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=The%20misinformation%20problem%20differs%20per,collection%20of%20sources%20are%20extreme).
+## 6. Platform and community effects
 
-- *Twitter/X:* Favors hyperpartisan content over mainstream reporting[\[26\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=found%20that%20TikTok%20parodies%20mainstream,provide%20information%20rather%20than%20official).
+Platform claims require the same caution. It is tempting to map 4chan or Telegram to aggression and TikTok or Instagram to sincerity, but that confounds political selection, affordances, moderation, audience, demographics, and genre.
 
-- *Facebook:* Seeing a decline in mainstream media references; “fake news” clusters.
+Anonymous or pseudonymous environments may lower reputational costs for taboo-breaking. Algorithmic short-video feeds may privilege rapid affective comprehension. Reddit’s subreddit structure makes community context unusually salient. Telegram channels can function as broadcast and movement-network spaces. X/Twitter encourages concise public confrontation and quote-mediated visibility. These differences are plausible mechanisms, but **platform cannot be used as a proxy for ideology** in a study intended to discover ideological style.
 
-- *Instagram:* Engagement is driven by influencers, who may remix memes for brand or activism.
+McSwiney et al.’s cross-national result is especially important here: even within the far right, meme prevalence varied by national and media context. [McSwiney et al.](https://doi.org/10.1080/1369118X.2021.1961006) A valid “borderer” study must therefore test whether a style survives movement across platforms and communities rather than deriving the style from one platform and then rediscovering it there.
 
-- *Google Search:* Tends to promote liberal mainstream sources overall, but also gives niche “special interest” content prominence[\[26\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=found%20that%20TikTok%20parodies%20mainstream,provide%20information%20rather%20than%20official).
+## 7. Political effects: what memes seem able to do
 
-- **Virality Metrics:** Quantitative studies measure how memes spread:
+Claims that memes “bypass critical thinking,” “destroy trust,” or inevitably radicalize users are stronger than the current evidence permits.
 
-- Lokmanoglu et al. (2023) developed image-clustering and network analysis to classify memes by theme (gender, race, partisanship, violence) on a fringe platform. They found **no direct link** between the volume of memes on a topic and engagement[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor). Instead, *intersectional themes (race+gender+partisanship)* had highest diffusion[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor), and spikes in violent memes correlated with political events (mid-2020 to Jan 2021)[\[28\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,a%20group%20emblem%20or%20logo).
+Galipeau’s longitudinal Facebook field experiment exposed participants to political memes over three months. The average effect was limited. Out-group memes could generate backlash and increase polarization, particularly among strong party identifiers, but the study does not support a model of memes as universally powerful ideological conversion devices. [Galipeau](https://doi.org/10.1080/19331681.2022.2150737)
 
-- GNET’s report shows the top meme clusters varied by year (2020: climate, Soros, pro-Trump; 2021: MAGA, lobbying, gender/children, leftists, etc.)[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor). They also note that *branding* (logos, watermarks) boosted engagement[\[29\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,a%20group%20emblem%20or%20logo).
+Masood, Tuzov, and Skoric’s two-wave Hong Kong panel study found that political meme use predicted later political intolerance. [Masood, Tuzov, and Skoric](https://doi.org/10.1093/ijpor/edae052) That is meaningful evidence of a possible attitudinal effect, but it comes from one political context and research design. It should be integrated with experiments and comparative work rather than converted into a universal causal law.
 
-- **Engagement Patterns:** Studies confirm memes excel at emotional resonance. Alafnan’s analysis noted *“memes’ emotional resonance and viral potential contribute significantly to their effectiveness in influencing political opinions and mobilizing support”*[\[30\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=ideologically%20homogenous%20groups%20while%20limiting,The%20findings%20suggest%20that%20memes). But this comes with polarization risk: memes “facilitate participation and awareness” but also *“amplify divisiveness”*[\[31\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=contribute%20significantly%20to%20their%20effectiveness,driven%20political%20communication%20on%20voter).
+The safer synthesis is:
 
-- **Content Analysis:** Researchers often use mixed methods. For instance, Schmid et al. hand-coded 1,200 Telegram memes (identifying humor, extreme content, etc.) and measured views[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing). Others use computational methods: e.g. image recognition + deep learning (Lokmanoglu) or crowd-coded audits. Quality coding schemes tag “humor type, narrative frame, target group, ideology” to link memes with political effect. The Bülow & Johann (2023) experiments illustrate how presentation matters more than specific wording: viewers mainly react to *“presentation as an image macro”*[\[32\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=variety%2C%20mode%20of%20presentation%2C%20and,the%20receivers%27%20point%20of%20view).
+- memes clearly **express and circulate political identities**;
+- memes can **reinforce in-group narratives and out-group representations**;
+- some kinds of humorous ideological packaging are associated with greater reach in specific communities;
+- experimental evidence suggests **average persuasion may be modest**, while backlash or polarization can occur under some conditions;
+- longitudinal survey evidence suggests political meme use can be associated with later intolerance in at least some settings;
+- the size, direction, and mechanism of effects are likely conditional on prior identity, source, platform, topic, and audience.
 
-#### Table 1: Platform affordances and typical meme usage
+This is enough to make memes politically important without granting them mystical persuasive power.
 
-| Platform | Affordances | Meme Formats | Content Characteristics | Political Use |
-|----|----|----|----|----|
-| **4chan /p/**ol | Fully anonymous, ephemeral threads, minimal moderation | Hand-drawn or crude image macros, “green-text” stories | Extreme/offensive humor; conspiratorial; shock value | Alt-right/extremist memes, in-group jargon |
-| **Reddit** | Pseudonyms, topic subreddits, upvote/downvote, more structure | Image macros, GIFs, comics, Rage Comics; TikTok/GIF embeds | Varies by subreddit: from mild satire to niche politics | Echo chambers (r/The_Donald, r/politics, etc.) |
-| **Twitter (X)** | Real names/pseudonyms, hashtags, retweets, trending topics | Mixed text+image memes, screenshots (“ratio” fights), political cartoons | Rapid-fire jokes and claps-backs at figures; highly visible | News commentary, activism, culture wars |
-| **TikTok** | Short video, algorithmic “For You” feed, duets/remixes, musical overlay | Video skits, lip-syncs with text overlay, short memes using trends | Youthful, audio-visual memes; irony/sarcasm often via sketch | Viral challenges, social justice clips, election memes |
-| **Instagram** | Photo-centric feed, influencers, Stories/Reels | Single-image memes, infographic memes, reposts from meme pages, memes in Stories | High production (some “professional” style); influencer-driven; echo of Twitter memes | Movements (e.g. BLM art), lifestyle/political satire; broad audience |
-| **Facebook** | Older demographic, friend network sharing, groups | Similar to Instagram (image macros, meme pages) | Shared memes in groups; often reused content; less central to trends | Political groups, pages (far-right and left) sharing memes to networks |
+## 8. A revised interpretation of the “borderer-right” hypothesis
 
-*(Sources: platform studies[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks)[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor) and general observations.)*
+The inherited hypothesis contained a genuine observation: parts of reactionary and far-right internet culture make unusually visible use of taunting, anti-elite contempt, taboo humor, in-group slang, status inversion, and performative unseriousness. That observation is worth preserving.
 
-## 4. Methods for Meme Analysis
+What cannot be preserved is the move from observation to essence. The literature produces at least four complications:
 
-Research on memes typically involves:
+1. **The same forms cross ideological boundaries.** Left-wing meme communities also use taboo, ridicule, threatening out-groups, and occasionally violent imagery.
+2. **Far-right meme cultures vary internally.** Some are commemorative, traditionalist, or relatively non-humorous; memes may be a minor genre in some organizations.
+3. **Platform and national context matter.** A style associated with one Anglophone imageboard ecosystem may not generalize internationally.
+4. **Effects are conditional.** Political memes can polarize or provoke backlash, but average persuasive effects are not uniformly large.
 
-- **Corpus Selection:** Define platforms (e.g. 4chan’s /pol/, Twitter hashtags, Reddit subreddits, TikTok tags) and time frames. For example, Schmid et al. compiled 1,200 memes from German far-right Telegram (2020–21)[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing), while qualitative studies may focus on a sample of viral memes (e.g. 100 top-shared memes on Twitter for a week).
+Accordingly, the phrase **borderer-right** should be split analytically:
 
-- **Coding Scheme:** Researchers develop categories for content. Common codes include *Target* (who is mocked), *Narrative* (resistance, conspiracy, patriotism), *Humor type* (satire, insult, irony, self-deprecation), *Form* (image macro, video, collage), *Affect* (anger, joy, contempt). Borderer traits could be coded by proxy: e.g. “low-deference language” or “honor/dishonor words used”.
+- **Borderer-style score:** a continuous or multidimensional measure of low deference, antagonistic humor, taboo-breaking, ironic distance, anti-elitism, status inversion, performative aggression, and in-group signaling.
+- **Political ideology/source:** independently coded left, center, right, far right, libertarian, mixed, apolitical, or other categories appropriate to the corpus.
 
-- **Quantitative Metrics:** Metrics include frequency/prevalence of meme types, engagement statistics (views, likes, shares, comments), and diffusion speed (time to reach X shares). Network measures track repost paths. GNET used **impact factor** for meme clusters and “transmission rate” for spread[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor). Analytical tools include image clustering (to identify meme variants), NLP for captions, and statistical analysis of engagement.
+Only after those variables are independently measured should researchers ask whether one predicts the other.
 
-- **Qualitative Analysis:** Close reading of meme text and images to interpret ideology, intertextual references, and cultural codes. Discourse analysis can reveal the subtext of honor codes (e.g. language of “honor” vs “duty” in memes). For example, Carrasco’s case study manually interpreted how left memes condensed critique in a few lines[\[33\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=with%20opposing%20sets%20of%20meaning%2C,memes%20can).
+## 9. What would falsify the hypothesis
 
-- **Experimental Studies:** As cited, experiments can test how features influence perception. Bülow & Johann (2023) ran online experiments varying “presentation, language variety, humor” to see what drives users to share image macros[\[34\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=Internet%20memes%20are%20an%20integral,recontextualization%20in%20political%20image%20macros)[\[32\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=variety%2C%20mode%20of%20presentation%2C%20and,the%20receivers%27%20point%20of%20view). They found format matters most[\[32\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=variety%2C%20mode%20of%20presentation%2C%20and,the%20receivers%27%20point%20of%20view), showing that being recognizable as a meme is key.
+A useful theory must be able to lose.
 
-Below is a flowchart summarizing a typical research process.
+The borderer-right hypothesis would be weakened or rejected if a balanced multi-platform corpus found that:
 
-    flowchart LR
-        A[Define Research Question] --> B[Collect Corpus (memes)] 
-        B --> C[Content Coding Scheme (targets, humor, tone, etc.)]
-        C --> D{Analysis Methods}
-        D -->|Quantitative| E[Compute Metrics (frequency, shares, velocity)]
-        D -->|Qualitative| F[Discourse & Semiotic Analysis]
-        E & F --> G[Map Features to "Borderer-Right" Traits]
-        G --> H[Compare Ideological Uses]
-        H --> I[Report Findings (tables, figures, recommendations)]
+- the proposed style dimensions do not cohere into a stable factor or cluster;
+- ideological differences disappear after controlling for platform, community, topic, and format;
+- left, right, and apolitical communities display similar distributions of antagonistic humor and status inversion;
+- a model trained to infer ideology from borderer-style variables fails on held-out platforms, countries, or communities;
+- supposedly right-coded aesthetic variables turn out to be properties of age, platform, template family, or subcultural genre instead;
+- within-ideology variation is much larger than between-ideology variation.
 
-(Any actual study should note corpus size, time range, and selection criteria. In this report, we draw on published studies whose methods can be consulted in original sources[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing)[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor).)
+Conversely, the hypothesis would gain support if independently coded right or far-right sources consistently scored higher on a reproducible borderer-style factor across platforms and topics, with the association surviving out-of-sample validation and appropriate controls.
 
-## 5. Mapping Meme Features to Borderer-Right Traits
+The companion methodological report develops precisely that test.
 
-We now link specific meme characteristics to the borderer traits defined above, with examples where possible:
+## 10. Conclusion
 
-- **Anti-Elite / Low Deference:**
+Internet meme culture supplies a repertoire unusually compatible with mockery, inversion, compressed antagonism, and ironic ambiguity. Some far-right communities make conspicuous and strategically effective use of that repertoire. That is the strongest empirical basis for the proposed “borderer-right” intuition.
 
-- *Features:* Direct ridicule of politicians, experts, celebrities. Use of derogatory captions (“clown world”, “Karen”), demoting titles (e.g. calling a senator “Karen” instead of by name). Memes often expose supposed hypocrisy (e.g. video clip of a leader saying one thing vs doing another, captioned scornfully).
+But the repertoire is not politically owned. Left-wing memes can be taboo-breaking, violent, out-group oriented, and contemptuous; far-right visual culture can be commemorative, reverent, and only weakly memetic; and platform or community conditions can explain patterns that look ideological at first glance.
 
-- *Borderer Trait:* Conveys contempt for authority. By mocking status symbols, memes express “I don’t respect your office or credentials” (low deference).
+A defensible formulation is therefore not **“meme culture is borderer-right.”** It is:
 
-- *Example:* The “Karen” meme class. Or “Suit guy vs Hoodie guy” shows a casually dressed rebel outrunning a business-suited figure, taunting business elites.
+> **Some political meme environments may exhibit a borderer-like communicative style characterized by low deference, antagonistic humor, taboo-breaking, anti-elitism, ironic distance, status inversion, and in-group signaling. Whether that style is disproportionately associated with the political right is a falsifiable empirical question rather than a definition.**
 
-- **Honor/Taunt Culture:**
+That formulation preserves the interesting cultural hypothesis while removing the circular inference that previously made it impossible to test.
 
-- *Features:* Outright insults, boasting claims (“We own the libs”, “Triggered!”). Memes set up adversarial comparisons (good vs villain). Shaming language is common.
+## Sources
 
-- *Borderer Trait:* Emphasizes winning insults and public humiliation of rivals. This reflects an honor culture where one’s group gains prestige by demeaning others.
-
-- *Example:* “Dunking” memes where one character humiliates another (graph of Trump comment vs Biden modest reply, encouraging viewers to “ratio”). The “That’s like, your opinion, man” line from *Big Lebowski* as meme to belittle opponents’ arguments.
-
-- **Performative Aggression:**
-
-- *Features:* Shock value images, profanity, extreme exaggeration. Memes may depict violence or gore (safely behind 2011 shock memes history) or severe caricatures. They often break taboos (e.g. referencing recent tragedies or using racist tropes as “ironic” humor).
-
-- *Borderer Trait:* Displays bravado and willingness to offend for effect. Aggressive style signals dominance and authenticity in borderer culture.
-
-- *Example:* “Deep-fried” memes (overexposed images with outrageous captions) amplify aggression. Pepe with angry face, or the “2+2=fish” math joke mocking earnest learners.
-
-- **Status Inversion:**
-
-- *Features:* Elevating ordinary or “outcast” figures, demonizing elites. E.g., portraying an internet troll or gamer as heroic vs a politician as a fool. Memes often celebrate the “little guy” who says taboo truths that the elite won’t.
-
-- *Borderer Trait:* Inverts social hierarchy, a core borderer impulse. It embodies the frontier valorization of the underdog and distrust of central power.
-
-- *Example:* The “NPC Wojak” meme portrays conformist liberals as mindless actors, while an average guy (a smiling Wojak or “doomer” meme) is shown as thoughtful. Another: “Guy holding up a price tag that’s too small” meme, where the cheap beer-drinking mule represents the “common man” triumphing over “bourgeois beer”.
-
-- **Group Solidarity Through Exclusion:**
-
-- *Features:* In-group jargon or images that outsiders won’t understand. Frequent inside jokes or coded references (e.g. QAnon symbols hidden in memes).
-
-- *Borderer Trait:* Creates an “honor community” against outsiders. The secrecy and in-joke nature reinforces group identity (us vs them).
-
-- *Example:* /pol/ memes with triple parentheses or coded hate symbols. The use of coded speech (“words mean whatever we want”) signals membership.
-
-These mappings are illustrated in Table 2 below:
-
-#### Table 2: Meme Features Linked to Borderer-Right Traits
-
-| Meme Feature | Borderer-Right Trait(s) | How it Manifests | Examples / Effects |
-|----|----|----|----|
-| **Mocking Humor** | Anti-elite, Taunt Culture | Ridiculing leaders/experts; sarcasm toward officials | “Let that sink in” memes, calling elites “idiots” |
-| **Shock/Offensive** | Performative aggression | Taboo jokes; profanity; “troll” style insults | Edgy Pepe memes; politically incorrect humor |
-| **In-Group Jargon** | Status inversion (us vs them) | Inside jokes; coded references signaling membership | QAnon symbols, niche forum memes (e.g. greentext) |
-| **Defiant Imagery** | Low deference, honor-aggression | Demeaning symbols of authority (e.g. Hitler Pepe vs Jew cat) | Memes chanting “own the libs” shouting |
-| **Humor + Ideology** | Camouflaged extremism | Concealing right-wing ideas under “haha” packaging | Nazi frog Pepper memes, “OK Boomer” style jabs |
-
-(*“OK Boomer” memes against older liberals, for instance, turned respect for elders into mockery (low deference).*)
-
-*We embed an example image below illustrating disrespectful humor – a classical statue with “thug life” sunglasses, symbolizing how culture milestones are treated irreverently (Figure 1).*
-
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/meme-culture-and-borderer-right-style-a-research-report/assets/media/rId62.png" style="width:5.83333in;height:3.28417in" />  
-*Figure 1: A meme-ready classical statue (“digital carnivalesque” mockery). Such images exemplify meme culture’s* *irreverence toward prestige, mocking high culture with low-brow humor[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions) (source: UOC News)[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions).*
-
-## 6. Cross-Ideological Adoption
-
-Although the borderer style is often associated with the right, meme formats have spread across the spectrum.
-
-- **Right-Wing Use:** Emphasizes the negative borderer traits above. We see frequent anti-immigrant, misogynist jokes (even if cloaked in irony), and celebration of free-speech defiance. E.g. “Triggering liberals” videos, “Red pill” memes about revealing ‘truth’, or Internet-archtypal trolls proudly mocking. Right memes often engage in *status inversion* by framing “ordinary patriots” vs “out-of-touch elites”.
-
-- **Left-Wing Use:** Adapts similar forms but with different content. Left memes still attack “outsiders” (capitalists, racists, the government) but often for compassionate reasons (e.g. humane politics). They may also invert status by elevating marginalized voices. Some left memes employ sharp humor and absurdity (e.g. Libertarian socialist characters, Bernie memes), but often with appeals to solidarity. As one author notes, left memes *“condense analysis into a few sentences”* to critique liberal hypocrisy[\[33\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=with%20opposing%20sets%20of%20meaning%2C,memes%20can), e.g. highlighting how Democrats fail to deliver on progressive promises. They can be sarcastic (“this is fine” dog meme used to illustrate capitalist ignorance) but rarely glorify spite for its own sake.
-
-- **Centrist or Neutral:** Some memes aim for broad humor (e.g. pet memes). Centrist influencers might use memes for engagement but avoid extreme taunting. However, in polarized moments, even centrist memes can adopt ironic detachment.
-
-Importantly, *the form is versatile.* Alafnan’s study shows memes in echo chambers reinforce the user’s own tribe[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes). Thus, a meme template (say, a popular comic panel) can be used by both sides: e.g., one side might caption it “When Biden...”, the other “When Trump...”, each mocking the other.
-
-Table 3 (below) compares how various political groups typically employ memes:
-
-| Group/Movement | Typical Meme Focus | Tone/Style | Example Themes |
-|----|----|----|----|
-| **Alt-Right/White Supremacist** | Race, nationalism, conspiracies | Derogatory, symbol-laden, “ironic” hate humor | 14 words memes, Pepe with Nazi symbols |
-| **Mainstream Right** | Patriotism, anti-regulation | Sarcastic, anti-“cancel culture” | “Snowflake” liberal memes, anti-elitist humor |
-| **Progressive Left** | Inequality, climate, social justice | Smart-alec, hopeful or despairing satire | Bernie Sanders seat meme, Rosa Luxemburg quotes |
-| **Mainstream Left** | Healthcare, unionism | Friendly humor, sometimes mocking centrists | Ocasio-Cortez memes explaining policy (AOC “dunk”)[\[19\]](https://www.wired.com/story/left-wing-memes/#:~:text=Woods%20highlights%20a%20Twitter%20post,%E2%80%9D) |
-| **Populist/Libertarian** | Government overreach, privacy | Irreverent, distrustful | “Big Brother is watching you” memes, tea-party captions |
-| **Centrist/Nonpolitical** | Relatable life observations | Gentle irony, self-deprecation | Distracted Boyfriend meme (neutral), harmless cat images |
-
-*(This table is illustrative; actual content varies widely within each group.)*
-
-## 7. Historical and Contextual Factors
-
-Meme culture did not emerge overnight. Its borderer style roots can be traced historically:
-
-- **Origins (2000s):** Early memes (LOLcats, Dancing Baby) were mostly silly viral jokes. The mid-2000s saw the rise of 4chan (2003) and Reddit, creating subcultural communities. 4chan’s /pol/ board explicitly fostered “trolling for the lulz,” embedding a low-deference ethic from the start.
-
-- **Social Media Era (2010s):** As platforms like Facebook/Twitter grew, memes became mainstream viral currency. Notably, the meme “Harlem Shake” (2013) and “Rickroll” were apolitical fads. But politicization grew: Reddit’s “Gamergate” controversies (2014) showed how meme tactics (gendered harassment) enter politics. The alt-right began rebranding Pepe the Frog (2015-16) into a symbol of rebellion[\[35\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=cess%20of%20far,Speci%20%EF%AC%81%20cally%2C%20the).
-
-- **2016 US Election:** Memes exploded as political tools. “Make America Meme Again” (Woods & Poole, 2019) documents how both sides weaponized internet humor. The election was labeled “the most-memed in history,” with Pepe and the “NPC” meme becoming iconic on the right[\[17\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=I%20n%20the%20run%20up,to%20the%202016%20US%20presidential). The left’s “dank memes” page co-opted stock images for progressive critique (Bernie’s memes at inauguration, “This is fine” chair).
-
-- **Mobile & Video (2020+):** TikTok’s rise introduced viral short-video memes (often lighthearted, but also used for political messaging). Memes adapted to quick-consumption formats. The pandemic period saw memes about conspiracy theories (QAnon spurred coded symbols, e.g. cryptic “where we go one...” memes), and satirical takes on lockdown.
-
-- **Attention Economy:** Quick humor & clickbait culture mean memes are tuned for shareability. As one scholar notes, the internet’s logic is not to *“bring bodies together”* but to **maximise reach and repetition of a message**[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20). Borderer memes excel in this economy: their concision and shock attract clicks, then spread through “participatory remix”[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20)[\[30\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=ideologically%20homogenous%20groups%20while%20limiting,The%20findings%20suggest%20that%20memes).
-
-The timeline below summarizes major meme-culture milestones:
-
-    timeline
-        2000 - 2005
-            : Early internet memes: e.g., Dancing Baby, Hampster Dance; 4chan founded (2003)
-        2006 - 2011
-            : Social media rises; viral memes (LOLcats, Rickroll); mainstream meme sites emerge
-        2012 - 2015
-            : Politicized memes; Gamergate (2014) sparks culture wars; Pepe co-opted by emerging alt-right
-        2016 - 2019
-            : Memes in 2016 US election; alt-right mainstream meme wars (Trump memes, fascist references); left memes emerge (Bernie, AOC activism)
-        2020 - 2024
-            : TikTok video memes explode; meme activism on climate, Covid; 2024 election memes and global meme solidarity
-
-*(Figure 2: High-level timeline of internet meme culture and political events.)*
-
-### Tech & Subculture Context
-
-- **Platform Design:** Anonymity (4chan) encourages uninhibited (borderer) discourse. Networks reward sensational content. The “algorithmic virality” (TikTok, Instagram Explore) incentivizes grabbing attention by any means.
-
-- **Attention Shifts:** With declining trust in institutions, some people turn to “alternative channels” – memes on fringe forums often cite YouTube pundits or conspiracy blogs[\[36\]](https://misinforeview.hks.harvard.edu/article/research-note-the-spread-of-political-misinformation-on-online-subcultural-platforms/#:~:text=subculture%2C%20oriented%20around%20%E2%80%9Ckeeping%20alive,political%20discourses%20that%20subtly%20perpetuate). The meme subculture’s distrust of mainstream media parallels borderer skepticism of official narratives.
-
-- **Meme Communities:** Subcultures (gamers, “egirls”, QAnon, socialist meme circles) have their own norms. But many overlap (some activists learn from trolls, e.g. leftists use Pepe ironically, or mod outfits of r/politics copy posting styles from 4chan).
-
-- **Memetic Evolution:** Internet culture has its own traditions of “shitposting” (posting low-effort aggressive content) and “raids” (coordinated trolling). These too align with borderer aggression – tactical disruption for its own sake.
-
-## 8. Implications
-
-The convergence of meme style and borderer-right traits has several consequences:
-
-- **Polarization and Echo Chambers:** Memes reinforce group identities, making moderation of discourse hard. The insular circulation means each side often misreads the other as cynical or unserious. As Alafnan (2025) notes, memes *“predominantly circulate within political echo chambers”*, limiting cross-talk[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes). This intensifies affective polarization: users see their own ideals caricatured in opposing memes, deepening divides.
-
-- **Emotional Persuasion:** Memes appeal to emotion more than reason. Their brevity and humor can be persuasive for in-group members. They can raise mobilizing energy (people feel part of a fun movement)[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20)[\[30\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=ideologically%20homogenous%20groups%20while%20limiting,The%20findings%20suggest%20that%20memes). But they also bypass critical thinking: a study by Schmid et al. found that humor-laden extremist memes reached *wider audiences* than serious posts[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing), meaning dangerous ideas slip under the radar.
-
-- **Erosion of Trust:** By mocking institutions (universities, judges, scientists), meme culture fosters cynicism. Insults like “fake news” or “snowflake” (originating in memes) erode respect for expertise. Over time, this borderer disrespect can weaken social norms of trust in fact-based authority.
-
-- **Civic Discourse:** Memes treat politics as a game or skirmish (“raid terrain”), not deliberation. Political debate becomes a contest of one-liners and dunking. While this can engage younger people (increasing participation online), it also undermines patience for nuance. As some authors warn, memes *“challenge democratic discourse by amplifying divisiveness”*[\[30\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=ideologically%20homogenous%20groups%20while%20limiting,The%20findings%20suggest%20that%20memes).
-
-- **Recruitment & Radicalization:** The humor can serve as a gateway to radicalism. Trillò & Shifman (2021) note that as the far-right moves mainstream, their memes embed collectivist values (patriotism, hierarchy) into an attractive package[\[13\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=The%20main%20premise%20of%20this,right%20constitu). Newcomers might join for the jokes and find themselves swayed by the values under the surface.
-
-- **Demographic Shift:** Younger generations’ fluency in meme-speak means mainstream movements must adapt or cede cultural ground. The Pew poll (cited by Wired) shows Gen Z leaning left and integrating meme activism into their identity[\[37\]](https://www.wired.com/story/left-wing-memes/#:~:text=An%20increase%20in%20left,American%20exceptionalism%20of%20older%20generations). Whether this leads to more productive civic engagement or just more polarized social media remains open.
-
-## 9. Recommendations
-
-**For Researchers:** Build large, cross-platform meme corpora over time (e.g. archive Reddit posts with “meme” tags, collect Twitter image macro tweets). Use mixed methods: combine AI tools for image/text clustering with ethnographic study of meme forums. Examine not just far-right but comparative studies: how do structure and reception differ by ideology? Investigate audience effects: through surveys/experiments, test how different viewers interpret the same meme[\[30\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=ideologically%20homogenous%20groups%20while%20limiting,The%20findings%20suggest%20that%20memes)[\[32\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=variety%2C%20mode%20of%20presentation%2C%20and,the%20receivers%27%20point%20of%20view). Transparency on assumptions (size, period) is crucial in any study. Share coding schemes publicly for replicability. (See existing methods[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing)[\[32\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=variety%2C%20mode%20of%20presentation%2C%20and,the%20receivers%27%20point%20of%20view).)
-
-**For Platforms:** Recognize that memes often carry political intent. Simple image-content filtering fails to catch context. Instead, platforms might invest in multimodal analysis (visual + caption + user metadata) to detect disinformation or hate. But be cautious: meme moderation risks backlash (“censorship” claims). Increasing user media literacy may be more viable: e.g. labeling known political memes as such, or providing “meme decoders” for citations.
-
-**For Civic Actors:** Educate citizens to “read” memes critically. Highlight that a meme’s humor can hide bias or falsehood. Encourage diversity of media diets so one sees multiple “echoes” of a meme’s message (to compare frames). Creative counter-memes can be used to debunk false claims (though must match virality energy). Promoting digital civics courses that cover meme literacy may strengthen deliberative norms.
-
-Overall, analysts should treat meme culture as a **serious communicative force**, not mere nonsense[\[38\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=aligned%20with%20alt,books%20or%20works%20of%20art). It is a powerful emotional grammar that subverts decorum in politics, for better or worse. Understanding its grammar – taunts, reversals, irreverence – is essential in this moment where memetic style significantly influences political life.
-
-------------------------------------------------------------------------
-
-**Sources:** The above analysis synthesizes research from political communication, media studies, and journalism. Key citations include Soriano (UOC, 2024) on meme “politigrams”[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)[\[39\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=participate%20in%20institutional%20politics,them%20as%20trivial%20jokes%2C%20we), Schmid et al. on far-right meme reach[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing)[\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20), Trillò & Shifman on meme values[\[13\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=The%20main%20premise%20of%20this,right%20constitu), McSwiney et al. on meme humor[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.), Rogers on platform comparisons[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks)[\[25\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=The%20misinformation%20problem%20differs%20per,collection%20of%20sources%20are%20extreme), GNET on meme diffusion[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor)[\[28\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,a%20group%20emblem%20or%20logo), Alafnan on echo chambers[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes), Carrasco and Wired on left memes[\[20\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=that%20they%20offer%20easy%20entry,points%20into%20theoretical)[\[19\]](https://www.wired.com/story/left-wing-memes/#:~:text=Woods%20highlights%20a%20Twitter%20post,%E2%80%9D), and others as cited. Where no direct source was available, we note assumptions (e.g. general content patterns) based on media analysis. All quoted material retains reference markers【*†L*】 to the original documents listed below.
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions) [\[10\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=closed%20circles%2C%20such%20as%20online,absurd%2C%20twisted%20or%20bizarre%20jokes) [\[38\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=aligned%20with%20alt,books%20or%20works%20of%20art) [\[39\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=participate%20in%20institutional%20politics,them%20as%20trivial%20jokes%2C%20we) Memes, a political weapon \| UOC
-
-<https://www.uoc.edu/en/news/2024/memes-affect-political-ideas>
-
-[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.) [\[15\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=Abstract) [\[16\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=organisation%E2%80%99s%20national%20and%20political%20context,within%20the%20far%20right%20online) Sharing the hate? Memes and transnationality in the far right’s digital visual culture \| Request PDF
-
-<https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture>
-
-[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing) [\[6\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=The%20far%20right%20is%20increasingly,related%20factors%20to%20analyze%20their) [\[9\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=,) [\[11\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=References%20) [\[12\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=Mobilization) Memes, humor, and the far right’s strategic mainstreaming \| Request PDF
-
-<https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming>
-
-[\[4\]](https://www.wired.com/story/left-wing-memes/#:~:text=the%202016%20presidential%20election%20%E2%80%93,being%20the%20most%20obvious%20example) [\[18\]](https://www.wired.com/story/left-wing-memes/#:~:text=The%20left,reclaim%20meme%20culture) [\[19\]](https://www.wired.com/story/left-wing-memes/#:~:text=Woods%20highlights%20a%20Twitter%20post,%E2%80%9D) [\[22\]](https://www.wired.com/story/left-wing-memes/#:~:text=Edmund%20Schluessel%2C%20a%20page%20admin,%E2%80%9D) [\[24\]](https://www.wired.com/story/left-wing-memes/#:~:text=Matt%20Zarb,our%20movement%20as%20a%20result%E2%80%9D) [\[37\]](https://www.wired.com/story/left-wing-memes/#:~:text=An%20increase%20in%20left,American%20exceptionalism%20of%20older%20generations) The left-wing meme-makers trying to reclaim meme culture \| WIRED
-
-<https://www.wired.com/story/left-wing-memes/>
-
-[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes) [\[8\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=The%20article%20explores%20the%20role,limiting%20exposure%20to%20opposing%20viewpoints) [\[30\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=ideologically%20homogenous%20groups%20while%20limiting,The%20findings%20suggest%20that%20memes) [\[31\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=contribute%20significantly%20to%20their%20effectiveness,driven%20political%20communication%20on%20voter) [\[32\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=variety%2C%20mode%20of%20presentation%2C%20and,the%20receivers%27%20point%20of%20view) [\[34\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=Internet%20memes%20are%20an%20integral,recontextualization%20in%20political%20image%20macros) Internet memes as multilayered re-contextualization vehicles in lay-political online discourse \| Request PDF
-
-<https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse>
-
-[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks) [\[25\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=The%20misinformation%20problem%20differs%20per,collection%20of%20sources%20are%20extreme) [\[26\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=found%20that%20TikTok%20parodies%20mainstream,provide%20information%20rather%20than%20official) Marginalizing the Mainstream: How Social Media Privilege Political Information - PMC
-
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/>
-
-[\[13\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=The%20main%20premise%20of%20this,right%20constitu) [\[14\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=lished%2C%20Shifman%20,authenticity%2C%20creativity%2C%20communal%20loyalty%2C%20free) [\[35\]](https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres#:~:text=cess%20of%20far,Speci%20%EF%AC%81%20cally%2C%20the) (PDF) Memetic commemorations: remixing far-right values in digital spheres
-
-<https://www.researchgate.net/publication/354700490_Memetic_commemorations_remixing_far-right_values_in_digital_spheres>
-
-[\[17\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=I%20n%20the%20run%20up,to%20the%202016%20US%20presidential) [\[20\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=that%20they%20offer%20easy%20entry,points%20into%20theoretical) [\[21\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=present,be%20successful) [\[23\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=from%20the%20general%20meme%20stock,in%20circulation%2C%20left) [\[33\]](https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet#:~:text=with%20opposing%20sets%20of%20meaning%2C,memes%20can) (PDF) Left Memes – Resistance, Ridicule, and Belonging in Times of the Internet
-
-<https://www.researchgate.net/publication/387562102_Left_Memes_-_Resistance_Ridicule_and_Belonging_in_Times_of_the_Internet>
-
-[\[27\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,had%20the%20highest%20impact%20factor) [\[28\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,a%20group%20emblem%20or%20logo) [\[29\]](https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/#:~:text=,a%20group%20emblem%20or%20logo) A Picture is Worth a Thousand (S)words: Classiﬁcation and Diﬀusion of Memes on a Partisan Media Platform – GNET
-
-<https://gnet-research.org/2023/03/29/a-picture-is-worth-a-thousand-swords-classi%EF%AC%81cation-and-di%EF%AC%80usion-of-memes-on-a-partisan-media-platform/>
-
-[\[36\]](https://misinforeview.hks.harvard.edu/article/research-note-the-spread-of-political-misinformation-on-online-subcultural-platforms/#:~:text=subculture%2C%20oriented%20around%20%E2%80%9Ckeeping%20alive,political%20discourses%20that%20subtly%20perpetuate) HKS Misinformation ReviewResearch note: The spread of political misinformation on online subcultural platforms \| HKS Misinformation Review
-
-<https://misinforeview.hks.harvard.edu/article/research-note-the-spread-of-political-misinformation-on-online-subcultural-platforms/>
+- Galipeau, Thomas. “The Impact of Political Memes: a Longitudinal Field Experiment.” *Journal of Information Technology & Politics* 20, no. 4 (2023): 437–453. https://doi.org/10.1080/19331681.2022.2150737
+- Masood, Muhammad, Viktor Tuzov, and Marko Skoric. “Political Meme Use Can Lead to Political Intolerance: Evidence from a Panel Study.” *International Journal of Public Opinion Research* 36, no. 4 (2024): edae052. https://doi.org/10.1093/ijpor/edae052
+- McSwiney, Jordan, Michael Vaughan, Annett Heft, and Matthias Hoffmann. “Sharing the hate? Memes and transnationality in the far right’s digital visual culture.” *Information, Communication & Society* 24, no. 16 (2021): 2502–2521. https://doi.org/10.1080/1369118X.2021.1961006
+- Merrill, Samuel, Mattias Gardell, and Simon Lindgren. “How ‘the left’ meme: Analyzing taboo in the Internet memes of r/DankLeft.” *New Media & Society* 27, no. 7 (2025): 3950–3972; first published online 2024. https://doi.org/10.1177/14614448241232144
+- Mortensen, Mette, and Christina Neumayer. “The Playful Politics of Memes.” *Information, Communication & Society* 24, no. 16 (2021): 2367–2377. https://doi.org/10.1080/1369118X.2021.1979622
+- Paz, María Antonia, Ana Mayagoitia-Soria, and Juan-Manuel González-Aguilar. “From Polarization to Hate: Portrait of the Spanish Political Meme.” *Social Media + Society* 7, no. 4 (2021). https://doi.org/10.1177/20563051211062920
+- Schmid, Ursula K., et al. “Memes, humor, and the far right’s strategic mainstreaming.” *Information, Communication & Society* (2024). https://doi.org/10.1080/1369118X.2024.2329610
+- Shifman, Limor. *Memes in Digital Culture*. MIT Press, 2014. https://mitpress.mit.edu/9780262525435/memes-in-digital-culture/
+- Trillò, Tommaso, and Limor Shifman. “Memetic commemorations: remixing far-right values in digital spheres.” *Information, Communication & Society* 24, no. 16 (2021): 2482–2501. https://doi.org/10.1080/1369118X.2021.1974516
