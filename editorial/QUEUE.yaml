@@ -182,13 +182,13 @@ articles:
     completed_work:
       - repaired tracked URLs, self-reference, and conversion residue in the earlier cleanup
       - rewrote the thesis into separate claims of compensation, symbolic substitution, affective reproduction, and system-level dependence
-      - grounded compensatory mechanisms in self-discrepancy consumption, social-surrogacy, and compensatory-control research
-      - treated online outrage research as evidence of reinforcement and transmission rather than proof that platforms create unmet needs
-      - used current IAB market scale and WHO loneliness prevalence only as contextual evidence rather than causal proof
-      - added self-determination and arts/well-being findings as counterexamples to a universal deficit theory of culture
-      - removed the legacy Related Marginalia Essays section and dead /posts/ citation architecture, retaining related corpus artifacts only in metadata
-      - replaced two converted Mermaid images with native Markdown structures and deleted the unprovenanced assets
-      - completed duplicate review as independent/keep-separate within a related cultural-theory cluster
+      - grounded bounded compensatory mechanisms in Mandel et al. on self-discrepancy and compensatory consumption, Derrick et al. on favored-media social surrogacy, and Kay et al. on compensatory control
+      - treated online outrage research as evidence that social feedback and sharing incentives can reinforce high-arousal cultural expression, while removing the unsupported inference that those studies prove platforms create or require unmet needs
+      - used current IAB/PwC advertising-market figures and WHO loneliness prevalence only as scale/background context rather than causal proof of cultural dependence
+      - added self-determination and arts/well-being evidence as counterexamples to a universal deficit theory of culture
+      - removed the legacy Related Marginalia Essays section and old /posts/ URLs from the evidentiary architecture, recording related corpus artifacts only through canonical relationship metadata
+      - replaced two converted Mermaid images with native Markdown structures and deleted both unprovenanced assets
+      - completed duplicate review as independent/keep-separate inside a broader related culture-theory cluster
       - advanced review to ready at revision 1.0.2
       - verified build-derived deployment at /research/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/ and recorded ready to published
     blockers: []
@@ -225,7 +225,7 @@ articles:
     completed_work:
       - adjudicated as the non-canonical member of the liberalism/disembedding merge cluster
       - incorporated its distinct Weber/Scott/Foucault legal-rational administration, legibility, and governmentality material into the canonical synthesis
-      - preserved the substantive historical prose for editorial provenance and repaired four broken repo-root-style image targets to package-relative paths
+      - preserved the substantive historical prose for provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it review to archived with draft true
       - recorded merged_into relationship and completed duplicate review as merge-cluster/merge-into-canonical
       - advanced review to archived at revision 1.0.2 with draft true
     blockers: []
