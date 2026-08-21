@@ -742,7 +742,7 @@ packages:
     - duplicate_review_unresolved
     - conversion_or_chatgpt_marker
   gaht:
-    title: Gender and GAHT
+    title: 'Feminizing Gender-Affirming Hormone Therapy: Effects, Risks, and Evidence by Age'
     lifecycle: review
     draft: true
     type: report
@@ -752,7 +752,7 @@ packages:
     has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 12699
+    body_bytes: 29134
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints:
