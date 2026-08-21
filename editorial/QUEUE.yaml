@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-21T16:24:00-06:00'
+updated_at: '2026-08-21T16:36:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 24
+packages_changed_since_baseline: 25
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -11,7 +11,6 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - puritan-moral-psychology
   - proudhon-mutualism-report
 
 articles:
@@ -226,7 +225,7 @@ articles:
     completed_work:
       - adjudicated as the non-canonical member of the liberalism/disembedding merge cluster
       - incorporated its distinct Weber/Scott/Foucault legal-rational administration, legibility, and governmentality material into the canonical synthesis
-      - preserved the substantive historical prose for editorial provenance and repaired four broken repo-root-style local image targets to package-relative paths
+      - preserved the substantive historical prose for editorial provenance and repaired four broken repo-root-style image targets to package-relative paths
       - recorded merged_into relationship and completed duplicate review as merge-cluster/merge-into-canonical
       - advanced review to archived at revision 1.0.2 with draft true
     blockers: []
@@ -252,14 +251,24 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   puritan-moral-psychology:
-    lifecycle: review
-    work_state: queued
+    lifecycle: ready
+    work_state: ready-for-publication
     priority: P1
     profile: academic
     voice: neutral
-    blockers:
-      - source-quality, citation, and current-link verification remains
-    next_action: 'Audit genealogy/continuity claims and source quality.'
+    completed_work:
+      - replaced the inherited linear Puritan-to-modern-progressivism thesis with an evidence-graded genealogy separating direct transmission, documented reception, morphology, and analogy
+      - retained covenantal community, moral discipline, jeremiadic correction, and exemplary mission as historically important Puritan forms without treating them as a fixed transhistorical psychology
+      - identified revivalism and the Social Gospel as the strongest transformed Protestant transmission path into later reform
+      - incorporated historiographic caution from modern Puritan scholarship against treating grand Puritan-legacies theories as settled causal history
+      - added Rodgers's transatlantic Progressive reform networks and the direct Toynbee Hall influence on Hull House as major counterevidence to a self-contained New England genealogy
+      - added African American prophetic traditions and Black reuse of Pilgrim-Puritan origins as independent and interacting reform lineages
+      - recast Winthrop's city-upon-a-hill legacy as a documented case of twentieth-century recovery and canonization rather than uninterrupted national memory
+      - removed the DEI/bias-response/cancel-culture endpoint because the inherited comparison supplied analogy rather than traceable descent
+      - removed escaped numbered-link citations, conversion tables, duplicate reference export, first-person process narration, and the obsolete converted diagram asset
+      - completed duplicate review as independent/keep-separate and advanced review to ready at revision 1.0.2
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   proudhon-mutualism-report:
     lifecycle: review
