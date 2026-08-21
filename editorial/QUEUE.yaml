@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T15:30:00-06:00'
+updated_at: '2026-08-21T15:40:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 23
@@ -176,9 +176,9 @@ articles:
     maintenance: 'Recheck post-2026 legislation and institutional durability if the contemporary comparison is updated.'
 
   testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs:
-    lifecycle: ready
-    work_state: ready-for-publication
-    priority: P1
+    lifecycle: published
+    work_state: done-for-now
+    priority: P3
     profile: academic
     voice: neutral
     completed_work:
@@ -192,8 +192,9 @@ articles:
       - replaced two converted Mermaid images with native Markdown structures and deleted the unprovenanced assets
       - completed duplicate review as independent/keep-separate within a related cultural-theory cluster
       - advanced review to ready at revision 1.0.2
+      - verified build-derived deployment at /research/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/ and recorded ready to published
     blockers: []
-    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+    maintenance: 'Recheck dated empirical sources if the article receives a substantive refresh.'
 
   liberalism-social-disembedding-and-managed-dependency:
     lifecycle: ready
@@ -225,7 +226,7 @@ articles:
     completed_work:
       - adjudicated as the non-canonical member of the liberalism/disembedding merge cluster
       - incorporated its distinct Weber/Scott/Foucault legal-rational administration, legibility, and governmentality material into the canonical synthesis
-      - preserved the historical body unchanged for editorial provenance
+      - preserved the substantive historical prose for editorial provenance and repaired four broken repo-root-style local image targets to package-relative paths
       - recorded merged_into relationship and completed duplicate review as merge-cluster/merge-into-canonical
       - advanced review to archived at revision 1.0.2 with draft true
     blockers: []

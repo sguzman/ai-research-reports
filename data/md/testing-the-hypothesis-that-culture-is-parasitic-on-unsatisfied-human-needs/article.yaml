@@ -110,6 +110,9 @@ report:
     `/posts/` pages as primary evidence was removed; related corpus artifacts now live only in relationship
     metadata. Two converted Mermaid PNGs were removed and replaced by native Markdown tables. Duplicate review
     found no competing canonical artifact. No known source, conversion, asset, or duplicate blocker remains.
+    Build-derived publication was verified at
+    `/research/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/` before lifecycle
+    closure; the publication-only transition changed no article prose, sources, assets, or revision/version.
   number: '115'
   organization: Marginalia
   period: modern and contemporary
@@ -146,7 +149,7 @@ series-title: Marginalia Reports
 series_number: 115
 series_title: Marginalia Reports
 slug: testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
-status: ready
+status: published
 subject:
 - Culture
 - Social theory

@@ -4,6 +4,17 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #33 — Record culture-parasitism publication
+
+Packages:
+- `testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs`
+
+Result:
+- verified the build-derived Marginalia page at `/research/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/` and confirmed it carries the source-audited title, description, and rewritten canonical body;
+- advanced canonical lifecycle `ready` → `published` while retaining `draft: false`;
+- added a package-local lifecycle-only changelog entry and moved the queue item to `done-for-now` / P3 maintenance;
+- left article prose, sources, assets, and revision/version 1.0.2 unchanged.
+
 ### PR #32 — Merge liberalism disembedding/domestication cluster
 
 Packages:
@@ -18,7 +29,7 @@ Result:
 - grounded current algorithmic-management and social-connection claims in 2025 OECD evidence and retained U.S. generalized-trust decline only with explicit causal caution rather than ideological attribution;
 - replaced five obsolete converted chart/PNG dependencies with native Markdown structures and deleted the now-unused `rId42`, `rId47`, `rId51`, `rId55`, and `rId60` assets;
 - completed duplicate review as `merge-cluster / merge-into-canonical`, recorded `liberalism-as-political-domestication` in the canonical package's `merged_from`, and recorded the reciprocal `merged_into` provenance on the archived source package;
-- preserved the archived source body unchanged for provenance while advancing it `review` → `archived` / `draft: true` at revision 1.0.2;
+- preserved the archived source's substantive prose for provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
 - added rich changelog entries to both packages, advanced the canonical synthesis `review` → `ready` / `draft: false` at revision 1.1.0, and moved the editorial queue to the next ordinary review cluster.
 
 ### PR #31 — Finalize culture-parasitism hypothesis for publication
