@@ -86,7 +86,7 @@ The correct relationship is therefore **transformed Protestant continuity**, not
 
 The Social Gospel is the strongest bridge between Protestant moral reform and the Progressive Era because it explicitly relocated Christian moral concern into industrial and social structures.
 
-Historical scholarship describes the movement as a response to urbanization, industrial conflict, poverty, and the social consequences of capitalism. John Lee Eighmy summarizes the Social Gospel as a late nineteenth-century Protestant effort to apply Christian ethics to unprecedented problems of industrial society. [Eighmy, “Religious Liberalism in the South During the Progressive Era”](https://doi.org/10.2307/3161438)
+Historical scholarship describes the movement as a response to urbanization, industrial conflict, poverty, and the social consequences of capitalism. John Lee Eighmy summarizes the Social Gospel as a late nineteenth-century Protestant effort to apply Christian ethics to unprecedented problems of industrial society. [Eighmy, “Religious Liberalism in the South During the Progressive Era”](https://doi.org/10.2307/3163158)
 
 Its theology was more than secular humanitarianism. Matthew Bowman shows that Social Gospel thinkers developed theological accounts in which sanctification and Christian conversion extended into economic and social life; the ideal Christian society erased a strict sacred/secular divide and imagined social transformation as part of religious renewal. [Bowman, “Sin, Spirituality, and Primitivism,” 2007](https://doi.org/10.1525/rac.2007.17.1.95)
 
@@ -196,6 +196,7 @@ The strongest defensible formulation is therefore:
 - Carter, Heath W. “Social Gospels Thrived Outside the Church.” *Church History* 84, no. 1 (2015): 199–202. https://doi.org/10.1017/S0009640715000049
 - Coffey, John. “Puritan Legacies.” In *The Cambridge Companion to Puritanism*, edited by John Coffey and Paul C. H. Lim. Cambridge University Press, 2008. https://doi.org/10.1017/CCOL9780521860888.020
 - Coffey, John, and Paul C. H. Lim, eds. *The Cambridge Companion to Puritanism*. Cambridge University Press, 2008. https://doi.org/10.1017/CCOL9780521860888
+- Eighmy, John Lee. “Religious Liberalism in the South During the Progressive Era.” *Church History* 38, no. 3 (1969): 359–372. https://doi.org/10.2307/3163158
 - Gradert, Kenyon. “The Mayflower and the Slave Ship: Pilgrim-Puritan Origins in the Antebellum Black Imagination.” *MELUS* 44, no. 3 (2019): 63–90. https://doi.org/10.1093/melus/mlz025
 - Hobson, Christopher Z. *The Mount of Vision: African American Prophetic Tradition, 1800–1950*. Oxford University Press, 2012. https://doi.org/10.1093/acprof:oso/9780199895861.001.0001
 - Marsden, George M. *Fundamentalism and American Culture*, 3rd ed. Oxford University Press, 2022. https://doi.org/10.1093/oso/9780197599488.001.0001
