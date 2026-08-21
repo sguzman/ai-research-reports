@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-21T05:40:00-06:00'
+updated_at: '2026-08-21T06:38:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 21
@@ -11,8 +11,8 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - gaht
   - brickmaking-history-materials-processes-and-production-planning
+  - critical-review-of-major-official-financial-crisis-inquiry-reports
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -76,13 +76,20 @@ articles:
     priority: P0
     profile: academic
     voice: neutral
+    completed_work:
+      - replaced the inherited bullet-heavy summary with a current evidence review of feminizing GAHT
+      - separated established adult physical effects from uncertain long-term outcomes
+      - treated puberty suppression and adolescent hormone treatment as distinct evidence questions rather than extrapolating from adults
+      - removed generic dosing instructions and prescribing-style monitoring tables
+      - corrected overstatements about inevitable infertility, universal bone loss, lipid normalization, and adolescent pelvic or brain development
+      - replaced the blanket benefits-outweigh-risks conclusion with evidence-specific uncertainty language
+      - distinguished empirical clinical evidence from professional guidelines and jurisdictional policy
+      - separated current Endocrine Society and WPATH recommendations from NHS England commissioning policy and the U.S. Supreme Court legal ruling in Skrmetti
+      - removed legacy cover metadata pointing to a nonexistent root-level asset
+      - normalized scope/title metadata and advanced revision to r4
     blockers:
-      - high-stakes clinical claims
-      - adolescent-treatment material
-      - dosing and monitoring content
-      - time-sensitive medical guideline/regulatory claims
-      - legacy root-level cover asset debt
-    next_action: 'Dedicated primary medical/regulatory evidence audit; do not bundle with ordinary prose cleanup.'
+      - final independent high-stakes claim-to-source and rendered-publication review remains before ready
+    next_action: 'Perform one independent clinical/regulatory claim-to-source and rendering pass; advance to ready only if no high-stakes defect remains.'
 
   brickmaking-history-materials-processes-and-production-planning:
     lifecycle: review
