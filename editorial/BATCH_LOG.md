@@ -111,7 +111,7 @@ Result:
 - made housing the strongest directly observed political mechanism using evidence on homeowner turnout, local meeting participation, opposition to new construction, and representative voting;
 - updated the four-country comparison around demographic pressure, fiscal exposure, pension adjustment, and electoral-age structure rather than a synthetic extraction ranking;
 - removed escaped numbered-link citations, the duplicated conversion reference export, tracked source URLs, and three obsolete converted diagram assets;
-- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` with `draft: false`, and advanced the persistent queue to Puritan moral psychology followed by Proudhon mutualism.
+- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the persistent queue to Puritan moral psychology followed by Proudhon mutualism.
 
 ### PR #33 — Record culture-parasitism publication
 
