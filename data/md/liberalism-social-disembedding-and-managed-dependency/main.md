@@ -2,873 +2,256 @@
 
 ## Executive Summary
 
-The most academically defensible version of the thesis is not that
-"liberalism" is uniquely evil in the same sense as fascism or Stalinist
-or Maoist communism, but that actually existing liberal political
-economy has a distinctive failure mode. In that failure mode, liberal
-orders tend to weaken inherited, thick forms of belonging and
-obligation, expand relations organized by contract, competition, and
-mobility, and then partially reassemble social life through markets,
-bureaucracies, therapeutic expertise, credentials, and data-intensive
-management. The result is not usually genocidal extermination. It is
-more often chronic disembedding: a world in which people lose nonmarket
-solidarities, become more dependent on mediated systems for recognition
-and livelihood, and are then governed through the very institutions that
-monetize or administratively sort their needs.
-[\[1\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-
-Historically, this pattern is visible across a sequence rather than a
-single ideology: classical liberalism elevated individual liberty and
-market exchange; industrial capitalism commodified labor and intensified
-the division of labor; welfare states arose as partial counter-movements
-to protect people from market exposure; and neoliberalism re-extended
-competitive rationality into domains once governed by professional,
-civic, or familial norms. Foucault's account of the neoliberal
-"enterprise society," Polanyi's theory of disembedding, Marx's analysis
-of labor-power as a commodity, and communitarian critiques from Walzer
-and Taylor all illuminate different parts of this trajectory.
-[\[2\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-
-The empirical picture is mixed but serious. In the United States,
-generalized trust fell from roughly one-half of respondents in 1972 to
-about one-third in 2016, and longitudinal work using GSS data finds a
-substantial decline in social trust between 1973 and 2018, with falling
-confidence in institutions and unemployment scarring explaining about
-half of that drop. Putnam and related literatures also document long-run
-erosion in many civic forms. In 21 European OECD countries, daily
-in-person interaction with nonhousehold family fell from 17% in 2006 to
-11% in 2022, and daily in-person contact with friends fell from 21% to
-12%. Among children in the OECD-22 average, the share living with two
-married parents fell from 73% in 2005 to 65% in 2023, while the share
-living with cohabiting parents rose from 9% to 17%. OECD analysis also
-reports worsening youth mental health across most countries with time
-series data, while WHO and OECD now treat loneliness and social
-disconnection as major public-health concerns.
-[\[3\]](https://gss.norc.org/content/dam/gss/for-survey-participants/documents/GSS%20Media%20Booklet_2020.pdf)
-
-That said, the evidence does **not** support a simple monocausal claim
-that liberalism alone caused these trends. Technology, suburbanization,
-women's labor-force participation, demographic aging, secularization,
-housing costs, schooling expansion, and postindustrial labor-market
-restructuring all matter. The strongest conclusion is therefore
-conditional: liberal institutions are especially prone to translating
-social problems into individualized market or administrative problems,
-and this can produce atomization, dependency, credential sorting,
-therapeutic self-monitoring, and managerial monetization even without
-overt state terror.
-[\[4\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-
-Normatively, the comparison with fascism and communism should be made as
-a comparison of **harm types**, not as a flattening equivalence.
-Fascism's signature crime was openly racialized domination, aggressive
-war, and exterminatory mass murder, above all the Holocaust. Stalinist
-and Maoist communist episodes involved one-party rule, purges, campaigns
-of political terror, and catastrophic coercive upheaval. Liberalism's
-characteristic pathology is different: diffuse coercion, social
-fragmentation, dependence on impersonal systems, and monetization or
-administrative management of needs that older social forms met more
-directly. That can be socially devastating, but it is analytically
-distinct from exterminationist totalitarianism.
-[\[5\]](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
-
-## Thesis and Scope
-
-This report explores the following thesis in its strongest scholarly
-form: **actually existing liberalism, especially when fused to advanced
-capitalism, tends to dissolve pre-liberal or nonmarket social bonds; it
-then reconstructs social coordination through commodified, bureaucratic,
-therapeutic, credentialed, and managerial mechanisms that create new
-dependencies and convert parts of the self and social life into
-administrable and monetizable units**. This is an argument about a
-recurring structural tendency, not a claim that every liberal
-institution always does this, nor that liberalism has no emancipatory
-achievements in rights, pluralism, or legal equality.
-[\[6\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-
-The geographic assumption is explicit: the report defaults
-to OECD settings unless otherwise noted, and it uses U.S. evidence when
-long OECD-wide series are unavailable. The temporal scope runs from the
-nineteenth century to the present, with attention to the shift from
-classical liberalism to industrial capitalism, from social-liberal or
-welfare-state repair to neoliberal re-marketization, and finally to
-platform capitalism and algorithmic management.
-[\[7\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf)
-
-A crucial conceptual distinction is between **liberal philosophy** and
-**liberal social order**. Liberal philosophy, in canonical form,
-emphasizes liberty of conscience, non-domination by arbitrary authority,
-and rights-bearing persons. Liberal social orders, by contrast, are
-historical regimes of law, labor, property, family, education, welfare,
-and administration. The strongest critiques in this literature usually
-argue that the philosophical image of free, rights-bearing individuals
-becomes historically entangled with a social order that systematically
-produces mobility, abstraction, and dependence on impersonal
-institutions. Charles Taylor calls the relevant background picture
-"atomism," while Walzer argues that liberalism can present itself as if
-society were made up of self-originating individuals who have escaped
-traditions and authorities that then disappear from view.
-[\[8\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-
-The principal analytical caution is causal overreach. Social trust
-decline, family change, loneliness, and mental distress are real, but
-none can be assigned to liberalism alone. Some changes are partly chosen
-and emancipatory, some are side effects of modernization, and some are
-intensified by digital technologies rather than by liberal rights as
-such. The report therefore treats the thesis as a historically grounded
-critical interpretation that is **supported in parts, underdetermined in
-parts, and strongest when framed as a tendency toward social
-disembedding and managed dependency** rather than as a total explanation
-of modern malaise.
-[\[9\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-
-## Historical Genealogy
-
-Classical liberalism did not begin as a scheme to fragment human beings.
-It began as a revolt against inherited hierarchy, confessional coercion,
-and arbitrary privilege. Mill's liberalism defended a wide protected
-sphere against social compulsion, while Smith celebrated the
-productivity of the division of labor. But Smith also warned that
-extreme specialization could deform judgment and character, leaving the
-worker "as stupid and ignorant as it is possible for a human creature to
-become." That warning matters because it shows that the fragmentation
-thesis is not external to the liberal tradition; one element of it is
-already visible in Smith's own diagnosis of commercial society.
-[\[10\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-
-Industrial capitalism radicalized that problem. For Polanyi, the core
-transformation was the attempt to construct a self-regulating market by
-treating labor, land, and money as "fictitious commodities." For Marx,
-capitalism depends on the appearance in the market of a special
-commodity, labor-power, whose use generates value. Put differently, the
-market order does not merely exchange finished goods; it remakes human
-capacities, time, and life-processes into tradeable inputs. This is the
-most direct historical antecedent of the modern complaint that persons
-are broken into saleable functions.
-[\[11\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-
-The welfare state can be read as liberalism's acknowledgment that
-markets alone are socially unsustainable. Polanyi's account of the
-"double movement" is precisely that societies develop protective
-countermeasures against market disembedding. In postwar OECD history,
-family policy, paid leave, childcare, public health, pensions, and labor
-protections moderated exposure to the labor market and stabilized
-households. Yet those protections often arrived not by restoring thick
-communal forms but by routing needs through centralized bureaucratic and
-professional systems. The welfare state, on this reading, was both a
-real humanization of market society and an expansion of administrative
-intermediation.
-[\[12\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-
-Neoliberalism intensified the competitive and managerial side of the
-liberal order. Foucault famously described its horizon as "not a
-supermarket society, but an enterprise society," one in which the
-desired human type is not primarily the exchanger or consumer but the
-entrepreneurial subject of competition and production. Later work in
-this tradition, from Nikolas Rose to contemporary studies of digital
-"autopreneurs," extends that insight: people are encouraged to
-understand themselves as projects for continual improvement,
-performance, and self-capitalization. This is the historical setting in
-which credentials, branding, therapy, platforms, and algorithmic
-management become central mechanisms for organizing life chances.
-[\[13\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-
-### Genealogical timeline
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Period          Dominant promise Integrating    Distinctive         Representative sources
-                                   institutions   pathology relevant  
-                                                  to this thesis      
-  --------------- ---------------- -------------- ------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
-  Classical       Liberty, rights, Law, contract, Individualization   Mill, Smith
-  liberalism      individuality,   market         and the weakening   [\[14\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-                  limits on        exchange,      of inherited status 
-                  arbitrary power  civil society  bonds; early        
-                                                  awareness that      
-                                                  division of labor   
-                                                  can narrow the      
-                                                  person              
-
-  Industrial      Growth,          Wage labor,    Labor-power becomes Marx, Polanyi [\[15\]](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)
-  capitalism      productivity,    factory        a commodity; labor, 
-                  mobility         discipline,    land, and money are 
-                                   urban markets  disembedded from    
-                                                  customary social    
-                                                  regulation          
-
-  Social          Security, social Social         Genuine             Polanyi, OECD family and social-policy evidence [\[16\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-  liberalism and  citizenship,     insurance,     re-embedding, but   
-  welfare state   risk-pooling     labor law,     through expert and  
-                                   education,     bureaucratic        
-                                   family policy  mediation rather    
-                                                  than restored       
-                                                  communal            
-                                                  reciprocity         
-
-  Neoliberalism   Flexibility,     Audit, HR      Competitive         Foucault, Rose, OECD, ILO [\[17\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-  and platform    choice,          metrics,       selfhood,           
-  capitalism      competition,     credentials,   surveillance,       
-                  innovation       platforms,     dependence on       
-                                   algorithmic    impersonal systems, 
-                                   management     monetization of     
-                                                  attention,          
-                                                  identity, and labor 
-                                                  fragments           
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Theoretical Frameworks
-
-The communitarian critique supplies the most direct philosophical
-vocabulary for this argument. Walzer writes that one version of the
-critique sees liberal societies as homes of "radically isolated
-individuals" and argues that liberalism tells the truth about "the
-asocial society that liberals create," in struggle against traditions
-and communities that are then forgotten. Taylor's "atomism" similarly
-names doctrines that picture society as constituted by individuals for
-primarily individual ends. Sandel's language of the "unencumbered self"
-fits the same cluster, though the strongest evidence retrieved here
-comes from Walzer and Taylor rather than from Sandel's full text.
-[\[18\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-
-Polanyi provides the historical-sociological backbone. His claim is not
-merely that markets are important. It is that the nineteenth-century
-project of a self-regulating market required social life itself to be
-reorganized around labor, land, and money treated as if they were
-ordinary commodities. That is the classic theory of **disembedding**:
-social relations increasingly become subordinated to market
-coordination, provoking protective countermovements. The argument can
-therefore be restated in Polanyian terms as: liberal-capitalist
-modernization repeatedly disembeds persons and households, then
-partially re-embeds them through state or expert mediation without fully
-restoring nonmarket sociality.
-[\[19\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-
-Marx adds the language of commodification and alienation. In the labor
-market, what is traded is not only output but labor-power itself, a
-purchaser-consumer relation that turns human activity into a source of
-valorization. Marx's theory is stronger on exploitation than on social
-trust or loneliness, but it is indispensable for explaining why advanced
-capitalism continually seeks to convert capacities, affects, and time
-into exchangeable value. This becomes especially relevant in modern
-service economies and digital platforms, where unpaid coordination,
-self-presentation, and invisible labor can be folded into accumulation.
-[\[20\]](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)
-
-Foucault and later governmentality literature explain how this economic
-logic becomes a mode of subject formation. If neoliberal reason wants an
-"enterprise society," then people are to be governed not only by law and
-command but by incentives, rankings, benchmarks, performance systems,
-and competitive self-relations. Rose's work on the "private self" and
-Illouz's work on therapeutic discourse extend this picture: the modern
-self is not simply liberated from authority; it is administered through
-psy-expertise, self-help, emotional evaluation, and workplace cultures
-that convert interior life into a site of governance.
-[\[21\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-
-Putnam and Bourdieu show why the same developments appear differently
-depending on what one means by "social capital." Putnam emphasizes
-trust, associational life, and reciprocal ties as public goods of
-democracy. Bourdieu instead treats social capital as unequally
-distributed resources embedded in durable networks, whose reproduction
-requires continuous sociability and is tied to other forms of capital.
-Chetty's recent work on "economic connectedness" pushes the discussion
-in a more measurable direction: it is especially cross-class ties, not
-all forms of cohesion indiscriminately, that predict upward mobility.
-This matters for the argument because liberal modernity may
-simultaneously **erode thick local solidarity** and **increase the value
-of scarce networked advantages**, thereby making social connection both
-more fragile and more economically consequential.
-[\[22\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-
-### Frameworks compared
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Framework               Core concept            What it highlights in this thesis
-  ----------------------- ----------------------- ---------------------------------------------------------------------------------------------------------------
-  Communitarianism        Atomism, unencumbered   Liberal orders can dissolve thick obligations and produce selves imagined as prior to community
-                          self, loss of shared    [\[18\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-                          goods                   
-
-  Polanyi                 Disembedding,           Markets destabilize labor, family, and locality, then provoke protective but partial re-embedding
-                          fictitious commodities, [\[19\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-                          double movement         
-
-  Marx                    Labor-power as          Human capacities become exchangeable inputs; social relations appear as relations among things
-                          commodity, fetishism    [\[23\]](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)
-
-  Foucault and            Enterprise society,     Persons are governed through competition, incentives, metrics, and self-management rather than only through
-  governmentality         competitive             prohibition
-                          subjectivation          [\[24\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-
-  Social capital          Trust, reciprocity,     Erosion of everyday ties coexists with increasing returns to scarce network advantages
-  sociology               network resources,      [\[22\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-                          economic connectedness  
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Mechanisms and Causal Pathways
-
-The thesis becomes strongest when broken into mechanisms rather than
-left at the level of denunciation. The first mechanism is
-**marketization**: activities once coordinated by kinship, neighborhood,
-guild, parish, or customary reciprocity are shifted into labor contracts
-and service markets. Polanyi's "fictitious commodities" and Marx's
-labor-power as commodity are the master concepts here. The key point is
-not simply that markets exist, but that spheres once partly insulated
-from exchange become reorganized around price, portability, and
-substitutability.
-[\[25\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-
-The second mechanism is **bureaucratization and managerial mediation**.
-Once social life is abstracted from local bonds, it has to be
-coordinated at scale. Welfare systems, schools, hospitals, HR
-departments, licensing boards, and performance infrastructures become
-the institutional replacements for older, thicker forms of recognition
-and gatekeeping. In the latest OECD employer survey, 74% of managers
-reported that their firms use at least one algorithmic management tool
-to instruct, monitor, or evaluate workers. The same report notes
-concerns about accountability, explainability, surveillance-linked
-stress, and workers' physical and mental health. Eurofound likewise
-warns that electronic monitoring can diminish autonomy, trust, and
-well-being.
-[\[26\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf)
-
-The third mechanism is **therapeuticization**. Illouz argues that
-therapeutic discourse has become pervasive in advanced capitalist
-societies, while Rose's governmentality work tracks how psy-expertise
-shapes the "private self." In practical terms, modern institutions
-increasingly interpret suffering through individual coping, self-esteem,
-resilience, communication style, or emotional intelligence. This does
-not mean therapy is always bad; often it is beneficial. The critical
-point is that therapeutic languages can depoliticize structural strain
-by relocating conflict into self-management and emotional adjustment.
-[\[27\]](https://www.ucpress.edu/books/saving-the-modern-soul/pdf)
-
-The fourth mechanism is **credentialism and formalized sorting**. Blair
-and coauthors argue that the opportunity gap between non-BA workers and
-BA holders is not fully explained by human capital differences; it
-reflects an "intrinsic preference" by employers for the bachelor's
-credential itself. Kleiner and Krueger, meanwhile, find that by 2006
-about 29% of the U.S. workforce needed an occupational license, with
-significant wage effects. These are prototypical examples of how modern
-liberal-capitalist systems transform access to work, status, and
-security into mediated passage through certifications, licenses, and
-institutionally validated signals.
-[\[28\]](https://www.nber.org/system/files/working_papers/w28991/revisions/w28991.rev0.pdf)
-
-The fifth mechanism is **platform capitalism and datafied labor
-control**. OECD and ILO work emphasizes that platform systems organize
-access to clients, payments, ratings, and work allocation while raising
-concerns about income security, social protection, career development,
-and collective bargaining. In crowdwork, invisible unpaid labor
-materially lowers realized hourly pay. In short, fragments of labor once
-embedded in workplaces or professions are recomposed inside
-software-mediated marketplaces that profit from their coordination,
-measurement, and arbitrage.
-[\[29\]](https://www.oecd.org/en/publications/regulating-platform-work-in-the-digital-age_181f8a7f-en.html)
-
-The sixth mechanism is **consumer identity industry and self-branding**.
-Social media research now describes self-branding as a pervasive feature
-of social and economic life, while studies of "digital autopreneurs"
-argue that the competitive, creative, always-on self often ends in a
-form of "cruel optimism." This mechanism matters because the individual
-is no longer only a buyer of products or a seller of labor. The self
-becomes a branded portfolio, continuously curated for employability,
-monetization, visibility, and reputation.
-[\[30\]](https://journals.sagepub.com/doi/10.1177/2056305118784768)
-
-### Causal pathway sketch
-
-  ---------------------------------------------------------------------------------------------------------------------
-                                               ![Rendered Mermaid diagram
-   1](data/md/liberalism-social-disembedding-and-managed-dependency/media/media/rId42.png){width="5.833333333333333in"
-                                              height="8.587962598425197in"}
-
-  ---------------------------------------------------------------------------------------------------------------------
-
-This flowchart is a synthesis of Polanyi's disembedding thesis, Marxian
-commodification, Foucauldian governmentality, therapeuticization
-literatures, and recent OECD findings on algorithmic management and
-social connection. It should be read as an interpretive model, not as a
-single proven causal chain.
-[\[31\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-
-## Empirical Evidence
-
-The empirical record supports substantial pieces of the thesis, but
-unevenly. The strongest evidence concerns declining trust, weaker
-in-person sociality, rising loneliness salience, youth mental-health
-deterioration, precarious labor-market structures, and expanding forms
-of formalized sorting and digital surveillance. The weakest link is any
-attempt to show that one ideology called "liberalism" alone caused all
-of it. The evidence is therefore best used to evaluate the thesis as a
-**pattern of institutional tendency** rather than a singular causal law.
-[\[32\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-
-### Trend chart on social trust
-
-  ---------------------------------------------------------------------------------------------------------------------
-                                               ![Rendered Mermaid diagram
-   2](data/md/liberalism-social-disembedding-and-managed-dependency/media/media/rId47.png){width="5.833333333333333in"
-                                              height="4.393003062117235in"}
-
-  ---------------------------------------------------------------------------------------------------------------------
-
-The endpoints combine NORC's summary that half of respondents in 1972
-said most people could be trusted with Putnam's report that the same
-share was 37% in 1993 and about one-third by the mid-2010s. Longitudinal
-research using GSS data finds a substantial decline in U.S. social trust
-from 1973 to 2018.
-[\[33\]](https://gss.norc.org/content/dam/gss/for-survey-participants/documents/GSS%20Media%20Booklet_2020.pdf)
-
-### Trend chart on in-person social interaction
-
-  ---------------------------------------------------------------------------------------------------------------------
-                                               ![Rendered Mermaid diagram
-   3](data/md/liberalism-social-disembedding-and-managed-dependency/media/media/rId51.png){width="5.833333333333333in"
-                                              height="4.393003062117235in"}
-
-  ---------------------------------------------------------------------------------------------------------------------
-
-Across 21 European OECD countries, daily in-person contact with
-nonhousehold family fell from 17% in 2006 to 11% in 2022, while daily
-in-person contact with friends fell from 21% to 12%. Between 2015 and
-2022, young adults saw especially sharp declines in daily in-person
-contact with friends.
-[\[34\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf)
-
-### Trend chart on family structure
-
-  ---------------------------------------------------------------------------------------------------------------------
-                                               ![Rendered Mermaid diagram
-   4](data/md/liberalism-social-disembedding-and-managed-dependency/media/media/rId55.png){width="5.833333333333333in"
-                                              height="4.393003062117235in"}
-
-  ---------------------------------------------------------------------------------------------------------------------
-
-In the OECD-22 average, the share of children living with two married
-parents fell from 73% in 2005 to 65% in 2023, while the share living
-with two cohabiting parents rose from 9% to 17%. The share living with a
-single parent was comparatively stable on average, which means the main
-structural shift in the OECD average is from marriage toward
-cohabitation rather than only from two-parent to one-parent households.
-[\[35\]](https://webfs.oecd.org/els-com/Family_Database/SF_1_2_Children_in_families.pdf)
-
-### Trend chart on mental ill health
-
-  ---------------------------------------------------------------------------------------------------------------------
-                                               ![Rendered Mermaid diagram
-   5](data/md/liberalism-social-disembedding-and-managed-dependency/media/media/rId60.png){width="5.833333333333333in"
-                                              height="4.393003062117235in"}
-
-  ---------------------------------------------------------------------------------------------------------------------
-
-OECD analysis reports that in EU countries major depressive disorders
-rose from 2.2% in 1990 to 3.1% in 2023, while anxiety disorders rose
-from 4.8% to 8.0%. A separate OECD report on children and youth says
-that in 9 of 11 countries with time series data, youth mental-health
-status declined on average between 2012 and 2022, and that the rise in
-distress generally predated COVID-19.
-[\[36\]](https://www.oecd.org/en/publications/the-economic-case-for-preventing-mental-ill-health_16668f16-en/full-report/trends-and-patterns-in-mental-ill-health_43f77277.html)
-
-### Selected studies and indicators
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Study or dataset         Design and scope         Main finding        Relevance to     Important caution
-                                                                        thesis           
-  ------------------------ ------------------------ ------------------- ---------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Putnam, "Bowling Alone"  Multiple U.S. time       Volunteering,       Strong evidence  Putnam's causal account is debated, even when the broad trend is influential [\[37\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-                           series on civic          associational       for erosion of   
-                           participation and trust  membership,         civic social     
-                                                    neighborliness, and capital          
-                                                    trust fell; trust                    
-                                                    declined from 58%                    
-                                                    in 1960 to 37% in                    
-                                                    1993                                 
-
-  Mewes et al.             Longitudinal and         Individual-level    Supports a link  Only half the decline is explained; not a monocausal result [\[38\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-                           repeated-cross-section   factors, especially from labor       
-                           GSS analysis, 1973--2018 unemployment        insecurity and   
-                                                    scarring and        institutional    
-                                                    falling             erosion to       
-                                                    institutional       atomization      
-                                                    confidence, explain                  
-                                                    about half of trust                  
-                                                    decline                              
-
-  McPherson, Smith-Lovin,  GSS network module       Average core        Strong evidence  Later methodological disputes qualify magnitude, not the basic concern [\[39\]](https://www.researchgate.net/publication/237264578_Social_Isolation_in_America_Changes_in_Core_Discussion_Networks_Over_Two_Decades)
-  Brashears                comparison, 1985 vs.     discussion networks for thinning     
-                           2004                     shrank; reporting   intimate support 
-                                                    no one to discuss   networks         
-                                                    important matters                    
-                                                    nearly tripled                       
-
-  OECD Social Connections  Comparative              Daily in-person     Direct evidence  Pandemic effects overlap with longer-run shifts [\[40\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf)
-                           OECD-European evidence,  interaction with    of weaker        
-                           2006--2022               family and friends  ordinary social  
-                                                    fell; young adults  embeddedness     
-                                                    saw notable losses                   
-
-  OECD Family Database     OECD-22 comparison,      Married-parent      Indicates        Family change is not identical to family breakdown; some shifts reflect normative liberalization [\[35\]](https://webfs.oecd.org/els-com/Family_Database/SF_1_2_Children_in_families.pdf)
-                           2005--2023               households          restructuring of 
-                                                    declined;           the household    
-                                                    cohabiting-parent   base in which    
-                                                    households rose     solidarities are 
-                                                                        reproduced       
-
-  OECD youth mental-health OECD review of national  Most available      Supports the     Reporting changes and reduced stigma may affect trend visibility
-  report                   time series              series show         "managed but     [\[41\]](https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html)
-                                                    worsening youth     distressed self" 
-                                                    mental health       component of the 
-                                                    before and during   thesis           
-                                                    the pandemic                         
-
-  WHO Commission on Social Global synthesis,        Roughly 1 in 6      Strong evidence  Global estimates are not a direct measure of liberalism's effects [\[42\]](https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death)
-  Connection               2014--2023 estimates     people experience   that social      
-                                                    loneliness; 21%     fragmentation    
-                                                    among young people; has health       
-                                                    social              consequences,    
-                                                    disconnection       not only moral   
-                                                    linked to 871,000   symbolism        
-                                                    deaths annually                      
-
-  Kalleberg on precarious  Comparative labor-market Precarious work has Supports the     Labor institutions differ sharply across rich democracies [\[43\]](https://www.asanet.org/wp-content/uploads/sage_kalleberg_presidential_address.pdf)
-  work                     sociology                grown since the     dependency and   
-                                                    1970s and contrasts insecurity side  
-                                                    with the security   of the thesis    
-                                                    of the postwar                       
-                                                    decades                              
-
-  Kleiner and Krueger      National U.S. survey on  About 29% of        A clear metric   Not all licensing is parasitic; some protects quality and safety [\[44\]](https://www.nber.org/system/files/working_papers/w14308/w14308.pdf)
-                           occupational licensing   workers required a  of               
-                                                    license; licensing  credentialized   
-                                                    has wage effects    gatekeeping      
-                                                    roughly comparable                   
-                                                    to unions                            
-
-  Blair et al.             NBER analysis of job     Employers show an   Strong evidence  Focused on the U.S.; not all degree requirements are arbitrary [\[45\]](https://www.nber.org/system/files/working_papers/w28991/revisions/w28991.rev0.pdf)
-                           mobility and degree      intrinsic           that status      
-                           requirements             preference for BA   signals mediate  
-                                                    credentials;        access to        
-                                                    "degree inflation"  security and     
-                                                    filters out         advancement      
-                                                    qualified workers                    
-
-  OECD                     6,000 firms in six       74% of surveyed     Direct evidence  Measures managers' reports, not always workers' experience [\[46\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf)
-  algorithmic-management   countries                managers report at  of managerial    
-  survey                                            least one tool to   monetization and 
-                                                    instruct, monitor,  datafication     
-                                                    or evaluate workers                  
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Taken together, the best empirical case is cumulative. It is not that
-every indicator points in exactly the same direction. It is that several
-otherwise separate literatures---social trust, social connection, family
-structure, labor precarity, credential sorting, and mental-health
-deterioration---are all consistent with a broader picture in which
-social reproduction grows more mediated, more unstable, and more
-dependent on systems outside face-to-face community.
-[\[47\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-
-## Normative Comparison and Policy Implications
-
-The most careful comparison with fascism and communism treats them as
-different ways of subordinating human beings, not as moral equivalents.
-Fascism's core mechanism was open domination through dictatorship,
-militarization, racial hierarchy, and exterminatory violence. The
-Holocaust was systematic, state-sponsored persecution and murder,
-culminating in the "Final Solution" and killing centers built for mass
-murder. Stalinist and Maoist communist episodes, in turn, were marked by
-one-party rule, show trials, purges, coercive campaigns, persecution,
-and catastrophic upheavals; Britannica's summaries of the Great Purge
-and the Cultural Revolution capture the political terror and mass
-persecution dimensions, even if the full causal and quantitative
-literature is far larger than can be fully reviewed here.
-[\[48\]](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
-
-Liberalism's distinct pathology is not usually annihilation but
-**procedural extraction**. It governs through contracts, labor markets,
-property, credentials, administrative expertise, and platforms. Its
-violence is generally lower in intensity and less spectacular, but its
-harms can be chronic: atomization, dependency, loneliness, degraded
-civic trust, bureaucratic opacity, therapeutic self-blame, and
-continuous sorting by market or credential signal. This makes it
-analytically plausible to speak of a distinct liberal failure mode, but
-misleading to collapse that mode into the categories of genocide or
-totalitarian terror.
-[\[49\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-
-### Harm categories compared
-
-  -----------------------------------------------------------------------
-  Category          Liberal failure   Fascism           Communist
-                    mode                                authoritarian
-                                                        episodes
-  ----------------- ----------------- ----------------- -----------------
-  Signature         Diffuse market    Overt             One-party
-  coercion          and               dictatorship, war command, purges,
-                    administrative    mobilization,     campaign
-                    coercion;         racial domination politics,
-                    dependence on                       political terror
-                    systems for work,                   
-                    care, housing,                      
-                    status                              
-
-  Extermination     Not constitutive  Central in        Not constitutive
-                    and generally not Nazism, above all to communist
-                    central to        in the Holocaust  theory as such,
-                    liberal orders    and Final         but several
-                                      Solution          regimes carried
-                                                        out mass
-                                                        repression and
-                                                        lethal campaigns
-
-  Atomization       High in the       Ambivalent:       High in another
-                    critical          fascism destroys  sense: autonomous
-                    literature;       plural civil      associations are
-                    traditional ties  society but       absorbed by the
-                    weaken and are    simulates organic party-state
-                    replaced by       unity             
-                    mediated systems                    
-
-  Dependency        Dependence on     Dependence on     Dependence on
-                    wages,            militarized state party-state
-                    credentials,      and leader        allocation and
-                    experts, welfare  principle         surveillance
-                    and markets after                   
-                    disembedding                        
-
-  Managerial        Very high: needs  Secondary to      Bureaucratic
-  monetization      and identities    domination and    management high;
-                    are translated    war               monetization
-                    into services,                      lower or
-                    credentials,                        differently
-                    data, and markets                   structured
-
-  Typical           Chronic,          Acute,            Campaign-driven
-  temporality       normalized,       spectacular,      and coercive,
-                    procedural, often openly violent    often episodic
-                    low-visibility                      but intense
-  -----------------------------------------------------------------------
-
-This table is an analytical ideal-typical comparison synthesized from
-the cited literatures. It is most useful for distinguishing modes of
-domination, not for ranking all historical suffering on a single scale.
-[\[50\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-
-### Countermeasures
-
-If the thesis is even partly correct, the remedy is not simply "more
-state" or "more market." It is **re-embedding without authoritarian
-closure**. The practical agenda suggested by the literature includes
-stronger labor-market security and bargaining institutions to reduce
-precarious dependence; family policy that lowers the cost of
-childrearing and stabilizes time for care; reforms of housing
-affordability; and public investment in civic and social infrastructure
-that supports face-to-face interaction rather than assuming all deficits
-can be solved by individualized service purchase. OECD work on
-fertility, family policy, platform-work regulation, and social
-connection all point in that direction, as does WHO's framing of social
-connection as a public-health issue.
-[\[51\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/society-at-a-glance-2024_08001b73/918d8db3-en.pdf)
-
-A second cluster of reforms would target **mediated dependency itself**:
-scrutinize and roll back excessive occupational licensing; move toward
-skills-based hiring where possible; regulate algorithmic management for
-transparency, contestability, and health protections; and extend social
-protection and bargaining rights in platform-mediated work. The relevant
-literature does not imply abolishing professions or software, but it
-does imply putting them back in service of human capabilities rather
-than allowing them to become autonomous extraction and sorting systems.
-[\[52\]](https://www.nber.org/system/files/working_papers/w14308/w14308.pdf)
-
-A third cluster concerns **therapeutic and educational institutions**.
-The evidence on worsening youth mental health and loneliness suggests
-that counseling and treatment matter, but are insufficient if social
-disconnection, housing stress, labor uncertainty, and digital
-self-commodification remain untouched. The likely lesson is "social
-treatment" alongside clinical treatment: more stable routines,
-noncommercial third places, peer association, and less pressure to turn
-identity into a portfolio.
-[\[53\]](https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html)
-
-### Further reading
-
-For a compact but serious reading list, the most useful starting points
-are Walzer's **"The Communitarian Critique of Liberalism"**; Taylor's
-**"Atomism"**; Polanyi's **The Great Transformation**; Marx's **Capital,
-Volume I**, especially the chapters on commodities and labor-power;
-Foucault's **The Birth of Biopolitics**; Putnam's **"Bowling Alone"**;
-Bourdieu's **"The Forms of Capital"**; Chetty and coauthors' **"Social
-Capital I"**; Illouz's **Saving the Modern Soul** and **Cold
-Intimacies**; Kalleberg's work on precarious labor; and recent OECD
-reports on social connection, family change, mental health, platform
-work, and algorithmic management.
-[\[54\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-
-### Open questions and limitations
-
-This report leaves several questions open. The first is causal
-identification: many trends consistent with the thesis are also driven
-by digitization, aging, suburban form, schooling expansion, and
-postindustrial restructuring. The second is normative heterogeneity
-inside liberalism itself: civil-libertarian, social-liberal, and
-neoliberal variants do not behave identically. The third is measurement:
-social capital, loneliness, and family stability are all difficult to
-operationalize without flattening morally complex realities. The fourth
-is comparative scope: the OECD-focused evidence is strongest for rich
-democracies, while the most violent communist and fascist cases are
-historically exceptional regimes rather than ordinary liberal
-democracies. Those limitations do not refute the thesis, but they do
-mean the strongest academic conclusion is a qualified one: liberalism
-has a distinctive extractive-managerial failure mode, yet that claim is
-best defended as a historically recurrent tendency rather than as a
-total theory of modern decline.
-[\[55\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-[\[6\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-[\[18\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-[\[49\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-[\[50\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-[\[54\]](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
-https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf
-
-<https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf>
-
-[\[2\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-[\[8\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-[\[10\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-[\[14\]](https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i)
-https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i
-
-<https://oll.libertyfund.org/titles/robson-the-collected-works-of-john-stuart-mill-volume-xviii-essays-on-politics-and-society-part-i>
-
-[\[3\]](https://gss.norc.org/content/dam/gss/for-survey-participants/documents/GSS%20Media%20Booklet_2020.pdf)
-[\[33\]](https://gss.norc.org/content/dam/gss/for-survey-participants/documents/GSS%20Media%20Booklet_2020.pdf)
-https://gss.norc.org/content/dam/gss/for-survey-participants/documents/GSS%20Media%20Booklet_2020.pdf
-
-<https://gss.norc.org/content/dam/gss/for-survey-participants/documents/GSS%20Media%20Booklet_2020.pdf>
-
-[\[4\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-[\[22\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-[\[37\]](https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf)
-https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf
-
-<https://www.cftompkins.org/wp-content/uploads/2012/07/Putnam-article.pdf>
-
-[\[5\]](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
-[\[48\]](https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust)
-https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust
-
-<https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust>
-
-[\[7\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf)
-[\[34\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf)
-[\[40\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf)
-https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf
-
-<https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/social-connections-and-loneliness-in-oecd-countries_d6404192/6df2d6a0-en.pdf>
-
-[\[9\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-[\[32\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-[\[38\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-[\[47\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-[\[55\]](https://www.sciencedirect.com/science/article/pii/S0049089X21000144)
-https://www.sciencedirect.com/science/article/pii/S0049089X21000144
-
-<https://www.sciencedirect.com/science/article/pii/S0049089X21000144>
-
-[\[11\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-[\[12\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-[\[16\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-[\[19\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-[\[25\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-[\[31\]](https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf)
-https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf
-
-<https://www.inctpped.org/spiderweb/pdf_4/Great_Transformation.pdf>
-
-[\[13\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-[\[17\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-[\[21\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-[\[24\]](https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf)
-https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf
-
-<https://scispace.com/pdf/michel-foucault-s-the-birth-of-biopolitics-and-contemporary-etfla6wki6.pdf>
-
-[\[15\]](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)
-[\[20\]](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)
-[\[23\]](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)
-https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm
-
-<https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm>
-
-[\[26\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf)
-[\[46\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf)
-https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf
-
-<https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf>
-
-[\[27\]](https://www.ucpress.edu/books/saving-the-modern-soul/pdf)
-https://www.ucpress.edu/books/saving-the-modern-soul/pdf
-
-<https://www.ucpress.edu/books/saving-the-modern-soul/pdf>
-
-[\[28\]](https://www.nber.org/system/files/working_papers/w28991/revisions/w28991.rev0.pdf)
-[\[45\]](https://www.nber.org/system/files/working_papers/w28991/revisions/w28991.rev0.pdf)
-https://www.nber.org/system/files/working_papers/w28991/revisions/w28991.rev0.pdf
-
-<https://www.nber.org/system/files/working_papers/w28991/revisions/w28991.rev0.pdf>
-
-[\[29\]](https://www.oecd.org/en/publications/regulating-platform-work-in-the-digital-age_181f8a7f-en.html)
-https://www.oecd.org/en/publications/regulating-platform-work-in-the-digital-age_181f8a7f-en.html
-
-<https://www.oecd.org/en/publications/regulating-platform-work-in-the-digital-age_181f8a7f-en.html>
-
-[\[30\]](https://journals.sagepub.com/doi/10.1177/2056305118784768)
-https://journals.sagepub.com/doi/10.1177/2056305118784768
-
-<https://journals.sagepub.com/doi/10.1177/2056305118784768>
-
-[\[35\]](https://webfs.oecd.org/els-com/Family_Database/SF_1_2_Children_in_families.pdf)
-https://webfs.oecd.org/els-com/Family_Database/SF_1_2_Children_in_families.pdf
-
-<https://webfs.oecd.org/els-com/Family_Database/SF_1_2_Children_in_families.pdf>
-
-[\[36\]](https://www.oecd.org/en/publications/the-economic-case-for-preventing-mental-ill-health_16668f16-en/full-report/trends-and-patterns-in-mental-ill-health_43f77277.html)
-https://www.oecd.org/en/publications/the-economic-case-for-preventing-mental-ill-health_16668f16-en/full-report/trends-and-patterns-in-mental-ill-health_43f77277.html
-
-<https://www.oecd.org/en/publications/the-economic-case-for-preventing-mental-ill-health_16668f16-en/full-report/trends-and-patterns-in-mental-ill-health_43f77277.html>
-
-[\[39\]](https://www.researchgate.net/publication/237264578_Social_Isolation_in_America_Changes_in_Core_Discussion_Networks_Over_Two_Decades)
-https://www.researchgate.net/publication/237264578_Social_Isolation_in_America_Changes_in_Core_Discussion_Networks_Over_Two_Decades
-
-<https://www.researchgate.net/publication/237264578_Social_Isolation_in_America_Changes_in_Core_Discussion_Networks_Over_Two_Decades>
-
-[\[41\]](https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html)
-[\[53\]](https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html)
-https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html
-
-<https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html>
-
-[\[42\]](https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death)
-https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death
-
-<https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death>
-
-[\[43\]](https://www.asanet.org/wp-content/uploads/sage_kalleberg_presidential_address.pdf)
-https://www.asanet.org/wp-content/uploads/sage_kalleberg_presidential_address.pdf
-
-<https://www.asanet.org/wp-content/uploads/sage_kalleberg_presidential_address.pdf>
-
-[\[44\]](https://www.nber.org/system/files/working_papers/w14308/w14308.pdf)
-[\[52\]](https://www.nber.org/system/files/working_papers/w14308/w14308.pdf)
-https://www.nber.org/system/files/working_papers/w14308/w14308.pdf
-
-<https://www.nber.org/system/files/working_papers/w14308/w14308.pdf>
-
-[\[51\]](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/society-at-a-glance-2024_08001b73/918d8db3-en.pdf)
-https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/society-at-a-glance-2024_08001b73/918d8db3-en.pdf
-
-<https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/society-at-a-glance-2024_08001b73/918d8db3-en.pdf>
+A defensible version of the social-disembedding thesis does not claim that liberalism simply destroys community or that modern people are more dependent than people in older social orders. Pre-liberal societies were saturated with dependence: on kin, landlords, churches, guilds, patrons, villages, husbands, local status hierarchies, and inherited authorities. Liberal political economy often weakens or makes exit from some of those relations easier. At the same time, market society, welfare administration, mass education, professional credentialing, and digital platforms can move dependence into more impersonal systems.
+
+The central question is therefore not **dependence versus independence**. It is **which dependencies are displaced, which new dependencies are created, and how contestable they are**.
+
+This report uses **disembedding** for the movement of activities away from durable local or customary relations and into more portable market, legal, or administrative arrangements. It uses **managed dependency** for conditions in which access to important goods—income, health care, education, housing, status, social insurance, occupational permission, or platform-mediated work—is substantially routed through impersonal systems that classify, price, credential, monitor, or adjudicate individuals. The phrase is descriptive before it is normative. A universal pension and an opaque algorithmic labor platform are both impersonal systems, but they create very different forms of dependency.
+
+The historical and empirical record supports several parts of this framework.
+
+- Marketization can reduce dependence on inherited status while increasing dependence on wage income, prices, and formal contract. Karl Polanyi's classic account of labor, land, and money as "fictitious commodities" remains a useful theoretical description of this transition, although contemporary economic sociology cautions against treating embeddedness as a single measurable variable or assuming that markets ever become literally detached from social institutions. [Polanyi, *The Great Transformation*](https://archive.org/details/in.ernet.dli.2015.229910); [Krippner and Alvarez, 2007](https://doi.org/10.1146/annurev.soc.33.040406.131647)
+- Welfare states can **decommodify** access to important goods by reducing dependence on market earnings, and can **defamilialize** people by reducing compulsory dependence on relatives. These are genuine forms of emancipation. They also move entitlement into legal and administrative systems that define eligibility, contribution, documentation, and service access. The resulting dependence is institutional rather than simply personal. [Jacques and Noël, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9432727/); [Lohmann and Zagel, 2021](https://doi.org/10.1017/S0047279420000549)
+- Modern states and firms expand **legibility**: standardized identities, records, credentials, metrics, classifications, and data make large populations governable and organizations manageable. James C. Scott's analysis of state legibility and Michel Foucault's analysis of liberal government through incentives and competitive conduct illuminate this mechanism, but neither establishes that legibility is uniquely liberal. Some of Scott's strongest cases are authoritarian. [Scott, *Seeing Like a State*](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/); [Foucault, *The Birth of Biopolitics*](https://www.college-de-france.fr/en/agenda/lecture/the-birth-of-biopolitics)
+- Digital and workplace management deepen this mediated form of coordination. A 2025 OECD employer survey covering more than 6,000 firms across six countries found widespread use of algorithmic tools to instruct, monitor, or evaluate workers, alongside reported efficiency benefits and concerns about accountability, explainability, surveillance, and worker health. [OECD, 2025](https://doi.org/10.1787/287c13c4-en)
+- Social connection has changed in ways consistent with some forms of disembedding, but not with a simple story of social collapse. OECD data for 21 European countries show daily face-to-face contact with non-household family falling from 17% in 2006 to 11% in 2022 and daily contact with friends from 21% to 12%, while remote contact rose over the same period. That is evidence of **changing modes of association**, not proof that liberalism caused loneliness or destroyed community. [OECD, 2025](https://doi.org/10.1787/6df2d6a0-en)
+- U.S. generalized social trust declined substantially between the 1970s and 2018. Longitudinal work finds that unemployment scarring, satisfaction with income, and confidence in institutions explain a meaningful portion of that decline, while the full change remains only partly explained. Again, the outcome is real; ideological attribution is much harder. [Mewes et al., 2021](https://doi.org/10.1016/j.ssresearch.2021.102537)
+
+These findings support a conditional thesis: **modern liberal-capitalist societies frequently shift dependence from inherited persons and communities toward markets, formal organizations, public administration, credentials, and digital infrastructures.** Whether this constitutes domination depends less on the mere existence of mediation than on its design. Universal, transparent, portable, appealable institutions can increase substantive freedom. Opaque, monopolistic, highly conditional, or noncontestable systems can make nominally free individuals intensely dependent on organizations they cannot meaningfully challenge.
+
+The strongest critique of managed dependency is therefore a critique of **uncontestable mediation**, not of modern institutional life as such.
+
+## 1. From Atomization to Dependency Shift
+
+The inherited version of this argument often appears as an atomization story: liberalism emancipates individuals from family, church, guild, village, or customary hierarchy; those bonds weaken; isolated individuals then become dependent on markets and bureaucracies. That story captures a real possibility but hides the most important comparison. Older solidarities were not only sources of belonging. They were also systems of discipline, exclusion, obligation, and unequal bargaining power.
+
+A tenant embedded in a paternal estate, a worker dependent on a guild, a woman legally or economically dependent on relatives, or a dissenter subject to a confessional community may possess thick belonging without possessing much exit. Conversely, a modern worker may possess formal rights and geographic mobility while depending on an employer, landlord, insurer, credentialing authority, benefit agency, or software platform.
+
+The analytically useful variable is therefore not the **amount** of dependency. It is its structure.
+
+| Dependency form | Typical coordinating mechanism | Potential advantage | Potential vulnerability |
+| --- | --- | --- | --- |
+| Kinship / household | obligation, reciprocity, authority | durable care, low transaction costs, identity | nepotism, coercion, unequal exit, inherited status |
+| Local association | reputation, repeated interaction, common norms | trust, participation, contextual knowledge | exclusion, parochialism, gatekeeping |
+| Market | price, contract, competition | portability, choice, specialization | income dependence, bargaining inequality, commodification |
+| Welfare / public administration | legal entitlement, taxation, eligibility rules | decommodification, risk pooling, universality | bureaucratic opacity, classification, political conditionality |
+| Credential / profession | standardized qualification and licensing | quality assurance, portable signals | closure, entry barriers, credential inflation |
+| Platform / algorithmic system | ranking, data, ratings, automated allocation | scale, matching, convenience | surveillance, opacity, unilateral rule changes, weak appeal |
+
+The thesis becomes more precise when it asks how societies move between these forms and which combinations increase or reduce practical autonomy.
+
+## 2. Liberalism, Markets, and Disembedding
+
+### 2.1 Liberal philosophy is not identical to market society
+
+Liberal philosophy contains commitments to legal equality, individual rights, freedom of conscience, contract, and protection against arbitrary authority. A liberal society can also contain unions, churches, cooperatives, families, municipal institutions, public welfare systems, and strong voluntary associations. It is therefore a category error to infer the social consequences of every capitalist or bureaucratic institution directly from philosophical liberalism.
+
+Communitarian critics nevertheless identify a genuine tension. Michael Walzer argued that liberal theory can portray people as radically separate choosers while relying on social relationships and histories that make choice possible. Charles Taylor's critique of "atomism" similarly targets theories that treat individual rights or purposes as conceptually prior to the social conditions that form persons. These are philosophical critiques of an image of the person, not empirical demonstrations that liberal rights cause civic decline. [Walzer, 1990](https://www.ias.edu/sites/default/files/sss/pdfs/Walzer/CommunitarianCritiqueLiberalism.pdf)
+
+The empirical question begins when rights-bearing individualism is combined with historically specific institutions of industrial capitalism, national administration, mass schooling, welfare provision, and digital markets.
+
+### 2.2 Polanyi: commodification and the double movement
+
+Polanyi's *Great Transformation* provides the most influential vocabulary for social disembedding. His argument was not that economic activity can literally exist outside society. It was that the nineteenth-century project of a self-regulating market attempted to subject labor, land, and money to market coordination as though they were ordinary commodities. Because labor is human activity and land is the natural and social environment, full exposure to market fluctuation threatened social reproduction and generated protective countermovements.
+
+The concept is useful because it makes marketization a two-sided process. Markets can break inherited monopolies and allow exit from local hierarchy. They can also make livelihood depend more directly on employment, prices, credit, and market access. Protective institutions then re-embed market life through labor law, social insurance, public services, collective bargaining, or regulation.
+
+Economic sociology has since used "embeddedness" in several different senses. Krippner and Alvarez emphasize that Polanyi's project differs from later network accounts such as Granovetter's. For this reason, the present report does not treat "disembedding" as a single numerical index. It is a family of institutional transitions that must be specified by domain. [Krippner and Alvarez, 2007](https://doi.org/10.1146/annurev.soc.33.040406.131647)
+
+### 2.3 Dependence on markets is still dependence
+
+Wage labor illustrates the change clearly. Formal freedom to sell labor to different employers can increase exit from hereditary occupations and personal masters. Yet a person without independent wealth remains dependent on obtaining income through labor markets. The dependency is less personalized but not absent.
+
+This distinction matters for political theory. A system can increase **formal exit** while also increasing exposure to market fluctuations. Conversely, a protective institution can reduce market dependence while increasing dependence on public administration. The relevant welfare question becomes: which dependency exposes a person to less arbitrary power?
+
+## 3. Welfare: Re-Embedding, Decommodification, and Administrative Mediation
+
+The welfare state is a decisive counterexample to any claim that modern liberal orders simply push people into markets. Social insurance, public health systems, pensions, unemployment protection, disability support, family benefits, housing assistance, and public education can weaken the link between immediate market success and access to basic goods.
+
+### 3.1 Decommodification
+
+In welfare-state research, **decommodification** describes the degree to which people can maintain an acceptable livelihood without relying entirely on market participation. The concept is contested and difficult to measure, but it captures a real institutional effect: unemployment insurance makes temporary job loss less catastrophic; public health coverage can make medical access less dependent on employer choice; pensions reduce the need to sell labor at advanced age.
+
+Jacques and Noël analyze 21 OECD countries from 1971 to 2010 and report a positive relationship between welfare generosity and population health, framing decommodification as one pathway by which welfare states can protect people from harmful market exposure. This observational evidence does not by itself prove every causal step, and the comparative-welfare literature disputes how best to measure decommodification, but it is strong evidence against the simple equation **more public provision = more harmful dependency**. [Jacques and Noël, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9432727/)
+
+### 3.2 Defamilialization
+
+Public provision can also reduce compulsory reliance on relatives. Comparative social-policy research uses **defamilialization** to describe arrangements that allow individuals to maintain socially acceptable living standards independently of family relationships. Childcare, individual entitlements, pensions, disability support, and care services can reduce vulnerability to a spouse, parent, or adult child.
+
+That change may weaken some family obligations, but it can also make intimate relationships less coercive. The normative effect therefore cannot be inferred from a decline in family dependence alone. [Lohmann and Zagel, 2021](https://doi.org/10.1017/S0047279420000549)
+
+### 3.3 Administration is the price of impersonal entitlement
+
+At the same time, universal or means-tested programs require rules. Someone must define legal categories, establish eligibility, process evidence, adjudicate disputes, and allocate scarce resources. The person who becomes less dependent on a relative or employer may become more dependent on an entitlement system functioning correctly.
+
+This is the strongest version of the **managed dependency** insight. Modern welfare can be simultaneously emancipatory and administrative:
+
+**market or family dependence decreases → formal entitlement increases → access becomes mediated by rules, records, agencies, and professional judgment.**
+
+The key question is not whether mediation exists. It is whether the system is predictable, universal or fairly targeted, accessible, transparent, appealable, and insulated from arbitrary retaliation.
+
+## 4. Political Domestication as a Subordinate Mechanism
+
+The separate report *Liberalism as Political Domestication* developed a closely related argument around Weber, Foucault, and Scott. That material is better treated as a mechanism inside the broader disembedding framework than as an independent thesis.
+
+### 4.1 From personal authority to legal-rational authority
+
+Modern administration increasingly coordinates people through general rules, offices, records, standardized procedures, and technical expertise rather than through personal loyalty or hereditary status. This resembles Weber's familiar distinction between traditional and legal-rational authority. The shift can reduce personal arbitrariness while producing a dense institutional environment in which access depends on being correctly classified by formal systems.
+
+The result is not necessarily "domestication" in the pejorative sense. Standardized law can protect individuals from local prejudice and patronage. But formalization also makes persons more legible to large organizations.
+
+### 4.2 Scott: legibility
+
+Scott's *Seeing Like a State* shows how states increase governing capacity by simplifying complex local realities into administratively usable categories: names, maps, property records, standardized measures, censuses, cadastral systems, planned settlements, and other forms of legibility. His warning concerns high-modernist interventions that mistake simplified representations for the full social reality and suppress local practical knowledge. [Scott, *Seeing Like a State*](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/)
+
+Scott should not be recruited as proof that liberalism uniquely produces legibility. His cases include authoritarian and revolutionary regimes. Legibility is a feature of modern state capacity more generally. Its relevance here is that liberal orders also require it to administer rights, taxes, benefits, contracts, education, and regulation at scale.
+
+### 4.3 Foucault: government through freedom and competition
+
+Foucault's lectures on liberal and neoliberal governmentality emphasize forms of rule that operate through incentives, markets, norms, risk, and the structured field in which formally free subjects make choices. In his discussion of neoliberalism, competition is not simply a natural fact discovered by government; it becomes an institutional principle that policy can actively construct. [Foucault, *The Birth of Biopolitics*](https://www.college-de-france.fr/en/agenda/lecture/the-birth-of-biopolitics)
+
+This provides a useful vocabulary for **management without direct command**. But it remains a theoretical interpretation. Showing that a workplace uses metrics or that a benefit program classifies recipients does not by itself prove a Foucauldian causal story. The value of governmentality theory is to generate questions about how nominal freedom can coexist with intense institutional steering.
+
+## 5. Credentials, Professions, and Portable Status
+
+Disembedding is not only a market/state transition. Modern societies also replace some locally known reputations with standardized credentials.
+
+A village or guild can evaluate a person through long-term familiarity, lineage, apprenticeship, or local testimony. Large anonymous societies need more portable signals. Degrees, licenses, examinations, certifications, professional memberships, credit files, and standardized records allow organizations to evaluate people who are strangers to one another.
+
+This can increase mobility. A portable credential may let a person leave a local patron and prove competence elsewhere. It can also create closure. If a credential becomes a mandatory gate to work that could otherwise be learned or demonstrated directly, access to livelihood becomes dependent on the credentialing institution.
+
+The same institutional form can therefore be both **anti-parochial** and **gatekeeping**. The relevant empirical questions are whether the credential predicts needed competence, whether alternative demonstrations of competence are accepted, how costly entry is, and whether incumbents control the gate.
+
+## 6. Platforms and Algorithmic Management
+
+Digital systems intensify the movement from interpersonal coordination to impersonal mediation because they can make allocation, evaluation, surveillance, and enforcement continuous.
+
+The OECD's 2025 employer survey on algorithmic management covered more than 6,000 firms in France, Germany, Italy, Japan, Spain, and the United States. It found widespread employer use of algorithmic tools to instruct, monitor, or evaluate workers, although prevalence varied sharply by country. Managers reported benefits in decision-making and efficiency while also reporting concerns about responsibility, explainability, worker health, and the effects of monitoring. [OECD, 2025](https://doi.org/10.1787/287c13c4-en)
+
+This is strong evidence for **increased organizational mediation and legibility**. It is not evidence that liberal ideology caused algorithmic management. Similar technologies can be deployed under many political regimes. Their relevance to managed dependency lies in the structure of power they create: a worker may formally be free to leave, yet while participating in the labor market may depend on rankings, schedules, productivity measures, or allocation systems whose rules are difficult to inspect or appeal.
+
+The same problem appears in platform work, online marketplaces, credit scoring, automated fraud systems, admissions systems, and recommendation infrastructures. Digital mediation becomes domination when high dependence combines with opacity and weak contestability.
+
+## 7. What the Social-Connection Evidence Actually Shows
+
+The inherited report treated several trends—declining trust, less face-to-face contact, family change, mental-health distress—as cumulative evidence that liberalism produces atomization. That inference is too strong.
+
+### 7.1 Face-to-face contact has declined while remote contact has increased
+
+The OECD's 2025 *Social Connections and Loneliness in OECD Countries* provides a more careful picture. Across 21 European OECD countries, daily face-to-face contact with non-household family declined from 17% in 2006 to 11% in 2022. Daily face-to-face contact with friends fell from 21% to 12%. Over the same period, daily remote contact increased: for non-household family from 23% to 29%, and for friends from 24% to 28%. [OECD, 2025](https://doi.org/10.1787/6df2d6a0-en)
+
+This is evidence of a shift in **mode** as well as frequency. It is compatible with a disembedding interpretation because social interaction moves toward mediated, portable communication. But the same evidence is also compatible with geographic mobility, digital substitution, pandemic effects, changing work patterns, and ordinary technological adoption.
+
+The OECD report also shows that most people still report substantial support and connection. It should not be cited as evidence that modern societies have become uniformly isolated.
+
+### 7.2 Trust decline is real but causal attribution is difficult
+
+Mewes and colleagues use U.S. General Social Survey data from 1973 to 2018 and find a substantial decline in generalized social trust. Their longitudinal models identify unemployment scarring, income satisfaction, and confidence in institutions among important individual-level contributors and estimate that measured changes explain roughly half of the aggregate decline. [Mewes et al., 2021](https://doi.org/10.1016/j.ssresearch.2021.102537)
+
+The finding is useful precisely because it complicates a single "loss of community" story. Economic insecurity and institutional confidence matter. Social trust is affected by labor-market experience and perceptions of institutions, not simply by the number of associations to which a person belongs.
+
+### 7.3 Social outcomes cannot identify an ideology by themselves
+
+Marriage change, secularization, union decline, suburbanization, mass education, women's employment, demographic aging, migration, housing markets, television, automobiles, smartphones, and deindustrialization all overlap historically with liberal-capitalist development. Many also occur in societies with different ideological histories.
+
+An outcome trend cannot establish liberalism as its cause merely because it occurred in liberal societies. Strong causal claims require variation: policy changes, institutional discontinuities, cross-national contrasts, cohort differences, or other designs that distinguish liberal rights, marketization, welfare administration, technology, and demographic change from one another.
+
+## 8. Public Institutions Can Support Trust Rather Than Crowd It Out
+
+The strongest form of the managed-dependency thesis predicts that replacing local reciprocity with impersonal public provision should erode social trust. Comparative research does not justify that universal prediction.
+
+Rothstein and Uslaner argue that high-quality, impartial public institutions and economic equality are closely connected to generalized trust and that universalistic social policies can avoid some of the stigmatizing and discretionary features associated with narrowly targeted programs. The causal relationships among equality, welfare institutions, corruption, and trust are contested; later work has shown that trust can itself help produce supportive welfare institutions. The important point is that **large public systems and high generalized trust can coexist**. [Rothstein and Uslaner, 2005](https://doi.org/10.1353/wp.2006.0022)
+
+This is a major boundary condition. Administrative mediation is not equivalent to atomization. Institutions can create reliable expectations among strangers, reduce exposure to arbitrary private dependence, and make cooperation possible beyond local communities.
+
+The distinction is between **impersonal** and **arbitrary**, not between impersonal and human. A well-designed impersonal institution can be less dominating than an intimate but unaccountable patron.
+
+## 9. When Managed Dependency Becomes Domination
+
+The phrase "managed dependency" is normatively meaningful only when it is connected to institutional properties. Six dimensions are especially useful.
+
+### 9.1 Contestability
+
+Can a person challenge a decision, obtain reasons, introduce evidence, and receive review by an institution with authority to correct errors?
+
+### 9.2 Portability
+
+Can benefits, credentials, reputation, health coverage, or work history travel with the person, or does exit from one organization destroy accumulated claims?
+
+### 9.3 Universality and rule stability
+
+Are similarly situated people governed by predictable rules, or does access depend on discretionary favor, opaque exceptions, or status relationships?
+
+### 9.4 Exit and alternatives
+
+Does formal exit lead to a realistic alternative, or does monopoly, geographic constraint, licensing, network effect, or poverty make exit merely nominal?
+
+### 9.5 Transparency and legibility in both directions
+
+Modern systems make individuals legible to institutions. Freedom is greater when institutions are also legible to individuals: rules can be inspected, data use can be understood, decisions can be explained, and responsible officials or procedures can be identified.
+
+### 9.6 Preservation of intermediary capacity
+
+Does the system leave room for families, unions, cooperatives, congregations, mutual-aid associations, municipalities, professions, and voluntary organizations to retain meaningful capacity, or does every problem become routed through a small number of centralized public or corporate systems?
+
+These dimensions distinguish empowering infrastructure from domination better than a simple state-versus-community or market-versus-family binary.
+
+| Institutional pattern | Likely effect on practical autonomy |
+| --- | --- |
+| Universal benefit + clear rules + appeal + portability | Can reduce arbitrary market/family dependence |
+| Competitive market + low switching costs + portable reputation | Can expand exit and bargaining options |
+| Credential with transparent competence justification + alternate routes | Can support portable trust |
+| Opaque algorithm + monopoly + no reasons + nonportable rating | High managed-dependency risk |
+| Means-tested system + discretionary administration + severe benefit cliffs | Can create strong bureaucratic dependence |
+| Intimate community + no exit + inherited hierarchy | Thick sociality but potentially severe personal domination |
+
+## 10. A Better Empirical Research Program
+
+The disembedding thesis can be made testable by studying transitions rather than simply assembling modern malaise indicators.
+
+### 10.1 Marketization tests
+
+Identify reforms that move a service from household/community/public provision toward market provision or vice versa. Measure effects on labor supply, family obligation, geographic mobility, bargaining power, social support, and perceived autonomy.
+
+### 10.2 Decommodification and defamilialization tests
+
+Compare changes in benefits or public services that reduce dependence on employers or relatives. Ask whether beneficiaries gain exit options, whether family relationships become weaker or simply less compulsory, and whether administrative burden offsets part of the gain.
+
+### 10.3 Legibility and contestability tests
+
+For credentialing, welfare, and algorithmic systems, measure both institutional information about the person and the person's information about the institution. A one-sided system—high surveillance of individuals, low explainability of decisions—should predict a different experience of dependency than a transparent, appealable system.
+
+### 10.4 Social-capital effects
+
+Measure bonding, bridging, and cross-class ties separately. A policy can weaken one kind of tie while strengthening another. The relevant question is not whether "community" rises or falls as a single quantity but which networks become more or less necessary and which resources flow through them.
+
+### 10.5 Cross-regime comparison
+
+Because bureaucracy, surveillance, markets, and family decline are not unique to liberal democracies, comparative tests should include nonliberal and mixed regimes. If the same institutional tendencies appear under very different political philosophies, the causal theory should assign them to modernization, capitalism, state capacity, technology, or demographic transition rather than liberalism itself.
+
+## 11. Synthesis
+
+The original disembedding critique contains an important insight but overstates it when it treats liberalism as a machine that destroys natural community and manufactures dependent individuals.
+
+Modern liberal-capitalist development has often broken inherited status orders and expanded exit. That is not a trivial achievement. The same development has also expanded wage dependence, administrative classification, credentials, expert systems, and digital mediation. Welfare institutions then complicate the picture further by reducing dependence on employers and relatives while making access to resources more administratively mediated.
+
+The result is best understood as a **recomposition of dependency**.
+
+- Some personal dependencies become contractual.
+- Some market dependencies become social rights.
+- Some local reputations become portable credentials.
+- Some face-to-face interactions become technologically mediated.
+- Some direct managerial commands become metrics, rankings, incentives, and algorithms.
+- Some private obligations become publicly administered entitlements.
+
+None of these transformations is automatically emancipatory or dominating. Their normative meaning depends on whether people can contest decisions, carry claims across institutions, understand the rules governing them, exit without catastrophic loss, and maintain alternative centers of association and power.
+
+## Conclusion
+
+The strongest version of the thesis is therefore narrower than "liberalism atomizes society" and more institutionally precise:
+
+> **Modern liberal-capitalist orders often replace inherited personal dependencies with market, legal, administrative, credentialed, and digital dependencies. These replacements can increase freedom when they reduce arbitrary personal power and provide portable, universal, contestable rights; they become forms of managed domination when essential access is concentrated in opaque, nonportable, weakly contestable systems.**
+
+This formulation preserves the insight behind social-disembedding and political-domestication critiques while incorporating their strongest counterevidence. Welfare can decommodify. Public institutions can support generalized trust. Digital mediation can maintain connection as well as thin it. Markets can enable exit as well as create exposure. Families and communities can nurture as well as dominate.
+
+The relevant political problem is not how to return to a world without dependency. No such social world exists. It is how to construct dependencies whose rules are visible, whose power is contestable, whose benefits are portable, and whose existence does not eliminate the intermediary institutions through which people can organize independently of both market and state.
