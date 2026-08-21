@@ -1,128 +1,191 @@
 # Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
 
-## Executive summary
+## Executive Summary
 
-Claims that culture is parasitic on unmet human needs usually collapse three different propositions into one: an **origin claim** about where cultural forms come from, a **functional claim** about what cultural artifacts do for consumers, and a **reproductive claim** about what kinds of human states allow cultural systems to keep growing. Once those claims are separated, the evidentiary picture becomes clearer. The literature strongly supports a **weak version** of the thesis: many cultural forms do in fact arise from frustration, vulnerability, threat, loss, loneliness, uncertainty, status discrepancy, or existential anxiety; many cultural artifacts also function as **symbolic substitutes** or **social surrogates** that partially relieve those deficits without fully resolving them. Anthropology, social psychology, consumer research, psychoanalytic and political-economic traditions all contain versions of this argument. Malinowski’s ritual-under-uncertainty, compensatory-control work on religion, compensatory-consumption research, parasociality studies, and work on outrage diffusion all point in that direction. [\[1\]](https://yale.imodules.com/s/1667/images/gid6/editor_documents/flick_readings/flick_sup_readings/malinowski-the_role_of_magic_and_religion.pdf)
+The proposition that culture is "parasitic" on unsatisfied human needs contains several different claims that should not be treated as interchangeable. A **compensation claim** says that people sometimes turn to cultural goods, narratives, rituals, or mediated relationships when psychological needs are frustrated. A **substitution claim** says that those cultural forms can provide symbolic or partial satisfaction of the frustrated need. A stronger **reproduction claim** says that a cultural system benefits from the continued nonresolution of the underlying need because repeated frustration sustains repeated attention, consumption, or production.
 
-The evidence is much weaker for the **strong version** that culture as such is structurally dependent on unsatisfied people and requires their dissatisfaction to reproduce. That strong claim is plausible for some sectors of modern culture—especially advertising, creator economies, celebrity systems, trauma markets, grievance-driven digital media, and prestige competitions—because these sectors measurably profit from insecurity, loneliness, self-discrepancy, outrage, and unresolved status desire. Official and industry data show the size and growth of these markets: U.S. internet advertising approached \$300 billion in 2025, social media advertising reached \$63.4 billion, podcast advertising reached \$2.9 billion, and U.S. creator ad spend was projected at \$37 billion in 2025; recorded music revenues reached \$31.7 billion globally in 2025, with paid streaming and other attention-based formats as core growth drivers. [\[2\]](https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2025/)
+The first two claims have meaningful empirical support in bounded domains. Consumer-psychology research shows that self-discrepancies can motivate compensatory consumption, including symbolic self-completion, escapism, and other strategies by which goods or experiences regulate threatened identities. Experimental work on social surrogacy shows that favored television programs can be sought under belongingness threat and can temporarily buffer loneliness, rejection, negative mood, and self-esteem loss. Compensatory-control research likewise shows that threatened control can increase reliance on external systems of order, including religious and secular institutions under some conditions. These findings justify a narrow conclusion: **some cultural consumption functions as compensation for unmet psychological needs.** [Mandel et al., 2017](https://doi.org/10.1016/j.jcps.2016.05.003); [Derrick, Gabriel, and Hugenberg, 2009](https://doi.org/10.1016/j.jesp.2008.12.003); [Kay et al., 2008](https://doi.org/10.1037/0022-3514.95.1.18)
 
-But the strong thesis fails as a universal theory of culture because there are major counterexamples. Experimental and observational research shows that ritual, arts participation, and musical engagement can increase positive affect, bonding, flourishing, and health rather than feed on unresolved deprivation. Self-determination theory also suggests that creativity and intrinsically motivated activity often emerge from supported autonomy, competence, and relatedness, not merely from frustration. In other words, some culture is compensatory, some is extractive, and some is generative. The best-supported conclusion is therefore: **large parts of modern, commodified, attention-optimized culture are parasitic on unmet needs, but culture per se is not reducible to parasitism.** [\[3\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7840012/)
+Evidence for the reproduction claim is more indirect. Online-network research demonstrates that social feedback can reinforce future expressions of moral outrage and that outrage facilitates the sharing of misinformation. These studies establish mechanisms by which high-arousal affect can become self-reinforcing inside digital systems. They do **not**, by themselves, show that platforms or cultural industries require users to remain lonely, insecure, angry, or dissatisfied. Likewise, the enormous scale of advertising and creator markets shows that attention can be monetized, but market size is not evidence that unresolved need is the causal substrate of that market. [Brady et al., 2021](https://doi.org/10.1126/sciadv.abe5641); [McLoughlin et al., 2024](https://doi.org/10.1126/science.adl2829); [IAB/PwC, 2026](https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2025/)
 
-## Framing the hypothesis
+The universal thesis is contradicted by evidence that cultural activity also emerges from curiosity, intrinsic motivation, play, competence, social connection, celebration, and flourishing. Self-determination theory treats satisfaction of autonomy, competence, and relatedness as supportive of intrinsic motivation and healthy functioning rather than as conditions under which meaningful activity disappears. Population research also finds positive associations between arts-and-crafts participation and several measures of subjective well-being. Culture can therefore be compensatory, exploitative, generative, or some combination depending on the activity and institutional setting. [Vansteenkiste, Ryan, and Soenens, 2020](https://doi.org/10.1007/s11031-019-09818-1); [Ryan and Deci, 2020](https://doi.org/10.1016/j.cedpsych.2020.101860); [Keyes et al., 2024](https://doi.org/10.3389/fpubh.2024.1417997)
 
-Three levels of “parasitism” can be distinguished. First, **etiological parasitism**: culture originates disproportionately where needs are unsatisfied. Second, **functional parasitism**: cultural artifacts offer symbolic, virtual, or displaced satisfactions for needs that remain unmet in direct life. Third, **reproductive parasitism**: cultural systems reproduce most effectively when those underlying needs remain unresolved, because unresolved dissatisfaction generates repeated engagement, repeated consumption, and repeated production. The weak variant of the thesis requires only the first two. The strong variant requires all three. [\[4\]](https://yale.imodules.com/s/1667/images/gid6/editor_documents/flick_readings/flick_sup_readings/malinowski-the_role_of_magic_and_religion.pdf)
+The most defensible version of the hypothesis is consequently sector-specific:
 
-The relevant “unsatisfied needs” fall into four families. **Physical need frustration** includes food insecurity, sleep deprivation, pain, illness burden, and housing or economic insecurity. **Emotional need frustration** includes depression, anxiety, chronic negative affect, shame, and low life satisfaction. **Social need frustration** includes loneliness, rejection, low belonging, weak relational support, and perceived exclusion. **Spiritual or existential need frustration** includes low meaning, low coherence, mortality salience, low control, and religious or existential anxiety. These categories map well onto established literatures: self-determination theory’s autonomy-competence-relatedness framework, belongingness theory, loneliness research, depression epidemiology, and existential / terror-management research. [\[5\]](https://selfdeterminationtheory.org/wp-content/uploads/2024/01/2016_VandenbroeckFerrisEtAl_a-review-of-self-determination-theory.pdf)
+> **A cultural system is parasitic on an unmet human need when need frustration measurably increases engagement with the system, the system offers partial or symbolic relief rather than direct resolution, and the system's reproduction or revenue is strengthened by recurrent engagement while the originating need remains unresolved.**
 
-At the level of social prevalence, the background conditions that would make compensatory culture plausible are plainly present. The U.S. Surgeon General reported that in recent years about half of U.S. adults experienced loneliness; the CDC says about one in three U.S. adults feel lonely and about one in four lack social and emotional support; the WHO Commission on Social Connection reported in 2025 that loneliness and isolation are widespread; Gallup’s global data found 23% of people worldwide felt lonely “a lot of the day yesterday”; and WHO reported in 2025 that an estimated 5.7% of adults globally live with depression. These are not marginal conditions. They are mass conditions. [\[6\]](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
+This definition preserves the critical force of the idea while turning it into a claim that can be tested and falsified.
 
-The following diagram states the thesis as a causal model testable with survey, experimental, and market data.
+## 1. Three Claims Hidden Inside "Parasitism"
 
-|  |
-|:--:|
-| <img src="assets/media/rId27.png" style="width:5.83333in;height:0.79218in" alt="Rendered Mermaid diagram 1" /> |
+The metaphor becomes analytically useful only after separating three levels.
 
-This loop is directly compatible with compensatory-consumption theory, social-surrogacy research, compensatory-control theory, and research on platform amplification of outrage. The weak thesis requires only the path from **A to D**. The strong thesis requires the full feedback loop from **F to I and back to F**. [\[7\]](https://business.columbia.edu/sites/default/files-efs/pubfiles/25960/Galinsky_Compensatory.pdf)
+### 1.1 Compensation
 
-## Related Marginalia Essays
+A frustrated need increases the probability of consuming or producing a cultural form. Examples might include turning to a favorite fictional world after rejection, purchasing a status-bearing good after a self-threat, or seeking an ordered worldview after a loss of perceived control.
 
-The Marginalia corpus already contains a coherent conceptual cluster around this thesis, even if the language varies by post. Relevant essays include **“Liberal Gothic: Quick Facts,” “Liberal Gothic: An Analytical Report,” “Dead Symbols and their Worship,” “Meme Culture and ‘Borderer-Right’ Style,” “Distinguishing ‘Borderer/Right-coded’ vs ‘Left/Awkward-Authentic’ Internet Memes,”** and **“The Matrix as Cultural Technology.”** **“Corporate Capital and Progressive Cultural Politics”** also functions as a political-economy anchor for the cluster. **“Aesthetics for the Maimed”** remains uncertain and is treated here as unverified rather than absent. [\[8\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-quick-facts/)
+This is the weakest version and has the strongest evidence. It requires neither pathology nor manipulation by producers. A person may knowingly use music, fiction, ritual, games, or consumption as a coping strategy and may benefit from doing so.
 
-The **Liberal Gothic** pair is the clearest precursor to the current thesis. In “Quick Facts,” the distinction among *diagnostic culture*, *necrotic culture*, and *restorative culture* is explicit, as is the description of a “trauma economy” in which platforms and brands turn suffering into market objects. In the analytical report, liberal-gothic works are defined as confessional narratives organized around individual suffering, private wounds, and therapeutic discourse; the report also notes the criticism that such forms privatize suffering and convert trauma into spectacle. Together, these essays provide a vocabulary for moving from a merely aesthetic claim to a structural claim about reproduction and monetization. [\[9\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-quick-facts/)
+### 1.2 Symbolic substitution
 
-“Dead Symbols and their Worship” extends the same structure into prestige culture. There the object is not trauma media but an institutionally consecrated field whose unresolved difficulty, remoteness, and aura become social capital. The essay argues that prestige systems can become dependent on the continued existence of unresolved wounds, not because the wound is good in itself but because its unresolvedness produces status, hierarchy, and ritual deference. This is close to the strong form of the thesis, translated from general culture into the prestige economy of a discipline. [\[10\]](https://sguzman.github.io/marginalia/posts/nietzche-math-critique/)
+The cultural activity provides an experience that resembles or partially supplies the missing resource without necessarily changing the external condition that created the deficit. A parasocial relationship can provide an experience of belonging without becoming a reciprocal friendship. A status good can symbolically repair a threatened self-concept without changing the underlying social hierarchy. A worldview can restore a sense of order without increasing personal control over the event that caused uncertainty.
 
-The meme posts extend the argument into digital circulation. “Meme Culture and ‘Borderer-Right’ Style” emphasizes mockery, taunt culture, celebratory aggression, and anti-elite bonding; the companion framework post contrasts this with memes of vulnerability and sincerity. Read together, these essays already imply that digital cultural reproduction often rides on affective deficits—resentment, disgust, humiliation, exclusion, the wish for in-group refuge, or alternatively the wish for vulnerability and recognition. [\[11\]](https://sguzman.github.io/marginalia/posts/meme-culture-and-borderer-right-style-a-research-report/)
+Substitution is not inherently harmful. Temporary emotional regulation can be useful. The relevant question is whether the cultural substitute complements direct need satisfaction, facilitates it, competes with it, or becomes the primary response to a chronic problem.
 
-The internal logic of the cluster can be summarized with the following timeline.
+### 1.3 Reproductive dependence
 
-|  |
-|:--:|
-| <img src="assets/media/rId35.png" style="width:5.83333in;height:5.63529in" alt="Rendered Mermaid diagram 2" /> |
+The strongest claim concerns the cultural system rather than the individual consumer. A system is reproductively parasitic when recurrent need frustration reliably supplies engagement and when the system has incentives or mechanisms that preserve, intensify, or repeatedly reactivate the states that drive that engagement.
 
-The sequence moves from political economy, to digital reproduction, to trauma aesthetics, to prestige worship, to infrastructural forms that silently organize cultural life. The thesis therefore emerges as a generalization of a longer-running research program across the essay corpus rather than as an isolated claim. [\[12\]](https://sguzman.github.io/marginalia/)
+That claim requires substantially more evidence than showing that lonely people watch television or that distressed consumers buy symbolic goods. It requires a feedback loop.
 
-### Primary-source table
+| Stage | Required observation |
+| --- | --- |
+| Need frustration | A specified deficit or threat can be measured before engagement. |
+| Selection | Greater frustration predicts greater use of the cultural form, ideally causally rather than only correlationally. |
+| Effect | Engagement produces a measurable psychological or social consequence. |
+| Nonresolution | The underlying condition remains materially unresolved or returns. |
+| Recurrence | Continued frustration predicts repeated engagement. |
+| System incentive | Producers, platforms, institutions, or status structures benefit from that recurrence. |
+| Optimization | The system adapts in ways that increase capture of the need-driven engagement. |
 
-| Post or cluster | Relevance to the current hypothesis | What it contributes |
-|----|----|----|
-| **Liberal Gothic: Quick Facts** [\[13\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-quick-facts/) | Very high | Names “necrotic culture” and “trauma economy”; culture extracts value from suffering without healing it. |
-| **Liberal Gothic: An Analytical Report** [\[14\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-an-analytical-report/) | Very high | Gives a genre model of confessional, trauma-centered, therapeutic media; distinguishes private sorrow from systemic repair. |
-| **Dead Symbols and their Worship** [\[15\]](https://sguzman.github.io/marginalia/posts/nietzche-math-critique/) | Very high | Extends the thesis to prestige culture: unresolved difficulty and symbolic scarcity as status engines. |
-| **Corporate Capital and Progressive Cultural Politics** [\[16\]](https://sguzman.github.io/marginalia/) | High | Thematically relevant as a political-economy anchor for the wider cluster. |
-| **Meme Culture and “Borderer-Right” Style** [\[17\]](https://sguzman.github.io/marginalia/posts/meme-culture-and-borderer-right-style-a-research-report/) | High | Shows how digital culture reproduces through mockery, in-group bonding, aggression, and status inversion. |
-| **Distinguishing meme styles** [\[18\]](https://sguzman.github.io/marginalia/posts/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/) | Moderate to high | Sharpens the contrast between grievance-driven and vulnerability-driven memetics. |
-| **The Matrix as Cultural Technology** [\[19\]](https://sguzman.github.io/marginalia/posts/matrix-culture/) | Moderate | Shows how infrastructures and metaphors become invisible cultural substrates, useful for the “reproduction” part of the thesis. |
-| **Aesthetics for the Maimed** | Unconfirmed | Mentioned in the wider project context, but treated here as unverified. |
+Evidence for only the first three rows supports **compensatory culture**. The full sequence is needed to support **parasitic reproduction**.
 
-## Mechanisms and operationalization
+## 2. Evidence for Compensatory Cultural Use
 
-The best interdisciplinary synthesis is that culture becomes “parasitic” when it does three things at once: it **arises from a deficit**, it **offers symbolic relief**, and it **fails or declines to resolve the originating deficit because its circulation benefits from repetition**. This is exactly what compensatory-consumption research describes. Koles, Wells, and Tadajewski define compensatory consumption as behavior triggered by perceived deficits, needs, and desires that cannot be fulfilled directly and are therefore compensated through alternative means; Mandel and colleagues similarly model consumption as a response to self-discrepancies in domains like power, belonging, control, and esteem. [\[20\]](https://eprints.whiterose.ac.uk/id/eprint/122421/1/Compensatory_consumption_and_consumer_compromises_FINAL_accepted.pdf)
+### 2.1 Self-discrepancy and compensatory consumption
 
-The general pattern is measurable through the following indicators.
+The clearest general evidence comes from consumer psychology. Mandel, Rucker, Levav, and Galinsky synthesize a literature in which discrepancies between the current self and desired self can change consumption. Their compensatory-consumer-behavior model distinguishes direct resolution from symbolic self-completion, dissociation, escapism, and fluid compensation. Products and experiences can therefore acquire psychological value because they regulate a threat rather than merely satisfy a utilitarian preference. [Mandel et al., 2017](https://doi.org/10.1016/j.jcps.2016.05.003)
 
-### Evidence and measurement table
+This literature supports a mechanism much narrower than the claim that advertising or consumption is founded on misery. It shows that **some consumption is need- or threat-regulating** and that the form of compensation depends on the threatened domain and the consumer's available strategies. It also gives the parasitism hypothesis a measurable independent variable: self-discrepancy or threat can be manipulated or measured before consumption rather than inferred from the fact that consumption occurred.
 
-| Indicator of “cultural parasitism” | Operational measure |
-|----|----|
-| **Need-frustration gradient** | Higher creation or consumption among people with higher loneliness, lower belonging, lower perceived control, higher self-discrepancy, higher depression/anxiety, or greater existential threat, measured with instruments such as BPNSFS, UCLA-style loneliness scales, PHQ-9 / GAD measures, or meaning / death-anxiety scales. [\[21\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11554446/) |
-| **Quasi-satiation effect** | Short-term reduction in loneliness, rejection, negative mood, or self-esteem threat after exposure to favored media, fandom, or symbolic goods. Derrick et al. show favorite TV can buffer loneliness, mood, and rejection; this closely matches a “virtual consumption of the original need” mechanism. [\[22\]](https://ubwp.buffalo.edu/gabriellab/wp-content/uploads/sites/65/2025/04/Derrick-J.-L.-Gabriel-S.-Hugenberg-K.-J.-2009.-Social-surrogacy-How-favored-television-programs-provide-the-experience-of-belonging.pdf) |
-| **Recurrence without resolution** | Repeat use rises when the underlying need remains unresolved. Compensatory-consumption reviews point to chronic forms tied to recurrent anxieties, unhappiness, and deprivation. [\[23\]](https://eprints.whiterose.ac.uk/id/eprint/122421/1/Compensatory_consumption_and_consumer_compromises_FINAL_accepted.pdf) |
-| **Supply-side optimization** | Producer and platform revenue grows where engagement can be harvested from insecurity, outrage, or attachment. IAB reports sharp growth in social, video, podcast, and creator channels; Science studies show moral outrage and misinformation spread advantageously through network learning and sharing incentives. [\[24\]](https://iabhongkong.com/sites/default/files/2026-04/IAB_PwC_Internet_Ad_Revenue_Report_Full_Year_2025_April_2026.pdf) |
-| **Narrative saturation** | Content analysis finds recurring themes of trauma, confession, grievance, loneliness, redemption, status anxiety, or deficit identities. This appears in liberal-gothic media, trauma publishing, therapy-speak discourse, and celebrity/fandom ecosystems. [\[25\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-an-analytical-report/) |
-| **Displacement cost** | Greater time, money, or affective investment in symbolic surrogates than in direct need satisfaction, such as parasocial attachment displacing reciprocal social life or status goods displacing problem resolution. This is central to parasocial and compensatory-consumption theories. [\[26\]](https://ubwp.buffalo.edu/gabriellab/wp-content/uploads/sites/65/2025/04/Derrick-J.-L.-Gabriel-S.-Hugenberg-K.-J.-2009.-Social-surrogacy-How-favored-television-programs-provide-the-experience-of-belonging.pdf) |
+### 2.2 Favored media as social surrogates
 
-A strong empirical test would combine these indicators in a panel design. For instance: measure individuals’ need frustration at baseline; track what culture they create and consume; identify whether use gives immediate subjective relief; then test whether relief is temporary and whether repeat use is strongest when underlying conditions remain unmet. A sector-level test would correlate cultural market growth with cohort-specific loneliness, economic insecurity, or identity threat, and then examine whether producer rhetoric, algorithm design, and ad formats preferentially target those states. None of that has yet been done as a single unified program, but most of the constituent pieces already exist in the literature. [\[27\]](https://www.who.int/groups/commission-on-social-connection/report)
+Derrick, Gabriel, and Hugenberg provide unusually direct evidence for symbolic substitution in four studies of favored television programs. Participants reported turning toward favored programs when lonely; experimentally activating belongingness needs increased attention to favored programs; and thinking about favored programs buffered several effects of relationship threat. The authors appropriately described the evidence as preliminary evidence for a social-surrogacy hypothesis rather than proof that television substitutes for social life in general. [Derrick, Gabriel, and Hugenberg, 2009](https://doi.org/10.1016/j.jesp.2008.12.003)
 
-## Evidence from cases and industries
+This is close to the mechanism the present hypothesis requires:
 
-The religion case strongly supports the weak thesis. In Malinowski’s classic account, dangerous and uncertain open-sea fishing in the Trobriands is surrounded by ritual and magic, whereas safer, more controllable lagoon fishing is not; later compensatory-control research similarly shows that threats to personal control can increase religious belief in a controlling deity or institution. Terror-management theory generalizes this by arguing that cultural worldviews buffer existential anxiety and that self-esteem within a cultural order helps manage mortality awareness. This is powerful evidence that at least some religious culture originates in and functions through unmet needs for certainty, control, order, and mortality management. [\[28\]](https://yale.imodules.com/s/1667/images/gid6/editor_documents/flick_readings/flick_sup_readings/malinowski-the_role_of_magic_and_religion.pdf)
+**belongingness threat → favored mediated social world → partial subjective belonging or threat relief.**
 
-Fandom and parasociality support both the origin and function parts of the thesis. Derrick, Gabriel, and Hugenberg show that people turn to favorite television programs when lonely, feel less lonely when consuming them, and can buffer against self-esteem loss, negative mood, and rejection through favorite parasocial objects. More recent work also frames social-media influencer relations through parasocial bonds, belonging, and social support as mediators of loneliness. Mediated attachment can therefore work as symbolic belonging. This closely resembles a “virtual consumption of the original need” mechanism, but on empirically grounded terms. [\[29\]](https://ubwp.buffalo.edu/gabriellab/wp-content/uploads/sites/65/2025/04/Derrick-J.-L.-Gabriel-S.-Hugenberg-K.-J.-2009.-Social-surrogacy-How-favored-television-programs-provide-the-experience-of-belonging.pdf)
+But the study does not establish the stronger sequence:
 
-Therapeutic culture and trauma media offer one of the clearest bridges from the weak thesis to the strong one. The liberal-gothic essays diagnose a genre organized by confession and trauma. Peer-reviewed work on therapy-speak notes the diffusion of therapeutic concepts into everyday and online discourse; a TikTok content analysis found over 1 billion cumulative views among sampled mental-health videos, with almost half of the assessed videos expressing or reporting symptoms of mental distress; and a publishing-industry analysis argues that trauma narratives operate simultaneously as healing vehicles, commodities, and sources of vicarious trauma for workers who must produce and market them. This is not proof that all trauma discourse is bad. It is evidence that there are now market structures that actively scale and monetize wounded narration. [\[30\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-quick-facts/)
+**belongingness threat → permanent displacement of reciprocal relationships → industry dependence on continued loneliness.**
 
-Celebrity and creator industries show the reproductive logic of parasitic culture especially clearly. Peer-reviewed work links celebrity worship to psychological emptiness, social exclusion, desire for fame, maladaptive daydreaming, problematic internet use, and a cluster of mental-health vulnerabilities; official and industry sources show that creator advertising has become a core media channel, with U.S. creator ad spend projected at \$37 billion in 2025, while YouTube says its creative ecosystem contributed over \$55 billion to U.S. GDP in 2024 and supported more than 490,000 jobs. This does not mean creators require misery to exist. It does mean that a very large economic sector now converts intimacy, identification, aspiration, and often loneliness into measurable ad inventory and employment. [\[31\]](https://link.springer.com/article/10.1186/s40359-026-04386-9)
+That distinction is central. Cultural compensation is empirically observable; cultural parasitism requires an additional institutional argument.
 
-Advertising is perhaps the most straightforward “parasitic” case in the strong sense because it is built around the manufacture or intensification of discrepancy. Compensatory-consumption theory explicitly identifies self-discrepancy as a trigger for consumption across power, belonging, competence, and status domains; it also notes that idealized advertising can increase the gap between actual and ideal self. Related research links body-image dissatisfaction to impulse buying and shows broader links among materialism, body shame, self-esteem, and brand engagement in self-concept. Official IAB data then show the enormous scale of the machinery that monetizes these discrepancies: internet advertising neared \$300 billion in 2025, social media advertising reached \$63.4 billion, video grew 25.4% year over year, and programmatic advertising reached \$162.4 billion. [\[32\]](https://business.columbia.edu/sites/default/files-efs/pubfiles/25960/Galinsky_Compensatory.pdf)
+### 2.3 Control, order, and external systems
 
-Meme culture and grievance-driven digital politics support the strong thesis more selectively. Science Advances found that social learning amplifies moral-outage expression in online networks, and Science reported in 2024 that misinformation exploits outrage to spread online. The Marginalia meme essays similarly describe systems that exploit mockery, boundary-work, and in-group bonding through aggression. This suggests a reproductive mechanism: cultural units built from anger, resentment, and humiliation often diffuse better than units built from calm satisfaction. That is not the same as saying all memes require unhappy users. It is evidence that some digital cultural ecologies are tuned to negative affect as a growth substrate. [\[33\]](https://www.science.org/doi/10.1126/sciadv.abe5641)
+Compensatory-control research supplies another bounded mechanism. Kay and colleagues found that support for external systems such as government or a controlling God can vary with manipulations of perceived personal control, and later reviews developed the claim that religious conviction can sometimes supply compensatory order. The literature also contains failed replications and boundary conditions, so it should not be generalized into a rule that uncertainty automatically produces religion or conspiracy belief. [Kay et al., 2008](https://doi.org/10.1037/0022-3514.95.1.18); [Kay et al., 2010](https://doi.org/10.1177/1088868309353750)
 
-Prestige academic culture is a subtler case, but the “Dead Symbols” essay is not idiosyncratic here. Research on the prestige economy of higher-education journals describes research systems as competitive status economies; Nature and related sources report substantial graduate-student mental-health burden; and broader meta-analytic work finds high anxiety prevalence among graduate students. The connection is not that scholarship exists only because scholars suffer. It is that prestige systems often reproduce themselves through scarcity, unsolvedness, hierarchy, and distinction, allowing unresolved intellectual wounds to become social assets. The essay turns that into a more polemical theory of symbolic dependency. [\[34\]](https://link.springer.com/article/10.1007/s10734-020-00553-y)
+The useful lesson is methodological. If a cultural explanation claims that a worldview answers an unmet need for control, the hypothesis can be tested by manipulating or measuring control and observing whether attachment to the worldview changes. "Culture answers anxiety" need not remain a purely interpretive statement.
 
-### Case comparison table
+## 3. Evidence for Reproduction Through Affect
 
-| Case | Likely unmet need | Substitute or reproductive mechanism | Weak claim | Strong claim |
-|----|----|----|----|----|
-| **Religion / ritual under uncertainty** [\[35\]](https://yale.imodules.com/s/1667/images/gid6/editor_documents/flick_readings/flick_sup_readings/malinowski-the_role_of_magic_and_religion.pdf) | Control, certainty, meaning, death anxiety | Ritual and worldview buffer uncertainty and mortality | **Strong support** | **Partial**: some forms yes, but religion also persists in celebration and abundance |
-| **Fandom / parasocial TV** [\[22\]](https://ubwp.buffalo.edu/gabriellab/wp-content/uploads/sites/65/2025/04/Derrick-J.-L.-Gabriel-S.-Hugenberg-K.-J.-2009.-Social-surrogacy-How-favored-television-programs-provide-the-experience-of-belonging.pdf) | Belonging, rejection relief | Favorite media provides symbolic belonging and mood repair | **Strong support** | **Partial**: repeat use exists, but not all fandom is dependency |
-| **Influencer / celebrity culture** [\[36\]](https://www.researchgate.net/publication/386047812_Social_media_influencers_and_followers%27_loneliness_the_mediating_roles_of_parasocial_relationship_sense_of_belonging_and_social_support) | Belonging, identity, aspiration, emptiness | Intimacy and identification converted into monetizable attention | **Strong support** | **Strong-to-partial**: especially in creator advertising and celebrity attachment markets |
-| **Trauma media / therapeutic culture** [\[37\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-an-analytical-report/) | Recognition, explanation, healing, identity | Confession and wound-narration generate audience affect and markets | **Strong support** | **Strong in some sectors**: publishing and platforms can scale trauma as commodity |
-| **Advertising** [\[38\]](https://business.columbia.edu/sites/default/files-efs/pubfiles/25960/Galinsky_Compensatory.pdf) | Status, body image, belonging, competence | Manufactures discrepancy and sells symbolic repair | **Strong support** | **Very strong** in commercial attention markets |
-| **Meme / grievance ecosystems** [\[39\]](https://www.science.org/doi/10.1126/sciadv.abe5641) | Resentment, humiliation, in-group threat | Outrage and mockery diffuse efficiently online | **Moderate-to-strong support** | **Partial**: especially for political and antagonistic memetics |
-| **Prestige academic culture** [\[40\]](https://cpp.amu.edu.pl/wp-content/uploads/2016/08/Kwiek_Elite_Journals_in-Higher_Education_Preprint.pdf) | Status insecurity, distinction, unresolved mastery | Scarcity and difficulty become prestige capital | **Moderate support** | **Partial**: strong as critique of prestige systems, weaker as universal account of knowledge culture |
-| **Arts, ritual, music as flourishing practices** [\[41\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7840012/) | Often not deficit-driven; sometimes abundance, play, bonding | Can directly increase wellbeing, positive affect, and connection | **Counterexample** | **Counterexample** |
+The strongest evidence for the system side of the hypothesis concerns digital feedback, especially outrage. It demonstrates feedback and amplification, though not necessarily need frustration.
 
-## Counterexamples and boundary conditions
+Brady and colleagues analyzed millions of tweets and conducted preregistered experiments. Positive social feedback for outrage expressions increased the likelihood of future outrage expression, while users also adjusted expression toward the norms of their networks. The result is a genuine cultural feedback mechanism: an expressive form can be socially reinforced and reproduced through platform-visible rewards. [Brady et al., 2021](https://doi.org/10.1126/sciadv.abe5641)
 
-The strongest boundary condition is that not all culture is compensatory. There is substantial evidence that arts participation and ritual can be health-promoting, bonding, and flourishing-producing in their own right. A Frontiers study found that creating arts and crafts positively predicted subjective well-being, including life satisfaction and reduced loneliness; fixed-effects work linked increases in arts engagement to increased flourishing; review work on music-making emphasizes its role in social bonding; and a DCMS-commissioned report concludes there is a growing body of evidence that cultural engagement benefits health and well-being and can even be monetized as a public good. Those findings are incompatible with a universal theory in which culture is necessarily parasitic on misery. [\[42\]](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1417997/full)
+McLoughlin and colleagues subsequently examined more than one million Facebook links, tens of thousands of tweets, and behavioral experiments. Misinformation sources evoked more outrage than trustworthy sources; outrage increased sharing; and participants were more willing to share outrage-evoking misinformation without first reading it. Again, the relevant finding is not that unhappy people cause misinformation. It is that **outrage possesses transmission advantages in specific online information environments.** [McLoughlin et al., 2024](https://doi.org/10.1126/science.adl2829)
 
-Self-determination theory makes the same point from a motivational angle. It treats autonomy, competence, and relatedness as basic needs, but it does **not** claim that all activity springs from frustration. On the contrary, supported need satisfaction promotes intrinsic motivation, and research links need satisfaction to creativity and intrinsically motivated engagement. This matters because it offers a rival pathway for cultural production: humans may create not only because they are lacking, but also because they are energized, agentic, competent, curious, and socially supported. Culture can be an overflow, not just a compensation. [\[43\]](https://selfdeterminationtheory.org/wp-content/uploads/2024/01/2016_VandenbroeckFerrisEtAl_a-review-of-self-determination-theory.pdf)
+These studies support part of the reproductive thesis:
 
-Another limitation is historical generality. It is easier to defend the hypothesis about **modern commodified culture** than about culture in the broad anthropological sense. In classic anthropological cases, ritual and symbolism often answer uncertainty or danger, which supports the view. But in many societies ritual also marks transitions, celebrations, gratitude, alliance, and collective joy. Likewise, even in commercial settings, music, festival, and play are not reducible to pathology. The strong thesis gains force the more one narrows the reference class to **platform-driven, ad-funded, prestige-organized, therapeutically coded modern cultures**. It loses force when applied to all symbolic life. [\[44\]](https://yale.imodules.com/s/1667/images/gid6/editor_documents/flick_readings/flick_sup_readings/malinowski-the_role_of_magic_and_religion.pdf)
+**affective expression → social reward or sharing advantage → more expression/circulation.**
 
-## Judgment and implications
+They do not establish that the originating affect reflects an unmet psychological need, that the platform created that need, or that the platform requires the affect to remain unresolved. Those are separate empirical questions.
 
-**Variant A, the weak claim, is plausible and well supported.** Culture often does originate in unmet need, threat, grief, uncertainty, self-discrepancy, loneliness, or existential anxiety; and cultural consumption often functions as a symbolic or virtual satisfaction of those deficits. On that evidence, the thesis sits squarely in conversation with Malinowski, terror management theory, compensatory control, compensatory consumption, parasociality, and political-economy critiques of cultural industries. [\[45\]](https://yale.imodules.com/s/1667/images/gid6/editor_documents/flick_readings/flick_sup_readings/malinowski-the_role_of_magic_and_religion.pdf)
+## 4. Commercial Scale Is Context, Not Causal Proof
 
-**Variant B, the strong claim, is too strong as stated if “culture” means all symbolic, artistic, ritual, and intellectual life.** The evidence does not show that happy or satisfied humans cease to create culture, nor that all cultural systems collapse as satisfaction rises. What the evidence does support is a narrower but more devastating thesis: **many modern cultural industries are structurally dependent on recurring dissatisfaction because they monetize symbolic compensation without resolving the underlying causes.** That narrower thesis is especially persuasive for advertising, creator and celebrity economies, grievance media, trauma markets, and prestige systems. [\[46\]](https://iabhongkong.com/sites/default/files/2026-04/IAB_PwC_Internet_Ad_Revenue_Report_Full_Year_2025_April_2026.pdf)
+The economic stakes are large. IAB/PwC reported U.S. internet advertising revenue of about **$294.6 billion in 2025**, while IAB separately projected U.S. creator-economy ad spend at roughly **$37 billion** for 2025. These figures demonstrate the size of systems that convert attention and engagement into revenue. [IAB/PwC Internet Advertising Revenue Report, 2026](https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2025/)
 
-A refined version of the thesis, therefore, would be:
+They do not demonstrate that the underlying attention was generated by loneliness, status anxiety, trauma, or dissatisfaction. A market can monetize sports enthusiasm, practical search, comedy, music, friendship, hobby expertise, curiosity, and positive identification just as readily as it can monetize insecurity or outrage.
 
-> **Culture is not universally parasitic, but large sectors of modern commodified culture are parasitic on unmet human needs. They arise from need-frustration, offer symbolic substitute satisfactions, and reproduce most efficiently when those needs remain unresolved.**
+Accordingly, the claim that a particular cultural industry is parasitic requires evidence at the level of **engagement mechanism**, not merely revenue. The following inferential move is invalid:
 
-That formulation keeps the philosophical bite while matching the evidence. It also integrates the existing Marginalia vocabulary. “Necrotic culture” can name sectors that feed on wounds without healing them. “Dead symbols” can name prestige systems that turn unresolvedness into capital. “Liberal gothic” can name trauma-centered aesthetic forms that moralize private suffering while risking commodification. The meme essays can then explain how grievance and vulnerability each become differential engines of circulation. [\[47\]](https://sguzman.github.io/marginalia/posts/liberal-gothic-quick-facts/)
+> a large advertising market + widespread loneliness = advertising structurally depends on loneliness.
 
-### Open questions and limitations
+A defensible study would instead show that a defined measure of need frustration predicts engagement, that producers or recommendation systems identify and exploit the associated behavioral signal, and that the resulting engagement is commercially valuable while the underlying deficit remains unresolved.
 
-One limitation of the present evidence is scale integration. There is strong micro-level evidence for symbolic substitution and partial relief, and strong meso-level evidence for market incentives, but fewer studies directly connecting population well-being trajectories to the growth of specific cultural sectors over time. A second limitation is classification: some cultural forms oscillate between restorative and parasitic functions depending on context, audience, and platform incentives. A third is evidentiary unevenness across sectors, with some recent claims resting on abstracts, summaries, or partial public availability rather than uniformly complete source access. None of those limitations overturns the main conclusion, but they do matter for how universal the thesis can be made. [\[48\]](https://eprints.whiterose.ac.uk/id/eprint/122421/1/Compensatory_consumption_and_consumer_compromises_FINAL_accepted.pdf)
+## 5. Background Need Frustration Does Not Establish Cultural Causation
+
+Unmet social needs are common enough to make compensatory behavior an important research target. The World Health Organization's 2025 Commission on Social Connection estimated that roughly **one in six people globally** experiences loneliness, with especially high prevalence among younger people. [WHO Commission on Social Connection, 2025](https://www.who.int/groups/commission-on-social-connection/report)
+
+Prevalence, however, should not be confused with explanation. A society can simultaneously have high loneliness and high media consumption without one causing the other. The relevant causal questions are individual and institutional:
+
+1. Does loneliness precede increased use of the specific cultural form?
+2. Does experimentally or naturally changing loneliness change that use?
+3. What psychological effect does the use produce?
+4. Does the cultural use crowd out, complement, or have no effect on reciprocal social connection?
+5. Does the producer or platform gain from the recurrent pattern?
+
+The same discipline applies to insecurity, grief, identity threat, status discrepancy, or perceived lack of control.
+
+## 6. Counterevidence: Culture From Satisfaction, Play, and Flourishing
+
+A universal deficit theory of culture would predict that cultural production or engagement should diminish as psychological needs are satisfied. Existing motivational research provides no basis for that expectation.
+
+Self-determination theory distinguishes need **satisfaction** from need **frustration** and links satisfaction of autonomy, competence, and relatedness to healthier motivation and functioning. Reviews of intrinsic motivation likewise describe people as capable of learning, mastery, exploration, and creative engagement under need-supportive conditions. A person can make music because the activity is interesting and mastery is pleasurable, not because music is compensating for a wound. [Vansteenkiste, Ryan, and Soenens, 2020](https://doi.org/10.1007/s11031-019-09818-1); [Ryan and Deci, 2020](https://doi.org/10.1016/j.cedpsych.2020.101860)
+
+Arts participation also cannot be classified only as a symptom of deficit. In a 2024 analysis of 7,182 adults in England, arts-and-crafts participation positively predicted life satisfaction, happiness, and a sense that life was worthwhile after adjustment for several sociodemographic variables. This observational result does not prove that arts activity causes flourishing, but it is plainly inconsistent with the assumption that cultural engagement is intelligible only as a marker of deprivation. [Keyes et al., 2024](https://doi.org/10.3389/fpubh.2024.1417997)
+
+Culture can therefore emerge from at least two broad motivational routes:
+
+| Deficit-responsive route | Generative route |
+| --- | --- |
+| rejection → social surrogate | relatedness → shared play or performance |
+| self-discrepancy → symbolic compensation | competence → mastery and craft |
+| loss of control → external order | autonomy → self-directed creation |
+| anger/threat → high-arousal expression | curiosity → exploration and learning |
+| insecurity → status-signaling consumption | abundance → celebration, gift, ornament, or experimentation |
+
+Real cultural practices can contain both routes simultaneously.
+
+## 7. A More Precise Taxonomy
+
+Rather than classifying whole media or genres as parasitic by intuition, four categories are more useful.
+
+### Generative culture
+
+The activity is substantially supported by intrinsic interest, mastery, reciprocal sociality, celebration, exploration, or play. Need satisfaction can sustain rather than extinguish participation.
+
+### Compensatory culture
+
+Need frustration measurably increases engagement, and engagement offers symbolic or emotional relief. The available evidence on self-discrepancy and favored-media social surrogacy fits here.
+
+### Extractive culture
+
+A commercial or institutional system monetizes high engagement generated by psychological states such as threat, outrage, insecurity, or status competition. Evidence of extraction requires a producer or platform incentive, not just evidence that the consumer was distressed.
+
+### Parasitic culture
+
+The strongest category should be reserved for systems in which the following entire pattern is demonstrated: unmet need increases engagement; engagement provides partial rather than direct resolution; recurrence follows persistent need; and the system benefits from or optimizes for the recurrent state. A parasitic system need not intentionally cause the original deficit, but its reproduction is materially helped by the deficit's persistence.
+
+This taxonomy prevents a common equivocation. A cultural form can be compensatory without being extractive; extractive without being tied to an unmet basic need; restorative despite having originated in suffering; or simultaneously generative for one participant and exploitative for another.
+
+## 8. What a Direct Test Would Require
+
+The strong thesis is testable. A useful research program would combine individual longitudinal data with platform or market data.
+
+### Individual-level design
+
+1. Measure a specified need or discrepancy before cultural engagement.
+2. Track actual rather than recalled cultural use over time.
+3. Measure immediate changes in affect, belonging, control, self-esteem, or perceived competence.
+4. Separately measure real-world resolution of the originating condition.
+5. Test whether unresolved need predicts recurrence after controlling for ordinary preference and habit.
+
+### System-level design
+
+1. Identify content features associated with the need-driven engagement.
+2. Determine whether ranking, recommendation, advertising, pricing, or creator incentives reward those features.
+3. Estimate the incremental revenue or retention attributable to the need-linked engagement.
+4. Test whether interventions that directly satisfy the need reduce, leave unchanged, or increase engagement.
+5. Compare the result with positive-interest controls such as hobby mastery, celebration, or intrinsically motivated creation.
+
+The decisive counterfactual is especially important. If direct improvement in belonging, control, security, or status leaves use unchanged, then recurrent consumption may simply reflect preference. If direct improvement reliably reduces engagement with a specific symbolic substitute, the compensation hypothesis becomes much stronger. If a platform's optimization then preferentially restores the need-linked engagement, the reproductive-parasitism claim becomes empirically plausible.
+
+## Conclusion
+
+The broad proposition that culture is parasitic on unsatisfied human needs is too strong. Human beings also make and consume culture under conditions of satisfaction, curiosity, mastery, play, celebration, and reciprocal connection. Psychological need satisfaction does not imply cultural silence.
+
+A narrower theory survives and is more useful. **Some cultural behavior is demonstrably compensatory:** threats to self, belonging, or control can redirect people toward symbolic goods, favored media, or ordered worldviews that provide partial psychological relief. **Some digital cultural forms also possess self-reinforcing affective transmission mechanisms:** outrage can be rewarded, learned, and spread. **Some commercial systems monetize the resulting engagement.**
+
+Those findings do not yet establish the complete loop in which cultural institutions structurally require the underlying need to remain unsatisfied. That final step should be treated as a research hypothesis, not as a premise. "Parasitic culture" is therefore most defensible as a strict institutional category for cases where recurrent unresolved need is shown to be an input into system reproduction, rather than as a universal description of symbolic life.

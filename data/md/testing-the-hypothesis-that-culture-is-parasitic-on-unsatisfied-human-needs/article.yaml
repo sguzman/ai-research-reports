@@ -1,9 +1,9 @@
 ---
-abstract: A wide-ranging report that tests whether culture is parasitic on unmet human needs by distinguishing
-  origin, function, and reproduction claims. It argues that many cultural forms do arise from loneliness,
-  insecurity, grief, status discrepancy, and existential anxiety, and that many modern cultural industries
-  monetize symbolic compensation without resolving the underlying deficits; but it rejects the stronger
-  claim that all culture depends on dissatisfaction for its existence.
+abstract: >-
+  An evidence-tiered test of the hypothesis that culture feeds on unmet human needs. The report separates
+  compensatory use, symbolic substitution, extractive monetization, and the stronger claim of reproductive
+  dependence, finding direct evidence for bounded compensatory mechanisms and affective reinforcement but
+  not for a universal theory in which culture requires persistent dissatisfaction.
 aliases: []
 author:
 - Salvador Guzman
@@ -15,104 +15,121 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
 - Culture
 - Social Theory
 - Psychology
-cover-image: ''
-cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: marginalia-culture-parasitic-unsatisfied-needs-2026-06-30
 date: '2026-06-30'
-description: A report on compensatory culture, symbolic substitution, trauma markets, and the conditions
-  under which modern cultural industries feed on unmet needs.
-draft: true
+description: >-
+  A source-audited test of when cultural use compensates for frustrated needs and what additional evidence
+  is required before a cultural industry can be said to depend on those needs remaining unresolved.
+draft: false
 edition: '1'
 editorial_profile: academic
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
-isCJKLanguage: false
 keywords:
-- Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
-- Cultural theory
-- Social psychology
-- Compensatory consumption
-- Trauma economy
-- Parasociality
-- Media critique
-- Symbolic substitution
+- cultural theory
+- compensatory consumption
+- unmet needs
+- social surrogacy
+- parasocial media
+- moral outrage
+- attention markets
+- self-determination theory
+- cultural reproduction
 lang: en
 language: English
-lastmod: '2026-08-19'
-layout: ''
+lastmod: '2026-08-21'
 library_of_congress_classification:
   class: HM
   description: Sociology, social psychology, cultural theory, and media systems.
   label: Sociology
 license: CC0-1.0
 linkTitle: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
-markup: ''
 number-sections: false
-outputs: []
-plate_id: ''
 publishDate: '2026-06-30'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - nietzche-math-critique
+  - culture-gothic
+  - corporate-capital-and-progressive-cultural-politics
+  - meme-culture-and-borderer-right-style-a-research-report
+  - distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
+    rationale: >-
+      Corpus review found several related cultural-theory and meme/prestige artifacts but no second package
+      that tests the same compensation-versus-reproductive-dependence hypothesis or duplicates this evidence
+      structure. Related artifacts are recorded as conceptual neighbors rather than merged sources.
 report:
   audience: general intellectually curious reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-06-30'
-    source_docx: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs.docx
-    tool: pandoc 3.6
   discipline: social theory
   domain: culture
-  emphasis: compensatory culture, symbolic substitution, and attention markets
-  focus: unmet needs as drivers of cultural production and circulation
+  emphasis: compensatory cultural use, symbolic substitution, affective reproduction, and institutional incentives
+  focus: distinguishing evidence for need-driven cultural use from the stronger claim that cultural systems depend on unresolved need
   id: urn:marginalia:testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
-  intent: test a cultural-theory hypothesis against anthropology, psychology, and media-industry evidence
+  intent: test a cultural-theory hypothesis against consumer psychology, social psychology, digital-network research, motivation theory, and market evidence
   is_report: true
   kind: analytical report
-  level: ''
-  method: interdisciplinary theoretical synthesis
+  method: >-
+    Evidence-tiered conceptual synthesis. Individual compensatory mechanisms, cultural effects, digital
+    reinforcement, commercial scale, and system-level reproductive dependence are treated as separate causal
+    claims rather than inferred from one another.
   methods:
   - literature review
   - conceptual analysis
-  - comparative case synthesis
+  - causal-claim decomposition
+  - counterexample testing
   name: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
-  notes: Legacy complete state returned to review. Conversion-generated asset paths, ChatGPT tracking parameters, redundant reference export, and current-document self-reference were repaired on 2026-08-19; full factual, citation-quality, and current-link verification remain required before publication.
+  notes: >-
+    Earlier cleanup repaired converted asset paths, tracking URLs, academic self-reference, and reference-export
+    residue. The 2026-08-21 final audit substantially rewrote the report around three distinguishable claims:
+    compensation, symbolic substitution, and reproductive dependence. Direct evidence from compensatory
+    consumer behavior, favored-media social surrogacy, and compensatory-control research now supports only
+    bounded need-regulation claims. Online outrage studies support affective reinforcement and transmission but
+    are not treated as proof that platforms create or require unmet needs. Current IAB market figures are used
+    as scale context rather than causal evidence. WHO loneliness prevalence is likewise separated from causal
+    claims about media use. Self-determination theory and arts/well-being evidence provide explicit
+    counterexamples to a universal deficit theory of culture. The legacy section that cited old Marginalia
+    `/posts/` pages as primary evidence was removed; related corpus artifacts now live only in relationship
+    metadata. Two converted Mermaid PNGs were removed and replaced by native Markdown tables. Duplicate review
+    found no competing canonical artifact. No known source, conversion, asset, or duplicate blocker remains.
   number: '115'
   organization: Marginalia
   period: modern and contemporary
-  period_covered: twentieth century to the present
-  population_focus: audiences, creators, platform users, and cultural consumers
+  period_covered: twentieth century through 2026 evidence context
+  population_focus: cultural consumers, media users, creators, and platform participants
   primary_texts: []
   region: comparative
-  region_focus: contemporary mass and digital culture
-  scope: Tests weak and strong versions of a compensatory-culture thesis across ritual, fandom, trauma
-    media, advertising, memes, and prestige systems
-  scope_years: twentieth century to present
+  region_focus: contemporary mass and digital culture, with evidence drawn primarily from U.S. and European studies
+  scope: compensation, symbolic substitution, digital affective reinforcement, commercial attention systems, counterexamples, and empirical tests of reproductive dependence
+  scope_years: twentieth century through 2026
   series: Marginalia Reports
   stance: neutral analytical and critical
-  structure: executive summary, conceptual framing, mechanisms, cases, counterexamples, and judgment
+  structure: executive summary, claim decomposition, compensatory evidence, affective reproduction, market context, counterevidence, taxonomy, test design, and conclusion
   subdiscipline: cultural sociology and social psychology
   subject: cultural reproduction and unmet human needs
   time_scope: modern comparative
   time_span: twentieth century-present
-  topic: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
+  topic: Culture and unmet human needs
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: '115'
 report-number: '115'
@@ -121,44 +138,43 @@ report_no: 115
 report_number: 115
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 115
 series-title: Marginalia Reports
 series_number: 115
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
-status: review
+status: ready
 subject:
 - Culture
 - Social theory
 - Social psychology
 subjects:
-- Culture
-- Social theory
-- Social psychology
-subtitle: ''
-summary: A report on compensatory culture, symbolic substitution, trauma markets, and the conditions under
-  which modern cultural industries feed on unmet needs.
+- Compensatory consumption
+- Social surrogacy
+- Cultural reproduction
+- Digital affect
+- Attention markets
+subtitle: Compensation, Symbolic Substitution, and Reproductive Dependence
+summary: >-
+  Finds good evidence that some cultural use compensates for frustrated needs and that some digital affects are
+  self-reinforcing, but reserves the stronger label "parasitic" for systems shown to benefit from recurrent
+  unresolved need rather than inferring dependence from market size or cultural popularity.
 tags:
-- testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs
 - culture-theory
 - social-psychology
 - compensatory-consumption
+- social-surrogacy
 - media-critique
-- trauma-economy
+- attention-economy
+- self-determination
 title: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
-toc: false
-toc-depth: 0
-toc-title: ''
-translationKey: ''
+toc: true
+toc-depth: 3
+toc-title: Contents
 type: report
-url: ''
 voice: neutral
 weight: 0
 ...
