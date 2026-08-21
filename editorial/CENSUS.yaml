@@ -214,21 +214,20 @@ packages:
     - duplicate_review_unresolved
   brickmaking-history-materials-processes-and-production-planning:
     title: 'Brickmaking: History, Materials, Processes, and Production Planning'
-    lifecycle: review
-    draft: true
+    lifecycle: ready
+    draft: false
     type: report
     editorial_profile: academic
     voice: neutral
-    duplicate_review: null
+    duplicate_review: reviewed
     has_changelog: true
-    asset_files: 2
+    asset_files: 0
     legacy_media_files: 0
-    body_bytes: 29181
+    body_bytes: 31040
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - duplicate_review_unresolved
+    mechanical_flags: []
   category-theory:
     title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
     lifecycle: complete
