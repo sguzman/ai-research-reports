@@ -1,8 +1,8 @@
 ---
-abstract: Male suicide has become a critical public health issue in the United States, accounting for
-  the vast majority of suicide deaths. This inherited report provides a broad analysis of U.S. male suicide
-  trends from 2000 onward, synthesizing epidemiological data and literature on demographic disparities,
-  risk and protective factors, policy context, intervention evidence, case studies, and projections.
+abstract: >-
+  A current evidence review of male suicide mortality in the United States since the early 2000s,
+  emphasizing final NCHS mortality trends, age and method patterns, racial and occupational disparities,
+  Veteran data, suicidal thoughts and attempts, risk domains, and evidence-supported prevention.
 aliases:
 - male-suicide-us-2000-present
 author:
@@ -15,83 +15,46 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
 - public health
 - mental health
 - epidemiology
-- policy
 - united states
-cover-image: cover.png
-cover_image: cover.png
 creator:
 - Salvador Guzman
 dataset_id: male-suicide-us-2000-present
 date: '2026-02-12'
-description: An inherited synthesis of U.S. male suicide trends since 2000 covering mortality patterns,
-  demographic disparities, risk and protective factors, policy context, intervention evidence, case studies,
-  and projections. Current epidemiological and intervention claims require source re-verification before publication.
+description: >-
+  An evidence-focused review of U.S. male suicide mortality, disparities, suicidal thoughts and attempts,
+  risk domains, and prevention evidence, using current federal surveillance and primary clinical literature.
 draft: true
 edition: '1'
 editorial_profile: academic
-epub-chapter-level: 2
-epub-cover-image: cover.png
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: cover.png
-expiryDate: ''
 format: markdown
-headless: false
-highlight-style: tango
 identifier: gva:male-suicide-us-2000-present
-isCJKLanguage: false
 keywords:
 - male suicide
 - suicide mortality
 - United States
-- CDC WONDER
-- WISQARS
 - NVSS
+- NCHS
 - NSDUH
-- YRBS
-- NVDRS
 - veterans
-- rural health
 - firearms
 - lethal means safety
-- means restriction
-- depression
-- PTSD
-- substance use disorder
-- opioid epidemic
-- economic stress
-- divorce
-- social isolation
-- help-seeking
-- masculinity norms
-- 988 lifeline
-- time-series projection
 - suicide prevention
+- safety planning
+- cognitive therapy
 lang: en-US
 language: English
-lastmod: '2026-08-20'
-layout: ''
+lastmod: '2026-08-21'
 library_of_congress_classification:
   class: RA
   description: Public health, health policy, epidemiology, and medicine in society.
   label: Public aspects of medicine
-  notes: Provisional LoC classification for a U.S.-focused public-health report on suicide epidemiology,
-    prevention policy, and mental health determinants.
-  primary: RA790.6
-  secondary:
-  - RC569.5.S9
-  - HV6548.U6
 license: CC0-1.0
-linkTitle: Male Suicide in the United States (2000--Present)
-markup: ''
+linkTitle: Male Suicide in the United States Since 2000
 number-sections: true
-outputs: []
-plate_id: gva-plate-male-suicide-us-2000-present
 publishDate: '2026-02-12'
 publisher: Marginalia
 reference-section-title: References
@@ -110,48 +73,53 @@ editorial:
     relationship: exact-duplicate
     disposition: archive-duplicate
     canonical_slug: male-suicide
-    rationale: The older `male-suicide-research-outline` package contains the same substantive finished report apart from its H1/title and package-local conversion paths. This package has the stronger identity and metadata and is retained as canonical; the outline-labeled copy is archived.
+    rationale: >-
+      The older male-suicide-research-outline package contains the same substantive inherited report apart
+      from its title and package-local conversion paths. This package remains canonical and the outline-labeled
+      copy remains archived provenance.
 report:
   audience: general policy-oriented reader
   code: MENTAL-001
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
   discipline: public health
   domain: health
-  emphasis: male suicide epidemiology, disparities, risk factors, interventions, and policy
-  focus: inherited U.S. evidence and projections requiring current re-verification
+  emphasis: male suicide mortality, disparities, risk domains, intervention evidence, and prevention systems
+  focus: United States surveillance and evidence through final 2024 all-sex mortality and final 2023 sex-specific mortality
   id: gva:male-suicide-us-2000-present
   intent: public-health research synthesis
   is_report: true
   kind: research report
-  level: graduate-level overview
-  method: synthesis of epidemiological data, research literature, policy evidence, case studies, and scenario projections
-  methods: []
-  name: Male Suicide in the United States (2000--Present)
-  notes: The inherited metadata slug `male-suicide-us-2000-present` did not match the canonical folder and was moved to aliases on 2026-08-20. Duplicate review established that `male-suicide-research-outline` contains the same substantive finished report and should be archived behind this package. The article was returned from legacy `published` to `review` because its body still contains absolute workstation image paths, duplicate H1 structure, academic-perspective residue, and numerous time-sensitive epidemiological, clinical-intervention, policy, and projection claims that require current primary-source review. No substantive suicide or clinical claim was rewritten or validated in this duplicate pass. Root-level cover metadata is also legacy asset-layout debt.
+  method: >-
+    Synthesis centered on final NCHS/NVSS mortality reports, SAMHSA NSDUH, VA suicide surveillance,
+    CDC and HHS prevention syntheses, randomized clinical evidence, large clinical evaluations, and systematic reviews.
+  name: Male Suicide in the United States Since 2000
+  notes: >-
+    The 2026-08-21 high-stakes editorial pass replaced the conversion-heavy inherited report with a substantially
+    shorter current evidence synthesis. It corrected the trend interpretation using final NCHS data, separated
+    mortality from suicidal thoughts and attempts, refreshed Veteran and NSDUH evidence, removed fictional case
+    studies and the unsupported 2030 linear forecast, removed static crisis-resource and prescriptive treatment
+    material, replaced weak secondary-source citation chains with authoritative federal and primary clinical sources,
+    and qualified medication and intervention claims to the endpoints actually supported. Legacy absolute image
+    paths and duplicate H1 structure were removed. The package remains in review pending a final independent
+    high-stakes citation/rendering pass before any ready decision.
   number: '035'
   organization: Marginalia
-  period: 2000-present with inherited data concentrated through 2022
-  period_covered: U.S. male suicide trends and evidence, primarily 2000-2022 with inherited forward projections
-  population_focus: males in the United States, including demographic and geographic subgroups
-  primary_texts: []
+  period: early 2000s through the most recent authoritative data available at revision
+  period_covered: final sex-specific mortality through 2023; final all-sex mortality and NSDUH through 2024; VA through 2023
+  population_focus: males in the United States, with selected age, racial, occupational, and Veteran comparisons
   region: United States
-  region_focus: national with demographic, state, rural, veteran, and other subgroup comparisons
-  scope: trends, disparities, drivers, interventions, policy, case studies, and projections
-  scope_years: 2000-present
+  region_focus: national
+  scope: mortality trends, disparities, suicidal thoughts and attempts, risk domains, interventions, and prevention systems
+  scope_years: 2000-2024
   series: Marginalia Reports
   stance: neutral analytical
-  structure: abstract, executive summary, epidemiology, demographic breakdowns, risk factors, policy, interventions, case studies, projections, limitations, and recommendations
+  structure: abstract, evidence standard, mortality, age, means, disparities, Veterans, suicidal behavior, risk domains, interventions, forecasting limits, limitations, conclusion
   subdiscipline: health policy and epidemiology
   subject: male suicide epidemiology and prevention
-  time_scope: contemporary evidence requiring current re-verification
-  time_span: 2000-present
-  topic: Male Suicide in the United States (2000--Present)
+  time_scope: contemporary evidence review
+  time_span: early 2000s through 2024 where final data are available
+  topic: Male Suicide in the United States Since 2000
   type: report
-  version: '1.1'
+  version: '1.2'
   year: 2026
 report-no: '035'
 report-number: '035'
@@ -160,17 +128,13 @@ report_no: 35
 report_number: 35
 report_year: 2026
 resources: []
-revision: '1.1'
+revision: '1.2'
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 35
 series-title: Marginalia Reports
 series_number: 35
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: male-suicide
 status: review
 subject:
@@ -178,17 +142,14 @@ subject:
 - Suicide prevention
 - Mental health policy
 - Lethal means safety
-- Demographic and geographic disparities
 subjects:
 - Public health surveillance
 - Injury epidemiology
 - Behavioral health services
 - Veteran mental health
-- Rural health
-- Firearm policy and safety
-- Social determinants of health
-subtitle: Trends, disparities, drivers, interventions, and projections
-summary: An inherited U.S. male-suicide research synthesis covering epidemiology, disparities, risk and protective factors, interventions, policy, case studies, and projections; current claims require re-verification before publication.
+summary: >-
+  Current evidence on U.S. male suicide mortality, demographic and occupational disparities, Veterans,
+  suicidal thoughts and attempts, risk domains, and evidence-supported prevention.
 tags:
 - male-suicide
 - suicide
@@ -199,18 +160,12 @@ tags:
 - firearms
 - means-safety
 - veterans
-- rural
-- risk-factors
 - prevention
-- '988'
-- projections
-title: Male Suicide in the United States (2000--Present)
+- safety-planning
+title: Male Suicide in the United States Since 2000
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
 type: report
-url: ''
 voice: neutral
 weight: 0
-...
