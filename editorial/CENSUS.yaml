@@ -1349,7 +1349,7 @@ packages:
     - duplicate_review_unresolved
     - h1_count_not_one
   male-suicide:
-    title: Male Suicide in the United States (2000--Present)
+    title: Male Suicide in the United States Since 2000
     lifecycle: review
     draft: true
     type: report
@@ -1357,17 +1357,14 @@ packages:
     voice: neutral
     duplicate_review: reviewed
     has_changelog: true
-    asset_files: 5
+    asset_files: 0
     legacy_media_files: 0
-    body_bytes: 277928
-    h1_count: 2
+    body_bytes: 38228
+    h1_count: 1
     local_link_or_image_count: 0
     risk_hints:
     - health_or_self_harm
-    mechanical_flags:
-    - absolute_path_in_body
-    - conversion_or_chatgpt_marker
-    - h1_count_not_one
+    mechanical_flags: []
   male-suicide-research-outline:
     title: Male Suicide Research Outline
     lifecycle: archived
