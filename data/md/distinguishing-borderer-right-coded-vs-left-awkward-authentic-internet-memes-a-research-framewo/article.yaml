@@ -1,5 +1,9 @@
 ---
-abstract: A methodological research framework for distinguishing proposed “borderer/right-coded” internet memes from “left/awkward-authentic” memes using operational definitions, observable coding dimensions, corpus design, human-coder procedures, a classification rubric, and testable expectations.
+abstract: >-
+  A non-circular research framework for testing whether a proposed “borderer” meme style is associated with
+  political ideology. It assigns ideology independently from style, codes neutral dimensions such as hostility,
+  taboo-breaking, irony, anti-elitism, status inversion, in-group signaling, vulnerability, care, and aesthetic
+  register, and requires cross-platform validation and explicit falsification criteria.
 aliases: []
 author:
 - Salvador Guzman
@@ -11,58 +15,45 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
 - Culture
 - Media Studies
 - Research Methods
-cover-image: ''
-cover_image: ''
 creator:
 - Salvador Guzman
-dataset_id: ''
 date: '2026-03-04'
-description: A methodological framework for operationalizing and testing a distinction between “borderer/right-coded” and “left/awkward-authentic” internet memes through content analysis and a coding rubric.
-draft: true
+description: >-
+  A methodological framework for testing a proposed borderer-style meme construct without defining ideology
+  through the features being measured, using independent labels, neutral coding dimensions, balanced corpus
+  design, reliability testing, held-out validation, and preregistered falsification rules.
+draft: false
 edition: '1'
 editorial_profile: academic
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-isCJKLanguage: false
 keywords:
 - internet memes
 - political memes
-- borderer-right coding
-- awkward authenticity
+- borderer style hypothesis
 - content analysis
 - coding rubric
-- research framework
+- construct validity
+- coder reliability
 - political communication
+- cross-platform validation
 lang: en
 language: English
-lastmod: '2026-08-20'
-layout: ''
+lastmod: '2026-08-21'
 library_of_congress_classification:
   class: PN
   description: Literature, media studies, criticism, and cultural analysis.
   label: Literature and media studies
 license: CC0-1.0
-linkTitle: 'Distinguishing “Borderer/Right-coded” vs “Left/Awkward-Authentic” Internet Memes: A Research Framework'
-markup: ''
-number-sections: false
-outputs: []
-plate_id: ''
+linkTitle: 'Testing a “Borderer” Meme-Style Hypothesis: A Research Framework'
+number-sections: true
 publishDate: '2026-03-04'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
 relationships:
   exact_duplicates: []
   near_duplicates: []
@@ -78,51 +69,78 @@ editorial:
     relationship: fork
     disposition: keep-separate
     canonical_slug: ''
-    rationale: This article shares concepts and sources with the broad `meme-culture-and-borderer-right-style-a-research-report` analysis but serves a distinct methodological function: it operationalizes two meme categories, proposes a corpus/coding design, and supplies a classification rubric. The companion article is the broader cultural analysis. Both are retained and cross-linked.
+    rationale: >-
+      This artifact operationalizes and attempts to falsify the proposed borderer-style construct, whereas
+      the companion report evaluates the cultural thesis and empirical literature. Shared concepts and sources
+      are expected, but the methodological framework has a distinct reusable editorial function.
 report:
-  audience: readers interested in meme research and content-analysis design
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: 'Distinguishing “Borderer_Right-coded” vs “Left_Awkward-Authentic” Internet Memes_ A Research Framewo.docx'
-    tool: pandoc 3.6
+  audience: readers interested in meme research, content analysis, and political communication methods
   discipline: media and cultural studies
-  domain: culture
-  emphasis: operational definitions, coding variables, corpus design, coder procedures, and classification validity
-  focus: distinguishing proposed borderer/right-coded and left/awkward-authentic meme styles empirically
+  domain: research methods and political communication
+  emphasis: >-
+    independent ideological labeling, neutral style variables, corpus design, coder reliability, construct
+    validation, contextual controls, held-out testing, and falsification
+  focus: >-
+    determining whether a proposed borderer meme-style construct exists and whether it is associated with
+    political ideology after platform, community, topic, format, time, and template effects are controlled
   id: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
   intent: methodological research framework
   is_report: true
   kind: research framework
-  level: analytical methods reference
-  method: proposed comparative content analysis with human coding, explicit feature definitions, and a reusable rubric
+  method: >-
+    proposed comparative content analysis with independently assigned ideological context, blinded or
+    metadata-reduced style coding where feasible, per-variable reliability assessment, latent-construct testing,
+    multivariable modelling, and out-of-domain validation
   methods:
   - content analysis
-  - coding rubric
-  - comparative corpus design
-  name: 'Distinguishing “Borderer/Right-coded” vs “Left/Awkward-Authentic” Internet Memes: A Research Framework'
-  notes: Overlap review on 2026-08-20 determined that this framework and `meme-culture-and-borderer-right-style-a-research-report` should remain separate related works rather than be collapsed as duplicates. The inherited metadata title was truncated and conversion-contaminated; it was restored from the clean body H1. This piece is methodological, while the companion is a broader cultural-analysis report. The legacy complete state was returned to review pending source-quality verification, validation of the proposed coding assumptions, citation cleanup, and academic-prose normalization.
+  - independent ideological labeling
+  - human coding
+  - intercoder reliability
+  - latent-dimension analysis
+  - multivariable regression or classification
+  - cross-platform validation
+  - preregistered falsification
+  name: 'Testing a “Borderer” Meme-Style Hypothesis: A Research Framework'
+  notes: >-
+    The 2026-08-21 final audit replaced the inherited two-category rubric because it circularly defined
+    right-coded memes as aggressive/callous and left-coded memes as empathetic/vulnerable, then proposed to
+    test the same distinction. The revised framework separates source ideology from style, adds cross-ideological
+    evidence that taboo-breaking and threatening out-groups also occur on the left, and treats platform, topic,
+    format, source identifiability, and engagement as contextual variables rather than ideological proxies.
+    The new codebook uses neutral dimensions for target orientation, hostility, humor, taboo, irony, anti-elitism,
+    status inversion, performative aggression, in-group signaling, self-disclosure, care/solidarity, and aesthetic
+    register. The design includes balanced multi-platform sampling, negative controls, template-family leakage
+    protection, coder training, per-variable reliability, latent-factor testing, multivariable controls, held-out
+    platform/community/time validation, and explicit rules for splitting or rejecting the borderer construct.
+    Political effects are reserved for separate experimental or longitudinal designs. Raw Mermaid, hypothetical
+    result claims, conversion-reference residue, and three unprovenanced illustrative converted images were removed.
+    The broad cultural-analysis companion remains a separate related fork. No known source, conversion, asset,
+    duplicate, or rendering blocker remains.
   number: 059
   organization: Marginalia
   period: contemporary internet meme culture
-  period_covered: methodological framework for contemporary meme corpora
-  population_focus: internet meme artifacts across political and platform contexts
+  period_covered: methodological framework for contemporary comparative meme corpora
+  population_focus: internet meme artifacts across political, apolitical, platform, and community contexts
   primary_texts: []
-  region: primarily Anglophone internet culture
-  region_focus: cross-platform online meme communities
-  scope: operational definitions, coding dimensions, research design, corpus construction, coder reliability, rubric design, examples, limitations, and testable hypotheses
+  region: comparative digital culture
+  region_focus: multi-platform and, where possible, cross-national meme communities
+  scope: >-
+    construct definition, source ideology, content/form/stance separation, neutral coding dimensions, corpus
+    sampling, coder reliability, factor validation, ideological modelling, out-of-domain validation, engagement,
+    effects extensions, ethics, and falsification criteria
   scope_years: contemporary digital era
   series: Marginalia Reports
   stance: neutral analytical
-  structure: executive summary, operational definitions, research design, coding rubric, examples, limitations, and implications
+  structure: >-
+    research questions, conceptual architecture, codebook, corpus design, ideological labeling, reliability,
+    analysis plan, hypotheses, effects extension, ethics, construct decision rules, and reporting requirements
   subdiscipline: research methods and media analysis
-  subject: empirical classification of political meme styles
+  subject: empirical testing of political meme-style hypotheses
   time_scope: contemporary digital culture
   time_span: internet era-present
-  topic: Borderer/Right-coded vs Left/Awkward-Authentic Internet Meme Classification
+  topic: Testing a Borderer Meme-Style Hypothesis
   type: report
-  version: 1.0.1
+  version: 1.0.2
   year: 2026
 report-no: 059
 report-number: 059
@@ -131,19 +149,15 @@ report_no: 59
 report_number: 59
 report_year: 2026
 resources: []
-revision: 1.0.1
+revision: 1.0.2
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 59
 series-title: Marginalia Reports
 series_number: 59
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-status: review
+status: ready
 subject:
 - Culture
 - Media studies
@@ -153,23 +167,25 @@ subjects:
 - Political communication
 - Content analysis
 - Coding methodology
-subtitle: ''
-summary: A methodological framework for operationalizing and testing a two-style meme classification using observable features, corpus design, human coding, and an explicit rubric.
+- Construct validity
+subtitle: Independent Labels, Neutral Style Coding, and Falsification
+summary: >-
+  Replaces a circular right-aggression/left-empathy classification with a testable design in which political
+  ideology and meme style are measured independently and the proposed borderer construct must demonstrate
+  reliability, coherence, and cross-context predictive validity to survive.
 tags:
 - internet-memes
-- borderer-right
-- awkward-authentic
+- borderer-style
 - research-methods
 - content-analysis
 - coding-rubric
-- media-studies
-title: 'Distinguishing “Borderer/Right-coded” vs “Left/Awkward-Authentic” Internet Memes: A Research Framework'
-toc: false
-toc-depth: 0
-toc-title: ''
-translationKey: ''
+- construct-validity
+- political-communication
+title: 'Testing a “Borderer” Meme-Style Hypothesis: A Research Framework'
+toc: true
+toc-depth: 3
+toc-title: Contents
 type: report
-url: ''
 voice: neutral
 weight: 0
 ...
