@@ -4,6 +4,22 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #37 — Finalize Proudhon mutualism report
+
+Packages:
+- `proudhon-mutualism-report`
+
+Result:
+- replaced the inherited conversion-heavy report with a source-audited reconstruction of Proudhon’s evolving mutualism rather than preserving a static “markets without capitalism” blueprint;
+- corrected the inherited property-versus-possession simplification by incorporating Proudhon’s mature antinomy in which property could function both as exploitation and as a dispersed counterweight to centralized state power;
+- separated Proudhon’s own reciprocity and value arguments from Josiah Warren’s later cost principle and from the Greene/Tucker American individualist-mutualist synthesis;
+- bounded the 1849 Banque du Peuple evidence to what the historical record supports: more than 13,000 individual adhesions, roughly fifty workers’ associations, nearly thirty agencies, and liquidation before long-run banking viability could be observed;
+- treated Bastiat’s interest critique and Marx’s critique of Proudhonian political economy as rival causal frameworks rather than neutral verdicts;
+- distinguished French First International reception, American individualist mutualism, and the broader cooperative movement instead of collapsing them into one Proudhonian lineage;
+- incorporated specialist scholarship on Proudhon’s anti-feminism and patriarchal family authority as a substantive internal limitation of his anti-domination politics;
+- removed Wikipedia/Fandom/Scribd/quote-site citation dependence, escaped numbered-link/reference-export residue, and the workstation-absolute image reference, replacing them with named primary texts and specialist scholarship;
+- deleted obsolete converted asset `assets/media/rId50.png`, retained `3mutualism` as archived exact-duplicate provenance, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the ordinary queue to the P2 meme/corpus and population-demography targets.
+
 ### PR #36 — Finalize Puritan genealogy report
 
 Packages:
@@ -121,7 +137,7 @@ Result:
 - rewrote `fallen-aristocracy` around a disciplined category of hereditary or estate-based elites that lose formal privilege while retaining convertible prestige, education, wealth, networks, or organizational capacity;
 - separated strong cases from category errors: French noble émigrés, former samurai as an explicit functional analogue, and post-First World War aristocratic intellectuals now carry the comparison, while Russian White émigrés, Byzantine scholars, and Latin American creoles are retained only as boundary/negative cases;
 - replaced deterministic status-loss psychology with a conditional model of status threat, residual elite capacity, restoration opportunity, resource convertibility, and successor-state incorporation, supported by Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat evidence;
-- substantially revised the Republican moderating-opposition thesis rather than merely updating links: TANF is treated as durable institutional replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative architecture, USMCA as replacement within an inherited trade paradigm, and Public Law 119-21 immigration enforcement as affirmative capacity building;
+- substantially revised the Republican moderating-opposition thesis rather than merely updating links: TANF is treated as durable institutional replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative Republican architecture, USMCA as replacement within an inherited trade paradigm, and Public Law 119-21 immigration enforcement as affirmative capacity building;
 - reclassified Gramm-Leach-Bliley and the First Step Act as bipartisan directional changes rather than evidence for a simple one-party ratchet;
 - replaced the Republican report's weak legacy source mix and conversion-heavy tables with direct CBO, CRS, USTR, Federal Reserve History, Senate, and historical-institutionalist sources;
 - removed the Republican package's obsolete rendered timeline asset after the rewritten body no longer depended on it;
