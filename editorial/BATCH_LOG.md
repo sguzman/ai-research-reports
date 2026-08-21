@@ -4,6 +4,21 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #26 — Finalize brickmaking report for publication
+
+Packages:
+- `brickmaking-history-materials-processes-and-production-planning`
+
+Result:
+- completed the remaining historical/materials source-quality review and treated the pass as a publication gate rather than another indefinite review cycle;
+- grounded the Hoffmann continuous-kiln history in Historic England evidence and added peer-reviewed ceramics/materials support for clay mineralogy, firing behavior, porosity, and defect mechanisms;
+- corrected the inherited EPA AP-42 soft-mud moisture range from 20–30% to 15–28%;
+- rechecked the current EPA AP-42, ASTM C67/C67M, EPA NESHAP, OSHA silica, and Wienerberger hydrogen-project links used by the prior standards/regulatory audit;
+- removed two decorative converted brickfield images because the package recorded no provenance or publication rights and neither image was analytically necessary;
+- completed duplicate review as independent/keep-separate after the full 115-package census showed no competing brickmaking artifact;
+- advanced revision/version to 1.0.4 and lifecycle `review` → `ready` with `draft: false`;
+- left no known source, conversion, asset, or duplicate blocker before build-derived publication.
+
 ### PR #25 — Rewrite GAHT report from current primary evidence
 
 Packages:

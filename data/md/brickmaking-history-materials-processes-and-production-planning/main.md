@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Brickmaking combines mineral processing, ceramic forming, controlled drying, high-temperature firing, quality testing, emissions control, and material handling. The basic sequence is stable across modern clay-brick plants: **mine or receive clay/shale → crush and grind → blend and temper → form → dry → fire → cool → inspect and ship**. The U.S. Environmental Protection Agency’s AP-42 background material identifies stiff-mud extrusion as the predominant brick-forming route in the United States, with soft-mud molding and dry pressing as alternatives. EPA reports that stiff-mud material entering the vacuum chamber is typically **14–18% moisture**, while soft-mud clay is typically **20–30% moisture**. [EPA AP-42, Brick and Structural Clay Product Manufacturing](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf)
+Brickmaking combines mineral processing, ceramic forming, controlled drying, high-temperature firing, quality testing, emissions control, and material handling. The basic sequence is stable across modern clay-brick plants: **mine or receive clay/shale → crush and grind → blend and temper → form → dry → fire → cool → inspect and ship**. The U.S. Environmental Protection Agency’s AP-42 background material identifies stiff-mud extrusion as the predominant brick-forming route in the United States, with soft-mud molding and dry pressing as alternatives. EPA reports that stiff-mud material entering the vacuum chamber is typically **14–18% moisture**, while soft-mud clay is typically **15–28% moisture**. [EPA AP-42, Brick and Structural Clay Product Manufacturing](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf)
 
 Modern production is usually organized around continuous drying and firing. EPA describes the tunnel kiln as the most common kiln type for brick manufacturing, with a typical tunnel length of roughly **104–152 m (340–500 ft)** and a firing-zone maximum around **1090 °C (2000 °F)**. For most brick types, the full drying, firing, and cooling sequence takes about **20–50 hours**. These are industry-level reference values rather than design specifications for every clay body or kiln. [EPA AP-42](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf)
 
@@ -16,9 +16,11 @@ The most credible current technology trend is decarbonization of kiln heat rathe
 
 ## Historical Lineage
 
-Brick is one of the oldest manufactured building materials. Early settled societies formed earth and mud into regular units and dried them in the sun; fired brick later extended durability and weather resistance. Over centuries the technology evolved from intermittent firing and local hand molding toward mechanized preparation, continuous forming, engineered dryers, and continuous kilns.
+Brickmaking has ancient roots in earthen construction. Sun-dried earthen units and fired clay bricks both long predate industrial production, and reviews of fired-clay technology treat the transition from hand-molded, sun-dried units to fired ceramics as part of a millennia-long development rather than a single invention event. [Sutcu, 2014, *Journal of Environmental Management*](https://doi.org/10.1016/j.jenvman.2014.05.006)
 
-The nineteenth century was decisive for industrial scale. Continuous kiln concepts such as the Hoffmann ring kiln reduced the repeated heat-up and cool-down losses of isolated batch firing. Twentieth-century plants increasingly adopted tunnel kilns, mechanical handling, vacuum extrusion, controlled drying, and laboratory quality control. Contemporary development focuses less on changing the basic ceramic transformation than on improving energy efficiency, emissions control, automation, process sensing, and low-carbon heat sources.
+The industrial history most relevant to modern plant design is much more recent. Nineteenth-century brick production was constrained by intermittent kilns that had to be heated, cooled, unloaded, and reloaded as separate firing cycles. Historic England records the first successful Hoffmann continuous kiln in **1857** and Hoffmann’s patent in **1858**. The design divided the kiln into chambers or bays fired sequentially, allowing heat and combustion gases to be reused across the continuous cycle and reducing the repeated heat-up and cool-down losses of isolated batch firing. [Historic England, Hoffmann Kiln, Sheffield](https://historicengland.org.uk/listing/the-list/list-entry/1021089)
+
+Twentieth-century plants increasingly adopted tunnel kilns, mechanical handling, vacuum extrusion, controlled drying, and laboratory quality control. Contemporary development focuses less on changing the basic ceramic transformation than on improving energy efficiency, emissions control, automation, process sensing, and lower-carbon heat sources.
 
 A simplified lineage is therefore:
 
@@ -29,9 +31,11 @@ A simplified lineage is therefore:
 5. automated handling and process control; and
 6. current work on electrification, hydrogen, waste-heat recovery, alternative raw materials, and lower-carbon masonry systems.
 
+This sequence is schematic. Specific regions adopted technologies at different times, and older methods persisted alongside mechanized production rather than disappearing at a single historical threshold.
+
 ## Raw Materials and Body Preparation
 
-The main raw materials for conventional fired brick are surface clays and shales. Their mineralogy, particle-size distribution, soluble salts, sulfur compounds, carbonaceous material, iron content, and fluxing constituents influence plasticity, drying shrinkage, firing behavior, color, porosity, and defect risk.
+The main raw materials for conventional fired brick are surface clays and shales. Their mineralogy, particle-size distribution, soluble salts, sulfur compounds, carbonaceous material, iron content, carbonates, and fluxing constituents influence plasticity, drying shrinkage, firing behavior, color, porosity, and defect risk. A modern review of brickmaking clay minerals emphasizes that mineral composition and thermal behavior strongly affect both processability and final physical/mechanical properties, and that results from one clay deposit should not be generalized automatically to another. [Wang et al., 2023, *Journal of Building Engineering*](https://doi.org/10.1016/j.jobe.2022.105802)
 
 EPA’s process description begins with mining or receipt of clay/shale, followed by primary crushing, grinding and screening, and storage before forming. In practice, raw-material qualification should precede detailed plant design. A useful characterization program can include:
 
@@ -44,9 +48,9 @@ EPA’s process description begins with mining or receipt of clay/shale, followe
 - soluble-salt or sulfur screening where efflorescence or gaseous emissions are concerns; and
 - laboratory drying/firing trials on representative blends.
 
-The purpose is not merely to describe the clay but to establish its process window. A body that extrudes well at one moisture content may crack under an aggressive drying schedule; a clay that produces acceptable color at one firing temperature may bloat or warp if its organic or fluxing content changes. Quarry variability therefore belongs inside the quality system rather than being treated as a one-time laboratory question.
+The purpose is not merely to describe the clay but to establish its process window. A body that extrudes well at one moisture content may crack under an aggressive drying schedule; a clay that produces acceptable color at one firing temperature may bloat or warp if its organic, carbonate, sulfur, or fluxing content changes. Quarry variability therefore belongs inside the quality system rather than being treated as a one-time laboratory question. Reviews comparing research-scale fired-brick studies also caution that differences in raw-material composition and preparation make direct comparison difficult unless clay characterization and processing history are reported. [Muñoz Velasco et al., 2014, *Construction and Building Materials*](https://doi.org/10.1016/j.conbuildmat.2014.03.045)
 
-Sand, grog (crushed fired ceramic), shale, colorants, and other additives may be used to modify plasticity, shrinkage, texture, color, or firing behavior. Any additive that materially changes chemistry or emissions should be evaluated as part of both product qualification and environmental permitting.
+Sand, grog (crushed fired ceramic), shale, colorants, and other additives may be used to modify plasticity, shrinkage, texture, color, porosity, or firing behavior. Any additive that materially changes chemistry or emissions should be evaluated as part of both product qualification and environmental permitting.
 
 ## Forming Methods
 
@@ -58,7 +62,7 @@ Extrusion suits high-throughput production because mixing, de-airing, forming, s
 
 ### Soft-Mud Molding
 
-EPA describes soft-mud molding as appropriate for clay too wet for stiff-mud extrusion. The clay is mixed to approximately **20–30% moisture** and formed in molds before drying. [EPA AP-42](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf)
+EPA describes soft-mud molding as appropriate for clay too wet for stiff-mud extrusion. The clay is mixed to approximately **15–28% moisture** and formed in molds before drying. [EPA AP-42](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf)
 
 Soft-mud methods remain useful where a molded texture or particular heritage appearance is desired, but they generally imply a different handling and drying regime from stiff-mud extrusion.
 
@@ -74,13 +78,9 @@ Freshly formed brick contains enough water that direct exposure to firing temper
 
 EPA reports that industrial dryers may use waste heat from the kiln cooling zone and may operate around **204 °C (400 °F)**, while noting that plant configurations differ. After drying, bricks enter the kiln. The tunnel kiln is the most common type described in EPA’s U.S. process background. A representative tunnel kiln is about **104–152 m** long and includes heating/firing/cooling functions; the firing zone is typically maintained near a maximum of **1090 °C**. The entire drying, firing, and cooling sequence commonly takes **20–50 hours** for most brick types. [EPA AP-42](https://www.epa.gov/sites/default/files/2020-10/documents/c11s03.pdf)
 
-Those values are useful for conceptual plant planning, but a production firing curve should be developed from the actual body. Relevant transformations include free-water removal, clay-mineral dehydration/dehydroxylation, oxidation of organics and sulfur-bearing species, mineral reactions, sintering/vitrification, controlled atmosphere effects, and cooling. Rate limits can occur during both heating and cooling, especially with thick units or bodies prone to thermal gradients.
+Those values are useful for conceptual plant planning, but a production firing curve should be developed from the actual body. Relevant transformations include free-water removal, clay-mineral dehydration/dehydroxylation, oxidation of organics and sulfur-bearing species, mineral reactions, sintering/vitrification, controlled atmosphere effects, and cooling. The temperatures and dimensional effects of these transformations depend on the mineral assemblage; contemporary review literature therefore treats firing response as a material-specific problem rather than a universal temperature recipe. [Wang et al., 2023](https://doi.org/10.1016/j.jobe.2022.105802)
 
 Natural gas has historically been a common kiln fuel in U.S. plants, with other fuels used in some facilities. Future plants should not assume the historical fuel mix is fixed; the economically preferred heat source will increasingly depend on local electricity, gas, hydrogen, carbon policy, emissions limits, and infrastructure.
-
-<img src="assets/media/rId59.png" style="width:5.83333in;height:4.375in" alt="Traditional brickfield with clamp-style firing and outdoor drying" />
-
-*Figure: Traditional brickfield with outdoor drying and clamp-style firing. Modern industrial plants generally use enclosed controlled dryers and kilns.*
 
 ## Quality Control and Current Standards
 
@@ -99,7 +99,7 @@ As of August 2026, ASTM lists **ASTM C67/C67M-25, Standard Test Methods for Samp
 - initial rate of absorption;
 - weight, size, and warpage;
 - length change; and
-- void area. 
+- void area.
 
 The current standard should be consulted directly when defining sampling, conditioning, specimen preparation, test apparatus, calculations, and acceptance reporting. [ASTM C67/C67M](https://store.astm.org/standards/c67)
 
@@ -133,6 +133,8 @@ Advanced microscopy, X-ray CT, mercury intrusion porosimetry, or mineralogical a
 
 ## Common Failure Modes
 
+The defect mechanisms below are diagnostic categories, not one-to-one rules. Clay mineralogy, inclusions, moisture history, forming, drying, kiln atmosphere, and thermal work interact, so a visible defect should be traced back through process records and material characterization. Modern brick-mineralogy reviews emphasize this dependence on starting composition and firing history. [Wang et al., 2023](https://doi.org/10.1016/j.jobe.2022.105802)
+
 ### Drying Cracks and Warpage
 
 Uneven moisture, excessive drying rate, nonuniform airflow, or differential shrinkage can crack or distort green brick before it reaches the kiln. The corrective response is process-specific: adjust body moisture and particle distribution, loading geometry, airflow, temperature/humidity schedule, or drying time.
@@ -143,7 +145,7 @@ A body that does not reach the required thermal work may retain excessive porosi
 
 ### Overfiring, Bloating, or Deformation
 
-Excessive thermal work, gas evolution during vitrification, or an unsuitable body chemistry can cause swelling, glassy deformation, or dimensional loss. Organic matter, sulfur-bearing constituents, flux content, and firing atmosphere can all contribute.
+Excessive thermal work, gas evolution during vitrification, or an unsuitable body chemistry can cause swelling, glassy deformation, or dimensional loss. Organic matter, sulfur-bearing constituents, carbonates, flux content, and firing atmosphere can all contribute.
 
 ### Efflorescence and Soluble Salts
 
@@ -157,9 +159,9 @@ Failure analysis should tie visible symptoms to production history rather than r
 
 ## Porosity, Absorption, and Microstructure
 
-Fired brick is a porous ceramic. Strength, water absorption, capillary transport, salt movement, and freeze/thaw behavior depend not merely on total porosity but on pore size, connectivity, mineralogy, microcracking, and degree of sintering.
+Fired brick is a porous ceramic. Strength, water absorption, capillary transport, salt movement, and freeze/thaw behavior depend not merely on total porosity but on pore size, connectivity, mineralogy, microcracking, and degree of sintering. Experimental work on representative brick clays shows that firing temperature and mineralogy—particularly the presence of carbonates—can strongly alter pore structure and therefore physical-mechanical behavior. [Cultrone et al., 2004, *Journal of the European Ceramic Society*](https://doi.org/10.1016/S0955-2219(03)00249-8)
 
-Greater vitrification often lowers open porosity and increases strength, but there is no universal optimum porosity that applies to every clay body and service condition. Product development should therefore use the applicable absorption, saturation, strength, and durability requirements as engineering constraints rather than optimizing only for maximum density.
+Greater vitrification often lowers open porosity and can increase strength, but there is no universal optimum porosity that applies to every clay body and service condition. Product development should therefore use the applicable absorption, saturation, strength, and durability requirements as engineering constraints rather than optimizing only for maximum density.
 
 Laboratory development may use microscopy, XRD, SEM, porosimetry, or CT to explain why two bodies with similar bulk absorption behave differently. Those tools are most valuable when tied to a controlled firing matrix and standardized finished-unit tests.
 
@@ -172,10 +174,6 @@ In the United States, major-source brick and structural-clay facilities may be s
 Dust control is also an occupational-health issue. Crushing, grinding, dry transfer, housekeeping, maintenance, and cutting of silica-bearing materials can create respirable dust. A plant must evaluate its actual exposure profile and comply with applicable workplace standards rather than assume that ordinary nuisance-dust controls are sufficient. OSHA’s [Respirable Crystalline Silica](https://www.osha.gov/silica-crystalline) materials provide the federal occupational-safety starting point.
 
 Other site-specific environmental questions include stormwater, quarry disturbance, wastewater or wash-water management, waste brick and dust recycling, fuel storage, noise, truck traffic, and land-use permitting.
-
-<img src="assets/media/rId70.png" style="width:5.83333in;height:4.375in" alt="Small brickfield with outdoor drying and clamp kilns" />
-
-*Figure: Small brickfield with outdoor drying and clamp kilns. Industrial environmental controls depend heavily on kiln enclosure, fuel, exhaust handling, and material-handling design.*
 
 ## Production Scale and Economic Planning
 

@@ -25,7 +25,7 @@ creator:
 dataset_id: ''
 date: '2026-04-04'
 description: A technical survey of brickmaking history, materials, industrial processes, quality control, and production planning.
-draft: true
+draft: false
 edition: '1'
 editorial_profile: academic
 epub-chapter-level: 0
@@ -49,7 +49,7 @@ keywords:
 - Technology
 lang: en
 language: English
-lastmod: '2026-08-19'
+lastmod: '2026-08-21'
 layout: ''
 library_of_congress_classification:
   class: TA
@@ -64,6 +64,24 @@ plate_id: ''
 publishDate: '2026-04-04'
 publisher: Marginalia
 reference-section-title: References
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: brickmaking-history-materials-processes-and-production-planning
+    rationale: >-
+      The full mechanical corpus census contains no second brickmaking package or competing brick-focused
+      title, and the editorial candidate scan found no substantive duplicate or merge target. This report is
+      therefore retained as an independent canonical artifact.
 report:
   audience: technically curious general reader
   code: ''
@@ -84,7 +102,18 @@ report:
   method: literature, standards, regulatory, and industry-source synthesis
   methods: []
   name: 'Brickmaking: History, Materials, Processes, and Production Planning'
-  notes: Conversion residue was mechanically repaired earlier on 2026-08-19. A subsequent current-claims audit replaced the inherited ASTM C109 brick-testing error with ASTM C67/C67M-25, anchored forming/drying/firing claims in EPA AP-42, updated active ASTM product specifications, tied U.S. hazardous-air-pollutant discussion to the current EPA NESHAP, removed unsupported universal CAPEX/OPEX ranges and weak commercial cost estimates, and corrected the Wienerberger hydrogen-kiln timeline to the company’s March 2026 announcement. The article remains in review pending final historical/materials source-quality review and rendered-publication inspection.
+  notes: >-
+    Conversion residue was mechanically repaired on 2026-08-19. A current-claims audit then replaced the
+    inherited ASTM C109 brick-testing error with ASTM C67/C67M-25, anchored forming/drying/firing claims in
+    EPA AP-42, updated active ASTM product specifications, tied U.S. hazardous-air-pollutant discussion to the
+    current EPA NESHAP, removed unsupported universal CAPEX/OPEX ranges and weak commercial cost estimates,
+    and corrected the Wienerberger hydrogen-kiln timeline. The 2026-08-21 final source pass strengthened the
+    historical Hoffmann-kiln account with Historic England evidence; grounded clay mineralogy, firing,
+    porosity, and defect-mechanism claims in peer-reviewed ceramic/materials reviews and experimental work;
+    corrected the inherited AP-42 soft-mud moisture range from 20–30% to 15–28%; removed two nonessential
+    converted brickfield images whose provenance was not recorded; and completed an independent duplicate
+    review. With no remaining known source, asset, conversion, or duplicate blocker, the article advanced to
+    ready for build-derived publication.
   number: 079
   organization: Marginalia
   period: historical development through contemporary production
@@ -104,7 +133,7 @@ report:
   time_span: ancient period-present
   topic: Brickmaking
   type: report
-  version: 1.0.3
+  version: 1.0.4
   year: 2026
 report-no: 079
 report-number: 079
@@ -113,7 +142,7 @@ report_no: 79
 report_number: 79
 report_year: 2026
 resources: []
-revision: 1.0.3
+revision: 1.0.4
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 79
@@ -125,7 +154,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: brickmaking-history-materials-processes-and-production-planning
-status: review
+status: ready
 subject:
 - Engineering
 - Technology
