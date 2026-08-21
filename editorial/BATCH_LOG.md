@@ -4,6 +4,23 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #36 — Finalize Puritan genealogy report
+
+Packages:
+- `puritan-moral-psychology`
+
+Result:
+- replaced the inherited linear Puritan-to-modern-progressivism thesis with an evidence-graded genealogy distinguishing direct transmission, documented reception/reuse, morphological continuity, and analogy;
+- retained New England covenantal community, moral discipline, jeremiadic correction, and exemplary mission as historically important Puritan forms without treating them as a fixed transhistorical psychology;
+- identified revivalism and the Social Gospel as the strongest transformed Protestant transmission path into later reform, while preserving the theological and institutional changes between those stages;
+- incorporated current Puritan historiography, especially John Coffey's warning that broad theories of Puritan modernity remain vigorously disputed and are better tested through documented reception and use;
+- added Daniel Rodgers's transatlantic Progressive reform networks and the direct Toynbee Hall influence on Hull House as major counterevidence to a self-contained New England genealogy;
+- added African American prophetic traditions and Black reuse of Pilgrim-Puritan origins as independent and interacting reform lineages rather than derivatives of white Puritanism;
+- recast Winthrop's `city upon a hill` legacy as a documented case of twentieth-century recovery and canonization using Abram Van Engen rather than assuming uninterrupted national memory from 1630;
+- removed the inherited DEI/bias-response/cancel-culture endpoint because the article supplied analogy rather than traceable historical descent;
+- removed escaped numbered-link citations, conversion tables, the duplicated reference export, first-person process narration, and the obsolete converted Mermaid PNG;
+- completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the persistent queue to Proudhon mutualism.
+
 ### PR #35 — Record liberalism report publication
 
 Packages:
@@ -104,7 +121,7 @@ Result:
 - rewrote `fallen-aristocracy` around a disciplined category of hereditary or estate-based elites that lose formal privilege while retaining convertible prestige, education, wealth, networks, or organizational capacity;
 - separated strong cases from category errors: French noble émigrés, former samurai as an explicit functional analogue, and post-First World War aristocratic intellectuals now carry the comparison, while Russian White émigrés, Byzantine scholars, and Latin American creoles are retained only as boundary/negative cases;
 - replaced deterministic status-loss psychology with a conditional model of status threat, residual elite capacity, restoration opportunity, resource convertibility, and successor-state incorporation, supported by Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat evidence;
-- substantially revised the Republican moderating-opposition thesis rather than merely updating links: TANF is treated as durable institutional replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative Republican architecture, USMCA as replacement within an inherited trade paradigm, and Public Law 119-21 immigration enforcement as affirmative capacity building;
+- substantially revised the Republican moderating-opposition thesis rather than merely updating links: TANF is treated as durable institutional replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative architecture, USMCA as replacement within an inherited trade paradigm, and Public Law 119-21 immigration enforcement as affirmative capacity building;
 - reclassified Gramm-Leach-Bliley and the First Step Act as bipartisan directional changes rather than evidence for a simple one-party ratchet;
 - replaced the Republican report's weak legacy source mix and conversion-heavy tables with direct CBO, CRS, USTR, Federal Reserve History, Senate, and historical-institutionalist sources;
 - removed the Republican package's obsolete rendered timeline asset after the rewritten body no longer depended on it;
