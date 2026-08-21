@@ -1781,25 +1781,21 @@ packages:
     - duplicate_review_unresolved
     - raw_diagram_source
   proudhon-mutualism-report:
-    title: ''
-    lifecycle: unknown
-    draft: null
-    type: null
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
+    title: 'Proudhon’s Mutualism: Property, Reciprocity, and Mutual Credit'
+    lifecycle: ready
+    draft: false
+    type: report
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
     has_changelog: true
-    asset_files: 1
+    asset_files: 0
     legacy_media_files: 0
-    body_bytes: 91470
+    body_bytes: 32009
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - duplicate_review_unresolved
-    - absolute_path_in_body
+    mechanical_flags: []
   puritan-moral-psychology:
     title: Puritan Moral Psychology and the Genealogy of American Progressivism
     lifecycle: ready
