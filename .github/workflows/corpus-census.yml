@@ -9,7 +9,7 @@ on:
       - '.github/workflows/corpus-census.yml'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   census:
@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,6 +35,16 @@ jobs:
           echo '--- BEGIN GENERATED CENSUS ---'
           cat editorial/CENSUS.generated.yaml
           echo '--- END GENERATED CENSUS ---'
+
+      - name: Bootstrap committed census snapshot
+        if: ${{ hashFiles('editorial/CENSUS.yaml') == '' && github.event.pull_request.head.repo.full_name == github.repository }}
+        run: |
+          cp editorial/CENSUS.generated.yaml editorial/CENSUS.yaml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- editorial/CENSUS.yaml
+          git commit -m 'Add generated corpus census snapshot'
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
 
       - name: Check committed census freshness
         if: ${{ hashFiles('editorial/CENSUS.yaml') != '' }}
