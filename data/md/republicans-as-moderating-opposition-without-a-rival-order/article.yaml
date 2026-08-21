@@ -1,7 +1,5 @@
 ---
-abstract: This report evaluates the thesis that Republicans in the United States often behave less like
-  builders of a coherent rival governing order and more like a moderating or disciplining opposition inside
-  a shared liberal governing field.
+abstract: A current-through-2026 policy-history analysis testing the claim that the Republican Party primarily moderates institutions created by Democrats rather than constructing durable alternatives. The revised comparison distinguishes retrenchment from replacement and identifies TANF, tax policy, USMCA, and immigration-enforcement capacity as important counterexamples to a universal moderating-opposition thesis.
 aliases: []
 author:
 - Salvador Guzman
@@ -24,9 +22,8 @@ creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-06-03'
-description: An evaluation of whether the Republican party primarily acts as a moderating force on Democratic
-  initiatives rather than establishing its own durable institutional alternatives.
-draft: true
+description: A domain-specific analysis of when Republican governments merely retrench inherited policy institutions and when they create durable replacement architectures or new state capacity.
+draft: false
 edition: '1'
 editorial_profile: academic
 epub-chapter-level: 2
@@ -41,18 +38,20 @@ highlight-style: tango
 identifier: urn:marginalia:republicans-as-moderating-opposition-without-a-rival-order
 isCJKLanguage: false
 keywords:
-- Republicans as Moderating Opposition Without a Rival Order
-- Politics
-- History
-- Political Theory
-- Political science (General)
 - Republican Party
 - United States
-- Conservatism
-- Policy History
+- conservatism
+- institutional replacement
+- policy retrenchment
+- path dependence
+- TANF
+- Affordable Care Act
+- tax policy
+- USMCA
+- immigration enforcement
 lang: en
 language: English
-lastmod: '2026-08-19'
+lastmod: '2026-08-21'
 layout: ''
 library_of_congress_classification:
   class: JA
@@ -66,7 +65,22 @@ outputs: []
 plate_id: ''
 publishDate: '2026-06-03'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: republicans-as-moderating-opposition-without-a-rival-order
+    rationale: Repository title/body searches found no competing package testing the same Republican moderating-opposition versus rival-order hypothesis across welfare, health, tax, finance, criminal justice, trade, and immigration policy.
 report:
   audience: general reader
   code: ''
@@ -77,37 +91,40 @@ report:
     tool: ''
   discipline: political science
   domain: politics
-  emphasis: institutional durability, partisan opposition, and policy entrenchment
-  focus: whether Republican governance tends to moderate a shared policy order rather than construct a durable rival order
+  emphasis: institutional durability, partisan opposition, policy feedback, replacement, and selective state-building
+  focus: when Republican governance retrenches mature inherited institutions and when it constructs durable alternatives or enforcement capacity
   id: urn:marginalia:republicans-as-moderating-opposition-without-a-rival-order
-  intent: evaluate the moderating-opposition thesis against post-1970 United States policy history
+  intent: evaluate the moderating-opposition thesis against current-through-2026 United States policy history
   is_report: true
   kind: research report
   level: ''
-  method: comparative policy-history synthesis
-  methods: []
+  method: comparative policy-history synthesis using official legislative and budget sources plus historical-institutionalist theory
+  methods:
+  - comparative policy history
+  - institutional analysis
+  - counterexample testing
   name: Republicans as Moderating Opposition Without a Rival Order
-  notes: Academic perspective and conversion residue were partially normalized on 2026-08-19, including canonical asset migration and removal of the redundant reference export. The large converted tables still require rendering review, and full factual, citation-quality, and current-link verification remain required before publication.
+  notes: The 2026-08-21 audit substantially revised the inherited thesis rather than simply refreshing citations. TANF is treated as a durable Republican-led replacement of AFDC; the ACA remains the strongest example of opposition and retrenchment without comprehensive replacement; the 2017 tax structure and 2025 reconciliation law demonstrate durable affirmative Republican tax architecture; Gramm-Leach-Bliley and the First Step Act are classified as bipartisan directional changes; USMCA is treated as replacement within an inherited trade paradigm; and Public Law 119-21 demonstrates affirmative immigration-enforcement capacity building. The article now distinguishes retrenchment, reversal, replacement, and capacity building and explains variation through path dependence, policy feedback, veto points, coalition heterogeneity, and selective conservative state-building. Weak legacy sources and two conversion-heavy tables were removed in favor of direct CBO, CRS, USTR, Federal Reserve History, and Senate sources. Duplicate review found no competing canonical treatment. The package is ready for build-derived publication.
   number: '112'
   organization: Marginalia
-  period: post-1970 United States
-  period_covered: 1970s-present
+  period: modern United States through 2026
+  period_covered: 1990s-2026, with institutional background where required
   population_focus: ''
   primary_texts: []
   region: United States
-  region_focus: United States
-  scope: selected federal policy settlements, repeal efforts, regulatory reversals, and bipartisan institutional continuity
-  scope_years: 1970s-present
+  region_focus: United States federal policy
+  scope: welfare, health insurance, taxation, financial regulation, criminal justice, trade, immigration enforcement, and institutional theory
+  scope_years: 1990s-2026
   series: Marginalia Reports
   stance: neutral analytical
-  structure: executive summary, scope, theoretical lenses, mechanisms, comparative cases, measurable outcomes, assessment, and limitations
-  subdiscipline: history and social analysis
+  structure: abstract, rival-order criteria, domain cases, comparative assessment, mechanisms, and conclusion
+  subdiscipline: American political development and policy history
   subject: Republican Party and durable governing orders
   time_scope: contemporary United States political history
-  time_span: 1970s-present
+  time_span: 1990s-2026
   topic: Republicans as Moderating Opposition Without a Rival Order
   type: report
-  version: 1.0.2
+  version: 1.0.3
   year: 2026
 report-no: '112'
 report-number: '112'
@@ -116,7 +133,7 @@ report_no: 112
 report_number: 112
 report_year: 2026
 resources: []
-revision: 1.0.2
+revision: 1.0.3
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 112
@@ -128,22 +145,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: republicans-as-moderating-opposition-without-a-rival-order
-status: review
+status: ready
 subject:
 - Politics
 - History
 subjects:
-- Politics
-- History
+- Republican Party
+- American political development
+- Policy history
+- Institutional change
 subtitle: ''
-summary: An evaluation of whether the Republican party primarily acts as a moderating force on Democratic
-  initiatives rather than establishing its own durable institutional alternatives.
+summary: A current-through-2026 test of the Republican moderating-opposition thesis that finds genuine retrenchment in some mature policy domains but durable Republican replacement or state-building in welfare, taxation, trade, and immigration enforcement.
 tags:
-- republicans-as-moderating-opposition-without-a-rival-order
-- politics
-- history
-- political-theory
+- republican-party
 - us-politics
+- political-history
+- path-dependence
+- policy-retrenchment
+- institutional-change
 - conservatism
 title: Republicans as Moderating Opposition Without a Rival Order
 toc: true
