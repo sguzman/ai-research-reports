@@ -4,6 +4,16 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-22
 
+### PR #50 — Refill ordinary editorial queue from corpus census
+
+Result:
+- refilled the exhausted ordinary `next_batch` from the current 115-package mechanical census rather than selecting the next article ad hoc;
+- reused the low-risk/low-friction selection rule from PR #41: favor legacy-finalized `draft: false` artifacts with manageable bodies, no health/self-harm, engineering/physical-safety, or time-sensitive policy/market risk hint, and comparatively contained conversion/asset burdens;
+- additionally favored historical, mathematical, linguistic, and literary topics over fast-moving policy or contemporary-personality analysis when mechanically similar candidates were available;
+- selected, in order, `moby-dick-as-yankee-self-aggrandizement-and-self-indictment`, `prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850`, `grrm-deconstructed`, `a-post-chomskyan-theory-of-language-in-the-age-of-llms`, and `heaviside`;
+- recorded explicit blockers for classification/profile/voice, duplicate or relationship review, source/factual audit, title or periodization review where applicable, the post-Chomskyan raw-diagram defect, and Heaviside's converted-image provenance question;
+- did not classify, approve, archive, publish, or otherwise advance any selected package on census evidence alone, and left the dedicated GAHT, male-suicide, and Savonius blocked streams unchanged.
+
 ### PR #49 — Record Deleuze, Gothic, postwar, and conservatism publications
 
 Packages:
