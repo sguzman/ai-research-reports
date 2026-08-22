@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-21T18:46:00-06:00'
+updated_at: '2026-08-21T19:36:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 29
+packages_changed_since_baseline: 30
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -11,7 +11,6 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - the-u-s-post-world-war-ii-boom-1945-1975
   - american-conservatism
   - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
 
@@ -409,14 +408,25 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   the-u-s-post-world-war-ii-boom-1945-1975:
-    lifecycle: complete
-    work_state: queued
-    priority: P2
-    blockers:
-      - editorial profile and voice remain unresolved
-      - duplicate review remains pending
-      - historical/economic claim-to-source audit remains
-    next_action: 'Classify as appropriate, audit the postwar-growth causal and quantitative claims against historical economic sources, complete duplicate review, and remove conversion residue if present.'
+    lifecycle: ready
+    work_state: ready-for-publication
+    priority: P1
+    profile: academic
+    voice: neutral
+    completed_work:
+      - retitled the artifact The American High Tide so the public title names the historical object rather than preserving generic inherited report framing
+      - rebuilt the report around 1948–1973 as the macroeconomic high-growth core inside the broader 1945–1975 institutional period
+      - anchored aggregate expansion in BEA real-GDP data and the regime break in BLS productivity and multifactor-productivity series
+      - separated measured homeownership and college-enrollment expansion from causal claims about the GI Bill, mortgage reform, income growth, and institutional expansion
+      - narrowed GI Bill education and housing claims using Bound-Turner and Fetter, including unequal regional and racial access and a minority aggregate contribution of veterans' mortgages to the homeownership boom
+      - distinguished income gains, mortgage-term reform, FHA exclusion, and HOLC-map effects rather than collapsing housing history into one policy narrative
+      - separated the wartime Great Compression from postwar union distribution effects and rejected union density as a sufficient explanation for productivity growth
+      - treated Bretton Woods, the Marshall Plan, and the Interstate system as important operating institutions rather than single-cause growth engines
+      - reframed the 1970s ending as a multi-year erosion involving pre-1973 inflation, Bretton Woods pressure, the oil shock, recession, restored foreign competition, and the sharp post-1973 productivity slowdown
+      - removed raw timeline and xychart source, escaped numbered conversion citations, duplicated reference export, weak tertiary sourcing, and causal overreach
+      - completed duplicate review as independent/keep-separate, added a rich package changelog, confirmed no local assets are required, and advanced revision/version to 1.0.1 and legacy complete to ready
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   american-conservatism:
     lifecycle: complete
