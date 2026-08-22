@@ -2079,25 +2079,21 @@ packages:
     - changelog_missing
     - duplicate_review_unresolved
   the-u-s-post-world-war-ii-boom-1945-1975:
-    title: The U.S. Post–World War II Boom, 1945–1975
-    lifecycle: complete
+    title: 'The American High Tide: The Postwar Boom and Its Breaking Point, 1945–1975'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 53910
+    body_bytes: 31849
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
+    mechanical_flags: []
   topology:
     title: Topology
     lifecycle: complete
