@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-21T18:40:00-06:00'
+updated_at: '2026-08-21T18:46:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 28
+packages_changed_since_baseline: 29
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -11,7 +11,6 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - culture-gothic
   - the-u-s-post-world-war-ii-boom-1945-1975
   - american-conservatism
   - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
@@ -191,7 +190,7 @@ articles:
       - added self-determination and arts/well-being evidence as counterexamples to a universal deficit theory of culture
       - removed the legacy Related Marginalia Essays section and dead /posts/ citation architecture, retaining related corpus artifacts only in metadata
       - replaced two converted Mermaid images with native Markdown structures and deleted the unprovenanced assets
-      - completed duplicate review as independent/keep-separate within a related cultural-theory cluster
+      - completed duplicate review as independent/keep-separate within a broader related culture-theory cluster
       - advanced review to ready at revision 1.0.2
       - verified build-derived deployment at /research/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/ and recorded ready to published
     blockers: []
@@ -385,14 +384,29 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   culture-gothic:
-    lifecycle: complete
-    work_state: queued
-    priority: P2
-    blockers:
-      - editorial profile and voice remain unresolved
-      - duplicate/relationship review remains pending, including similarly titled Liberal Gothic artifacts
-      - source-quality and citation audit remains
-    next_action: 'Classify form/profile/voice, inspect the Liberal Gothic relationship cluster, and complete a source and prose audit before any lifecycle advance.'
+    lifecycle: ready
+    work_state: ready-for-publication
+    priority: P1
+    profile: stylized
+    voice: polemical
+    relationships:
+      related_forks:
+      - liberal-gothic-an-analytical-report
+      - liberal-gothic-quick-facts
+    completed_work:
+      - reclassified the inherited neutral-looking report shell as a stylized polemical essay so the severe cadence and moral rhetoric remain protected
+      - rebuilt the totalizing intentionality claim into a source-bounded thesis about institutions converting suffering into information, identity, representation, and engagement without requiring coordinated intent
+      - added current WHO evidence on widespread loneliness while rejecting a single-cause claim that liberal modernity deliberately manufactures social disconnection
+      - added social-reinforcement and engagement-ranking evidence showing that feedback and ranking can amplify outrage, negative emotion, partisanship, and out-group hostility
+      - added a cross-ideological symmetry check showing that negative affect and engagement are not uniquely left or liberal
+      - incorporated trauma-fiction and Gothic scholarship showing that wounded and haunted narrative forms predate the proposed contemporary liberal-gothic mode
+      - added systematic-review counterevidence that fiction can contribute to social cognition and therefore rejected the claim that all trauma-centered representation is necrotic
+      - formalized diagnostic, necrotic, and restorative culture as analytic distinctions and added explicit conditions under which the wound-market thesis would weaken or fail
+      - removed unsupported claims that creative workers secretly require non-recovery, that inherited order is an uncomplicated human-health control case, or that representation of suffering proves appetite for suffering
+      - reviewed the two Liberal Gothic siblings as related functional forks rather than duplicates and retained this package as the independent stylized essay
+      - added a rich changelog, confirmed no local assets are required, advanced revision/version to 1.0.1 and legacy complete to ready
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   the-u-s-post-world-war-ii-boom-1945-1975:
     lifecycle: complete
