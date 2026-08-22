@@ -98,25 +98,21 @@ packages:
     - duplicate_review_unresolved
     - raw_diagram_source
   a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
-    title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-    lifecycle: complete
+    title: The Unheard Instrument
+    lifecycle: ready
     draft: false
-    type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    type: essay
+    editorial_profile: stylized
+    voice: literary-analytic
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 115233
+    body_bytes: 35196
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
+    mechanical_flags: []
   a-post-chomskyan-theory-of-language-in-the-age-of-llms:
     title: A Post-Chomskyan Theory of Language in the Age of LLMs
     lifecycle: complete
