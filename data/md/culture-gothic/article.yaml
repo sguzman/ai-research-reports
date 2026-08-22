@@ -1,29 +1,198 @@
 ---
-abstract: Aesthetics for the Maimed
+title: Aesthetics for the Maimed
+linkTitle: Aesthetics for the Maimed
+subtitle: Liberal Gothic, Trauma Markets, and the Limits of a Cultural Indictment
+slug: culture-gothic
 aliases: []
+date: '2026-04-20'
+lastmod: '2026-08-21'
+publishDate: '2026-04-20'
+draft: false
+status: ready
+type: essay
+editorial_profile: stylized
+voice: polemical
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Cultural Criticism
+- Media Studies
+- Philosophy
+tags:
+- culture-gothic
+- liberal-gothic
+- trauma-narratives
+- cultural-criticism
+- media-incentives
+- attention-economy
+- gothic
+keywords:
+- Aesthetics for the Maimed
+- liberal gothic
+- trauma narratives
+- trauma plot
+- cultural criticism
+- attention economy
+- social media engagement
+- loneliness
+- Gothic fiction
+subject:
+- Cultural criticism
+- Media studies
+- Trauma narratives
+subjects:
+- Contemporary cultural criticism
+- Gothic and trauma
+- Attention and engagement incentives
+- Trauma narratives
+- Representation and restoration
+summary: >-
+  An intentionally severe essay proposing “liberal gothic” as a bounded label for cultural forms organized around
+  haunted interiority, therapeutic recognition, damaged intimacy, and moralized injury, while testing—and sharply
+  limiting—the stronger claim that contemporary culture deliberately preserves suffering for profit.
+description: >-
+  A stylized, source-bounded polemic on trauma narratives, emotional engagement incentives, the proposed “liberal
+  gothic” mode, and the distinction between diagnostic, necrotic, and restorative representations of suffering.
+abstract: >-
+  This essay preserves a deliberately severe cultural critique while separating rhetoric from evidence. It argues
+  that contemporary institutions can become highly capable of turning suffering into information, identity,
+  representation, and engagement without requiring any coordinated intention to keep people wounded. Research on
+  loneliness, social reinforcement, engagement ranking, cross-ideological negativity, trauma fiction, and fiction’s
+  social-cognitive effects is used to bound the argument. “Liberal gothic” is retained as a proposed aesthetic mode,
+  not an established scholarly genre or a claim that negativity is uniquely liberal.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Politics
-- History
-- Political Theory
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - liberal-gothic-an-analytical-report
+  - liberal-gothic-quick-facts
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: fork
+    disposition: keep-separate
+    canonical_slug: ''
+    rationale: >-
+      The three Liberal Gothic artifacts share terminology but perform distinct functions. `culture-gothic` is an
+      intentionally stylized polemical essay; `liberal-gothic-an-analytical-report` attempts a cross-media genre and
+      case-study analysis; `liberal-gothic-quick-facts` is an empirical/market-incentive briefing. Their overlap is
+      conceptual rather than duplicative, so all remain separate pending independent review of the two related artifacts.
+report:
+  number: 090
+  year: 2026
+  type: essay
+  version: 1.0.1
+  kind: stylized essay
+  collection: cultural-theory
+  discipline: cultural criticism
+  subdiscipline: media criticism and aesthetics
+  domain: culture and media
+  topic: Aesthetics for the Maimed
+  subject: trauma narratives, cultural incentives, and the proposed liberal-gothic mode
+  audience: general reader
+  intent: >-
+    preserve a severe polemical critique of wound-centered cultural production while distinguishing observable
+    incentive structures and narrative conventions from unsupported claims of coordinated intent, ideological
+    monopoly, or universal cultural decay.
+  method: >-
+    Stylized philosophical and cultural criticism bounded by source checks on social disconnection, emotional
+    reinforcement and ranking systems, ideological symmetry in negative-affect engagement, trauma-fiction criticism,
+    Gothic trauma scholarship, and empirical counterevidence on fiction and social cognition.
+  methods:
+  - conceptual criticism
+  - ideological symmetry check
+  - source-to-claim audit
+  - counterevidence testing
+  - relationship review
+  emphasis:
+  - wound-centered cultural forms
+  - attention and engagement incentives
+  - diagnostic versus necrotic versus restorative culture
+  - ideological symmetry
+  - limits of intentionality claims
+  - trauma and Gothic aesthetics
+  focus: >-
+    when representation of suffering becomes a recurring attention structure rather than diagnosis or restoration
+  scope:
+  - trauma narrative and trauma plot
+  - loneliness and social disconnection
+  - social-media reinforcement and ranking
+  - cross-ideological negativity
+  - Gothic representations of trauma
+  - restorative counterevidence
+  - falsification criteria for the cultural indictment
+  period: contemporary culture with historical Gothic context
+  period_covered: twentieth- and twenty-first-century trauma/Gothic forms with current evidence through 2026
+  population_focus: media audiences and cultural institutions where evidence is available
+  primary_texts: []
+  region: primarily Anglophone cultural criticism with global social-connection context
+  region_focus: Anglophone media and digital-platform evidence
+  scope_years: contemporary culture through 2026 evidence context
+  stance: polemical with explicit empirical boundaries
+  structure: >-
+    wound as cultural form, causal limits, incentive mechanisms, proposed liberal-gothic mode, creative-class critique,
+    symmetry check, diagnostic/necrotic/restorative typology, counterevidence, falsification, and conclusion
+  time_scope: contemporary cultural analysis
+  time_span: modern trauma narrative traditions through 2026
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: false
+  id: urn:marginalia:culture-gothic
+  conversion:
+    date: '2026-04-20'
+    source_docx: (standalone-md)
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-21 final audit reclassified the artifact from an inherited neutral-looking research-report shell to
+    a stylized polemical essay. The severe cadence, metaphor, moral vocabulary, aphoristic compression, and explicit
+    cultural judgment are protected authorial features. Empirical allegations are not protected: the rewrite removed
+    unsupported claims that liberalism intentionally manufactures wounds, that creators coordinate to preserve
+    non-recovery, or that negative emotional engagement is uniquely left/liberal. The essay now treats “liberal gothic”
+    as a proposed bounded mode, uses cross-ideological evidence as a symmetry check, includes restorative counterevidence,
+    and provides explicit conditions under which the wound-market thesis would weaken or fail. The two similarly named
+    Liberal Gothic artifacts were reviewed as related functional forks rather than duplicates. No assets are required.
+report-no: 090
+report-number: 090
+report-year: '2026'
+report_no: 90
+report_number: 90
+report_year: 2026
+series: Marginalia Reports
+series-number: 90
+series-title: Marginalia Reports
+series_number: 90
+series_title: Marginalia Reports
+identifier: urn:marginalia:culture-gothic
+dataset_id: cultural-theory
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-04-20'
-description: Aesthetics for the Maimed
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -31,115 +200,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:culture-gothic
 isCJKLanguage: false
-keywords:
-- Aesthetics for the Maimed
-- Politics
-- History
-- Political Theory
-- Political science (General)
-lang: en
-language: English
-lastmod: '2026-04-20'
 layout: ''
-library_of_congress_classification:
-  class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
-license: CC0-1.0
-linkTitle: Aesthetics for the Maimed
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-04-20'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: (standalone-md)
-    tool: pandoc 3.6
-  discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:culture-gothic
-  intent: ''
-  is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: Aesthetics for the Maimed
-  notes: ''
-  number: 090
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Aesthetics for the Maimed
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: 090
-report-number: 090
-report-year: '2026'
-report_no: 90
-report_number: 90
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 90
-series-title: Marginalia Reports
-series_number: 90
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: culture-gothic
-status: complete
-subject:
-- Politics
-- History
-subjects:
-- Politics
-- History
-subtitle: ''
-summary: Aesthetics for the Maimed
-tags:
-- culture-gothic
-- politics
-- history
-- political-theory
-title: Aesthetics for the Maimed
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
