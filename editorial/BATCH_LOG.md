@@ -4,6 +4,23 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #43 — Record Proudhon, meme, and population publications
+
+Packages:
+- `proudhon-mutualism-report`
+- `meme-culture-and-borderer-right-style-a-research-report`
+- `distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo`
+- `global-population-dynamics-peaks-in-population-level-and-growth-rates`
+
+Result:
+- verified the build-derived Marginalia page at `/research/proudhon-mutualism-report/` and confirmed it renders the source-audited mature property/reciprocity/mutual-credit rewrite rather than a legacy copy;
+- verified the broad Borderer meme page and confirmed it renders the falsifiable style-vector hypothesis with ideological symmetry, cross-national qualifications, and bounded political-effects claims;
+- verified the companion Borderer research-framework page and confirmed it renders independent ideology labels, neutral style coding, reliability/construct validation, held-out testing, and explicit retain/split/reject rules;
+- verified the global population page and confirmed it renders the current-through-2026 WPP 2024 analysis with the population-level/growth-rate distinction, projection uncertainty, January 2026 interim-update note, and directly published UN peak-timing groups;
+- advanced all four canonical lifecycles `ready` → `published`, moved them to `done-for-now` / P3 maintenance, and added package-local deployment entries;
+- left article prose, sources, assets, and revision/version unchanged for all four artifacts;
+- left `emptiness-of-deleuze` at `ready` because its build-derived page had not yet been verified, and left `culture-gothic` first in the substantive queue.
+
 ### PR #42 — Finalize Deleuze critique report
 
 Packages:
