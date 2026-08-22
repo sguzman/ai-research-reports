@@ -4,6 +4,23 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #42 — Finalize Deleuze critique report
+
+Packages:
+- `emptiness-of-deleuze`
+
+Result:
+- rebuilt the inherited verdict-first anti-Deleuze report as a source-audited test of which criticisms survive contact with Deleuze and Guattari's actual texts;
+- separated Deleuze's ontology of difference, multiplicity, and assemblage from generic social-construction or deconstruction rhetoric and removed claims that treated anti-essentialism as denial of social reality;
+- corrected the claim that Deleuzian analysis simply decomposes wholes into unreal parts by recognizing assemblages as emergent heterogeneous unities with organization and causal efficacy;
+- restored the paired role of reterritorialization, the dangers of lines of flight, fascist desire, and the explicit failure modes of Body-without-Organs experimentation, which materially weakens the inherited caricature of unconditional anti-order politics;
+- removed academic-lifestyle and institutional-dependence hypocrisy arguments because reliance on publishing, universities, infrastructure, or other organized systems does not establish a philosophical proposition as false;
+- treated Badiou, Žižek, and Hallward as contested critical interlocutors rather than neutral summaries of Deleuze;
+- retained a narrower and stronger criticism: Deleuze and Guattari provide rich accounts of individuation, capture, micropolitics, and transformation but comparatively little conventional normative theory of legitimate coercion, rights, public goods, institutional maintenance, or choice among durable rival orders;
+- added an explicit boundary-condition test for downstream uses of portable Deleuzian concepts, treating applications as empirically weak when the vocabulary lacks discriminating criteria, rival explanations, or possible counterevidence;
+- replaced weak tertiary material, numbered conversion citations, process prose, unsupported engineering analogies, and poorly matched reading suggestions with named primary texts and scholarly secondary sources;
+- normalized the canonical slug to `emptiness-of-deleuze` while retaining the legacy alias, completed duplicate review as independent/keep-separate, classified the artifact academic/neutral, advanced revision/version to 1.0.2 and legacy lifecycle `complete` → `ready` / `draft: false`, and advanced the ordinary queue to `culture-gothic`.
+
 ### PR #41 — Refill ordinary editorial queue from corpus census
 
 Result:
