@@ -224,7 +224,7 @@ articles:
     completed_work:
       - adjudicated as the non-canonical member of the liberalism/disembedding merge cluster
       - incorporated its distinct Weber/Scott/Foucault legal-rational administration, legibility, and governmentality material into the canonical synthesis
-      - preserved the substantive historical prose for provenance and repaired four broken repo-root-style image targets to package-relative paths
+      - preserved the substantive historical prose for editorial provenance and repaired four broken repo-root-style image targets to package-relative paths
       - recorded merged_into relationship and completed duplicate review as merge-cluster/merge-into-canonical
       - advanced review to archived at revision 1.0.2 with draft true
     blockers: []
