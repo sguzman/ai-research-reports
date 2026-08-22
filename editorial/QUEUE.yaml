@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-22T07:53:00-06:00'
+updated_at: '2026-08-22T17:15:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 32
@@ -361,9 +361,9 @@ articles:
     maintenance: 'Recheck against the next full World Population Prospects revision on or after 11 July 2027, or on substantive refresh.'
 
   emptiness-of-deleuze:
-    lifecycle: ready
-    work_state: ready-for-publication
-    priority: P1
+    lifecycle: published
+    work_state: done-for-now
+    priority: P3
     profile: academic
     voice: neutral
     completed_work:
@@ -378,12 +378,12 @@ articles:
       - replaced weak tertiary sourcing, numbered conversion citations, and process prose with named primary texts and scholarly secondary sources
       - normalized the canonical slug while retaining the legacy alias, completed duplicate review as independent/keep-separate, and advanced legacy complete to ready at revision 1.0.2
     blockers: []
-    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+    maintenance: 'Verified build-derived deployment at /research/emptiness-of-deleuze/; preserve the source-audited conceptual distinctions on future revisions.'
 
   culture-gothic:
-    lifecycle: ready
-    work_state: ready-for-publication
-    priority: P1
+    lifecycle: published
+    work_state: done-for-now
+    priority: P3
     profile: stylized
     voice: polemical
     relationships:
@@ -403,12 +403,12 @@ articles:
       - reviewed the two Liberal Gothic siblings as related functional forks rather than duplicates and retained this package as the independent stylized essay
       - added a rich changelog, confirmed no local assets are required, advanced revision/version to 1.0.1 and legacy complete to ready
     blockers: []
-    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+    maintenance: 'Verified build-derived deployment at /research/culture-gothic/; preserve the stylized/polemical voice and explicit empirical boundaries on future revisions.'
 
   the-u-s-post-world-war-ii-boom-1945-1975:
-    lifecycle: ready
-    work_state: ready-for-publication
-    priority: P1
+    lifecycle: published
+    work_state: done-for-now
+    priority: P3
     profile: academic
     voice: neutral
     completed_work:
@@ -424,12 +424,12 @@ articles:
       - removed raw timeline and xychart source, escaped numbered conversion citations, duplicated reference export, weak tertiary sourcing, and causal overreach
       - completed duplicate review as independent/keep-separate, added a rich package changelog, confirmed no local assets are required, and advanced revision/version to 1.0.1 and legacy complete to ready
     blockers: []
-    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+    maintenance: 'Verified build-derived deployment at /research/the-u-s-post-world-war-ii-boom-1945-1975/; recheck dated economic evidence only on substantive refresh.'
 
   american-conservatism:
-    lifecycle: ready
-    work_state: ready-for-publication
-    priority: P1
+    lifecycle: published
+    work_state: done-for-now
+    priority: P3
     profile: academic
     voice: neutral
     completed_work:
@@ -444,7 +444,7 @@ articles:
       - removed escaped numbered conversion citations, duplicate reference-export residue, weak tertiary sourcing, the legacy converted diagram, and its unneeded image asset
       - completed duplicate review as independent/keep-separate, added a rich package changelog, advanced revision/version to 1.0.1, and moved legacy complete to ready
     blockers: []
-    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+    maintenance: 'Verified build-derived deployment at /research/american-conservatism/; preserve the four-layer founding distinction and historiographic boundaries on future revisions.'
 
   a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
     lifecycle: ready

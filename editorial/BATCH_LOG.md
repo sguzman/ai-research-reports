@@ -4,6 +4,22 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-22
 
+### PR #49 — Record Deleuze, Gothic, postwar, and conservatism publications
+
+Packages:
+- `emptiness-of-deleuze`
+- `culture-gothic`
+- `the-u-s-post-world-war-ii-boom-1945-1975`
+- `american-conservatism`
+
+Result:
+- verified the deployed build-derived Marginalia pages at `/research/emptiness-of-deleuze/`, `/research/culture-gothic/`, `/research/the-u-s-post-world-war-ii-boom-1945-1975/`, and `/research/american-conservatism/` and confirmed that each renders the reviewed canonical rewrite rather than a legacy copy;
+- confirmed the deployed Deleuze page carries the corrected assemblage/reterritorialization treatment and bounded normative/institutional critique, the Gothic page carries the bounded “liberal gothic” framing and diagnostic/necrotic/restorative distinctions, the postwar page carries the 1948–1973 high-growth core and causal separation, and the conservatism page carries the four-layer founding model and rival contemporary conservative projects;
+- advanced all four canonical lifecycles `ready` → `published` while retaining `draft: false`;
+- added package-local deployment-verification changelog rows and moved all four queue entries to `done-for-now` / P3 maintenance;
+- left article prose, sources, assets, and revision/version unchanged for all four packages;
+- left `a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture` at `ready` because its build-derived `gh-pages` page was not present during the deployment sweep.
+
 ### PR #48 — Finalize The Unheard Instrument literary history
 
 Packages:
