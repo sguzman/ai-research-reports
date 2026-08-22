@@ -1,5 +1,5 @@
 schema_version: 1
-updated_at: '2026-08-22T17:15:00-06:00'
+updated_at: '2026-08-22T17:27:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
 packages_changed_since_baseline: 32
@@ -10,7 +10,12 @@ rules:
   article_changelog_required_on_every_package_change: true
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
-next_batch: []
+next_batch:
+  - moby-dick-as-yankee-self-aggrandizement-and-self-indictment
+  - prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+  - grrm-deconstructed
+  - a-post-chomskyan-theory-of-language-in-the-age-of-llms
+  - heaviside
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -143,7 +148,7 @@ articles:
       - replaced the inherited undifferentiated six-case catalogue with strong cases plus explicit boundary/negative cases
       - treated French noble émigrés, former samurai as a functional analogue, and post-WWI aristocratic intellectuals as the strongest comparisons
       - demoted Russian White émigrés, Byzantine scholars, and Latin American creoles to boundary cases rather than misclassifying them as equivalent fallen aristocracies
-      - replaced deterministic grievance claims with a conditional model of status threat, residual capacity, restoration opportunity, resource convertibility, and successor-state incorporation
+      - replaced deterministic grievance claims with a conditional model of status threat, residual elite capacity, restoration opportunity, resource convertibility, and successor-state incorporation
       - replaced mixed legacy sourcing with direct Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat sources
       - completed duplicate review as independent/keep-separate
       - advanced review to ready at revision 1.0.3
@@ -467,6 +472,59 @@ articles:
       - completed duplicate review as independent/keep-separate with a-history-of-functional-analysis retained only as an operator-theory historical neighbor, added a rich changelog, confirmed no assets are required, and advanced revision/version to 1.0.1 and legacy complete to ready
     blockers: []
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
+
+  moby-dick-as-yankee-self-aggrandizement-and-self-indictment:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending
+      - literary-source and historical-context audit remains, including separation of textual evidence from Yankee/folkway interpretation
+    next_action: 'Classify form/profile/voice, audit the textual and historical support for the Yankee self-aggrandizement/self-indictment thesis, complete relationship review, and add the missing package changelog.'
+
+  prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending
+      - historical source audit and periodization/title review remain, including the unusually broad c.1100–c.1850 scope
+    next_action: 'Classify form/profile/voice, test the prestige-economy thesis across its long chronology, repair title/scope if needed, complete relationship review, and add the missing package changelog.'
+
+  grrm-deconstructed:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending
+      - literary, biographical, and interview-source audit remains
+      - public title quality remains to be reviewed
+    next_action: 'Classify form/profile/voice, separate close reading from biographical or intentional claims about George R.R. Martin, review the title, complete relationship review, and add the missing package changelog.'
+
+  a-post-chomskyan-theory-of-language-in-the-age-of-llms:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - relationship/duplicate review remains pending, especially against how-llms-challenge-chomskyan-assumptions-analytical-report
+      - Chomskyan linguistics and LLM source/concept audit remains
+      - raw diagram source must be removed or replaced before publication
+    next_action: 'Classify form/profile/voice, adjudicate the nearby LLM/Chomsky artifact, audit the theoretical claims and model evidence, replace raw diagram source, and add the missing package changelog.'
+
+  heaviside:
+    lifecycle: complete
+    work_state: queued
+    priority: P2
+    blockers:
+      - editorial profile and voice remain unresolved
+      - duplicate/relationship review remains pending
+      - historical and scientific source audit remains
+      - converted image rId50.png needs provenance/necessity review
+    next_action: 'Classify form/profile/voice, audit the Heaviside history and technical claims, resolve image provenance or remove the image, complete relationship review, and add the missing package changelog.'
 
   american-judicial-process:
     lifecycle: published
