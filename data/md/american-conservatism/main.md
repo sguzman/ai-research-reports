@@ -1,766 +1,222 @@
-# American Conservatism and the Liberal-Revolutionary Founding
+# Conserving a Revolution
 
 ## Executive summary
 
-This report formalizes and tests the claim that American conservatism is
-intellectually unstable because the United States was founded not as a
-traditional conservative order, but as a modern liberal-republican
-revolution. The strongest version of the claim is **not** that the
-Founders were "leftists" in any modern partisan sense. That would be
-anachronistic. The stronger and more defensible claim is that the
-American founding was built on natural rights, popular consent,
-religious liberty, anti-aristocratic legitimacy, and the right of
-revolution, all of which sit much closer to modern liberalism and
-republicanism than to classical conservatism.
-[\[1\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-The evidence supports a **qualified version** of the critique. The
-founding texts are plainly revolutionary in legitimacy and liberal in
-moral language, but they are also institutionally cautious, morally
-demanding, and socially hierarchical. The Declaration announces
-equality, rights, consent, and the right "to alter or abolish"
-government, while also warning that "Governments long established should
-not be changed for light and transient causes." The Constitution then
-turns that revolutionary premise into a framework of federalism,
-bicameralism, separated powers, and indirect checks rather than
-unfiltered democracy.
-[\[2\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-The central conclusions are these:
-
--   The Founders were better described as **liberal-republican
-    revolutionaries influenced by Enlightenment thought, Whig
-    constitutionalism, and civic-republican concerns**, not as
-    conservatives in the Burkean or traditional-European sense.
-    [\[3\]](https://books.google.com/books/about/The_Ideological_Origins_of_the_American.html?id=M2ufnU-PHH0C)
--   The founding aligns strongly with liberalism on **political
-    legitimacy** and only partially with conservatism on **institutional
-    prudence, federalism, and moral preconditions for liberty**.
-    [\[4\]](https://www.archives.gov/founding-docs/declaration-transcript)
--   American conservatism is coherent **only if it means conserving a
-    historically American constitutional order that is itself liberal in
-    origin**, or if it openly admits that it is **post-liberal** and
-    seeks to revise the founding settlement. It becomes incoherent when
-    it tries to do both at once while pretending there is no tension.
-    [\[5\]](https://www.heritage.org/american-history/report/why-the-american-founding-matters-american-conservatism)
--   Contemporary conflicts among originalists, national conservatives,
-    and post-liberals are best understood as a struggle over whether the
-    American Right should conserve the founding's liberal premises or
-    move beyond them.
-    [\[6\]](https://www.heritage.org/the-constitution/report/originalism-and-conservatism-american-story)
-
-## Thesis and research questions
-
-The report's thesis is that **American conservatism is only partly
-incoherent**. It is incoherent when it claims that the United States was
-founded as a straightforward conservative regime rooted in inherited
-hierarchy, throne-and-altar legitimacy, or premodern social order. But
-it is coherent when it defines itself either as the conservation of an
-**American constitutional tradition born from a liberal-republican
-revolution** or as an explicitly **post-liberal** project seeking to
-revise that tradition. In other words, the real issue is not whether the
-American Right can be conservative at all; it is whether it is
-conserving **the founding's liberal constitutionalism** or trying to
-surpass it. [\[7\]](https://plato.stanford.edu/entries/conservatism/)
-
-The main research questions follow from that thesis. What ideological
-languages actually shaped the Founders: Enlightenment liberalism,
-radical Whig constitutionalism, civic republicanism, Protestant moral
-discourse, or some combination of them? Which dimensions of the founding
-are liberal, which are conservative, and which are hybrids? How did
-Federalist and Anti-Federalist debates refine these tensions? And do
-modern conservative movements resolve the contradiction, repress it, or
-radicalize it?
-[\[8\]](https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html)
-
-A crucial methodological point is that applying modern "left" and
-"right" labels to the late eighteenth century is hazardous. The most
-defensible vocabulary for the founding generation is **liberal**,
-**republican**, **Whig**, **constitutional**, and **revolutionary**.
-Even the most influential scholarship on the old "republicanism versus
-liberalism" debate now tends to treat the Founders not as inhabitants of
-a single pure ideology but as selective synthesizers of multiple
-traditions. [\[9\]](https://philpapers.org/rec/GIBAMA)
-
-## Historical background of the founding
-
-The Declaration of Independence is the clearest place to start because
-it grounds American political legitimacy in propositions unmistakably
-modern and revolutionary: all men are created equal, possess unalienable
-rights, institute governments by consent, and retain a right to "alter
-or abolish" governments that violate those ends. At the same time, the
-Declaration immediately tempers its own radicalism by insisting that
-prudence counsels against changing long-established governments for
-light causes. That combination matters. The founding was revolutionary,
-but it was not Jacobin; it justified revolution in the name of rights
-and consent while framing it as a grave and exceptional remedy.
-[\[10\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-The intellectual background of those claims was heavily shaped by John
-Locke and by Anglo-American Whig thought. The Library of Congress notes
-that Locke's works supplied many Americans with arguments for
-inalienable natural rights and resistance to abusive government, and the
-National Constitution Center notes that Locke's writings on government
-and toleration made him one of the most cited secular authors in America
-between 1760 and 1800. Bernard Bailyn's classic interpretation likewise
-argues that colonial resistance drew enormous force from radical Whig
-fears of corruption, conspiracy, standing armies, and arbitrary power.
-[\[11\]](https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html)
-
-Yet the founding was not reducible to Lockean individualism alone.
-Gordon Wood's work maps a political world of republicanism, mixed
-government, representation, bicameralism, and popular sovereignty, while
-later scholarship emphasizes that eighteenth-century Americans often
-inhabited liberal and republican languages simultaneously rather than
-choosing one or the other. Joyce Appleby explicitly treated
-republicanism and liberalism as complementary, and Alan Gibson argued
-that the Founders "selectively adopted, creatively integrated, and
-substantially reconstructed" several traditions into something
-distinctively American. Robert Shalhope put the point sharply: late
-eighteenth-century Americans did not experience themselves as having to
-choose between liberalism and republicanism in the rigid way later
-scholars sometimes imagined.
-[\[12\]](https://www.jstor.org/stable/10.5149/9780807899816_wood)
-
-The Constitution converted revolutionary legitimacy into a durable
-institutional order. The Preamble speaks in the name of "We the People,"
-not king, church, or inherited estate. Article IV guarantees a
-"Republican Form of Government." Federalist No. 39 says republican
-government alone accords with "the fundamental principles of the
-Revolution" and with the American commitment to self-government.
-Federalist No. 10 argues that a **large republic** can better control
-faction than a small one, while Federalist No. 51 famously relies on
-institutional conflict---"ambition must be made to counteract
-ambition"---to prevent concentrated power. Federalist No. 78 then
-defends an independent judiciary as the "least dangerous" branch. These
-are not the conceptual reflexes of traditional conservatism. They are
-the architecture of a modern constitutional republic designed to secure
-liberty through representation and structure.
-[\[13\]](https://www.archives.gov/founding-docs/constitution-transcript)
-
-The Anti-Federalists sharpened rather than erased the tension. Brutus
-feared that republican liberty could not survive in a large consolidated
-republic and preferred power closer to state and local communities. The
-Federal Farmer worried about consolidation, inadequate representation,
-and insecure rights. The eventual Bill of Rights reflects the force of
-these objections: the Constitution was ratified, but only after
-sustained pressure to specify individual liberties and restrain central
-power. That debate matters because it shows that even skepticism of
-consolidation in the 1780s was still articulated in the language of
-republican self-government and rights, not in the language of hereditary
-order.
-[\[14\]](https://constitutioncenter.org/the-constitution/historic-document-library/detail/brutus-essay-no-1)
-
-The founding was also socially and morally contradictory. On one side,
-leading texts and state statutes defended freedom of conscience, the
-absence of religious establishment at the federal level, and the idea
-that rights do not depend on sectarian belief. Madison argued that
-religion is an "unalienable right" beyond civil coercion; Jefferson's
-Virginia Statute for Religious Freedom became a forerunner of First
-Amendment protections; and Article VI forbids religious tests for
-federal office. On the other side, the Constitution embedded slavery
-through the three-fifths clause, the fugitive slave clause, and the
-temporary protection of the slave trade, while voting in practice
-remained mostly in state hands and was largely limited to white men with
-property or land. Married women lived under coverture. So the founding
-was liberal-revolutionary in legitimacy, but socially hierarchical and
-exclusionary in practice.
-[\[15\]](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-memorial-and-remonstrance-against-religious-assessments-1785)
-
-The ideological flow is easiest to see as a layered inheritance rather
-than a single doctrine:
-
-  -------------------------------------------------------------------------------------
-                               ![Rendered Mermaid diagram
-   1](data/md/american-conservatism/media/media/rId34.png){width="5.833333333333333in"
-                             height="1.3323042432195975in"}
-
-  -------------------------------------------------------------------------------------
-
-This diagram simplifies a contested historiography, but it captures the
-highest-confidence conclusion: the founding was a **modern
-constitutional synthesis** built from rights, republicanism, and
-institutional prudence rather than an act of preserving an inherited
-pre-liberal social order.
-[\[16\]](https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html)
-
-## Conceptual definitions and analytical framework
-
-For purposes of analysis, **conservatism** means a post-Enlightenment
-disposition or ideology that values inherited institutions, historical
-experience, gradual and organic change, and skepticism toward
-rationalist projects of moral or political reconstruction. The Stanford
-Encyclopedia emphasizes conservatism's opposition to utopian
-exaggerations of reason and perfectibility, while Samuel Huntington's
-classic formulation describes conservatism as the rationalization of
-existing institutions in terms of history, nature, God, and man.
-**Liberalism** means a family of doctrines centered on liberty, rights,
-toleration, consent, and limits on coercive authority. **Revolutionary**
-means the claim that people may rightfully replace a regime when it
-violates basic ends of government. **Post-liberal** refers to
-contemporary arguments that liberalism's own internal logic produces
-atomization, privatism, inequality, and an overgrown state, and that
-politics should be reordered around substantive goods or communal ends.
-**Tradition** means inherited and transmitted patterns of thought and
-practice; in conservative usage, it is usually understood as evolving
-rather than frozen.
-[\[17\]](https://plato.stanford.edu/entries/conservatism/)
-
-The categories matter because the user's grievance becomes much sharper
-once expressed formally. The problem is not simply that the United
-States contains liberal elements. The problem is that the regime's
-**foundational source of authority** is liberal-revolutionary, whereas
-traditional conservatism usually derives legitimacy from inheritance,
-prescription, continuity, and authority accumulated over time. That is
-the pressure point. If the founding itself is a rupture justified by
-universal principles, a conservative politics built on reverence for
-inherited order has to either reinterpret the founding as conservative,
-redefine "tradition" around the post-1787 constitutional order, or
-reject the founding's premises as insufficient.
-[\[18\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-The following comparative table summarizes where the founding aligns
-with and diverges from conservatism.
-
-  --------------------------------------------------------------------------------------------
-  Dimension       Founding core         Affinity with  Affinity with   Bottom-line assessment
-                  commitments           conservatism   liberalism or   
-                                                       revolutionary   
-                                                       republicanism   
-  --------------- --------------------- -------------- --------------- -----------------------
-  Political       Natural equality,     Low            Very high       Strongly
-  legitimacy      unalienable rights,                                  liberal-revolutionary
-                  consent of the                                       
-                  governed, right of                                   
-                  revolution                                           
-
-  Institutional   Federalism,           High           High            Hybrid: liberal ends
-  design          bicameralism,                                        with conservative
-                  separated powers,                                    restraints
-                  checks and balances,                                 
-                  judicial independence                                
-
-  Religion and    No religious test,    Medium         High            Liberal in law, morally
-  conscience      disestablishmentary                                  conservative in civic
-                  impulse, liberty of                                  culture
-                  conscience, but                                      
-                  public emphasis on                                   
-                  religion and morality                                
-
-  Social order    Slavery, coverture,   High in        Low in          Socially hierarchical
-                  restricted franchise, practice       principle       but ideologically
-                  deference to property                                unstable
-                  and local elites                                     
-
-  National        A founded republic    Low to medium  High            More
-  identity        articulated through                                  propositional/civic
-                  principles and                                       than
-                  constitutional forms,                                traditional-national
-                  not ancient bloodline                                
-                  or established church                                
-
-  Reform and      Revolutionary break   Medium         High            Revolutionary in
-  change          justified by                                         origin, cautious in
-                  principle, yet                                       method
-                  repeated warnings                                    
-                  about prudence and                                   
-                  long-standing                                        
-                  institutions                                         
-  --------------------------------------------------------------------------------------------
-
-This table is synthesized from the Declaration, Constitution, Federalist
-Papers, Anti-Federalist debates, and major scholarship on the founding's
-multiple ideological inheritances.
-[\[19\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-The most important takeaway from the framework is that **the founding is
-liberal and revolutionary at the level of first principles, but more
-conservative at the level of institutional engineering and social
-practice**. That means the claim "there is nothing conservative about
-the United States" is too strong if it refers to federalism, prudence,
-moral preconditions for liberty, localism, and checks on democracy. But
-it is substantially correct if it refers to the basic source of
-legitimacy and to the nation's self-understanding as a rights-bearing
-political project.
-[\[20\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-## Scholarly literature and contemporary critiques
-
-The scholarly literature clusters into a few major positions. Louis
-Hartz's "liberal tradition" thesis remains foundational because it
-argues that America developed without a feudal past and therefore
-without a native conservative social class in the European sense.
-Hartz's earlier APSR essay already described the distinctive American
-impact of the liberal idea as individualism, weak class consciousness,
-and the political dominance of broadly liberal assumptions. Huntington
-sharpened the problem from a different angle: if conservatism is an
-ideology of defending existing institutions, then it appears in full
-force only where a threatened traditional order already exists. That
-makes the American case structurally unusual from the outset.
-[\[21\]](https://www.cambridge.org/core/journals/american-political-science-review/article/whig-tradition-in-america-and-europe/132922919816F7BAB549682EB75ED904)
-
-A second cluster---Bailyn and Wood above all---showed that older
-materialist readings underestimated the sincerity and coherence of
-revolutionary ideology. Bailyn argued that colonial pamphleteers
-genuinely feared corruption and arbitrary power through a radical Whig
-lens, while Wood emphasized the extent to which the Revolution carried
-Americans into a recognizably modern political world. The force of this
-scholarship is to make the founding look not like a defense of inherited
-hierarchy but like a major rupture in political thought and legitimacy.
-[\[22\]](https://books.google.com/books/about/The_Ideological_Origins_of_the_American.html?id=M2ufnU-PHH0C)
-
-A third and now highly influential cluster rejects any simple binary
-between liberalism and republicanism. Appleby argued that republicanism
-and liberalism were not mutually exclusive enemies but overlapping and
-often complementary languages in the early republic. Gibson likewise
-argues for a "multiple traditions" approach in which the Founders
-integrated several streams of thought into an original synthesis.
-Shalhope's treatment of the debate makes a similar point: the founding
-generation itself did not live inside the later academic dichotomy. This
-literature is important because it undercuts both simplifications at
-once: the founding was neither purely Lockean-liberal nor secretly
-conservative. It was a composite modern republic.
-[\[23\]](https://books.google.com/books/about/Liberalism_and_Republicanism_in_the_Hist.html?id=83HlqTJjLcgC)
-
-On the contemporary Right, the literature splits more sharply. A
-**foundingist defense** is represented by institutions such as Heritage
-and Claremont. Heritage argues that American conservatives are
-historically justified in presenting themselves as preservers of
-founding ideas and that originalism is not only conservative in style
-but the correct way to interpret the Constitution. Claremont states
-openly that its mission is to restore the principles of the American
-founding to preeminent authority. This is the strongest coherent answer
-available to traditional movement conservatism: American conservatism is
-coherent because what it conserves is not medieval hierarchy or
-ancien-régime order, but a specifically American constitutional order of
-"ordered liberty."
-[\[24\]](https://www.heritage.org/american-history/report/why-the-american-founding-matters-american-conservatism)
-
-A **post-liberal and New Right critique** takes the opposite path.
-Patrick Deneen argues that liberalism has failed not because it betrayed
-itself, but because it fulfilled its own internal logic; Sohrab Ahmari
-argues that American conservatism failed through its pursuit of
-"unrestrained liberty"; Adrian Vermeule says conservative originalism
-and progressive living constitutionalism are both "exhausted" and should
-yield to a common-good constitutionalism; and the National Conservatism
-statement places nation, family, religion, and civilizational continuity
-at the center of political renewal. Internal right-wing criticism
-confirms the user's central grievance: a large part of the Right now
-believes that conserving the liberal order is no longer enough, or is
-itself the problem.
-[\[25\]](https://yalebooks.yale.edu/book/9780300231878/why-liberalism-failed/)
-
-At the same time, even these post-liberal critiques reveal a
-second-order tension. Claremont critic Charles Kesler faults National
-Conservatism for downplaying the American regime's natural-rights and
-constitutional identity and for mixing American nationalism with more
-generic tradition-centered nationalism. That dispute is highly
-revealing. It is not a marginal quarrel. It is a fight over whether
-American conservatism is defined by the **Declaration and Constitution**
-or by a broader politics of authority, religion, family, and nation that
-can no longer be fully justified by the founding's propositions.
-[\[26\]](https://americanmind.org/features/national-conservatism-vs-american-conservatism/)
-
-A concise map of the literature looks like this:
-
-  -------------------------------------------------------------------------------------
-  School or tendency          Representative    Core claim            Implication for
-                              works and                               the user's thesis
-                              institutions                            
-  --------------------------- ----------------- --------------------- -----------------
-  Liberal tradition           Hartz             America is            Strong support
-                                                structurally liberal  
-                                                because it lacked a   
-                                                feudal-conservative   
-                                                inheritance           
-
-  Revolutionary-ideological   Bailyn, Wood      The founding was      Strong support
-                                                genuinely ideological 
-                                                and transformative    
-
-  Multiple traditions         Appleby, Gibson,  Founders fused        Supports a
-  synthesis                   Shalhope, Banning liberal and           moderated version
-                              tradition         republican languages  
-
-  Foundingist conservatism    Heritage,         Conservatism is       Rebuttal to the
-                              Claremont,        coherent if it        strongest version
-                              originalists      conserves American    of the critique
-                                                constitutional        
-                                                ordered liberty       
-
-  Post-liberal / national     Deneen, Ahmari,   Liberalism and        Confirms the
-  conservative                Vermeule, NatCon  fusionism failed; the critique from
-                                                right needs a more    within the Right
-                                                substantive           
-                                                common-good politics  
-  -------------------------------------------------------------------------------------
-
-This survey is based on the cited scholarship and contemporary
-institutional statements; it shows that the user's critique tracks a
-real divide in both historiography and present-day conservative thought.
-[\[27\]](https://www.cambridge.org/core/journals/american-political-science-review/article/whig-tradition-in-america-and-europe/132922919816F7BAB549682EB75ED904)
-
-## Case studies in modern conservatism
-
-### Fusionism and Reaganism
-
-Postwar movement conservatism solved the American problem by **fusing**
-classical liberal commitments to free markets and limited government
-with traditionalist commitments to virtue, religion, and anti-communism.
-National Affairs summarizes fusionism as the view that libertarian
-individualism and virtue-oriented traditionalism are complementary
-rather than mutually exclusive, and Reagan's 1981 CPAC speech celebrated
-the conservative movement born around *National Review* as a force that
-would stand "athwart the course of history yelling, 'Stop!'" This model
-was enormously successful politically, but philosophically it only works
-if conservatism is willing to conserve a basically liberal
-constitutional order and then supply private moral content around it.
-[\[28\]](https://nationalaffairs.com/publications/detail/a-family-focused-fusionism)
-
-The user's grievance lands hardest here. Fusionism made peace with the
-founding by effectively redefining American conservatism as the defense
-of liberty first, with virtue preserved mostly through family, church,
-market restraint, and anti-communist civic culture. Its critics now
-argue that this bargain preserved procedural freedom while surrendering
-social authority and cultural cohesion. Ahmari's charge that American
-conservatism failed through "unrestrained liberty" is in large part an
-indictment of fusionism's dependence on liberal premises.
-[\[29\]](https://www.theamericanconservative.com/american-conservatism-is-a-failure/)
-
-### Tea Party constitutionalism, originalism, and Dobbs
-
-The Tea Party revived a strongly anti-statist and constitutionalist
-version of American conservatism. Pew found that Tea Party backers
-overwhelmingly identified as conservative, distrusted the federal
-government, favored cutting federal programs, and viewed Washington as
-overreaching into state and local matters. This is classic
-"constitutional conservatism": the Right presents itself as restoring
-limited government by returning to the founding framework. Heritage's
-originalism essay gives the theory its juridical expression, explicitly
-arguing that American conservatism needs originalism.
-[\[30\]](https://www.pewresearch.org/politics/2010/04/18/section-6-tea-party-and-views-of-government-overreach/)
-
-But the legal side of the story reveals an instability. In *Dobbs*, the
-Supreme Court majority justified its holding by arguing that abortion is
-not "deeply rooted in the Nation's history and traditions." That is not
-the language of the Declaration's universal rights; it is the language
-of inherited tradition and historical pedigree. In practice, then,
-conservative constitutionalism oscillates between two legitimating
-grammars: the founding's rights-based universalism and a more
-historically sedimented appeal to national tradition. The case study
-shows that modern conservative jurisprudence often relies on both,
-without clearly deciding which has priority.
-[\[31\]](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)
-
-### National conservatism, Christian nationalism, and post-liberal law
-
-National conservatism and the broader post-liberal turn make the tension
-impossible to ignore. The National Conservatism statement calls for
-restoring patriotism, family, religion, and national self-government,
-while also defending a strong but limited state and federalist
-decentralization. PRRI reports that in 2024, about 30 percent of
-Americans were either Christian nationalism adherents or sympathizers
-and that 53 percent of Republicans fell into those two categories
-combined. This is not simply a restatement of founding
-constitutionalism. It is a more substantive politics of civilizational
-and moral restoration.
-[\[32\]](https://nationalconservatism.org/national-conservatism-a-statement-of-principles/)
-
-The legal and theoretical side of the same movement is explicit.
-Vermeule proposes common-good constitutionalism as an alternative to
-both conservative originalism and progressive living constitutionalism,
-arguing that American law from the founding was embedded in a broader
-classical legal tradition ordered to justice, peace, prosperity, and
-morality. Deneen argues for replacing the liberal elite and the ideology
-that empowered them. This is no longer "conservatism" in the sense of
-simply conserving the constitutional liberal founding. It is an attempt
-to **surpass** the founding's dominant grammar while often retaining its
-institutions. That is precisely why internal critics on the right accuse
-national conservatives of moving away from America's natural-rights
-constitutional identity.
-[\[33\]](https://hls.harvard.edu/bibliography/common-good-constitutionalism/)
-
-## Implications for conservative strategy
-
-If conservatives want intellectual coherence, the first recommendation
-is conceptual honesty: **stop calling the Founders "conservatives"
-without qualification**. The more accurate description is
-liberal-republican revolutionaries who built a cautious constitutional
-order. That shift in vocabulary would clarify rather than weaken
-conservative argument. It would allow the Right to say, truthfully, that
-the American regime was founded on modern principles of rights and
-consent, while also insisting that those principles were
-institutionalized through prudence, federalism, religion-friendly civil
-society, and checks on power.
-[\[34\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-The second recommendation is strategic differentiation. There are really
-**three coherent routes** available. One route is **founding
-constitutional conservatism**: conserve ordered liberty, originalism,
-federalism, local self-government, religious liberty, and the
-constitutional separation of powers. A second route is **American
-Burkean institutionalism**: conserve the accumulated American tradition
-of associations, localism, common-law habits, family authority, and
-civic restraint, while admitting that the founding was a modern
-political break rather than a traditional one. A third route is **open
-post-liberal revisionism**: argue candidly that the founding's liberal
-premises are insufficient and that a more substantive common-good
-politics is necessary. What is not coherent is a politics that uses
-founding rhetoric when it is convenient and post-liberal premises when
-rights language becomes inconvenient.
-[\[35\]](https://www.heritage.org/the-constitution/report/originalism-and-conservatism-american-story)
-
-The third recommendation concerns political emphasis. The most viable
-overlap between the founding and conservative prudence lies not in
-pretending the founding was pre-liberal, but in recovering the domains
-where the founding already distrusted concentrated power and abstract
-moral engineering: federalism, separated powers, representation, local
-self-government, voluntary religion, and civic virtue. Madison's defense
-of checks and balances, the Anti-Federalist warning against
-consolidation, and Washington's insistence on religion and morality as
-supports of political prosperity all point toward a conservative
-politics of restraint and formation rather than toward a purely
-libertarian or purely statist project.
-[\[36\]](https://avalon.law.yale.edu/18th_century/fed51.asp)
-
-The fourth recommendation is rhetorical. Conservatives should abandon
-mythic claims that every present preference is latent in 1776 or 1787.
-That style of argument invites historical overreach, weakens
-credibility, and guarantees internal contradiction. A stronger style
-would distinguish among **founding principle**, **constitutional
-development**, and **later American tradition**. Once those layers are
-separated, conservative argument becomes more accurate and more
-resilient. [\[37\]](https://philpapers.org/rec/GIBAMA)
-
-## Limitations and open questions
-
-Two important limitations remain. First, the founding was not one thing.
-There is a meaningful difference between the world of **1776**, the
-settlement of **1787**, and the rights amendments of **1791**. Treating
-"the founding" as a single frozen moment can obscure real differences
-between revolutionary justification, constitutional design, and later
-political development. Second, most of the evidence emphasized here
-comes from elite political texts and the most influential scholarly
-works about them. That is appropriate for a report about constitutional
-ideology, but it leaves aside popular political religion, local
-practice, and the many state-level variations that complicated the early
-republic.
-[\[38\]](https://www.archives.gov/founding-docs/declaration-transcript)
-
-Several open questions follow. Can a post-liberal Right revise liberal
-institutions without ceasing to be constitutionalist? Can a foundingist
-Right defend universal natural-rights language while still appealing to
-thick moral and religious traditions? And if American conservatism is
-really the conservation of a **liberal constitutional order plus
-inherited civic habits**, does its true object of conservation lie more
-in the nineteenth and twentieth centuries than in 1776 itself? Those are
-not peripheral questions. They are the questions that now divide the
-Right.
-[\[39\]](https://yalebooks.yale.edu/book/9780300231878/why-liberalism-failed/)
-
-### Bibliography
-
-#### Primary sources
-
-Adams, John. *Thoughts on Government, Applicable to the Present State of
-the American Colonies*. 1776.
-
-Brutus. *Essay No. 1*. 1787.
-
-Hamilton, Alexander. *Federalist No. 78*. 1788.
-
-Jefferson, Thomas. *Declaration of Independence*. 1776.
-
-Jefferson, Thomas. *Virginia Statute for Religious Freedom*. 1786.
-
-Madison, James. *Federalist No. 10*. 1787.
-
-Madison, James. *Federalist No. 39*. 1788.
-
-Madison, James. *Federalist No. 51*. 1788.
-
-Madison, James. *Memorial and Remonstrance Against Religious
-Assessments*. 1785.
-
-The Federal Farmer. *Letters to the Republican*. 1787--1788.
-
-United States. *Constitution of the United States*. 1787.
-
-Washington, George. *Farewell Address*. 1796.
-
-#### Selected scholarship and contemporary works
-
-Ahmari, Sohrab. "American Conservatism Is a Failure." *The American
-Conservative*, 2020.
-
-Appleby, Joyce. *Liberalism and Republicanism in the Historical
-Imagination*. Harvard University Press, 1992.
-
-Bailyn, Bernard. *The Ideological Origins of the American Revolution*.
-Harvard University Press, 1967; enlarged ed., 1992.
-
-Deneen, Patrick J. *Why Liberalism Failed*. Yale University Press, 2018.
-
-Deneen, Patrick J. *Regime Change: Toward a Postliberal Future*.
-Sentinel, 2023.
-
-Gibson, Alan. "Ancients, Moderns and Americans: The
-Republicanism-Liberalism Debate Revisited." *History of Political
-Thought* 21, no. 2, 2000.
-
-Hartz, Louis. *The Liberal Tradition in America*. Harcourt, Brace, 1955.
-
-Hartz, Louis. "The Whig Tradition in America and Europe." *American
-Political Science Review* 46, no. 4, 1952.
-
-Hazony, Yoram. "Conservative Democracy." *First Things*, 2019.
-
-Huntington, Samuel P. "Conservatism as an Ideology." *American Political
-Science Review* 51, no. 2, 1957.
-
-Kirk, Russell. *The Conservative Mind*. Henry Regnery, 1953.
-
-Nash, George H. *The Conservative Intellectual Movement in America Since
-1945*. Basic Books, 1976; later editions.
-
-Rodgers, Daniel T. "Republicanism: The Career of a Concept." *Journal of
-American History* 79, no. 1, 1992.
-
-Vermeule, Adrian. *Common Good Constitutionalism*. Polity, 2022.
-
-Whittington, Keith E. "Is Originalism Too Conservative?" 1991.
-
-Wood, Gordon S. *The Creation of the American Republic, 1776--1787*.
-University of North Carolina Press, 1969; 1998 ed.
-
-Wood, Gordon S. *The Radicalism of the American Revolution*. Knopf,
-1992.
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[2\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[4\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[10\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[18\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[19\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[20\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[34\]](https://www.archives.gov/founding-docs/declaration-transcript)
-[\[38\]](https://www.archives.gov/founding-docs/declaration-transcript)
-https://www.archives.gov/founding-docs/declaration-transcript
-
-<https://www.archives.gov/founding-docs/declaration-transcript>
-
-[\[3\]](https://books.google.com/books/about/The_Ideological_Origins_of_the_American.html?id=M2ufnU-PHH0C)
-[\[22\]](https://books.google.com/books/about/The_Ideological_Origins_of_the_American.html?id=M2ufnU-PHH0C)
-https://books.google.com/books/about/The_Ideological_Origins_of_the_American.html?id=M2ufnU-PHH0C
-
-<https://books.google.com/books/about/The_Ideological_Origins_of_the_American.html?id=M2ufnU-PHH0C>
-
-[\[5\]](https://www.heritage.org/american-history/report/why-the-american-founding-matters-american-conservatism)
-[\[24\]](https://www.heritage.org/american-history/report/why-the-american-founding-matters-american-conservatism)
-https://www.heritage.org/american-history/report/why-the-american-founding-matters-american-conservatism
-
-<https://www.heritage.org/american-history/report/why-the-american-founding-matters-american-conservatism>
-
-[\[6\]](https://www.heritage.org/the-constitution/report/originalism-and-conservatism-american-story)
-[\[35\]](https://www.heritage.org/the-constitution/report/originalism-and-conservatism-american-story)
-https://www.heritage.org/the-constitution/report/originalism-and-conservatism-american-story
-
-<https://www.heritage.org/the-constitution/report/originalism-and-conservatism-american-story>
-
-[\[7\]](https://plato.stanford.edu/entries/conservatism/)
-[\[17\]](https://plato.stanford.edu/entries/conservatism/)
-https://plato.stanford.edu/entries/conservatism/
-
-<https://plato.stanford.edu/entries/conservatism/>
-
-[\[8\]](https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html)
-[\[11\]](https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html)
-[\[16\]](https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html)
-https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html
-
-<https://www.loc.gov/exhibits/creating-the-united-states/interactives/declaration-of-independence/consent/documents.html>
-
-[\[9\]](https://philpapers.org/rec/GIBAMA)
-[\[37\]](https://philpapers.org/rec/GIBAMA)
-https://philpapers.org/rec/GIBAMA
-
-<https://philpapers.org/rec/GIBAMA>
-
-[\[12\]](https://www.jstor.org/stable/10.5149/9780807899816_wood)
-https://www.jstor.org/stable/10.5149/9780807899816_wood
-
-<https://www.jstor.org/stable/10.5149/9780807899816_wood>
-
-[\[13\]](https://www.archives.gov/founding-docs/constitution-transcript)
-https://www.archives.gov/founding-docs/constitution-transcript
-
-<https://www.archives.gov/founding-docs/constitution-transcript>
-
-[\[14\]](https://constitutioncenter.org/the-constitution/historic-document-library/detail/brutus-essay-no-1)
-https://constitutioncenter.org/the-constitution/historic-document-library/detail/brutus-essay-no-1
-
-<https://constitutioncenter.org/the-constitution/historic-document-library/detail/brutus-essay-no-1>
-
-[\[15\]](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-memorial-and-remonstrance-against-religious-assessments-1785)
-https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-memorial-and-remonstrance-against-religious-assessments-1785
-
-<https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-memorial-and-remonstrance-against-religious-assessments-1785>
-
-[\[21\]](https://www.cambridge.org/core/journals/american-political-science-review/article/whig-tradition-in-america-and-europe/132922919816F7BAB549682EB75ED904)
-[\[27\]](https://www.cambridge.org/core/journals/american-political-science-review/article/whig-tradition-in-america-and-europe/132922919816F7BAB549682EB75ED904)
-https://www.cambridge.org/core/journals/american-political-science-review/article/whig-tradition-in-america-and-europe/132922919816F7BAB549682EB75ED904
-
-<https://www.cambridge.org/core/journals/american-political-science-review/article/whig-tradition-in-america-and-europe/132922919816F7BAB549682EB75ED904>
-
-[\[23\]](https://books.google.com/books/about/Liberalism_and_Republicanism_in_the_Hist.html?id=83HlqTJjLcgC)
-https://books.google.com/books/about/Liberalism_and_Republicanism_in_the_Hist.html?id=83HlqTJjLcgC
-
-<https://books.google.com/books/about/Liberalism_and_Republicanism_in_the_Hist.html?id=83HlqTJjLcgC>
-
-[\[25\]](https://yalebooks.yale.edu/book/9780300231878/why-liberalism-failed/)
-[\[39\]](https://yalebooks.yale.edu/book/9780300231878/why-liberalism-failed/)
-https://yalebooks.yale.edu/book/9780300231878/why-liberalism-failed/
-
-<https://yalebooks.yale.edu/book/9780300231878/why-liberalism-failed/>
-
-[\[26\]](https://americanmind.org/features/national-conservatism-vs-american-conservatism/)
-https://americanmind.org/features/national-conservatism-vs-american-conservatism/
-
-<https://americanmind.org/features/national-conservatism-vs-american-conservatism/>
-
-[\[28\]](https://nationalaffairs.com/publications/detail/a-family-focused-fusionism)
-https://nationalaffairs.com/publications/detail/a-family-focused-fusionism
-
-<https://nationalaffairs.com/publications/detail/a-family-focused-fusionism>
-
-[\[29\]](https://www.theamericanconservative.com/american-conservatism-is-a-failure/)
-https://www.theamericanconservative.com/american-conservatism-is-a-failure/
-
-<https://www.theamericanconservative.com/american-conservatism-is-a-failure/>
-
-[\[30\]](https://www.pewresearch.org/politics/2010/04/18/section-6-tea-party-and-views-of-government-overreach/)
-https://www.pewresearch.org/politics/2010/04/18/section-6-tea-party-and-views-of-government-overreach/
-
-<https://www.pewresearch.org/politics/2010/04/18/section-6-tea-party-and-views-of-government-overreach/>
-
-[\[31\]](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)
-https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf
-
-<https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf>
-
-[\[32\]](https://nationalconservatism.org/national-conservatism-a-statement-of-principles/)
-https://nationalconservatism.org/national-conservatism-a-statement-of-principles/
-
-<https://nationalconservatism.org/national-conservatism-a-statement-of-principles/>
-
-[\[33\]](https://hls.harvard.edu/bibliography/common-good-constitutionalism/)
-https://hls.harvard.edu/bibliography/common-good-constitutionalism/
-
-<https://hls.harvard.edu/bibliography/common-good-constitutionalism/>
-
-[\[36\]](https://avalon.law.yale.edu/18th_century/fed51.asp)
-https://avalon.law.yale.edu/18th_century/fed51.asp
-
-<https://avalon.law.yale.edu/18th_century/fed51.asp>
+American conservatism contains a real tension, but the inherited version of that tension was too simple. The United States did not begin as an ancien-régime society reluctantly modernized by liberals. It was created through revolution, natural-rights argument, popular sovereignty, written constitution-making, and rejection of hereditary political authority. Yet the Revolution also began as a defense of inherited colonial constitutions, English liberties, local self-government, common-law expectations, and established ways of governing that colonists believed metropolitan authorities were violating. The founding was therefore neither simply **liberal revolution against tradition** nor simply **conservative preservation of tradition**. It was a transformation in which inherited rights claims became increasingly universalized and then institutionalized in a new republican order.
+
+That distinction changes the question. American conservatism is not incoherent merely because it conserves a regime born in revolution. Revolutions can themselves create traditions, and a later conservative can coherently defend a constitutional settlement because it has become inherited, tested, and authoritative. The deeper difficulty appears when several possible objects of conservation are treated as if they were identical:
+
+1. **the natural-rights principles of 1776;**
+2. **the constitutional architecture of 1787–1791;**
+3. **the inherited Anglo-American legal, religious, and local traditions that preceded independence;**
+4. **later American social arrangements that developed after the founding.**
+
+Those layers overlap, but they can also conflict. A natural-rights argument can destabilize an inherited practice. A historically rooted local institution can sit uneasily with a universal principle. A constitutional originalist can defend a legal settlement while a post-liberal conservative argues that the settlement's liberal premises are themselves the problem.
+
+The strongest conclusion is therefore not that American conservatism is fake. It is that **American conservatism is necessarily interpretive**. It must decide what in the American inheritance is authoritative, what is corrigible, and what principle has priority when inherited practice, constitutional text, natural rights, religion, and national tradition point in different directions.
+
+The founding itself supplies evidence for all sides of that dispute. The Declaration speaks in universal language of equality, unalienable rights, consent, and a right to alter or abolish government. But the imperial controversy that preceded it was also rooted in colonial claims to customary constitutions and the traditional liberties of English subjects. Jack P. Greene's constitutional history emphasizes that colonists regarded post-1763 metropolitan measures as violations of long-developed colonial constitutional arrangements and English liberties. Craig Yirush likewise shows a movement from inherited English rights toward more universal natural-rights claims over the course of the imperial crisis. [Greene, *The Constitutional Origins of the American Revolution*](https://www.cambridge.org/core/books/constitutional-origins-of-the-american-revolution/D14B6012698105D9B710D09E3CE4F9A5); [Yirush, “The Idea of Rights in the Imperial Crisis”](https://doi.org/10.1017/S0265052512000166)
+
+That also explains why Edmund Burke is a poor fit for the inherited article's sharp opposition between Burkean conservatism and the American Revolution. Burke resisted British policy toward the colonies and sought conciliation while later becoming the canonical critic of the French Revolution. Recent scholarship treats those positions as substantially continuous: Burke could defend the American colonists because their resistance could be understood through constitutional prescription, inherited liberty, prudence, and resistance to ministerial innovation rather than through an abstract right to refound society from first principles. [Richard Bourke, *Empire and Revolution*](https://doi.org/10.23943/princeton/9780691175652.001.0001); [Martin Loughlin, “Burke on Law, Revolution, and Constitution”](https://doi.org/10.1093/oso/9780198810223.003.0005)
+
+The central problem of American conservatism is therefore better stated this way:
+
+> **How can a conservative politics rank the different inheritances of a country whose constitutional tradition was produced by both preservation and rupture?**
+
+That question survives historical scrutiny. The older claim that the founding was simply liberal at the level of principle and conservative only at the level of institutional restraint does not.
+
+## 1. Why the old paradox was too clean
+
+The inherited argument depended on a definition of conservatism that made the verdict almost automatic. Conservatism was associated with inheritance, continuity, prescription, gradual change, and skepticism toward abstract reconstruction. The American founding was then associated with natural rights, revolution, consent, and written constitution-making. Once the categories were constructed that way, a revolutionary founding could only appear non-conservative.
+
+But this approach confuses three different questions:
+
+- Was the American Revolution a rupture in imperial sovereignty? **Yes.**
+- Did Americans justify that rupture partly through universal principles? **Yes.**
+- Did the revolutionary movement emerge from a politics hostile to inheritance and prescription as such? **No.**
+
+The last point matters most. A substantial body of legal and constitutional historiography emphasizes that colonial resistance grew out of practices and expectations already treated as inherited rights. Greene describes the imperial crisis as a collision between metropolitan assertions of authority and colonial constitutions that had developed through long practice. The constitutional conflict concerned taxation, legislation, representation, prerogative, and the extent of local autonomy. In this reading, the colonists did not begin by asking how to design an ideal regime from a state of nature. They began by insisting that Britain was violating liberties and institutional settlements they already possessed. [Greene](https://www.cambridge.org/core/books/constitutional-origins-of-the-american-revolution/preface/187EFA8920486C43658CB45752A2AC98)
+
+The Revolution nevertheless transformed those claims. Yirush argues that colonists initially defended rights as part of their English legal inheritance and increasingly moved toward natural-law claims that presented life, liberty, property, and consent as rights of persons more generally. This is a crucial transition because it means **inheritance and universalization were sequentially connected**, not mutually exclusive ideological worlds. [Yirush](https://doi.org/10.1017/S0265052512000166)
+
+The founding can therefore be described as a process in which inherited constitutional grievances generated a revolutionary break and a new theory of legitimate government. That sequence is much harder to classify as simply liberal or conservative.
+
+## 2. Four layers of the founding
+
+A more useful model separates four layers that the phrase “the founding” often compresses into one event.
+
+| Layer | High-confidence content | Why it matters for conservatism |
+| --- | --- | --- |
+| **Inherited constitutionalism** | colonial assemblies, local legal practice, English liberties, common-law and Whig arguments against arbitrary power | makes part of the Revolution intelligible as defense of inherited rights and institutions |
+| **Revolutionary natural rights** | equality, unalienable rights, consent, alter-or-abolish language, popular sovereignty | supplies a universalizing standard capable of judging inherited practice |
+| **Republican constitution-making** | written constitutions, federalism, representation, separated powers, bicameralism, checks and balances | creates a new institutional inheritance that later conservatives can defend |
+| **Ascriptive and religious social order** | slavery, restricted suffrage, sex hierarchy, state-level religious establishments or support, property and local-status distinctions | shows that actual early-American order was not exhausted by liberal universalism |
+
+This four-layer model avoids the temptation to turn one document into the whole regime. The Declaration of 1776 is indispensable for understanding revolutionary legitimacy, but it is not the Constitution. The Constitution of 1787 is not the whole social order. The First Amendment's restriction on Congress is not a description of every state's church-state settlement. Nor do exclusionary practices prove that the natural-rights language was meaningless. The historical problem is precisely that universal principles and unequal institutions existed together.
+
+Alan Gibson's survey of founding historiography reaches a similar methodological conclusion. Liberal, republican, Scottish Enlightenment, constitutional, and “multiple traditions” interpretations continue to illuminate different features of the founding; no single school has made the others obsolete. Gibson describes a broad historiographical movement toward recognizing that the founders integrated multiple intellectual traditions. [Gibson, *Interpreting the Founding*](https://www.jstor.org/stable/jj.19307111) This does not mean every interpretation is equally strong. It means the founding should not be reduced to a one-word ideological essence.
+
+## 3. Revolution as defense of an inheritance
+
+The colonial constitutional argument is the strongest correction to the inherited report.
+
+Before independence, American colonists often described themselves as protecting the rights of Englishmen. Colonial assemblies had accumulated powers and practices over generations. Local political life operated through institutions that colonists regarded as constitutionally legitimate even when metropolitan authorities rejected their interpretation of the imperial constitution. Greene emphasizes that imperial governance had long been plural and negotiated; the crisis after 1763 sharpened disagreements over whether Parliament possessed unlimited legislative authority over colonies that had their own constitutional arrangements. [Greene](https://www.cambridge.org/core/books/constitutional-origins-of-the-american-revolution/empire-negotiated-16891763/58348D859593B6AC684AA2BDF7F6D216)
+
+This matters because **resistance to innovation can itself become revolutionary**. If a governing center claims a new or newly expansive authority, actors defending an older distribution of authority may eventually secede rather than submit. Political form can change radically while the immediate self-understanding of resistance remains restorationist.
+
+Burke is the obvious test case. His support for conciliation with America and his later attack on the French Revolution are not best treated as hypocrisy or a change from liberal to conservative. Scholarship on Burke instead emphasizes a durable suspicion of abstract political reconstruction and a concern with historically embedded constitutional relations. His American position was shaped by prudence and by the practical impossibility of governing colonies whose inherited liberties and habits of self-rule could not simply be erased by assertion from Westminster. [Bourke](https://doi.org/10.23943/princeton/9780691175652.003.0007); [Loughlin](https://doi.org/10.1093/oso/9780198810223.003.0005)
+
+Burke therefore undermines the proposition that support for the American Revolution automatically places a thinker outside conservative politics. He also prevents the opposite simplification: the American Revolution was not merely a Burkean restoration. By 1776, revolutionary Americans had moved beyond inherited English rights into a new claim about legitimate authority itself.
+
+## 4. The universalizing turn of 1776
+
+The Declaration of Independence goes farther than a complaint about violated colonial precedent. It asserts that people possess unalienable rights; governments derive just powers from consent; and a people may alter or abolish a government destructive of the ends for which government is instituted. At the same time, the Declaration immediately invokes prudence and warns against changing long-established governments for light causes. [National Archives, Declaration transcript](https://www.archives.gov/founding-docs/declaration-transcript)
+
+The combination is revealing. The document contains both **a universal criterion of legitimacy** and **a presumption against casual rupture**. That is not equivalent to Burke's later attack on metaphysical rights, but neither is it a manifesto for permanent revolution.
+
+The natural-rights dimension remains historically important even after the “republican turn” in scholarship displaced older accounts that treated Locke as the sole key to the Revolution. Oxford's survey of republicanism notes that Bailyn, Wood, and Pocock redirected attention toward radical Whig and classical-republican languages that had been obscured by a hegemonic Lockean interpretation. [Oxford Bibliographies, “Republicanism”](https://doi.org/10.1093/obo/9780199730414-0004) Later scholarship did not simply return to the old Lockean monopoly. It increasingly treated liberal and republican languages as overlapping or competing components of a larger intellectual field.
+
+Thomas West represents an important dissent from that synthesis. He argues that natural law and natural rights provide the most coherent account of the founders' political theory and that republican virtue can be understood as part of, rather than a rival to, a natural-rights republic. [West, *The Political Theory of the American Founding*](https://doi.org/10.1017/9781316492840) West is especially useful here not because his interpretation settles the historiography, but because it demonstrates that even a strongly natural-rights reading need not imply the atomized, morally neutral liberalism criticized by later post-liberals.
+
+## 5. 1787 was not merely “liberal ends with conservative restraints”
+
+The inherited report described the Constitution as essentially liberal in its ends and conservative in its institutional engineering. That formulation is too neat because the institutional architecture was not merely a brake placed on an already complete liberal philosophy. Representation, federalism, divided sovereignty, the size of the republic, the structure of the Senate, the judiciary, and the relationship between state and federal authority were themselves substantive answers to the problem of republican government.
+
+The Constitution speaks in the name of “We the People,” forbids titles of nobility, rejects a federal religious test, and creates a republican government without hereditary office. Those are decisive breaks with many European forms of political authority. Yet its republicanism is heavily mediated. The original Senate was selected by state legislatures. The president was chosen through an Electoral College system. Federal power was enumerated rather than general. The constitutional structure divided authority horizontally and vertically. [National Archives, Constitution transcript](https://www.archives.gov/founding-docs/constitution-transcript)
+
+Federalist No. 51 is often read as an example of skeptical institutional design because it assumes that officeholders cannot be relied upon to act virtuously and therefore makes ambition counteract ambition. But this is not “conservative” in the simple sense of preserving an inherited institution. It is an engineered constitutional solution to the republican problem of power. [Library of Congress, Federalist Nos. 51–60](https://guides.loc.gov/federalist-papers/text-51-60)
+
+Anti-Federalist opposition complicates the picture further. Critics of the Constitution feared consolidation, distant rule, inadequate representation, and threats to local political life and rights. Some of those arguments have a family resemblance to later conservative localism, but they were still arguments within a republican political world. The Federalist/Anti-Federalist conflict should therefore not be translated mechanically into modern liberal-versus-conservative categories.
+
+The best conclusion is that 1787 created a **new constitutional tradition**. That tradition was revolutionary in historical origin, republican in authority, deliberately designed, and quickly capable of becoming an object of inherited loyalty.
+
+## 6. The social order was thicker—and less liberal—than the federal text
+
+A second weakness in the inherited analysis was its tendency to treat federal constitutional principles as if they described the full American social order.
+
+Religion is a clear example. Article VI prohibited religious tests for federal office, and the First Amendment prohibited Congress from establishing religion. But state arrangements varied dramatically. The Library of Congress documents that Massachusetts retained tax-supported religion under its 1780 constitution and that early Americans frequently described religion and morality as supports of republican government. The federal non-establishment settlement therefore coexisted with state establishments, religious tests in some state systems, and widespread public assumptions that republican liberty depended on moral and religious formation. [Library of Congress, “Religion and the State Governments”](https://www.loc.gov/exhibits/religion/rel05.html); [Library of Congress, “Religion and the Federal Government”](https://www.loc.gov/exhibits/religion/rel06.html)
+
+Suffrage likewise varied by state. Property and wealth qualifications were widespread, although their practical restrictiveness differed because property ownership among white men was relatively broad in some places. The Constitution left House voter qualifications tied to qualifications for the most numerous branch of each state legislature rather than establishing universal federal suffrage. Women, most Black Americans, Native Americans, and some white men were excluded from political participation. [National Constitution Center, Article I, Section 2](https://constitutioncenter.org/the-constitution/articles/article-i/clauses/762); [Library of Congress, “The Founding Era”](https://www.loc.gov/classroom-materials/elections/nominating-candidates/founding-era/)
+
+Most importantly, slavery was not an accidental social fact external to the constitutional order. The Constitution accommodated it through representation rules, the fugitive-person clause, and temporary protection of the international slave trade. These provisions make a simple “liberal founding” description inadequate even if natural-rights language remained politically consequential.
+
+Rogers Smith's “multiple traditions” argument is particularly important here. He criticizes accounts that treat America as the uncomplicated expression of liberal democratic ideals and emphasizes the persistent role of ascriptive hierarchies in American political development. [Smith, “Beyond Tocqueville, Myrdal, and Hartz”](https://doi.org/10.2307/1955665) The historical United States was not merely a liberal creed imperfectly implemented. Liberal, republican, and hierarchical political traditions interacted and competed.
+
+## 7. Hartz survives as a provocation, not a complete description
+
+Louis Hartz's *The Liberal Tradition in America* remains central to the paradox because he argued that the absence of a feudal past made American political conflict occur largely within a liberal horizon. That thesis helps explain why American “conservatism” often defended property, constitutional rights, markets, and individual liberty rather than aristocracy, monarchy, or established church in the European sense.
+
+But Hartz is not a neutral historical baseline. Later scholarship has repeatedly challenged the idea of a single hegemonic American liberal tradition. Gibson's historiographical survey preserves the liberal interpretation as one powerful school among several. Smith's multiple-traditions account argues that racial, gendered, and other ascriptive hierarchies cannot be treated as mere deviations from an otherwise singular liberal essence. [Gibson](https://www.jstor.org/stable/jj.19307111); [Smith](https://doi.org/10.2307/1955665)
+
+Recent reassessments continue to treat Hartz as containing an important insight while criticizing its reductionism. A 2026 Cambridge volume on major interpretations of U.S. political development describes Hartz's claim that American ideologies emerged from a liberal core as containing a “kernel of truth” while arguing that American ideological development was substantially more complex. [Cambridge excerpt, 2026](https://assets.cambridge.org/97810095/22021/excerpt/9781009522021_excerpt.pdf)
+
+The useful residue of Hartz is therefore narrower: **American conservatism developed inside a polity without a surviving hereditary ruling estate, established national church, or monarchical constitution to conserve.** That fact shaped its vocabulary. It does not prove that American political life was wholly liberal.
+
+## 8. Modern American conservatism was constructed, not inherited whole
+
+Another historical correction is necessary. “American conservatism” in its familiar movement sense is not an unbroken ideological substance transmitted intact from Washington or Madison.
+
+Historians of twentieth-century conservatism describe a heterogeneous coalition assembled around traditionalism, libertarian or free-market thought, anticommunism, religious activism, constitutionalism, and later neoconservatism. The historiography itself has moved away from treating fusionism as the complete history of the right and toward emphasizing varieties, local movements, race, religion, foreign policy, and organizational development. [Oxford Bibliographies, “The Historiography of Twentieth-Century American Conservatism”](https://doi.org/10.1093/obo/9780199756223-0080); [Critchlow, “Rethinking American Conservatism”](https://doi.org/10.1093/jahist/jar390)
+
+This matters because movement conservatives **selected and reconstructed** a usable American inheritance. They did not merely receive one.
+
+Conservative constitutionalism is a good example. Ken Kersch's study of *National Review* finds that constitutional fidelity became an increasingly ecumenical language for the postwar conservative coalition from the 1950s onward, while a shared commitment to “originalism” emerged only later, especially in the late 1970s. [Kersch, “Ecumenicalism Through Constitutionalism”](https://doi.org/10.1017/S0898588X10000186) A 2025 legal-history study pushes the point further: Cold War conservative constitutionalists in the late 1940s and early 1950s often relied on natural-law arguments rather than the original-public-meaning method associated with later conservative legal movements. [Wieboldt, “Ideas With(out) Consequences?”](https://doi.org/10.1017/S0738248025100604)
+
+Originalism, natural-rights constitutionalism, fusionism, and religious traditionalism should therefore be treated as historically related conservative projects, not as interchangeable expressions of one timeless founding ideology.
+
+## 9. Three contemporary projects on the American Right
+
+The present dispute becomes clearer when the right is separated into three ideal types. Real institutions and thinkers often combine them.
+
+### Constitutional traditionalism
+
+This project treats the Constitution and accumulated American constitutional practice as an inherited political achievement. Its conservative case does not require proving that the framers themselves were “conservatives.” A regime can be revolutionary in origin and traditional in later authority. The conservative claim is that long experience, legal continuity, institutional restraint, and settled forms deserve a presumption of respect.
+
+This is the least paradoxical form of American conservatism. Its vulnerability is that historical continuity alone cannot tell the conservative which parts of the inherited order should be preserved when the inheritance contains internal conflict.
+
+### Natural-rights foundingism
+
+This project gives special authority to the Declaration's natural-rights principles and reads the constitutional order through them. It can be strongly conservative in contemporary politics while remaining universalist at the level of political principle.
+
+The tension here is not logical incoherence but **priority**. If inherited practices conflict with natural rights, the natural-rights principle can authorize reform against tradition. A foundingist conservative therefore conserves a principled regime, not inherited practice simply because it is inherited.
+
+### Post-liberal and national conservatism
+
+The contemporary New Right has made the older tension explicit by rejecting important parts of fusionist conservatism. Scholarship in *International Affairs* describes the post-Trump American New Right as, in substantial part, a rejection of postwar fusionism and identifies Claremonters, post-liberals, and national conservatives as distinct but interacting tendencies. [“The New Right and the Future of American Foreign Policy”](https://doi.org/10.1093/ia/iiae194)
+
+Patrick Deneen's *Regime Change* explicitly proposes moving beyond liberal ideology toward a more substantive common-good politics and a new governing elite aligned with ordinary citizens. [Deneen, *Regime Change*](https://www.penguinrandomhouse.com/books/618154/regime-change-by-patrick-j-deneen/) The National Conservatism “Statement of Principles” gives nation, religion, family, national sovereignty, constitutional inheritance, and a strong but limited state explicit priority; it also rejects both socialism and an absolute free market. [National Conservatism, “A Statement of Principles”](https://nationalconservatism.org/national-conservatism-a-statement-of-principles/)
+
+These arguments are not simply “more conservative” versions of foundingism. They alter what is treated as politically primary.
+
+Internal critics on the right understand this. Charles Kesler's critique of National Conservatism argues that some versions of the New Right downgrade the distinctively American natural-rights regime in favor of a more generic nationalism or traditionalism. [Kesler, “National Conservatism vs. American Conservatism”](https://americanmind.org/features/national-conservatism-vs-american-conservatism/)
+
+The debate is therefore real, but it is more precise than “conservatives secretly hate the liberal country they claim to conserve.” It is a disagreement over **which American inheritance has final authority**.
+
+## 10. A coherence test for American conservatism
+
+American conservatism becomes analytically coherent once the object of conservation and the ranking rule are made explicit.
+
+| Conservative claim | Coherent version | Internal contradiction appears when… |
+| --- | --- | --- |
+| “Conserve the Constitution” | inherited constitutional forms deserve strong presumptive authority | constitutional text is invoked selectively while contrary preferred outcomes are justified by nonconstitutional tradition |
+| “Conserve the founding” | identify which founding layer—natural rights, republican structure, federal settlement, or inherited Anglo-American law—has priority | all founding-era practices are treated as one harmonious doctrine |
+| “Conserve tradition” | defend practices because accumulated experience gives them epistemic or social value | historical age is treated as sufficient even when the same tradition contains principles for reform |
+| “Conserve natural rights” | preserve a regime committed to equal natural rights and limited government | the language of tradition is used to immunize practices that the stated rights principle condemns |
+| “Move beyond liberalism” | openly argue for revision of liberal premises through lawful constitutional politics | the project presents substantive post-liberal revision as mere restoration of an unchanged 1787 consensus |
+
+This framework preserves the strongest insight in the inherited article while removing its loaded setup. There **is** a recurring American conservative problem of self-description. But the problem is not that conservatives conserve a revolution. The problem is that American political history supplies several rival inheritances, and conservative rhetoric often moves among them without acknowledging the change in standard.
+
+## 11. What the founding can and cannot settle
+
+The founding cannot settle every modern conservative dispute because many objects of modern political conflict did not exist in eighteenth-century form. Industrial capitalism, the administrative state, mass political parties, modern corporations, national mass media, twentieth-century civil-rights law, the welfare state, digital platforms, and modern sexual politics all postdate the founding settlement.
+
+Appeals to “what the founders believed” can therefore become a category error when they are used as if every modern policy dispute had a latent eighteenth-century answer. A more disciplined approach distinguishes:
+
+- **founding principle** — claims about legitimate political authority;
+- **constitutional rule** — what the legal settlement actually establishes;
+- **historical tradition** — practices that accumulated later;
+- **prudential application** — how old principles or institutions should govern new conditions.
+
+These categories can support different conclusions. Constitutional fidelity is not identical to historical traditionalism. Natural-rights reasoning is not identical to originalism. National tradition is not identical to the founders' subjective expectations. Post-liberal common-good arguments are not identical to restoration of the 1787 settlement.
+
+The conceptual gain from separating them is large. Political disagreement becomes visible instead of being hidden inside the word “conservative.”
+
+## Conclusion
+
+American conservatism does not suffer from a simple logical contradiction because the United States was born in revolution. That formulation mistakes political origins for permanent ideological content and ignores the restorationist, constitutional, and inherited-rights dimensions of the Revolution itself.
+
+The stronger paradox is historical and interpretive.
+
+The American Revolution began with inherited constitutional grievances and ended with a universalizing declaration of natural rights and independence. The Constitution then created a new republican institutional order that was neither an ancien régime nor a direct implementation of abstract individualism. Early American society remained religiously, racially, sexually, and economically hierarchical in ways that cannot be read directly from the federal text. Over time, the constitutional settlement itself became an inheritance.
+
+Modern American conservatives consequently inherit several things at once: a revolutionary natural-rights language, a designed republican constitution, Anglo-American legal traditions, local and religious institutions, exclusionary historical practices, and two centuries of subsequent constitutional development. There is no automatic rule telling them how those inheritances rank.
+
+That is why modern conservative projects diverge. Constitutional traditionalists emphasize accumulated legal order. Natural-rights conservatives emphasize the principles of the Declaration and the regime those principles authorize. Post-liberals and national conservatives argue that liberal principles or fusionist interpretations of them have undermined goods that politics must again protect more directly.
+
+The intellectually serious question is therefore not **“Can a revolutionary country have conservatives?”** Of course it can.
+
+The serious question is:
+
+> **When America's inherited institutions, universal principles, constitutional text, and social traditions conflict, what exactly deserves to be conserved—and why?**
+
+That question does not dissolve the tension in American conservatism. It finally locates it.
+
+## Sources
+
+- Bernard Bailyn. *The Ideological Origins of the American Revolution*. Belknap Press, 1967; fiftieth-anniversary edition 2017. https://www.jstor.org/stable/j.ctv24trcdr
+- Richard Bourke. *Empire and Revolution: The Political Life of Edmund Burke*. Princeton University Press, 2015/2017 online edition. https://doi.org/10.23943/princeton/9780691175652.001.0001
+- Donald T. Critchlow. “Rethinking American Conservatism: Toward a New Narrative.” *Journal of American History* 98, no. 3 (2011): 752–755. https://doi.org/10.1093/jahist/jar390
+- Patrick J. Deneen. *Regime Change: Toward a Postliberal Future*. Sentinel, 2023. https://www.penguinrandomhouse.com/books/618154/regime-change-by-patrick-j-deneen/
+- Alan Gibson. *Interpreting the Founding: Guide to the Enduring Debates over the Origins and Foundations of the American Republic*. Revised edition. University Press of Kansas, 2009; JSTOR edition. https://www.jstor.org/stable/jj.19307111
+- Jack P. Greene. *The Constitutional Origins of the American Revolution*. Cambridge University Press, 2011. https://www.cambridge.org/core/books/constitutional-origins-of-the-american-revolution/D14B6012698105D9B710D09E3CE4F9A5
+- Ken I. Kersch. “Ecumenicalism Through Constitutionalism: The Discursive Development of Constitutional Conservatism in National Review, 1955–1980.” *Studies in American Political Development* 25, no. 1 (2011). https://doi.org/10.1017/S0898588X10000186
+- Martin Loughlin. “Burke on Law, Revolution, and Constitution.” In *Political Jurisprudence*. Oxford University Press, 2017. https://doi.org/10.1093/oso/9780198810223.003.0005
+- Rogers M. Smith. “Beyond Tocqueville, Myrdal, and Hartz: The Multiple Traditions in America.” *American Political Science Review* 87, no. 3 (1993): 549–566. https://doi.org/10.2307/2938735
+- Thomas G. West. *The Political Theory of the American Founding*. Cambridge University Press, 2017. https://doi.org/10.1017/9781316492840
+- Dennis J. Wieboldt III. “Ideas With(out) Consequences?: The Natural Law Institute and the Making of Conservative Constitutionalism During the Cold War, 1947–1951.” *Law and History Review* (2025). https://doi.org/10.1017/S0738248025100604
+- Craig Yirush. “The Idea of Rights in the Imperial Crisis.” *Social Philosophy and Policy* 29, no. 2 (2012). https://doi.org/10.1017/S0265052512000166
+- Library of Congress. “Religion and the Founding of the American Republic: Religion and the State Governments.” https://www.loc.gov/exhibits/religion/rel05.html
+- Library of Congress. “Religion and the Founding of the American Republic: Religion and the Federal Government.” https://www.loc.gov/exhibits/religion/rel06.html
+- National Archives. “Declaration of Independence: A Transcription.” https://www.archives.gov/founding-docs/declaration-transcript
+- National Archives. “Constitution of the United States: A Transcription.” https://www.archives.gov/founding-docs/constitution-transcript
+- National Conservatism. “National Conservatism: A Statement of Principles.” 2022, with later signatory updates. https://nationalconservatism.org/national-conservatism-a-statement-of-principles/
