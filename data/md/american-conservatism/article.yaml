@@ -1,9 +1,10 @@
 ---
-abstract: 'This report formalizes and tests the claim that American conservatism is intellectually unstable
-  because the United States was founded not as a traditional conservative order, but as a modern liberal-republican
-  revolution. The evidence supports a qualified version of the critique: the founding is liberal and revolutionary
-  at the level of first principles, but more conservative at the level of institutional engineering and
-  social practice.'
+abstract: >-
+  A source-audited account of the tension inside American conservatism that replaces the simple claim that a
+  revolutionary founding cannot support conservative politics. The founding combined inherited Anglo-American
+  constitutional claims, universalizing natural-rights arguments, republican constitution-making, and unequal
+  social institutions. American conservatism is therefore coherent only after it identifies which layer of that
+  inheritance it seeks to conserve and how conflicts among them are ranked.
 aliases: []
 author:
 - Salvador Guzman
@@ -15,100 +16,130 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
-- Politics
-- History
 - Political Theory
-cover-image: ''
-cover_image: ''
+- U.S. History
+- Intellectual History
 creator:
 - Salvador Guzman
-dataset_id: ''
 date: '2026-06-01'
-description: This report formalizes and tests the claim that American conservatism is intellectually unstable
-  because the United States was founded not as a traditional conservative order, but as a modern liberal-republican
-  revolution.
+description: >-
+  The American founding was both a defense of inherited constitutional liberties and a revolutionary
+  universalization of rights. This report asks what American conservatives are actually conserving when those
+  inheritances conflict.
 draft: false
 edition: '1'
-epub-chapter-level: 2
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
+editorial_profile: academic
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:american-conservatism
-isCJKLanguage: false
 keywords:
-- American Conservatism and the Liberal-Revolutionary Founding
-- Politics
-- History
-- Political Theory
-- Political science (General)
-- Liberalism
-- Originalism
-- Post-liberalism
+- American conservatism
+- American founding
+- American Revolution
+- natural rights
+- republicanism
+- constitutionalism
+- Burke
+- post-liberalism
+- national conservatism
+- originalism
 lang: en
 language: English
-lastmod: '2026-06-01'
-layout: ''
+lastmod: '2026-08-22'
 library_of_congress_classification:
   class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
+  description: Political theory, political history, and the history of political ideas.
+  label: Political science
 license: CC0-1.0
-linkTitle: American Conservatism and the Liberal-Revolutionary Founding
-markup: ''
+linkTitle: Conserving a Revolution
 number-sections: true
-outputs: []
-plate_id: ''
 publishDate: '2026-06-01'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - conserving-radicalism
+  - republicans-as-moderating-opposition-without-a-rival-order
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: american-conservatism
+    rationale: >-
+      Corpus review found no second package centered on the relationship between American conservatism and the
+      ideological layers of the founding. `conserving-radicalism` is a broader theory of radicalism and
+      co-optability, while `republicans-as-moderating-opposition-without-a-rival-order` concerns contemporary
+      institutional replacement rather than founding-era legitimacy. They are conceptual neighbors, not duplicates.
 report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
-  discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
+  audience: general intellectually curious reader
+  discipline: political theory and intellectual history
+  domain: American political thought
+  emphasis: inherited constitutionalism, natural rights, republicanism, ascriptive hierarchy, and modern conservative self-description
+  focus: what American conservatism can coherently mean in a polity whose inherited order was created through both preservation and revolution
   id: urn:marginalia:american-conservatism
-  intent: ''
+  intent: distinguish the different historical objects that American conservatives may claim to conserve and test where genuine contradictions arise
   is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: American Conservatism and the Liberal-Revolutionary Founding
-  notes: ''
+  kind: analytical historical report
+  method: >-
+    Conceptual and historiographical synthesis separating the imperial constitutional crisis, 1776 natural-rights
+    argument, 1787–1791 constitutional settlement, early social order, and later conservative movement construction.
+    Competing liberal, republican, multiple-traditions, natural-rights, Burkean, fusionist, and post-liberal readings
+    are treated as rival or overlapping interpretations rather than collapsed into one ideological essence.
+  methods:
+  - intellectual history
+  - conceptual analysis
+  - historiographical comparison
+  - primary-text interpretation
+  - contemporary movement comparison
+  name: Conserving a Revolution
+  notes: >-
+    The 2026-08-22 final audit replaced the inherited claim that American conservatism is partly incoherent simply
+    because the United States had a liberal-revolutionary founding. The rewritten report adds colonial
+    constitutional historiography showing that resistance initially defended customary colonial constitutions and
+    inherited English liberties, then tracks the universalizing move toward natural rights. Burke's support for
+    conciliation with America is used as a direct counterexample to treating support for the American cause as
+    incompatible with conservative political reasoning. The report separates four founding layers: inherited
+    constitutionalism, revolutionary natural rights, republican constitution-making, and unequal religious/social
+    order. It incorporates multiple-traditions and ascriptive-hierarchy scholarship, distinguishes federal
+    non-establishment from state religious arrangements, and qualifies suffrage claims for state variation. Modern
+    conservative constitutionalism is treated as historically constructed rather than projected backward unchanged;
+    postwar constitutional discourse, later originalism, natural-law conservatism, fusionism, national conservatism,
+    and post-liberalism are separated. The legacy converted diagram and duplicate reference export were removed, and
+    the unneeded converted image was deleted. Duplicate review found no competing canonical artifact. No known source,
+    conversion, asset, or duplicate blocker remains.
   number: '104'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  period: founding era through contemporary American conservatism
+  period_covered: 1760s through 2026 interpretive context
+  population_focus: American political thinkers, institutions, and conservative movements
+  primary_texts:
+  - Declaration of Independence
+  - Constitution of the United States
+  - Federalist Papers
+  region: United States
+  region_focus: British North America and the United States
+  scope: >-
+    colonial constitutional inheritance, natural rights, republican constitution-making, religion, suffrage,
+    ascriptive hierarchy, founding historiography, postwar movement conservatism, constitutionalism, originalism,
+    national conservatism, and post-liberalism
+  scope_years: 1760s-2026
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: American Conservatism and the Liberal-Revolutionary Founding
+  stance: neutral analytical
+  structure: executive summary, founding layers, imperial inheritance, natural rights, constitutional settlement, social order, historiography, modern movement construction, contemporary projects, coherence test, and conclusion
+  subdiscipline: American political thought
+  subject: American conservatism and the ideological inheritance of the founding
+  time_scope: historical and contemporary
+  time_span: 1760s-present
+  topic: American conservatism and the founding
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '104'
 report-number: '104'
@@ -117,42 +148,45 @@ report_no: 104
 report_number: 104
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 104
 series-title: Marginalia Reports
 series_number: 104
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: american-conservatism
-status: complete
+status: ready
 subject:
-- Politics
-- History
+- American political thought
+- Conservatism
+- Constitutional history
 subjects:
-- Politics
-- History
-subtitle: ''
-summary: An analysis of the ideological tension within American conservatism, contrasting traditional
-  European conservatism with the liberal-republican and revolutionary foundations of the United States.
+- American conservatism
+- American founding
+- Natural rights
+- Republicanism
+- Constitutionalism
+- Post-liberalism
+subtitle: American Conservatism and the Problem of the Founding
+summary: >-
+  Argues that American conservatism's real tension is not the mere fact of conserving a revolutionary regime, but
+  the need to rank several conflicting inheritances: colonial constitutional tradition, universal natural rights,
+  republican institutions, unequal historical practices, and later American social traditions.
 tags:
 - american-conservatism
-- politics
-- history
+- american-founding
 - political-theory
-- liberalism
-- originalism
-- post-liberalism
-title: American Conservatism and the Liberal-Revolutionary Founding
+- intellectual-history
+- natural-rights
+- republicanism
+- constitutionalism
+- postliberalism
+title: Conserving a Revolution
 toc: true
 toc-depth: 3
 toc-title: Contents
-translationKey: ''
 type: report
-url: ''
+voice: neutral
 weight: 0
 ...

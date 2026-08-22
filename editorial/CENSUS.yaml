@@ -158,25 +158,21 @@ packages:
     - changelog_missing
     - duplicate_review_unresolved
   american-conservatism:
-    title: American Conservatism and the Liberal-Revolutionary Founding
-    lifecycle: complete
+    title: Conserving a Revolution
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
-    legacy_media_files: 1
-    body_bytes: 44233
+    legacy_media_files: 0
+    body_bytes: 35486
     h1_count: 1
-    local_link_or_image_count: 1
+    local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
+    mechanical_flags: []
   american-judicial-process:
     title: Judges in the Judicial Process of the United States
     lifecycle: published
