@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-21T19:36:00-06:00'
+updated_at: '2026-08-22T07:45:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 30
+packages_changed_since_baseline: 31
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -11,7 +11,6 @@ rules:
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
 next_batch:
-  - american-conservatism
   - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
 
 articles:
@@ -429,15 +428,24 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   american-conservatism:
-    lifecycle: complete
-    work_state: queued
-    priority: P2
-    blockers:
-      - editorial profile and voice remain unresolved
-      - duplicate/relationship review remains pending
-      - source-quality and conceptual-history audit remains
-      - one legacy-media dependency needs provenance and portability review
-    next_action: 'Classify form/profile/voice, review related political-theory artifacts, audit the founding/conservatism thesis and sources, and resolve the remaining media dependency.'
+    lifecycle: ready
+    work_state: ready-for-publication
+    priority: P1
+    profile: academic
+    voice: neutral
+    completed_work:
+      - retitled the artifact Conserving a Revolution so the title names the enduring intellectual problem rather than retaining generic topic framing
+      - replaced the simple liberal-revolutionary contradiction with a four-layer model of inherited constitutionalism, revolutionary natural rights, republican constitution-making, and unequal religious/social order
+      - added Greene and Yirush on colonial constitutional inheritance and the transition from English-rights claims toward universal natural rights
+      - used Burke's American position as direct counterevidence to treating support for the American Revolution as incompatible with conservative political reasoning
+      - incorporated Gibson's historiographic plurality and Smith's multiple-traditions/ascriptive-hierarchy correction rather than treating Hartz's liberal-tradition thesis as a neutral baseline
+      - distinguished federal non-establishment from varied state religious arrangements and qualified suffrage claims for state-level rules and practical variation
+      - recast modern American conservatism as a historically assembled movement and added Kersch and Wieboldt on postwar constitutionalism, natural law, and the later consolidation of originalism
+      - separated constitutional traditionalism, natural-rights foundingism, and post-liberal/national conservatism as rival contemporary projects with different objects of conservation
+      - removed escaped numbered conversion citations, duplicate reference-export residue, weak tertiary sourcing, the legacy converted diagram, and its unneeded image asset
+      - completed duplicate review as independent/keep-separate, added a rich package changelog, advanced revision/version to 1.0.1, and moved legacy complete to ready
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
     lifecycle: complete
