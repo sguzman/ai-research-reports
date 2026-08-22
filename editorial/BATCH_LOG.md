@@ -4,6 +4,16 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-22
 
+### PR #50 — Refill ordinary editorial queue from corpus census
+
+Result:
+- refilled the exhausted ordinary `next_batch` from the current 115-package mechanical census rather than selecting the next article ad hoc;
+- reused the low-risk/low-friction selection rule from PR #41: favor legacy-finalized `draft: false` artifacts with manageable bodies, no health/self-harm, engineering/physical-safety, or time-sensitive policy/market risk hint, and comparatively contained conversion/asset burdens;
+- additionally favored historical, mathematical, linguistic, and literary topics over fast-moving policy or contemporary-personality analysis when mechanically similar candidates were available;
+- selected, in order, `moby-dick-as-yankee-self-aggrandizement-and-self-indictment`, `prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850`, `grrm-deconstructed`, `a-post-chomskyan-theory-of-language-in-the-age-of-llms`, and `heaviside`;
+- recorded explicit blockers for classification/profile/voice, duplicate or relationship review, source/factual audit, title or periodization review where applicable, the post-Chomskyan raw-diagram defect, and Heaviside's converted-image provenance question;
+- did not classify, approve, archive, publish, or otherwise advance any selected package on census evidence alone, and left the dedicated GAHT, male-suicide, and Savonius blocked streams unchanged.
+
 ### PR #49 — Record Deleuze, Gothic, postwar, and conservatism publications
 
 Packages:
@@ -290,7 +300,7 @@ Result:
 - grounded current algorithmic-management and social-connection claims in 2025 OECD evidence and retained U.S. generalized-trust decline only with explicit causal caution rather than ideological attribution;
 - replaced five obsolete converted chart/PNG dependencies with native Markdown structures and deleted the now-unused `rId42`, `rId47`, `rId51`, `rId55`, and `rId60` assets;
 - completed duplicate review as `merge-cluster / merge-into-canonical`, recorded `liberalism-as-political-domestication` in the canonical package's `merged_from`, and recorded the reciprocal `merged_into` provenance on the archived source package;
-- preserved the archived source's substantive prose for provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
+- preserved the archived source's substantive historical prose for editorial provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
 - added rich changelog entries to both packages, advanced the canonical synthesis `review` → `ready` / `draft: false` at revision 1.1.0, and moved the editorial queue to the next ordinary review cluster.
 
 ### PR #31 — Finalize culture-parasitism hypothesis for publication
@@ -359,7 +369,7 @@ Result:
 - recast shadow banking as private maturity transformation embedded in a public legal and emergency-support order rather than either a purely unregulated market or a disguised state system;
 - explicitly recognized that the FCIC majority and U.K. Treasury Committee directly blamed regulatory failures, which limits any universal bureaucratic-self-exoneration theory;
 - replaced the escaped numbered conversion-citation lattice with named direct official, watchdog, and research sources;
-- extended metadata scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
+- extended the metadata scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
 - completed duplicate review as independent/keep-separate and advanced lifecycle `review` → `ready` with `draft: false` at revision 1.0.3.
 
 ### PR #26 — Finalize brickmaking report for publication
