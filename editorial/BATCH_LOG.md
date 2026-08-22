@@ -2,6 +2,60 @@
 
 This is the repository-level operational history of corpus cleanup. It complements—never replaces—the richer `data/md/<slug>/CHANGELOG.md` inside each changed article package.
 
+## 2026-08-22
+
+The entries for PRs #45 and #46 below repair a repository-level ledger omission discovered during PR #47. Their package changelogs, canonical lifecycle state, and merged Git history were already correct; this repair does not retroactively change those article results.
+
+### PR #47 — Finalize Conserving a Revolution report
+
+Packages:
+- `american-conservatism`
+
+Result:
+- retitled the inherited generic topic title to **Conserving a Revolution**, with the stable `american-conservatism` slug retained as URL plumbing;
+- replaced the inherited claim that American conservatism is partly incoherent simply because the United States had a liberal-revolutionary founding with a four-layer model distinguishing inherited Anglo-American constitutionalism, revolutionary natural rights, republican constitution-making, and unequal religious/social order;
+- added Jack P. Greene and Craig Yirush to show how colonial resistance began from inherited constitutional and English-rights claims and increasingly universalized those arguments into natural-rights language during the imperial crisis;
+- used Edmund Burke's American position as direct counterevidence to the assumption that support for the American cause is inherently incompatible with conservative reasoning, while preserving the real difference between colonial constitutional resistance and later abstract revolutionary reconstruction;
+- replaced a one-dimensional Hartz baseline with Gibson's historiographic plurality and Rogers Smith's multiple-traditions/ascriptive-hierarchy account, treating liberal, republican, constitutional, religious, and hierarchical inheritances as interacting rather than reducible to one essence;
+- corrected the treatment of religion by distinguishing federal non-establishment from varied state establishments/support and qualified founding-era suffrage claims for state-level rules and practical variation;
+- recast twentieth-century American conservatism as a historically assembled movement rather than an unchanged transmission from the founders, adding Kersch on postwar constitutionalism and later originalist consolidation and Wieboldt on earlier natural-law conservative constitutionalism;
+- separated constitutional traditionalism, natural-rights foundingism, and post-liberal/national conservatism as rival contemporary projects with different objects of conservation and added an explicit coherence test based on which inheritance receives priority;
+- removed escaped numbered conversion citations, duplicate reference-export residue, weak tertiary sourcing, the legacy converted diagram, and its obsolete image asset;
+- completed duplicate review as independent/keep-separate with `conserving-radicalism` and `republicans-as-moderating-opposition-without-a-rival-order` retained only as conceptual neighbors;
+- added a rich package changelog, classified the artifact `academic / neutral`, advanced revision/version to 1.0.1 and legacy lifecycle `complete` → `ready` / `draft: false`, and advanced the ordinary queue to the Hilbert–Pólya history.
+
+### PR #46 — Finalize postwar boom report
+
+Packages:
+- `the-u-s-post-world-war-ii-boom-1945-1975`
+
+Result:
+- retitled the artifact **The American High Tide: Growth, Mass Prosperity, and the End of the Postwar Boom** so the public title names the historical object rather than preserving generic inherited report framing;
+- rebuilt the report around 1948–1973 as the macroeconomic high-growth core inside the broader 1945–1975 institutional period;
+- anchored aggregate expansion in BEA real-GDP data and the structural break in BLS labor-productivity and multifactor-productivity evidence;
+- separated measured homeownership and higher-education expansion from causal claims about the GI Bill, mortgage reform, income growth, and institutional expansion;
+- bounded GI Bill education and housing effects with historical economic research, including unequal racial/regional access and evidence that veterans' mortgage benefits explain only a minority of the aggregate 1940–1960 homeownership increase;
+- separated the wartime Great Compression from postwar union distribution effects rather than treating union density as a sufficient explanation for either wage compression or productivity growth;
+- treated Bretton Woods, the Marshall Plan, highway construction, reconstruction demand, demographics, and the United States' unusual wartime position as interacting conditions rather than independent magic levers;
+- reframed the end of the boom as a multi-year erosion involving pre-1973 inflation, Bretton Woods strain and collapse, restored foreign competition, the oil shock, recession, and the sharp post-1973 productivity slowdown rather than a single-cause OPEC story;
+- removed raw timeline/xychart source, escaped numbered conversion citations, the duplicate reference export, weak tertiary sourcing, and causal overreach;
+- completed duplicate review as independent/keep-separate, added a rich package changelog, advanced revision/version to 1.0.1 and legacy lifecycle `complete` → `ready` / `draft: false`, and advanced the ordinary queue to `american-conservatism`.
+
+### PR #45 — Add title-quality gate and retitle AI-process titles
+
+Packages:
+- `testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs`
+- `distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo`
+
+Result:
+- added a durable editorial rule that a title is part of the article rather than a transcript of the assignment that produced it, and that AI-discretionary/process titles receive no preservation presumption merely because they already exist;
+- required publication-bound titles to be memorable, evocative, sharp, or immediately useful rather than generic generation/intake labels;
+- expanded editorial lint to detect obvious process-title patterns such as `Testing ... Hypothesis`, `An Analytical Report`, `A Research Framework`, and `A Comprehensive Guide`, with public `ready/published` matches treated as errors and non-public matches as warnings;
+- deliberately kept the heuristic narrow so legitimate scholarly genre labels and genuinely descriptive uses of words such as “testing” remain available;
+- retitled the culture-parasitism report **The Hungry Mirror: Culture and Unmet Human Need** and the Borderer methodology report **The Borderer Signal: Separating Meme Style from Ideology** while retaining their stable historical slugs/URLs;
+- advanced both title-only package revisions from 1.0.2 to 1.0.3 without changing their substantive arguments, evidence, assets, or published lifecycle;
+- confirmed Marginalia derives the visible page/browser/social title from canonical metadata, so display-title repair does not require breaking public URLs.
+
 ## 2026-08-21
 
 ### PR #44 — Finalize Aesthetics for the Maimed stylized essay
