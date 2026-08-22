@@ -4,6 +4,22 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-22
 
+### PR #49 — Record Deleuze, Gothic, postwar, and conservatism publications
+
+Packages:
+- `emptiness-of-deleuze`
+- `culture-gothic`
+- `the-u-s-post-world-war-ii-boom-1945-1975`
+- `american-conservatism`
+
+Result:
+- verified the deployed build-derived Marginalia pages at `/research/emptiness-of-deleuze/`, `/research/culture-gothic/`, `/research/the-u-s-post-world-war-ii-boom-1945-1975/`, and `/research/american-conservatism/` and confirmed that each renders the reviewed canonical rewrite rather than a legacy copy;
+- confirmed the deployed Deleuze page carries the corrected assemblage/reterritorialization treatment and bounded normative/institutional critique, the Gothic page carries the bounded “liberal gothic” framing and diagnostic/necrotic/restorative distinctions, the postwar page carries the 1948–1973 high-growth core and causal separation, and the conservatism page carries the four-layer founding model and rival contemporary conservative projects;
+- advanced all four canonical lifecycles `ready` → `published` while retaining `draft: false`;
+- added package-local deployment-verification changelog rows and moved all four queue entries to `done-for-now` / P3 maintenance;
+- left article prose, sources, assets, and revision/version unchanged for all four packages;
+- left `a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture` at `ready` because its build-derived `gh-pages` page was not present during the deployment sweep.
+
 ### PR #48 — Finalize The Unheard Instrument literary history
 
 Packages:
@@ -146,7 +162,7 @@ Packages:
 - `global-population-dynamics-peaks-in-population-level-and-growth-rates`
 
 Result:
-- corrected the conversion-contaminated title and reclassified the artifact from inherited public-health metadata to an academic/neutral demography and population-studies report;
+- corrected the conversion-contaminated title and reclassified the report from inherited public-health metadata to an academic/neutral demography and population-studies report;
 - rewrote the analysis around the distinction between population level, percentage growth rate, and absolute annual change, retaining the observed global growth-rate peak near 2.3 per cent in 1963 while treating the projected population-level maximum as a separate future event;
 - confirmed World Population Prospects 2024 remains the current global UN revision through August 2026 and documented the 19 January 2026 interim update, which corrected Togo estimates and medium projections only, left global/regional aggregates unchanged, and postponed the next full WPP revision to 11 July 2027;
 - replaced the inherited single-year pseudo-precision of a 10.289-billion 2084 peak with the UN's published central result of about 10.3 billion in the mid-2080s and an approximately 80 per cent probability that global population peaks within the twenty-first century;
@@ -274,7 +290,7 @@ Result:
 - grounded current algorithmic-management and social-connection claims in 2025 OECD evidence and retained U.S. generalized-trust decline only with explicit causal caution rather than ideological attribution;
 - replaced five obsolete converted chart/PNG dependencies with native Markdown structures and deleted the now-unused `rId42`, `rId47`, `rId51`, `rId55`, and `rId60` assets;
 - completed duplicate review as `merge-cluster / merge-into-canonical`, recorded `liberalism-as-political-domestication` in the canonical package's `merged_from`, and recorded the reciprocal `merged_into` provenance on the archived source package;
-- preserved the archived source's substantive prose for provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
+- preserved the archived source's substantive historical prose for provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
 - added rich changelog entries to both packages, advanced the canonical synthesis `review` → `ready` / `draft: false` at revision 1.1.0, and moved the editorial queue to the next ordinary review cluster.
 
 ### PR #31 — Finalize culture-parasitism hypothesis for publication
@@ -320,7 +336,7 @@ Packages:
 Result:
 - rewrote `fallen-aristocracy` around a disciplined category of hereditary or estate-based elites that lose formal privilege while retaining convertible prestige, education, wealth, networks, or organizational capacity;
 - separated strong cases from category errors: French noble émigrés, former samurai as an explicit functional analogue, and post-First World War aristocratic intellectuals now carry the comparison, while Russian White émigrés, Byzantine scholars, and Latin American creoles are retained only as boundary/negative cases;
-- replaced deterministic status-loss psychology with a conditional model of status threat, residual elite capacity, restoration opportunity, resource convertibility, and successor-state incorporation, supported by Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat evidence;
+- replaced deterministic status-loss psychology with a conditional model of status threat, residual capacity, restoration opportunity, resource convertibility, and successor-state incorporation, supported by Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat evidence;
 - substantially revised the Republican moderating-opposition thesis rather than merely updating links: TANF is treated as durable institutional replacement, the ACA as retrenchment without comprehensive replacement, tax policy as affirmative architecture, USMCA as replacement within an inherited trade paradigm, and Public Law 119-21 immigration enforcement as affirmative capacity building;
 - reclassified Gramm-Leach-Bliley and the First Step Act as bipartisan directional changes rather than evidence for a simple one-party ratchet;
 - replaced the Republican report's weak legacy source mix and conversion-heavy tables with direct CBO, CRS, USTR, Federal Reserve History, Senate, and historical-institutionalist sources;
@@ -343,7 +359,7 @@ Result:
 - recast shadow banking as private maturity transformation embedded in a public legal and emergency-support order rather than either a purely unregulated market or a disguised state system;
 - explicitly recognized that the FCIC majority and U.K. Treasury Committee directly blamed regulatory failures, which limits any universal bureaucratic-self-exoneration theory;
 - replaced the escaped numbered conversion-citation lattice with named direct official, watchdog, and research sources;
-- extended metadata scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
+- extended the inquiry scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
 - completed duplicate review as independent/keep-separate and advanced lifecycle `review` → `ready` with `draft: false` at revision 1.0.3.
 
 ### PR #26 — Finalize brickmaking report for publication
