@@ -300,7 +300,7 @@ Result:
 - grounded current algorithmic-management and social-connection claims in 2025 OECD evidence and retained U.S. generalized-trust decline only with explicit causal caution rather than ideological attribution;
 - replaced five obsolete converted chart/PNG dependencies with native Markdown structures and deleted the now-unused `rId42`, `rId47`, `rId51`, `rId55`, and `rId60` assets;
 - completed duplicate review as `merge-cluster / merge-into-canonical`, recorded `liberalism-as-political-domestication` in the canonical package's `merged_from`, and recorded the reciprocal `merged_into` provenance on the archived source package;
-- preserved the archived source's substantive historical prose for editorial provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
+- preserved the archived source's substantive prose for provenance, repaired four broken repo-root-style image targets exposed by lint, and advanced it `review` → `archived` / `draft: true` at revision 1.0.2;
 - added rich changelog entries to both packages, advanced the canonical synthesis `review` → `ready` / `draft: false` at revision 1.1.0, and moved the editorial queue to the next ordinary review cluster.
 
 ### PR #31 — Finalize culture-parasitism hypothesis for publication
@@ -369,7 +369,7 @@ Result:
 - recast shadow banking as private maturity transformation embedded in a public legal and emergency-support order rather than either a purely unregulated market or a disguised state system;
 - explicitly recognized that the FCIC majority and U.K. Treasury Committee directly blamed regulatory failures, which limits any universal bureaucratic-self-exoneration theory;
 - replaced the escaped numbered conversion-citation lattice with named direct official, watchdog, and research sources;
-- extended the metadata scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
+- extended metadata scope through 2013 because the retained Parliamentary Commission on Banking Standards report postdates the old 2007–2011 boundary;
 - completed duplicate review as independent/keep-separate and advanced lifecycle `review` → `ready` with `draft: false` at revision 1.0.3.
 
 ### PR #26 — Finalize brickmaking report for publication
