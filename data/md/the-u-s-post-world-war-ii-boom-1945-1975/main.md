@@ -1,462 +1,266 @@
-# The U.S. Post–World War II Boom, 1945–1975
+# The American High Tide: The Postwar Boom and Its Breaking Point, 1945–1975
 
-## Executive summary
+## Executive Summary
 
-The exceptional U.S. economic and social boom after World War II is best understood as a **two-part story**: (1) a historically unusual starting position around 1945–1948—global industrial primacy, financial dominance, and new domestic institutions—and (2) reinforcing **feedback loops** that converted that starting position into a durable, mass-consumption growth regime through the early 1970s. [\[1\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945)
+The postwar United States experienced a genuine economic high tide, but not a thirty-year miracle produced by one policy, one institution, or one geopolitical accident. The most defensible periodization separates three overlapping episodes:
 
-A defensible “core boom” window is **roughly 1948–1973**, with a looser framing of **1945–1975** for social and institutional change. The rationale is that (a) key postwar international systems and domestic social programs were legislated during 1944–1948, (b) the long expansion’s productivity and income dynamics are commonly benchmarked from **1948**, and (c) major regime breaks cluster in **1971–1975**: the end of dollar–gold convertibility and the collapse of Bretton Woods fixed exchange rates (1971–1973), the first oil shock (1973–1974), the widely identified productivity slowdown beginning in 1973, and the severe 1973–1975 recession visible in labor-market data. [\[2\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends)
+- **1945–1948: reconversion and institutional transition.** Wartime production fell, millions of service members returned, and the United States converted an extraordinary military-industrial mobilization into a civilian economy.
+- **1948–1973: the high-growth core.** Real output, productivity, household income, housing, education, and mass consumption expanded together at rates that later decades did not sustain.
+- **1965–1975: erosion and break.** Inflation accelerated before the oil embargo, the Bretton Woods monetary system unraveled, productivity growth broke sharply after 1973, and the 1973–1975 recession made the end of the earlier regime unmistakable.
 
-Structurally, this era combined: **global supply advantage** (competitors’ destruction and U.S. industrial scale), a **stable postwar monetary/trade architecture** anchored to the dollar–gold link, sustained **public and quasi-public investment** (housing finance, highways, education), **high union density and wage-setting norms** that supported broad wage growth and demand, and favorable **demographics** (the baby boom and household formation). [\[3\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945)
+The scale of the expansion is not controversial. Bureau of Economic Analysis data show real GDP rising from about **$2.27 trillion in 1948 to $6.11 trillion in 1973** in chained 2017 dollars, equivalent to roughly **4.0 percent annual real growth** over twenty-five years. This is aggregate growth, not per-capita growth, but it captures the magnitude of the expansion. [BEA/FRED, annual real GDP](https://fred.stlouisfed.org/series/GDPCA)
 
-The boom’s benefits were **real and measurable**, but **unevenly distributed**. Homeownership rose dramatically from prewar levels (43.6% in 1940 to 62.9% in 1970), and college enrollment expanded several-fold (2.34 million in 1947 to 11.18 million in 1975). [\[4\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) At the same time, federally influenced housing finance and local lending practices entrenched racial exclusion—“redlining” and related mechanisms shaped neighborhood credit access and segregation, with long-run impacts documented in modern empirical work. [\[5\]](https://www.federalreservehistory.org/essays/redlining)
+Productivity is even more important for identifying the era. Bureau of Labor Statistics decomposition places private nonfarm-business labor-productivity growth at **2.8 percent per year in 1948–1960** and **3.0 percent in 1960–1973**, before collapsing to **1.1 percent in 1973–1981**. The dominant change was multifactor productivity rather than labor composition. [BLS, “The U.S. productivity slowdown,” 2021](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
 
-The era weakened not because one cause disappeared, but because **multiple pillars shifted at once**: the international monetary order changed, energy prices became volatile, global manufacturing competition intensified, and the growth regime became less compatible with inflation control. These pressures culminated in a macroeconomic environment of **slower productivity growth and stagflation** in the 1970s. [\[6\]](https://history.state.gov/milestones/1969-1976/nixon-shock)
+The boom was also social and institutional. Census data show homeownership rising from **43.6 percent in 1940 to 62.9 percent in 1970**. Higher-education enrollment rose from **2.34 million in 1947 to 11.18 million in 1975**. Union membership reached its twentieth-century peak in the mid-1950s. Wage inequality had already compressed dramatically during the 1940s and remained relatively narrow through much of the postwar period. [U.S. Census Bureau](https://www2.census.gov/library/publications/decennial/1990/we-the-americans/we-06.pdf); [NCES](https://nces.ed.gov/programs/digest/d24/tables/dt24_303.10.asp); [BLS](https://www.bls.gov/opub/mlr/2016/article/the-monthly-labor-review-at-100-part-ii.htm); [Goldin and Margo](https://www.nber.org/papers/w3817)
 
-## Defining the era
+But those outcomes do not identify a single cause. The strongest interpretation is a **stacked regime**: unusually favorable postwar international conditions interacted with high productivity growth, rising real incomes, a remodeled mortgage system, veterans’ benefits, mass higher education, collective bargaining, public infrastructure, and a monetary-trade order that reduced some forms of international instability. Different institutions explain different outcomes; they should not be treated as interchangeable proof of one ideological model.
 
-### Date ranges and justification
+The same discipline is required for the end of the era. The 1973 oil shock was severe, but U.S. inflation had been rising since the mid-1960s. Bretton Woods did collapse, but its collapse was partly a consequence of underlying U.S. monetary and balance-of-payments pressures rather than an independent meteor strike. Productivity slowed sharply after 1973, but the cause of that slowdown remains a large economic-historical question rather than a solved one-factor story. The postwar order did not simply disappear. Its components ceased reinforcing one another in the same unusually favorable way.
 
-A precise dating has to distinguish **institutional starts** from **macroeconomic breakpoints**:
+## 1. Dating the High Tide
 
-**Institutional and structural start (1944–1948)**  
-Key frameworks that shaped the postwar economy were set before and immediately after 1945: the GI Bill (1944), the Bretton Woods agreements (1944), and the Marshall Plan’s Congressional authorization (1948). [\[7\]](https://www.archives.gov/milestone-documents/servicemens-readjustment-act) These established (i) mass education/training and a housing-finance channel for veterans, (ii) a dollar-centered monetary architecture, and (iii) a reconstruction/export demand channel abroad. [\[8\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf)
+### 1.1 Why 1945 is a beginning but not a clean growth baseline
 
-**Macroeconomic “high-growth regime” core (1948–1973)**  
-Economic historians and productivity analysts commonly treat **1948** as a clean baseline for postwar productivity comparisons, and a widely noted break occurs at **1973**, when the productivity slowdown becomes apparent in the data. [\[9\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
+The end of World War II is the obvious political starting point, but it is a poor statistical baseline for a civilian economic boom. Wartime mobilization had pushed measured real GDP to extraordinary levels. BEA’s annual series shows real GDP falling from roughly $2.50 trillion in 1945 to $2.21 trillion in 1946 and $2.18 trillion in 1947 before civilian expansion resumed. [BEA/FRED](https://fred.stlouisfed.org/series/GDPCA)
 
-**End-range (1971–1975)**  
-Three shocks cluster tightly and justify an “end-range” rather than a single year:  
-- **1971–1973**: suspension of dollar–gold convertibility and the effective abandonment of Bretton Woods fixed exchange rates. [\[10\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends)  
-- **1973–1974**: first oil shock, with oil prices jumping sharply. [\[11\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74)  
-- **1973–1975**: deep recession and labor-market deterioration, visible in unemployment data. [\[12\]](https://fred.stlouisfed.org/data/unrate)
+That decline was not a second Great Depression. It reflected demobilization, the termination of war production, and conversion to civilian output. The period from 1945 through roughly 1948 is therefore better understood as **reconversion** than as the first years of a smooth thirty-year boom.
 
-### Timeline of major policies and events
+### 1.2 Why 1948–1973 is the economic core
 
-    timeline
-      title Major U.S. postwar boom drivers and breaks (1944–1975)
-      1944 : GI Bill enacted (Servicemen's Readjustment Act)
-      1944 : Bretton Woods conference; IMF/World Bank framework agreed
-      1947 : Marshall Plan proposed (Harvard speech)
-      1948 : Marshall Plan funding authorized (Economic Cooperation Act)
-      1956 : Federal-Aid Highway Act; Interstate era begins
-      1968 : Fair Housing Act outlaws racially motivated redlining (federal enforcement role)
-      1971 : Dollar–gold convertibility suspended; wages/prices controls announced
-      1973 : Bretton Woods fixed-rate system effectively abandoned amid currency floats
-      1973 : First oil shock begins (OAPEC embargo); price surge
-      1973-1975 : Recession; unemployment spike; productivity slowdown becomes visible
+BLS productivity series begin their standard postwar comparisons in 1948 and show a remarkably consistent high-growth regime through 1973. Private nonfarm-business labor productivity grew 2.8 percent annually from 1948 to 1960 and 3.0 percent from 1960 to 1973. After 1973, growth fell abruptly. [BLS](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
 
-(Events and dates summarized from official histories and agency materials.) [\[13\]](https://www.federalreservehistory.org/essays/bretton-woods-created)
+This makes **1948–1973** the most useful macroeconomic core. The broader **1945–1975** frame remains useful when the subject is institutional change, suburbanization, education, race, family formation, or the final recessionary break.
 
-## Structural drivers and mechanisms
+### 1.3 Why the ending is a range, not a date
 
-This section focuses on **mechanisms**—how each factor plausibly translated into growth, broad consumption, and social change—and how factors interacted.
+No single event ended the postwar order.
 
-### Global industrial and financial position
+Inflation began accelerating in the **mid-1960s**. Federal Reserve History dates the Great Inflation from 1965 to 1982 and treats excessive monetary accommodation as central to its origins, with fiscal imbalances, bad data, changing policy doctrine, energy shocks, and the collapse of Bretton Woods contributing to the environment. [Federal Reserve History, “The Great Inflation”](https://www.federalreservehistory.org/essays/great-inflation)
 
-By 1945 the U.S. emerged with an extraordinary combination of intact industrial capacity and global financial leverage. A widely cited historical summary notes that the U.S. was manufacturing more than half of produced goods globally and held a very large share of global gold reserves at war’s end. [\[14\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945) A complementary official monetary history emphasizes that early Bretton Woods stability was supported by the U.S. holding about three-quarters of the world’s official gold reserves, reinforcing confidence in the dollar’s role. [\[15\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends)
+The international monetary system broke in stages. Bretton Woods currency convertibility became fully operational only in 1958; persistent U.S. balance-of-payments deficits eventually left foreign dollar claims larger than U.S. gold reserves at the official price, and President Nixon suspended dollar-gold convertibility in 1971. [Federal Reserve History, “Creation of the Bretton Woods System”](https://www.federalreservehistory.org/essays/bretton-woods-created)
 
-**Mechanism:** with competitors rebuilding, U.S. firms faced unusually strong external demand and limited near-term import competition; the dollar’s reserve role reduced external financing constraints and supported an expansive trade and investment position. [\[16\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends)
+Then came the **1973–1974 oil shock**, a severe cost and income shock that intensified an inflation problem already in motion. [Federal Reserve History, “Oil Shock of 1973–74”](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74)
 
-### The Bretton Woods dollar–gold system and trade stability
+Finally, real GDP contracted in 1974 and 1975, and the productivity break became visible in the same period. The years **1971–1975** therefore mark a cluster of regime failures rather than one clean terminal event.
 
-The Bretton Woods conference established a cooperative postwar monetary framework and created the International Monetary Fund[\[17\]](https://www.senate.gov/artandhistory/history/minute/Federal_Highway_Act.htm) and the World Bank[\[18\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt). [\[19\]](https://www.federalreservehistory.org/essays/bretton-woods-created) Bretton Woods’ dollar–gold link and fixed-but-adjustable exchange rates reduced exchange-rate uncertainty for trade and investment, while the dollar’s convertibility arrangements and U.S. gold position supported the system’s early credibility. [\[20\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends)
+## 2. What Actually Boomed
 
-**Mechanism:** stable exchange rates and postwar liquidity provision supported expanding global trade, with the U.S. initially positioned as a key supplier of capital goods and consumer goods. [\[20\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends)
+### 2.1 Output
 
-### Reconstruction demand and export-market creation
+Annual BEA data put real GDP at approximately:
 
-The U.S. Department of State[\[21\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)’s historical milestone on the Marshall Plan links the program to European reconstruction and notes that U.S. funding “eventually rise\[d\] to over \$12 billion,” with the plan also described as a stimulant to U.S. markets for American goods. [\[22\]](https://history.state.gov/milestones/1945-1952/marshall-plan)
+| Year | Real GDP, chained 2017 dollars |
+| --- | ---: |
+| 1948 | $2.27 trillion |
+| 1960 | $3.50 trillion |
+| 1973 | $6.11 trillion |
+| 1975 | $6.06 trillion |
 
-**Mechanism:** reconstruction aid functioned as (i) macro stabilization for Europe, (ii) a market-creation strategy for U.S. exports, and (iii) a geopolitical commitment reducing perceived risk in cross-border investment. [\[22\]](https://history.state.gov/milestones/1945-1952/marshall-plan)
+From 1948 to 1973, real GDP therefore grew by about 169 percent, roughly 4.0 percent per year compounded. [BEA/FRED](https://fred.stlouisfed.org/series/GDPCA)
 
-### Cold War spending, defense R&D, and regional industrialization
+Aggregate GDP combines productivity, population growth, rising labor-force participation, and more labor hours. It should not be used as a direct measure of household living standards. Its value here is narrower: the civilian economy expanded rapidly for a long time without merely recovering to a prewar peak.
 
-Even without a complete defense-spending time series embedded here, the postwar period included sustained defense procurement and national-security investment that interacted with industry, especially aerospace/electronics, and shaped regional development patterns. The logic of defense-linked industrial ecosystems is consistent with the era’s broader institutional context (and the later productivity/industrial discussions that treat defense as a major demand and technology driver). [\[23\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
+### 2.2 Productivity
 
-**Mechanism:** defense demand stabilized certain high-capital industries through cycles, supported large-scale R&D and engineering labor markets, and contributed to the clustering of advanced manufacturing and systems integration in specific metro regions. [\[24\]](https://www.nber.org/system/files/chapters/c3912/c3912.pdf)
+Productivity distinguishes the postwar boom from a story of population growth plus more inputs.
 
-### Mass education and housing finance through veterans’ benefits
+| Period | Labor-productivity growth | Capital-intensity contribution | Labor-composition contribution | Multifactor-productivity growth |
+| --- | ---: | ---: | ---: | ---: |
+| 1948–1960 | 2.8% | 0.8% | 0.2% | 1.7% |
+| 1960–1973 | 3.0% | 0.9% | 0.1% | 2.0% |
+| 1973–1981 | 1.1% | 1.0% | 0.1% | 0.0% |
 
-The 1944 GI Bill, documented by the National Archives[\[25\]](https://history.state.gov/milestones/1945-1952/marshall-plan), expanded access to education/training, unemployment benefits, and housing. [\[26\]](https://www.archives.gov/milestone-documents/servicemens-readjustment-act) A U.S. Department of Veterans Affairs[\[27\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) historical report states that by the GI Bill’s end in July 1956, **7.8 million** of **16 million** WWII veterans participated in education or training, and VA-backed home lending was extensive (nearly 2.4 million loans from 1944 to 1952). [\[28\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf)
+Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm).
 
-**Mechanisms and feedback loops:**  
-Education/training increased human capital and earnings potential, while subsidized/guaranteed mortgages accelerated household formation and durable-goods demand. Those new suburban households increased demand for cars, appliances, and services, reinforcing industrial employment and local tax bases—until costs and exclusions surfaced. [\[29\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf)
+The striking feature is the collapse of measured multifactor-productivity growth after 1973. Capital deepening did not vanish. Labor composition did not suddenly deteriorate. Something about the efficiency with which the economy combined capital and labor changed.
 
-### New Deal-era institutional inheritance: labor rights and financial stability
+That makes the post-1973 slowdown a central fact, but not a license to insert a preferred explanation. Economists have proposed energy shocks, regulation, sectoral shifts, slower technological diffusion, exhaustion of earlier general-purpose technologies, measurement problems, and other mechanisms. The timing is clear; the complete causal decomposition is not.
 
-Several 1930s institutions mattered directly to the postwar boom’s *operating conditions*:  
-- The National Labor Relations Board[\[30\]](https://fred.stlouisfed.org/data/OPHNFB) notes that the NLRA (1935) made it U.S. policy to encourage collective bargaining and protect workers’ rights to organize. [\[31\]](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act)  
-- The Federal Deposit Insurance Corporation[\[32\]](https://fred.stlouisfed.org/data/unrate) documents its creation via the 1933 Banking Act and the start of a national system of deposit insurance in 1934, which reduced household incentives for destabilizing bank runs compared with the interwar era. [\[33\]](https://www.fdic.gov/90years)  
-- The U.S. Securities and Exchange Commission[\[34\]](https://www.hud.gov/aboutus/fhahistory) states that the Securities Exchange Act of 1934 created the SEC and gave it broad authority over securities markets. [\[35\]](https://www.sec.gov/rules-regulations/statutes-regulations)  
-- The Social Security Act created federal old-age benefits and related welfare provisions, per SSA’s legislative history materials. [\[36\]](https://www.ssa.gov/history/35act.html)
+### 2.3 Homeownership
 
-**Mechanism:** these institutions reduced some forms of financial fragility and strengthened labor bargaining power and safety-net expectations—supportive, in combination, of steady consumer demand and a more rules-based economic environment. [\[37\]](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act)
+The homeownership transformation was enormous:
 
-### Unions, wage-setting norms, and broad demand
+| Census year | Homeownership rate |
+| --- | ---: |
+| 1940 | 43.6% |
+| 1950 | 55.0% |
+| 1960 | 61.9% |
+| 1970 | 62.9% |
 
-Union density remained historically high in the postwar decades. The BLS Handbook series (via FRASER) reports union membership as a share of employees in nonagricultural establishments around **35.5%** in 1945 and still around **~28%** in 1970, with gradual decline thereafter in the early 1970s. [\[38\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext)
+Source: [U.S. Census Bureau, long-run homeownership series](https://www2.census.gov/library/publications/decennial/1990/we-the-americans/we-06.pdf).
 
-**Mechanism:** high unionization plus industry-level pattern bargaining supported wage floors and benefit growth; combined with high employment, this helped translate productivity growth into mass purchasing power, a key precondition for a consumption-led expansion. [\[39\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext)
+The important correction is causal. The GI Bill mattered, but it did not create the entire boom. Daniel Fetter’s quasi-experimental work estimates that veterans’ mortgage benefits explain about **7.4 percent of the overall 1940–1960 increase** in homeownership and about **25 percent of the increase for affected cohorts**, primarily by moving home purchase earlier in life. His extrapolation suggests that broader changes in mortgage terms may explain roughly 40 percent of the aggregate increase. [Fetter, NBER / *American Economic Journal: Economic Policy*](https://www.nber.org/papers/w17166)
 
-### Housing production, highways, and suburbanization
+More recent work by William Collins and Gregory Niemesh finds that broad real-income gains explain a large share of the geographic variation in the 1940–1960 homeownership surge. [Collins and Niemesh, NBER](https://www.nber.org/papers/w31249)
 
-Federal housing finance and infrastructure spending supported durable, place-based growth. The Federal Housing Administration[\[40\]](https://www.federalreservehistory.org/essays/redlining) emphasizes its role as a major mortgage insurer since 1934. [\[41\]](https://www.hud.gov/aboutus/fhahistory) The Federal Highway Administration[\[42\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) highlights that the Interstate era begins with the Federal-Aid Highway Act of 1956. [\[43\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system)
+The correct story is therefore additive: **income growth + mortgage-market transformation + veterans’ benefits + housing supply + public infrastructure**, not “the GI Bill created suburbia.”
 
-**Mechanism:** long-term, amortized mortgages and car-oriented infrastructure lowered the generalized cost of suburban living for many households, produced large construction employment and upstream demand (lumber, steel, appliances), and reshaped metro geographies in ways that increased car dependence and oil vulnerability. [\[44\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system)
+### 2.4 Higher education
 
-### Racial exclusion, redlining, and unequal access to the “middle-class package”
+Total fall enrollment in degree-granting institutions rose from **2,338,226 in 1947 to 11,184,859 in 1975**. [National Center for Education Statistics](https://nces.ed.gov/programs/digest/d24/tables/dt24_303.10.asp)
 
-A central qualifier to “broad” prosperity is that access to subsidized credit and suburban housing was racially patterned. The Federal Reserve[\[45\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext)’s historical essay defines redlining as denying credit based on neighborhood and notes that the Fair Housing Act outlawed racially motivated redlining while assigning enforcement roles to federal regulators. [\[46\]](https://www.federalreservehistory.org/essays/redlining) Empirically, modern research (e.g., Chicago Fed working paper versions) finds that 1930s-era redlining maps and related mechanisms are associated with lower later homeownership, lower property values, and higher segregation, though the literature debates precise causal pathways and distinguishing HOLC-map effects from FHA and private underwriting practices. [\[47\]](https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en)
+The 1944 Servicemen’s Readjustment Act provided education and training benefits as well as housing and unemployment assistance. [National Archives](https://www.archives.gov/milestone-documents/servicemens-readjustment-act) The Department of Veterans Affairs reports **7.8 million** beneficiaries trained under the World War II GI Bill. [VA historical overview](https://benefits.va.gov/BENEFITS/infographics/gibill_overview.html)
 
-**Mechanism:** exclusion from subsidized/insured mortgage credit and from appreciating suburban property undermined intergenerational wealth building, contributing to durable racial inequality even during a high-growth era. [\[48\]](https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en)
+Yet the causal effect should again be bounded. John Bound and Sarah Turner find a **moderate** increase in postsecondary attainment from military service plus GI Bill benefits rather than evidence that the entire postwar college expansion was created by the program. [Bound and Turner, NBER / *Journal of Labor Economics*](https://www.nber.org/papers/w7452)
 
-### Energy prices and the “cheap energy” assumption
+The distribution was also unequal. Turner and Bound find substantial positive educational effects for white men and Black men born outside the South, but little collegiate effect for Black veterans constrained by the segregated southern higher-education system. In that setting, formally universal benefits could widen rather than close educational gaps. [Turner and Bound, NBER / *Journal of Economic History*](https://www.nber.org/papers/w9044)
 
-The growth regime implicitly relied on relatively stable, affordable energy—especially as suburbanization and highway investment increased oil exposure. The 1973–1974 oil shock nearly quadrupled oil prices from pre-embargo levels to early 1974 in a Federal Reserve historical account. [\[49\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74) EIA historical series show the large step-up in U.S. crude oil prices between the earlier 1970s and later in the decade. [\[50\]](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=a&n=pet&s=f000000__3)
+### 2.5 Wages and inequality
 
-**Mechanism:** when energy became much more expensive, it raised production costs economy-wide and challenged an inflation-control framework built around the earlier cost structure, contributing to stagflation pressures that helped end the era’s “absurdly good” macro mix. [\[51\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74)
+Mid-century wage equality was real, but much of the compression occurred **before** the canonical postwar boom.
 
-### Tax policy and after-tax distribution
+Goldin and Margo show that wage differentials narrowed dramatically during the 1940s across education, experience, region, occupation, and within those categories. For white men, their log 90–10 wage differential fell from 1.414 in 1940 to 1.060 in 1950. They attribute the change to a combination of wartime wage setting, unusually strong demand for less-skilled labor, and a rapidly expanding supply of educated workers. The wage structure then remained comparatively compressed through the 1950s and 1960s before widening after 1970. [Goldin and Margo, “The Great Compression”](https://www.nber.org/papers/w3817)
 
-Top statutory marginal income tax rates were very high in the immediate postwar decades, according to IRS historical tables and related Treasury/IRS series. [\[52\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)
+This matters because it prevents a common retrospective error: treating every egalitarian feature of the 1950s as something invented by 1950s institutions. Some of the distributional regime was inherited from wartime mobilization.
 
-**Mechanism (carefully stated):** high statutory top rates—alongside other institutions (unions, corporate wage norms, wartime legacies, and later civil-rights/anti-discrimination enforcement)—are frequently argued to have supported a more compressed income distribution than in later eras, though statutory rates do not equal effective rates, and causality remains contested. [\[53\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)
+## 3. The Institutional Stack
 
-## Case studies and geographic patterns
+### 3.1 New Deal inheritance
 
-### Housing and suburbs
+The postwar economy did not start institutionally from zero in 1945. Deposit insurance, securities regulation, Social Security, federal housing institutions, and the National Labor Relations Act were products of the 1930s. They altered the environment in which postwar growth occurred.
 
-**Levittown as a mechanism in miniature**  
-Levittown, New York[\[54\]](https://www.federalreservehistory.org/essays/bretton-woods-created) is a useful case because it directly exposes the production logic and the institutional scaffolding: mass production methods, standardized designs, mortgage availability, and rapid household formation. A Smithsonian overview describes Levittown’s rapid build-out from 1947 and completion within four years at more than 17,000 homes and over 80,000 residents. [\[55\]](https://smithsonianassociates.org/ticketing/programs/levittown) This was emblematic of how housing policy and finance translated pent-up demand into construction scale, and then into consumer durables demand. [\[56\]](https://smithsonianassociates.org/ticketing/programs/levittown)
+Their presence is historically important; their aggregate growth contribution is harder to isolate. The safe claim is institutional rather than econometric: the postwar expansion operated inside a banking, labor, housing, and social-insurance architecture substantially remodeled during the New Deal.
 
-**Key interaction:** mass suburban homebuilding increased car dependence and demand for highways; highways made suburban living more feasible; the resulting metro form increased long-run oil exposure. [\[57\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system)
+### 3.2 Collective bargaining
 
-### Highways as economic and spatial policy
+BLS historical review places U.S. union membership at a peak of **28.3 percent of employed workers in 1954**, followed by a long decline. [BLS, *Monthly Labor Review* centennial history](https://www.bls.gov/opub/mlr/2016/article/the-monthly-labor-review-at-100-part-ii.htm)
 
-The Interstate system’s origin is tightly associated with 1956 legislation. The FHWA history notes that President Eisenhower signed the Federal-Aid Highway Act of 1956, launching the Interstate era. [\[43\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system) The U.S. Senate’s historical minute similarly frames the act as authorizing construction on the order of ~41,000 miles and as the largest public works program up to that time. [\[58\]](https://www.senate.gov/artandhistory/history/minute/Federal_Highway_Act.htm)
+Modern historical microdata strengthen the distributional interpretation. Farber, Herbst, Kuziemko, and Naidu find that union households generally enjoyed a persistent earnings premium and that unions historically reduced income inequality, particularly when mid-century union membership was concentrated among less-educated workers. [Farber et al., NBER / *Quarterly Journal of Economics*](https://www.nber.org/papers/w24587)
 
-**Mechanism:** highways are both demand stimulus (construction) and a long-lived productivity input (logistics, commuting), but also a driver of metro decentralization (suburbanization, retail relocation, and later fiscal stress in some urban cores). [\[59\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system)
+That does not prove that unions caused the postwar productivity boom. It supports a narrower claim: collective bargaining helped shape **how** gains were distributed and how much purchasing power reached workers lower in the wage distribution.
 
-### Auto industry, wage bargains, and mass consumption
+### 3.3 Mortgage institutions and veterans’ benefits
 
-A classic linkage in the mid-century political economy is the relationship between large manufacturers and unions in setting wages and benefits in ways that supported consumption. The “Treaty of Detroit” framing (1950 UAW–GM agreement) is often cited as establishing multi-year labor peace alongside wage/benefit improvements; a MotorCities account describes wage increases and pension provisions as central components. [\[60\]](https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit)
+Federal intervention transformed mortgage finance before and after the war. Longer maturities, amortization, insurance and guarantees, and veterans’ programs reduced financing constraints for many buyers. Equilibrium-model work likewise finds substantial effects from the redesign of mortgage terms, including the move toward long fixed-rate maturities. [Chambers, Garriga, and Schlagenhauf](https://www.nber.org/papers/w18821)
 
-In feedback-loop terms: (high employment + rising wages/benefits) → (robust consumer demand) → (high volume production) → (productivity gains and profits) → (capacity to fund wages and investment), at least while global competition remained limited and energy remained cheap. [\[61\]](https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit)
+The benefits were not racially neutral in practice. Research on federal housing policy shows persistent exclusion of Black urban neighborhoods from FHA insurance, while later work also finds long-run neighborhood damage associated with the HOLC grading system. These are related but not identical mechanisms; FHA underwriting and HOLC maps should not be collapsed into one generic “redlining” institution. [Fishback et al., Federal Reserve Bank of Chicago](https://www.chicagofed.org/publications/working-papers/2022/2022-01); [Aaronson, Hartley, and Mazumder, Federal Reserve Bank of Chicago](https://www.chicagofed.org/publications/working-papers/2017/wp2017-12)
 
-Relevant corporate actors that symbolize this system include General Motors[\[62\]](https://eml.berkeley.edu/~saez/pikettyqje.pdf) and the United Auto Workers[\[63\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext). [\[60\]](https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit)
+The result was a genuine mass expansion of homeownership combined with unequal access to the most subsidized paths into appreciating property.
 
-### Aerospace, defense demand, and regional growth
+### 3.4 The Interstate system
 
-Defense-linked manufacturing and R&D supported advanced industrial regions. A simple illustration is the postwar scale and continuity of aerospace procurement and its ties to commercial aviation development. A corporate chronology documents key contract and program milestones for Boeing[\[64\]](https://www.nber.org/system/files/working_papers/w3817/w3817.pdf) across the postwar decades. [\[65\]](https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing-Chronology.pdf) The wider mechanism—defense demand shaping industrial geography and capability—aligns with modern productivity-by-industry approaches that treat postwar growth as industry-structured rather than purely aggregate. [\[24\]](https://www.nber.org/system/files/chapters/c3912/c3912.pdf)
+The Federal-Aid Highway Act of 1956 accelerated the Interstate program, expanded the planned network to 41,000 miles, authorized $25 billion in federal funds for fiscal years 1957–1969, and established a **90 percent federal share** of construction costs. The Highway Revenue Act created the Highway Trust Fund to finance the program through user taxes. [Federal Highway Administration](https://highways.dot.gov/highway-history/interstate-system/dwight-d-eisenhower-system-interstate-and-defense-highways/part-i)
 
-### Higher education expansion
+The highways reduced transport frictions, supported trucking and commuting, and reinforced metropolitan decentralization. They also locked in land-use and energy patterns with later costs. What should be avoided is treating the Interstate system as a quantified single-cause explanation for aggregate GDP growth. It was a major spatial and logistical transformation inside a much larger growth regime.
 
-NCES historical tables show total fall enrollment in degree-granting postsecondary institutions rising from **2.34 million (1947)** to **11.18 million (1975)**—a several-fold increase within the broader 1945–1975 window. [\[66\]](https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp) This aligns with the GI Bill’s massive utilization (7.8 million WWII veterans in education/training by 1956), which boosted demand for higher education capacity and the skilled workforce pipeline. [\[67\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf)
+### 3.5 Bretton Woods
 
-### Regional patterns
+The Bretton Woods agreements created the IMF and what became the World Bank and established a dollar-centered system of fixed-but-adjustable exchange rates. Full currency convertibility did not arrive until 1958. The arrangement then lasted only until persistent U.S. external deficits and declining gold coverage made the official dollar-gold commitment increasingly difficult to sustain. [Federal Reserve History](https://www.federalreservehistory.org/essays/bretton-woods-created)
 
-A stylized map of the era has two interacting patterns:  
-- A “Rust Belt” core of heavy manufacturing and union strength that benefited early, then became exposed to later competition and cost shocks. [\[68\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext)  
-- A set of “Sunbelt” and coastal growth poles tied to defense, aerospace, and newer industries, supported by federal procurement, migration, and housing expansion. [\[69\]](https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf)
+The system plausibly reduced exchange-rate uncertainty and helped organize reconstruction and trade. But it should not be described as if a dollar-gold peg mechanically generated domestic productivity. Bretton Woods is best treated as part of the **international operating environment** of the boom.
 
-(These are broad patterns; the report does not assume a specific city focus beyond illustrative examples.)
+### 3.6 Marshall Plan and reconstruction
 
-## Quantified outcomes
+The Marshall Plan committed more than $12 billion to Western European reconstruction. The State Department’s historical account describes both a resurgence of European industrialization and a stimulus to U.S. markets for American goods, while also noting continuing historical debate over the plan’s precise economic magnitude. [Office of the Historian](https://history.state.gov/milestones/1945-1952/marshall-plan)
 
-### Notes on data and comparability
+This makes reconstruction a two-sided postwar mechanism. Europe’s devastation initially gave U.S. producers an exceptional relative position; European recovery then created solvent trading partners while gradually restoring competitors. The same process that enlarged world markets also normalized the extraordinary U.S. advantage of the immediate postwar years.
 
-The indicators below prioritize government data as disseminated through FRED (Federal Reserve Bank of St. Louis) for BEA/BLS/Census series and direct agency publications for housing, life expectancy, and education. [\[70\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA)  
-Some series are **quarterly indexes** (productivity, compensation, GDP per capita) and are shown at **selected quarters** for readability; homeownership includes **decennial Census benchmarks** plus mid-1970s quarterly estimates. [\[71\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt)
+## 4. What the Boom Was Not
 
-### Snapshot table of key indicators
+### 4.1 Not simply “Europe was destroyed”
 
-| Indicator (units) | Early postwar benchmark | Early-1970s high / mid-1970s | What it implies |
-|----|---:|---:|----|
-| Real GDP per capita (2017\$; selected quarters) | 15,248 (1947Q1) [\[72\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) | 28,913 (1973Q4) [\[73\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) | Roughly +89.6% from 1947Q1 to 1973Q4 (selected-quarter comparison) [\[74\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) |
-| Nonfarm labor productivity index (2017=100/implicit; OPPHNFB) | 22.256 (1947Q1) [\[75\]](https://fred.stlouisfed.org/data/OPHNFB) | 45.570 (1973Q4); 46.936 (1975Q4) [\[76\]](https://fred.stlouisfed.org/data/OPHNFB) | Large gains through early 1970s; consistent with the “pre-1973 high-growth” narrative [\[77\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) |
-| Real hourly compensation index (COMPRNFB) | 34.386 (1947Q1) [\[78\]](https://fred.stlouisfed.org/data/COMPRNFB) | 66.509 (1973Q4); 66.737 (1975Q4) [\[79\]](https://fred.stlouisfed.org/data/COMPRNFB) | Real earnings tracked productivity fairly closely through early 1970s in this aggregate measure [\[80\]](https://fred.stlouisfed.org/data/COMPRNFB) |
-| Homeownership rate (%) | 43.6 (1940); 55.0 (1950) [\[81\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) | 62.9 (1970); ~64.9 (1975Q2) [\[71\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) | A structurally higher owner-occupancy society, with the caveat of exclusionary credit patterns [\[82\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) |
-| Total fall postsecondary enrollment (persons) | 2,338,226 (1947) [\[66\]](https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp) | 11,184,859 (1975) [\[66\]](https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp) | Nearly +378% from 1947 to 1975; higher education became mass-scale [\[66\]](https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp) |
-| Unemployment rate (annual avg, %) | — | 5.64 (1974 avg); 8.48 (1975 avg) [\[12\]](https://fred.stlouisfed.org/data/unrate) | The 1973–75 recession marks a clear deterioration relative to the long expansion [\[12\]](https://fred.stlouisfed.org/data/unrate) |
-| Life expectancy at birth (years, both sexes) | 68.2 (1950); 69.7 (1960) [\[83\]](https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf) | 70.8 (1970); 72.6 (1975) [\[83\]](https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf) | Public health, income, and medical gains translated into longer lifespans overall [\[83\]](https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf) |
-| Official poverty rate (%, where available) | 22% (1959) [\[84\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) | 12.1% (1969); 12.5% (1971) [\[84\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) | Large poverty reduction in the 1960s; macro weakening begins to show by early 1970s [\[85\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) |
+The destruction of competing industrial economies helps explain the extraordinary U.S. starting position, but not twenty-five years of domestic productivity growth. If foreign devastation were sufficient, the rebuilding of Europe and Japan should have ended American growth much earlier. Instead, U.S. real output and productivity continued rising rapidly while those economies recovered.
 
-### Charts
+International asymmetry is therefore a **starting-condition explanation**, not a complete growth theory.
 
-#### Real GDP per capita
+### 4.2 Not simply “high taxes created prosperity”
 
-    xychart-beta
-      title "Real GDP per capita (2017$), selected quarters"
-      x-axis ["1947Q1","1950Q4","1955Q4","1958Q2","1971Q4","1973Q4","1974Q4","1975Q4"]
-      y-axis "Dollars" 14000 --> 30000
-      line [15248,16764,18808,18081,26510,28913,28088,28520]
+Top statutory individual income-tax rates were very high by modern standards; IRS historical tables document the bracket structure. [IRS Historical Table 23](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)
 
-(Data: BEA via FRED series “Real GDP per capita,” shown at selected quarters for readability.) [\[74\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA)
+But statutory top rates are not effective average rates, and their coexistence with prosperity does not establish that they caused the boom. Any causal tax argument has to consider deductions, the tax base, enforcement, corporate taxation, investment incentives, public spending, and counterfactual policy. The report therefore treats the tax regime as part of the period’s institutional environment, not as a one-variable explanation.
 
-#### Productivity and real hourly compensation
+### 4.3 Not simply “unions created productivity”
 
-    xychart-beta
-      title "Productivity vs. real hourly compensation (nonfarm business), selected quarters"
-      x-axis ["1947Q1","1950Q4","1955Q4","1960Q4","1973Q4","1975Q4"]
-      y-axis "Index (series units)" 20 --> 70
-      line "Labor productivity (OPHNFB)" [22.256,25.799,28.941,31.277,45.570,46.936]
-      line "Real hourly comp (COMPRNFB)" [34.386,38.438,45.072,50.867,66.509,66.737]
+The evidence that unions compressed wages and raised pay for less-skilled workers is much stronger than the evidence that union density generated the era’s high multifactor-productivity growth. Distribution and production are different questions.
 
-These series are commonly used to summarize how labor productivity and compensation moved together in the high-growth postwar decades; the broader literature identifies a structural productivity break around 1973. [\[86\]](https://fred.stlouisfed.org/data/OPHNFB)
+### 4.4 Not simply “the GI Bill created the middle class”
 
-#### Homeownership
+The GI Bill had large effects on particular cohorts and institutions. But the strongest estimates show moderate educational effects and a minority contribution to the total homeownership boom. Treating every postwar rise in college attendance, housing, or income as a GI Bill effect substitutes a famous policy label for causal measurement.
 
-    xychart-beta
-      title "Homeownership rate: decennial benchmarks and mid-1970s level"
-      x-axis ["1940","1950","1960","1970","1975Q2"]
-      y-axis "Percent" 40 --> 70
-      line [43.6,55.0,61.9,62.9,64.9]
+### 4.5 Not equally available to everyone
 
-Decennial levels are from the Census long-run table; the 1975 value is a quarterly estimate shown as a mid-1970s anchor. [\[71\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt)
+“Mass prosperity” should not be translated into “universal prosperity.” Segregated higher education constrained Black veterans in the South. Federal and private mortgage systems restricted access to credit and appreciating suburban property. Gender norms and labor-market barriers shaped access to occupations and earnings. Regional and class differences remained substantial.
 
-#### Union density
+The postwar achievement was an unusually broad expansion of material capacity and household consumption by historical standards, not the abolition of American hierarchy.
 
-    xychart-beta
-      title "Union membership as % of nonagricultural employees (selected years)"
-      x-axis ["1945","1950","1955","1960","1965","1970","1972"]
-      y-axis "Percent" 20 --> 40
-      line [35.50,30.27,33.17,31.40,30.34,27.92,26.98]
+## 5. Why the Regime Stopped Reinforcing Itself
 
-Union density remained high by historical standards, though it drifted downward into the early 1970s, an early warning of institutional change later in the century. [\[38\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext)
+### 5.1 Inflation predated the oil shock
 
-#### Inflation and unemployment during the 1973–75 break
+The oil embargo is visually dramatic and therefore easy to treat as the beginning of the 1970s crisis. But Federal Reserve History dates the Great Inflation from **1965**, with inflation already ratcheting upward before 1973. [Federal Reserve History](https://www.federalreservehistory.org/essays/great-inflation)
 
-    xychart-beta
-      title "Stagflation pressure at the end of the era (1974–1975)"
-      x-axis ["1974","1975"]
-      y-axis "Percent" 0 --> 15
-      line "Unemployment (annual avg)" [5.64,8.48]
-      line "Inflation (CPI, Dec/Dec)" [12.10,7.13]
+The oil shock intensified the problem by raising the cost of an economy heavily dependent on petroleum. It did not create the underlying inflationary regime from nothing. [Federal Reserve History, oil shock](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74)
 
-Unemployment is computed from monthly unemployment rates in 1974–1975; inflation from CPI December-to-December changes (1974 vs 1973; 1975 vs 1974). [\[87\]](https://fred.stlouisfed.org/data/unrate)
+### 5.2 Bretton Woods collapsed under accumulated pressure
 
-## Why the era weakened and ended
+The dollar-gold system depended on confidence that foreign-held dollars remained convertible into a limited U.S. gold stock. Persistent external deficits made that increasingly implausible. Nixon’s 1971 suspension of convertibility should therefore be read partly as a response to accumulated contradictions in the system rather than as an arbitrary policy choice that independently destroyed an otherwise stable order. [Federal Reserve History](https://www.federalreservehistory.org/essays/bretton-woods-created)
 
-### Monetary-regime change and macro constraints
+### 5.3 Productivity growth broke
 
-Two official histories capture the Bretton Woods rupture: the State Department milestone describes Nixon’s August 1971 decision to suspend gold convertibility and the subsequent 1973 move toward floating rates; the Federal Reserve historical essay similarly frames the 1971 actions as bringing an end to Bretton Woods. [\[88\]](https://history.state.gov/milestones/1969-1976/nixon-shock)
+The productivity numbers mark the deepest structural discontinuity. Labor-productivity growth fell from around 3 percent in 1960–1973 to 1.1 percent in 1973–1981; measured multifactor-productivity growth fell from 2.0 percent to approximately zero. [BLS](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
 
-**Mechanism:** once the fixed-rate system eroded, countries faced new inflation/competitiveness dynamics; the U.S. confronted constraints from balance-of-payments pressures and changing global competitiveness, while domestic price stability became harder to maintain under simultaneous commodity shocks. [\[89\]](https://history.state.gov/milestones/1969-1976/nixon-shock)
+Once productivity slowed, the political economy became harder. Rapid real-wage growth, expanding profits, growing public programs, and stable inflation could no longer be reconciled as easily. Distributional bargaining became more zero-sum because the underlying pool of productivity gains was growing more slowly.
 
-### The 1973–74 oil shock as a systemic stress test
+### 5.4 The exceptional international starting position normalized
 
-The Federal Reserve history of the 1973–74 oil shock documents a near quadrupling of oil prices during the embargo period, and EIA data show the broader shift in crude oil prices across the decade. [\[11\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74)
+Western Europe and Japan rebuilt. This was an objective of U.S. policy, not simply an external threat. Successful reconstruction expanded prosperous allied markets while also restoring manufacturing competitors. The postwar U.S. could remain rich and technologically advanced without permanently retaining the extraordinary relative dominance of 1945.
 
-**Mechanism:** oil is a pervasive intermediate input. A sudden price jump raises production costs and redistributes income from consumers to producers, often depressing demand while simultaneously raising measured inflation—exactly the combination that destabilizes a growth regime built on stable real wages and predictable costs. [\[51\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74)
+### 5.5 Institutions changed at different speeds
 
-### The productivity slowdown and the end of the “easy” growth mix
+Union density had begun declining after its mid-1950s peak. The monetary regime failed quickly. Mortgage and highway institutions remained. Higher education continued expanding. Social insurance remained. The postwar order therefore did not end as a package.
 
-A BLS analysis of productivity slowdowns emphasizes that the 1970s slowdown was apparent beginning in 1973 and marked a clear shift from earlier high growth to lower growth. [\[90\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) This timing matches the macro breakpoints from 1971–1975 (monetary regime change, oil shock, recession). [\[91\]](https://history.state.gov/milestones/1969-1976/nixon-shock)
+What ended was the **specific alignment** in which high productivity growth, rapid income gains, relatively compressed wages, expanding mass consumption, strong industrial employment, manageable inflation, and a U.S.-centered international order reinforced one another.
 
-**Mechanism:** when productivity growth slows, sustaining rapid real wage growth becomes harder without triggering inflation or compressing profits—raising the salience of distributional conflict, monetary policy tradeoffs, and international competition. [\[92\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
+## 6. A Better Causal Map
 
-### Distributional and institutional strains that became more visible
+The period is easier to understand when outcomes are matched to the mechanisms for which evidence is strongest.
 
-Several dynamics that existed earlier became more binding by the 1970s:
+| Outcome | Strongly supported contributors | Claims that require caution |
+| --- | --- | --- |
+| High aggregate growth | productivity growth, capital deepening, labor/population growth, strong demand | assigning a dominant share to one policy |
+| High productivity | strong MFP growth before 1973 | explaining MFP mainly through unions, taxes, Bretton Woods, or highways |
+| Homeownership boom | real-income gains, mortgage-term transformation, GI benefits for affected cohorts | “the GI Bill created suburbia” |
+| College expansion | GI benefits, demographic demand, state/institutional expansion, rising returns to education | attributing the entire enrollment increase to veterans’ benefits |
+| Wage compression | wartime wage setting, demand for less-skilled labor, education supply, unions and bargaining | treating the compression as wholly postwar or wholly union-created |
+| Mass consumption | output/income growth, easier household finance, housing formation, durable-goods production | treating consumption as proof of equal access |
+| International stability | Bretton Woods institutions, reconstruction, U.S. financial position | claiming fixed exchange rates caused domestic productivity |
+| 1970s break | productivity slowdown, monetary inflation, oil shock, Bretton Woods collapse, recession | “OPEC ended the golden age” |
 
-- **Urban-suburban divergence and durable racial inequality:** credit access and neighborhood investment patterns were not neutral; later scholarship finds persistent neighborhood effects linked to redlining-era practices, while official histories emphasize that legal prohibitions and enforcement frameworks arrived late (e.g., post-1968). [\[5\]](https://www.federalreservehistory.org/essays/redlining)
-- **Union drift and changing bargaining power:** even before the steep post-1980 decline, union density as a share of nonagricultural employees was already trending down by the early 1970s. [\[38\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext)
-- **Demographic transition:** the Census defines baby boomers as those born 1946–1964, implying that by the 1970s the age structure was shifting toward a larger young-adult cohort, with consequences for labor markets, housing demand, and later social spending. [\[93\]](https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf)
+The table is intentionally plural. A historical growth regime is an interaction among production, distribution, finance, infrastructure, institutions, demographics, and external conditions. Evidence that one component mattered does not imply that the others were redundant.
 
-These strains did not “end” prosperity instantly, but they helped shift the postwar regime away from its earlier, unusually favorable configuration. [\[94\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
+## Conclusion
 
-## Contested interpretations and key sources
+The postwar boom deserves its reputation. Between the late 1940s and early 1970s, the United States combined roughly 4 percent annual real aggregate growth with unusually fast productivity gains, a dramatic expansion of homeownership and higher education, comparatively compressed wages, strong industrial employment, and the construction of infrastructure and institutions that shaped American life for generations.
 
-### Major debates and uncertainties
+Its most interesting feature is not that one ideology “worked.” It is that several normally separable systems aligned at once. Wartime and New Deal legacies supplied institutions; the United States entered peace in an extraordinary international position; productivity rose quickly; real incomes spread broadly enough to support mass demand; mortgage finance and veterans’ programs moved households into homes and colleges; organized labor influenced distribution; highways reorganized space; and a dollar-centered international order helped stabilize reconstruction and trade.
 
-**How much did “destroyed competitors” matter versus domestic institutions?**  
-The U.S. starting position is clear in broad strokes (industrial and reserve dominance). [\[95\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945) The debate concerns magnitudes and counterfactuals—how much of mid-century prosperity would have occurred under different global rebuilding paths or different domestic policy choices. [\[96\]](https://history.state.gov/milestones/1945-1952/marshall-plan)
+The inequalities were equally structural. Benefits that were broad in statute could be narrow in practice. Segregated education and discriminatory credit systems limited access to some of the most valuable ladders into the new middle class. The same suburban and transport regime that delivered enormous private benefits also embedded exclusion, displacement, automobile dependence, and later energy vulnerability.
 
-**Did wartime mobilization *cause* postwar productivity, or was it orthogonal?**  
-Some scholarship argues against simplistic “wartime production created postwar productivity” narratives, emphasizing differences in output mix and factor pricing. [\[97\]](https://www.researchgate.net/publication/324546656_THE_IMPACT_OF_WORLD_WAR_II_ON_THE_GROWTH_OF_US_POTENTIAL_OUTPUT)
+The end was not one betrayal or one shock. Inflation was already rising before the oil embargo. Bretton Woods failed under pressures accumulated over years. Foreign allies recovered successfully. Union influence had begun to retreat. Most importantly, productivity growth dropped sharply after 1973. The American high tide receded because the components of the regime stopped reinforcing one another at the same rate.
 
-**What is the correct causal story about redlining mechanisms?**  
-The literature agrees that racially patterned credit and underwriting mattered; disagreement centers on whether HOLC maps were a central causal channel or whether FHA/private underwriting practices created similar exclusion independently. [\[47\]](https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en)
+That is a more demanding explanation than either nostalgia or debunking. The postwar boom was real, unusually broad, historically contingent, institutionally constructed, unequally distributed, and not reproducible by copying one visible feature of the 1950s.
 
-**How much did high statutory tax rates compress inequality?**  
-Statutory top rates were high according to IRS tables, but effective rates varied with deductions, bases, and enforcement; inequality trends can be documented, but causal attribution remains debated. [\[53\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)
+## Sources
 
-### Core primary and official sources
-
-Government and quasi-government sources used directly in this report:
-
-- Macroeconomic output and consumption: Bureau of Economic Analysis[\[98\]](https://www.nber.org/system/files/chapters/c3912/c3912.pdf) series as disseminated by FRED (e.g., real GDP per capita; PCE per capita and shares). [\[99\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA)
-- Prices, unemployment, productivity, compensation: Bureau of Labor Statistics[\[100\]](https://fred.stlouisfed.org/data/OPHNFB) series via FRED (CPI, unemployment rate; nonfarm productivity/compensation). [\[101\]](https://fred.stlouisfed.org/data/cpiaucsl)
-- Housing and homeownership: U.S. Census Bureau[\[102\]](https://www.nber.org/system/files/working_papers/w3817/w3817.pdf) long-run homeownership table and quarterly homeownership series. [\[71\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt)
-- Life expectancy: CDC/NCHS (Table 8 life expectancy benchmarks 1940–1975). [\[83\]](https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf)
-- Education enrollment: NCES historical enrollment table (1947–1975). [\[66\]](https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp)
-- Institutional histories: NLRA/NLRB, FDIC, SSA, SEC; FHA history; VA GI Bill usage; official foreign-relations histories for Marshall Plan and Bretton Woods end; FHWA on Interstate origins. [\[103\]](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act)
-
-### Seminal academic works and interpretive anchors
-
-A compact set of widely cited scholarly anchors (selected to match the user’s requested authors and themes):
-
-- Inequality measurement and long-run top shares: Piketty & Saez (2003). [\[104\]](https://eml.berkeley.edu/~saez/pikettyqje.pdf)
-- Mid-century wage compression (“Great Compression”): Goldin & Margo (NBER working paper version). [\[105\]](https://www.nber.org/system/files/working_papers/w3817/w3817.pdf)
-- Education–technology dynamics (human capital framing): Goldin & Katz (NBER working paper version). [\[106\]](https://www.nber.org/system/files/working_papers/w12984/w12984.pdf)
-- Productivity regime breaks: BLS productivity slowdown analysis; Gordon’s long-run productivity framing (as supporting context for the 1973 break). [\[107\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm)
-
-These sources do not remove uncertainty, but they give a rigorous scaffold: **measurement of outcomes (distribution and productivity)**, plus **mechanisms (education, institutions, and regime breaks)** that align closely with the observed 1945–1975 arc. [\[108\]](https://eml.berkeley.edu/~saez/pikettyqje.pdf)
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945) [\[3\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945) [\[14\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945) [\[95\]](https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945) https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945
-
-<https://www.nationalww2museum.org/war/articles/new-global-power-after-world-war-ii-1945>
-
-[\[2\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends) [\[10\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends) [\[15\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends) [\[16\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends) [\[20\]](https://www.federalreservehistory.org/essays/gold-convertibility-ends) https://www.federalreservehistory.org/essays/gold-convertibility-ends
-
-<https://www.federalreservehistory.org/essays/gold-convertibility-ends>
-
-[\[4\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) [\[18\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) [\[27\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) [\[71\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) [\[81\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) [\[82\]](https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt) www2.census.gov
-
-<https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-owner/owner-tab.txt>
-
-[\[5\]](https://www.federalreservehistory.org/essays/redlining) [\[40\]](https://www.federalreservehistory.org/essays/redlining) [\[46\]](https://www.federalreservehistory.org/essays/redlining) https://www.federalreservehistory.org/essays/redlining
-
-<https://www.federalreservehistory.org/essays/redlining>
-
-[\[6\]](https://history.state.gov/milestones/1969-1976/nixon-shock) [\[88\]](https://history.state.gov/milestones/1969-1976/nixon-shock) [\[89\]](https://history.state.gov/milestones/1969-1976/nixon-shock) [\[91\]](https://history.state.gov/milestones/1969-1976/nixon-shock) https://history.state.gov/milestones/1969-1976/nixon-shock
-
-<https://history.state.gov/milestones/1969-1976/nixon-shock>
-
-[\[7\]](https://www.archives.gov/milestone-documents/servicemens-readjustment-act) [\[26\]](https://www.archives.gov/milestone-documents/servicemens-readjustment-act) https://www.archives.gov/milestone-documents/servicemens-readjustment-act
-
-<https://www.archives.gov/milestone-documents/servicemens-readjustment-act>
-
-[\[8\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf) [\[28\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf) [\[29\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf) [\[67\]](https://www.va.gov/opa/publications/celebrate/gi-bill.pdf) https://www.va.gov/opa/publications/celebrate/gi-bill.pdf
-
-<https://www.va.gov/opa/publications/celebrate/gi-bill.pdf>
-
-[\[9\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) [\[23\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) [\[77\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) [\[90\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) [\[92\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) [\[94\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) [\[107\]](https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm) https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm
-
-<https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm>
-
-[\[11\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74) [\[49\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74) [\[51\]](https://www.federalreservehistory.org/essays/oil-shock-of-1973-74) https://www.federalreservehistory.org/essays/oil-shock-of-1973-74
-
-<https://www.federalreservehistory.org/essays/oil-shock-of-1973-74>
-
-[\[12\]](https://fred.stlouisfed.org/data/unrate) [\[32\]](https://fred.stlouisfed.org/data/unrate) [\[87\]](https://fred.stlouisfed.org/data/unrate) https://fred.stlouisfed.org/data/unrate
-
-<https://fred.stlouisfed.org/data/unrate>
-
-[\[13\]](https://www.federalreservehistory.org/essays/bretton-woods-created) [\[19\]](https://www.federalreservehistory.org/essays/bretton-woods-created) [\[54\]](https://www.federalreservehistory.org/essays/bretton-woods-created) https://www.federalreservehistory.org/essays/bretton-woods-created
-
-<https://www.federalreservehistory.org/essays/bretton-woods-created>
-
-[\[17\]](https://www.senate.gov/artandhistory/history/minute/Federal_Highway_Act.htm) [\[58\]](https://www.senate.gov/artandhistory/history/minute/Federal_Highway_Act.htm) https://www.senate.gov/artandhistory/history/minute/Federal_Highway_Act.htm
-
-<https://www.senate.gov/artandhistory/history/minute/Federal_Highway_Act.htm>
-
-[\[21\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23) [\[52\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23) [\[53\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23) https://www.irs.gov/statistics/soi-tax-stats-historical-table-23
-
-<https://www.irs.gov/statistics/soi-tax-stats-historical-table-23>
-
-[\[22\]](https://history.state.gov/milestones/1945-1952/marshall-plan) [\[25\]](https://history.state.gov/milestones/1945-1952/marshall-plan) [\[96\]](https://history.state.gov/milestones/1945-1952/marshall-plan) https://history.state.gov/milestones/1945-1952/marshall-plan
-
-<https://history.state.gov/milestones/1945-1952/marshall-plan>
-
-[\[24\]](https://www.nber.org/system/files/chapters/c3912/c3912.pdf) [\[98\]](https://www.nber.org/system/files/chapters/c3912/c3912.pdf) https://www.nber.org/system/files/chapters/c3912/c3912.pdf
-
-<https://www.nber.org/system/files/chapters/c3912/c3912.pdf>
-
-[\[30\]](https://fred.stlouisfed.org/data/OPHNFB) [\[75\]](https://fred.stlouisfed.org/data/OPHNFB) [\[76\]](https://fred.stlouisfed.org/data/OPHNFB) [\[86\]](https://fred.stlouisfed.org/data/OPHNFB) [\[100\]](https://fred.stlouisfed.org/data/OPHNFB) https://fred.stlouisfed.org/data/OPHNFB
-
-<https://fred.stlouisfed.org/data/OPHNFB>
-
-[\[31\]](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act) [\[37\]](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act) [\[103\]](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act) https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act
-
-<https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act>
-
-[\[33\]](https://www.fdic.gov/90years) https://www.fdic.gov/90years
-
-<https://www.fdic.gov/90years>
-
-[\[34\]](https://www.hud.gov/aboutus/fhahistory) [\[41\]](https://www.hud.gov/aboutus/fhahistory) https://www.hud.gov/aboutus/fhahistory
-
-<https://www.hud.gov/aboutus/fhahistory>
-
-[\[35\]](https://www.sec.gov/rules-regulations/statutes-regulations) https://www.sec.gov/rules-regulations/statutes-regulations
-
-<https://www.sec.gov/rules-regulations/statutes-regulations>
-
-[\[36\]](https://www.ssa.gov/history/35act.html) https://www.ssa.gov/history/35act.html
-
-<https://www.ssa.gov/history/35act.html>
-
-[\[38\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext) [\[39\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext) [\[45\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext) [\[63\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext) [\[68\]](https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext) https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext
-
-<https://fraser.stlouisfed.org/title/handbook-labor-statistics-4025/handbook-labor-statistics-1975-reference-edition-499170/fulltext>
-
-[\[42\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) [\[84\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) [\[85\]](https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf) https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf
-
-<https://www.govinfo.gov/content/pkg/GPO-CPRT-108WPRT108-6/pdf/GPO-CPRT-108WPRT108-6-3-8.pdf>
-
-[\[43\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system) [\[44\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system) [\[57\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system) [\[59\]](https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system) https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system
-
-<https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system>
-
-[\[47\]](https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en) [\[48\]](https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en) https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en
-
-<https://www.chicagofed.org/-/media/publications/working-papers/2017/wp2017-12-pdf.pdf?sc_lang=en>
-
-[\[50\]](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=a&n=pet&s=f000000__3) https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=a&n=pet&s=f000000\_\_3
-
-<https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=a&n=pet&s=f000000__3>
-
-[\[55\]](https://smithsonianassociates.org/ticketing/programs/levittown) [\[56\]](https://smithsonianassociates.org/ticketing/programs/levittown) https://smithsonianassociates.org/ticketing/programs/levittown
-
-<https://smithsonianassociates.org/ticketing/programs/levittown>
-
-[\[60\]](https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit) [\[61\]](https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit) https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit
-
-<https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit>
-
-[\[62\]](https://eml.berkeley.edu/~saez/pikettyqje.pdf) [\[104\]](https://eml.berkeley.edu/~saez/pikettyqje.pdf) [\[108\]](https://eml.berkeley.edu/~saez/pikettyqje.pdf) https://eml.berkeley.edu/~saez/pikettyqje.pdf
-
-<https://eml.berkeley.edu/~saez/pikettyqje.pdf>
-
-[\[64\]](https://www.nber.org/system/files/working_papers/w3817/w3817.pdf) [\[102\]](https://www.nber.org/system/files/working_papers/w3817/w3817.pdf) [\[105\]](https://www.nber.org/system/files/working_papers/w3817/w3817.pdf) https://www.nber.org/system/files/working_papers/w3817/w3817.pdf
-
-<https://www.nber.org/system/files/working_papers/w3817/w3817.pdf>
-
-[\[65\]](https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing-Chronology.pdf) https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing-Chronology.pdf
-
-<https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing-Chronology.pdf>
-
-[\[66\]](https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp) https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp
-
-<https://nces.ed.gov/programs/digest/d19/tables/dt19_303.10.asp>
-
-[\[69\]](https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf) [\[93\]](https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf) https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf
-
-<https://www.census.gov/content/dam/Census/library/publications/2014/demo/p25-1141.pdf>
-
-[\[70\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) [\[72\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) [\[73\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) [\[74\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) [\[99\]](https://fred.stlouisfed.org/data/A939RX0Q048SBEA) https://fred.stlouisfed.org/data/A939RX0Q048SBEA
-
-<https://fred.stlouisfed.org/data/A939RX0Q048SBEA>
-
-[\[78\]](https://fred.stlouisfed.org/data/COMPRNFB) [\[79\]](https://fred.stlouisfed.org/data/COMPRNFB) [\[80\]](https://fred.stlouisfed.org/data/COMPRNFB) https://fred.stlouisfed.org/data/COMPRNFB
-
-<https://fred.stlouisfed.org/data/COMPRNFB>
-
-[\[83\]](https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf) https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf
-
-<https://ftp.cdc.gov/pub/health_statistics/nchs/publications/Provisional/nvsr58_19/Table08.pdf>
-
-[\[97\]](https://www.researchgate.net/publication/324546656_THE_IMPACT_OF_WORLD_WAR_II_ON_THE_GROWTH_OF_US_POTENTIAL_OUTPUT) https://www.researchgate.net/publication/324546656_THE_IMPACT_OF_WORLD_WAR_II_ON_THE_GROWTH_OF_US_POTENTIAL_OUTPUT
-
-<https://www.researchgate.net/publication/324546656_THE_IMPACT_OF_WORLD_WAR_II_ON_THE_GROWTH_OF_US_POTENTIAL_OUTPUT>
-
-[\[101\]](https://fred.stlouisfed.org/data/cpiaucsl) https://fred.stlouisfed.org/data/cpiaucsl
-
-<https://fred.stlouisfed.org/data/cpiaucsl>
-
-[\[106\]](https://www.nber.org/system/files/working_papers/w12984/w12984.pdf) https://www.nber.org/system/files/working_papers/w12984/w12984.pdf
-
-<https://www.nber.org/system/files/working_papers/w12984/w12984.pdf>
+- Aaronson, Daniel, Daniel Hartley, and Bhash Mazumder. “The Effects of the 1930s HOLC ‘Redlining’ Maps.” Federal Reserve Bank of Chicago Working Paper 2017-12, revised 2020. https://www.chicagofed.org/publications/working-papers/2017/wp2017-12
+- Bound, John, and Sarah E. Turner. “Going to War and Going to College: Did World War II and the G.I. Bill Increase Educational Attainment for Returning Veterans?” NBER Working Paper 7452; later *Journal of Labor Economics*. https://www.nber.org/papers/w7452
+- Bureau of Labor Statistics. “The U.S. productivity slowdown: an economy-wide and industry-level analysis.” *Monthly Labor Review*, 2021. https://www.bls.gov/opub/mlr/2021/article/the-us-productivity-slowdown-the-economy-wide-and-industry-level-analysis.htm
+- Chambers, Matthew, Carlos Garriga, and Donald E. Schlagenhauf. “Did Housing Policies Cause the Postwar Boom in Homeownership?” NBER Working Paper 18821. https://www.nber.org/papers/w18821
+- Collins, William J., and Gregory Niemesh. “Income Gains and the Geography of the US Home Ownership Boom, 1940 to 1960.” NBER Working Paper 31249, revised 2024. https://www.nber.org/papers/w31249
+- Farber, Henry S., Daniel Herbst, Ilyana Kuziemko, and Suresh Naidu. “Unions and Inequality Over the Twentieth Century: New Evidence from Survey Data.” *Quarterly Journal of Economics* 136, no. 3 (2021). https://www.nber.org/papers/w24587
+- Federal Highway Administration. “History of the Interstate Highway System” and related 1956 Act histories. https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system
+- Federal Reserve History. “Creation of the Bretton Woods System.” https://www.federalreservehistory.org/essays/bretton-woods-created
+- Federal Reserve History. “The Great Inflation.” https://www.federalreservehistory.org/essays/great-inflation
+- Federal Reserve History. “Oil Shock of 1973–74.” https://www.federalreservehistory.org/essays/oil-shock-of-1973-74
+- Fetter, Daniel K. “How Do Mortgage Subsidies Affect Home Ownership? Evidence from the Mid-century GI Bills.” *American Economic Journal: Economic Policy* 5, no. 2 (2013). https://www.nber.org/papers/w17166
+- Fishback, Price, Jonathan Rose, Ken Snowden, and Thomas Storrs. “New Evidence on Redlining by Federal Housing Programs in the 1930s.” Federal Reserve Bank of Chicago Working Paper 2022-01. https://www.chicagofed.org/publications/working-papers/2022/2022-01
+- Goldin, Claudia, and Robert A. Margo. “The Great Compression: The Wage Structure in the United States at Mid-Century.” *Quarterly Journal of Economics* 107, no. 1 (1992). https://www.nber.org/papers/w3817
+- Internal Revenue Service. “Historical Table 23: U.S. Individual Income Tax—Personal Exemptions and Lowest and Highest Bracket Tax Rates.” https://www.irs.gov/statistics/soi-tax-stats-historical-table-23
+- National Archives. “Servicemen’s Readjustment Act (1944).” https://www.archives.gov/milestone-documents/servicemens-readjustment-act
+- National Center for Education Statistics. “Total fall enrollment in degree-granting postsecondary institutions, selected years, 1947 through 2023.” https://nces.ed.gov/programs/digest/d24/tables/dt24_303.10.asp
+- Office of the Historian, U.S. Department of State. “Marshall Plan, 1948.” https://history.state.gov/milestones/1945-1952/marshall-plan
+- Turner, Sarah E., and John Bound. “Closing the Gap or Widening the Divide: The Effects of the G.I. Bill and World War II on the Educational Outcomes of Black Americans.” *Journal of Economic History* 63, no. 1 (2003). https://www.nber.org/papers/w9044
+- U.S. Bureau of Economic Analysis via FRED. “Real Gross Domestic Product.” https://fred.stlouisfed.org/series/GDPCA
+- U.S. Census Bureau. “Homeownership Rate: 1890 to 1990.” https://www2.census.gov/library/publications/decennial/1990/we-the-americans/we-06.pdf
+- U.S. Department of Veterans Affairs. Historical GI Bill education and training overview. https://benefits.va.gov/BENEFITS/infographics/gibill_overview.html
