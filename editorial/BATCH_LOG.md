@@ -4,6 +4,25 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-22
 
+### PR #48 — Finalize The Unheard Instrument literary history
+
+Packages:
+- `a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture`
+
+Result:
+- retitled the inherited generic mathematical-history report **The Unheard Instrument**, preserving the stable legacy slug while giving the public artifact a memorable title centered on its governing spectral metaphor;
+- reclassified the artifact as `stylized / literary-analytic` so its music, vibration, wall, and unseen-instrument imagery remain intentional literary framing without granting metaphor evidentiary authority;
+- replaced the confident early-twentieth-century joint-conjecture origin story with the surviving provenance: Pólya's retrospective 1982 letter to Andrew Odlyzko recalling Landau's Göttingen question, and the more indirect Hellinger-to-Weil recollection of Hilbert's symmetric-kernel remark;
+- distinguished a meaningful Hilbert–Pólya realization from a fitted spectrum by requiring an independently motivated construction, exact correspondence with all relevant zeros, genuine self-adjointness or equivalent positivity, explanatory connection to the prime-side explicit formula, and no disguised assumption of the Riemann Hypothesis;
+- treated Selberg trace formulas and the function-field Riemann Hypothesis as rigorous neighboring spectral/geometric precedents rather than literal solutions of the classical Hilbert–Pólya problem;
+- corrected the Montgomery–Dyson history by separating Montgomery's RH-conditional setup and restricted theorem from the fuller pair-correlation conjecture and Dyson's recognition of the random-matrix/GUE match;
+- retained Odlyzko's computations and GUE statistics as powerful finite/statistical evidence while explicitly rejecting the inference that universality identifies a unique hidden Hamiltonian;
+- bounded Berry–Keating `H=xp` to semiclassical/eigenvalue-asymptotic evidence, and Connes's noncommutative-geometric program to a sophisticated absorption-spectrum/trace-formula realization whose required positivity remains incomplete;
+- used the Bender–Brody–Müller proposal and Bellissard critique as a concrete example of why candidate Hamiltonians require rigorous domains, spectral completeness, and self-adjointness before they can imply RH;
+- added an explicit evidence ledger separating what each major development supports from what it does not establish, and updated current status to Clay's reported verification of the first `10^13` nontrivial zeros while RH remains open;
+- removed the inherited escaped numbered citation lattice, weak tertiary/popular sourcing, mystical filler, process narration, and repeated conversion of literary analogy into mathematical evidence;
+- completed duplicate review as independent/keep-separate with `a-history-of-functional-analysis` retained only as an operator-theory historical neighbor, added a rich package changelog, confirmed no assets are required, advanced revision/version to 1.0.1 and legacy lifecycle `complete` → `ready` / `draft: false`, and intentionally exhausted the ordinary queue rather than inventing a new target.
+
 The entries for PRs #45 and #46 below repair a repository-level ledger omission discovered during PR #47. Their package changelogs, canonical lifecycle state, and merged Git history were already correct; this repair does not retroactively change those article results.
 
 ### PR #47 — Finalize Conserving a Revolution report

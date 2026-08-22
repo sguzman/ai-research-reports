@@ -1,8 +1,8 @@
 schema_version: 1
-updated_at: '2026-08-22T07:45:00-06:00'
+updated_at: '2026-08-22T07:53:00-06:00'
 editorial_baseline_commit: 95875fed7b2687c3ef5e19d21e17529302133298
 baseline_article_packages: 115
-packages_changed_since_baseline: 31
+packages_changed_since_baseline: 32
 
 rules:
   batch_size_target: '5-15 packages; smaller for high-risk or large-body audits'
@@ -10,8 +10,7 @@ rules:
   article_changelog_required_on_every_package_change: true
   publication_gate: 'ready/published + draft false + approved profile + article changelog + reviewed/not-applicable duplicate review; Marginalia derives only passing packages at build time'
 
-next_batch:
-  - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+next_batch: []
 
 articles:
   savonius-wind-turbines-comprehensive-design-diy-guide:
@@ -448,14 +447,26 @@ articles:
     next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
-    lifecycle: complete
-    work_state: queued
-    priority: P2
-    blockers:
-      - editorial profile and voice remain unresolved
-      - duplicate review remains pending
-      - mathematical-history source and citation audit remains
-    next_action: 'Classify form/profile/voice, audit historical and mathematical claims without overtechnicalizing the literary treatment, complete duplicate review, and add the missing package changelog.'
+    lifecycle: ready
+    work_state: ready-for-publication
+    priority: P1
+    profile: stylized
+    voice: literary-analytic
+    completed_work:
+      - retitled the artifact The Unheard Instrument and preserved the stable legacy slug while giving the public article a memorable title
+      - reclassified the inherited neutral-looking report as a literary-analytic essay so its music, vibration, wall, and unseen-instrument metaphors remain intentional framing rather than accidental academic-style violations
+      - replaced the confident joint-conjecture origin story with the surviving Pólya-to-Odlyzko retrospective letter and the more indirect Hellinger-to-Weil Hilbert recollection
+      - distinguished meaningful Hilbert-Polya realization from fitted spectra by requiring independent construction, exact correspondence, genuine self-adjointness or positivity, explanatory prime-side structure, and no circular assumption of RH
+      - recast Selberg trace formulas and the function-field Riemann Hypothesis as rigorous neighboring spectral/geometric precedents rather than literal solutions of the classical program
+      - corrected the Montgomery-Dyson story to distinguish the RH-conditional pair-correlation setup, Montgomery's conjectural extension, and Dyson's recognition of the random-matrix match
+      - retained Odlyzko computation and GUE statistics as strong finite/statistical evidence without treating universality as identification of a unique hidden operator
+      - bounded Berry-Keating xp to semiclassical/eigenvalue-asymptotic evidence and Connes to a sophisticated absorption-spectrum/trace-formula program whose required positivity remains incomplete
+      - used the Bender-Brody-Muller/Bellissard exchange to illustrate why candidate Hamiltonians require rigorous domains, spectral completeness, and self-adjointness before they imply RH
+      - added an evidence ledger separating what each major development supports from what it does not establish and updated current status to Clay's first-10^13-zero verification while RH remains open
+      - removed the inherited escaped numbered citation lattice, weak tertiary/popular sourcing, process narration, mystical filler, and repeated conversion of metaphor into evidence
+      - completed duplicate review as independent/keep-separate with a-history-of-functional-analysis retained only as an operator-theory historical neighbor, added a rich changelog, confirmed no assets are required, and advanced revision/version to 1.0.1 and legacy complete to ready
+    blockers: []
+    next_action: 'Allow build-derived publication, verify the deployed page, then record ready → published in canonical metadata.'
 
   american-judicial-process:
     lifecycle: published
