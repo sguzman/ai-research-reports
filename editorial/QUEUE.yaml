@@ -143,7 +143,7 @@ articles:
       - replaced the inherited undifferentiated six-case catalogue with strong cases plus explicit boundary/negative cases
       - treated French noble émigrés, former samurai as a functional analogue, and post-WWI aristocratic intellectuals as the strongest comparisons
       - demoted Russian White émigrés, Byzantine scholars, and Latin American creoles to boundary cases rather than misclassifying them as equivalent fallen aristocracies
-      - replaced deterministic status-loss psychology with a conditional model of status threat, residual capacity, restoration opportunity, resource convertibility, and successor-state incorporation
+      - replaced deterministic grievance claims with a conditional model of status threat, residual capacity, restoration opportunity, resource convertibility, and successor-state incorporation
       - replaced mixed legacy sourcing with direct Oxford, Cambridge, Library of Congress, Larousse, and peer-reviewed status-threat sources
       - completed duplicate review as independent/keep-separate
       - advanced review to ready at revision 1.0.3
@@ -224,7 +224,7 @@ articles:
     completed_work:
       - adjudicated as the non-canonical member of the liberalism/disembedding merge cluster
       - incorporated its distinct Weber/Scott/Foucault legal-rational administration, legibility, and governmentality material into the canonical synthesis
-      - preserved the substantive historical prose for editorial provenance and repaired four broken repo-root-style image targets to package-relative paths
+      - preserved the substantive historical prose for provenance and repaired four broken repo-root-style image targets to package-relative paths
       - recorded merged_into relationship and completed duplicate review as merge-cluster/merge-into-canonical
       - advanced review to archived at revision 1.0.2 with draft true
     blockers: []
