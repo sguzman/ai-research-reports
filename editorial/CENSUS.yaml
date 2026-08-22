@@ -575,7 +575,7 @@ packages:
     - raw_diagram_source
   distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo:
     title: 'Testing a “Borderer” Meme-Style Hypothesis: A Research Framework'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -786,7 +786,7 @@ packages:
     - duplicate_review_unresolved
   global-population-dynamics-peaks-in-population-level-and-growth-rates:
     title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -1551,7 +1551,7 @@ packages:
     - absolute_path_in_body
   meme-culture-and-borderer-right-style-a-research-report:
     title: Meme Culture and the “Borderer-Right” Style Hypothesis
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -1769,7 +1769,7 @@ packages:
     - raw_diagram_source
   proudhon-mutualism-report:
     title: 'Proudhon’s Mutualism: Property, Reciprocity, and Mutual Credit'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
