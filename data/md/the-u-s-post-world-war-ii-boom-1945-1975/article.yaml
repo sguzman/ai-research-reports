@@ -1,5 +1,9 @@
 ---
-abstract: The U.S. Post–World War II Boom, 1945–1975
+abstract: >-
+  A source-audited account of the U.S. postwar high-growth regime that separates measured outcomes from
+  competing causal explanations. The report treats 1948–1973 as the macroeconomic core inside a broader
+  1945–1975 institutional frame, distinguishes productivity, distribution, housing, education, infrastructure,
+  and international monetary mechanisms, and explains the 1970s break without reducing it to a single shock.
 aliases: []
 author:
 - Salvador Guzman
@@ -13,18 +17,22 @@ build:
   render: always
 cascade: {}
 categories:
-- Politics
-- History
-- Political Theory
+- Economic History
+- United States History
+- Political Economy
 cover-image: ''
 cover_image: ''
 creator:
 - Salvador Guzman
 dataset_id: ''
 date: '2026-03-21'
-description: The U.S. Post–World War II Boom, 1945–1975
+description: >-
+  How unusually rapid productivity growth, rising incomes, mortgage reform, veterans' benefits, collective
+  bargaining, public infrastructure, and a U.S.-centered international order combined during the postwar boom,
+  and why those components stopped reinforcing one another in the 1970s.
 draft: false
 edition: '1'
+editorial_profile: academic
 epub-chapter-level: 0
 epub-cover-image: ''
 epub-stylesheet: epub.css
@@ -37,69 +45,128 @@ highlight-style: tango
 identifier: urn:marginalia:the-u-s-post-world-war-ii-boom-1945-1975
 isCJKLanguage: false
 keywords:
-- The U.S. Post–World War II Boom, 1945–1975
-- Politics
-- History
-- Political Theory
-- Political science (General)
+- postwar economic boom
+- United States economic history
+- productivity growth
+- Great Compression
+- GI Bill
+- homeownership
+- unions
+- Bretton Woods
+- Marshall Plan
+- Interstate Highway System
+- Great Inflation
+- 1970s productivity slowdown
 lang: en
 language: English
-lastmod: '2026-03-21'
+lastmod: '2026-08-21'
 layout: ''
 library_of_congress_classification:
-  class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
+  class: HC
+  description: Economic history and conditions, including national economic development.
+  label: Economic history and conditions
 license: CC0-1.0
-linkTitle: The U.S. Post–World War II Boom, 1945–1975
+linkTitle: 'The American High Tide: The Postwar Boom and Its Breaking Point, 1945–1975'
 markup: ''
-number-sections: false
+number-sections: true
 outputs: []
 plate_id: ''
 publishDate: '2026-03-21'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: the-u-s-post-world-war-ii-boom-1945-1975
+    rationale: >-
+      Corpus title/topic review and repository search found no competing canonical package centered on the
+      1945–1975 U.S. postwar growth regime with the same productivity, distribution, housing, education,
+      infrastructure, and monetary-system synthesis.
 report:
-  audience: general reader
+  audience: general intellectually curious reader
   code: ''
   collection: ''
   conversion:
     date: '2026-04-20'
     source_docx: The U.S. Post–World War II Boom, 1945–1975.docx
     tool: pandoc 3.6
-  discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
+  discipline: economic history
+  domain: United States political economy
+  emphasis: >-
+    causal separation between aggregate growth, productivity, wage distribution, homeownership, education,
+    infrastructure, international monetary conditions, and the 1970s regime break
+  focus: >-
+    explaining what actually expanded during the postwar high-growth era, which institutions are best linked
+    to which outcomes, and why no single-policy or single-shock explanation is adequate
   id: urn:marginalia:the-u-s-post-world-war-ii-boom-1945-1975
-  intent: ''
+  intent: historical causal synthesis and source audit
   is_report: true
   kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: The U.S. Post–World War II Boom, 1945–1975
-  notes: ''
+  level: general scholarly
+  method: >-
+    Evidence-tiered economic-historical synthesis using official BEA, BLS, Census, NCES, Federal Reserve,
+    FHWA, National Archives, VA, IRS, and State Department sources together with economic-history research on
+    productivity, wage compression, unions, GI Bill effects, mortgage finance, homeownership, and redlining.
+    Descriptive trends are kept separate from causal estimates, and famous institutions are not credited with
+    outcomes beyond the evidence specific to them.
+  methods:
+  - historical synthesis
+  - causal-claim decomposition
+  - official statistical series review
+  - economic-history literature review
+  - counterfactual and boundary-condition testing
+  name: 'The American High Tide: The Postwar Boom and Its Breaking Point, 1945–1975'
+  notes: >-
+    The 2026-08-21 final audit replaced the inherited conversion-heavy report and its cross-wired numbered
+    citation lattice with named official and scholarly sources. It retained 1945–1975 as a broad institutional
+    frame but identified 1948–1973 as the cleaner macroeconomic high-growth core. BEA output and BLS productivity
+    evidence now anchor the boom; homeownership and college-enrollment growth are retained as measured outcomes
+    without using them as automatic proof for any one policy. GI Bill claims were narrowed using Bound-Turner
+    and Fetter: educational effects are moderate and geographically/racially unequal, while veterans' mortgage
+    benefits explain only part of the aggregate homeownership surge. The housing account now distinguishes
+    income gains, mortgage-term reform, FHA exclusion, and HOLC-map effects rather than collapsing them into one
+    redlining/GI-Bill story. Goldin-Margo and Farber et al. separate wartime wage compression from postwar union
+    distribution effects. Bretton Woods, the Marshall Plan, and the Interstate system are treated as operating
+    institutions rather than quantified single-cause growth engines. The ending is reframed as a 1965–1975
+    erosion and break involving inflation, Bretton Woods pressure, the 1973–74 oil shock, recession, and the
+    sharp post-1973 productivity slowdown. Raw Mermaid/xychart source, conversion references, weak tertiary
+    sourcing, and causal overreach were removed. Duplicate review found no competing canonical package. No
+    known source, conversion, asset, or duplicate blocker remains.
   number: '075'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
+  period: post-World War II United States
+  period_covered: 1945–1975, with 1948–1973 as the macroeconomic high-growth core
+  population_focus: U.S. households, workers, veterans, homeowners, students, and institutions
   primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  region: United States
+  region_focus: national, with racial and regional distributional qualifications
+  scope: >-
+    output, productivity, wages and inequality, collective bargaining, housing and mortgage finance, veterans'
+    benefits, higher education, highways, Bretton Woods, European reconstruction, inflation, oil shock, and the
+    productivity slowdown
+  scope_years: 1945-1975
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: The U.S. Post–World War II Boom, 1945–1975
+  stance: neutral analytical
+  structure: >-
+    periodization, measured outcomes, institutional mechanisms, rejected monocausal explanations, regime break,
+    causal map, conclusion, and sources
+  subdiscipline: macroeconomic and labor history
+  subject: the U.S. postwar growth regime and its 1970s break
+  time_scope: mid-twentieth century
+  time_span: 1945-1975
+  topic: U.S. postwar economic growth and political economy
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '075'
 report-number: '075'
@@ -108,7 +175,7 @@ report_no: 75
 report_number: 75
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 75
@@ -120,26 +187,40 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: the-u-s-post-world-war-ii-boom-1945-1975
-status: complete
+status: ready
 subject:
-- Politics
-- History
+- United States economic history
+- Political economy
+- Postwar growth
 subjects:
-- Politics
-- History
-subtitle: ''
-summary: The U.S. Post–World War II Boom, 1945–1975
+- Productivity growth
+- Homeownership
+- Higher education
+- Labor unions
+- Bretton Woods
+- Great Inflation
+subtitle: Productivity, Institutions, Distribution, and the 1970s Break
+summary: >-
+  The postwar boom was a real and unusually broad high-growth regime, but not the product of one policy or one
+  geopolitical accident. Its strongest explanation is an alignment of rapid productivity growth, rising incomes,
+  transformed household finance, education, bargaining institutions, infrastructure, and international conditions
+  that began to come apart before and during the 1970s.
 tags:
-- the-u-s-post-world-war-ii-boom-1945-1975
-- politics
-- history
-- political-theory
-title: The U.S. Post–World War II Boom, 1945–1975
-toc: false
-toc-depth: 0
-toc-title: ''
+- postwar-boom
+- economic-history
+- productivity
+- gi-bill
+- homeownership
+- labor-history
+- bretton-woods
+- great-inflation
+title: 'The American High Tide: The Postwar Boom and Its Breaking Point, 1945–1975'
+toc: true
+toc-depth: 3
+toc-title: Contents
 translationKey: ''
 type: report
 url: ''
+voice: neutral
 weight: 0
 ...
