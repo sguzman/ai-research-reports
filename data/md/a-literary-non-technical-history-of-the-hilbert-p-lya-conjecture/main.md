@@ -48,7 +48,7 @@ The phrase **Hilbert–Pólya conjecture** gives the impression of a documented 
 
 Andrew Odlyzko, while investigating the statistical behavior of high zeta zeros, wrote to George Pólya asking about the origin of the spectral idea. Pólya answered on January 3, 1982. He recalled spending roughly 1912–1914 in Göttingen and trying to learn analytic number theory from Edmund Landau. Landau asked whether Pólya knew a physical reason the Riemann Hypothesis should be true. Pólya said that it would be so if the nontrivial zeros were connected with a physical problem in such a way that the hypothesis became equivalent to the reality of that problem's eigenvalues.
 
-Pólya added a crucial historical detail: **he never published the remark**. Odlyzko preserves the correspondence among his materials on the origins of Hilbert–Pólya. [Andrew Odlyzko, “Correspondence about the Hilbert-Polya Conjecture”](https://www-users.cse.umn.edu/~odlyzko/)
+Pólya added a crucial historical detail: **he never published the remark**. Odlyzko preserves the correspondence among his materials on the origins of Hilbert–Pólya. [Andrew Odlyzko, “Correspondence about the origins of the Hilbert-Polya Conjecture”](https://www-users.cse.umn.edu/~odlyzko/polya/)
 
 The letter is excellent evidence that Pólya remembered having the idea. It is not evidence that a formal research program circulated under his name in the 1910s, nor that he had identified a candidate operator. The phrase “Hilbert–Pólya conjecture” imposes later unity on what was initially an intuition.
 
@@ -60,7 +60,7 @@ André Weil later recorded a story told to him by Ernst Hellinger, one of Hilber
 
 That makes the familiar attribution historically plausible but evidentially uneven. Pólya left a retrospective first-person account. Hilbert survives through an anecdote transmitted by a student to another mathematician and later recorded in Weil's scientific commentary.
 
-The earliest published formulation recognizably resembling the later Hilbert–Pólya program appears much later, in Hugh Montgomery's 1973 paper on pair correlation. [Hugh L. Montgomery, “The Pair Correlation of Zeros of the Zeta Function,” *Proceedings of Symposia in Pure Mathematics* 24 (1973)](https://www.ams.org/tran/1981-267-01/S0002-9947-1981-0621970-5/)
+The earliest published formulation recognizably resembling the later Hilbert–Pólya program appears much later, in Hugh Montgomery's 1973 paper on pair correlation. [Hugh L. Montgomery, “The Pair Correlation of Zeros of the Zeta Function,” *Proceedings of Symposia in Pure Mathematics* 24 (1973)](https://doi.org/10.1090/pspum/024/9944)
 
 So the historical sequence is almost backwards from the name:
 
@@ -380,11 +380,10 @@ The Hilbert–Pólya idea remains compelling because the notes are there, the sp
 - Jean Bellissard. “Comment on ‘Hamiltonian for the Zeros of the Riemann Zeta Function.’” 2017. https://arxiv.org/abs/1704.02644
 - Enrico Bombieri. “The Riemann Hypothesis.” In *The Millennium Prize Problems*. Clay Mathematics Institute / American Mathematical Society. https://www.claymath.org/wp-content/uploads/2022/02/MPPc.pdf
 - Alain Connes. “Trace Formula in Noncommutative Geometry and the Zeros of the Riemann Zeta Function.” *Selecta Mathematica* 5 (1999): 29–106. https://doi.org/10.1007/s000290050042
-- Jack P. Greene. *[Not used; intentionally omitted from this mathematical article.]*
 - Jeffrey C. Lagarias. “The Riemann Hypothesis: Arithmetic and Geometry.” *Clay Mathematics Proceedings* 6 (2006): 127–141. https://www.claymath.org/library/proceedings/cmip06.pdf
 - Jens Marklof. “Selberg's Trace Formula: An Introduction.” Lecture notes. https://people.maths.bris.ac.uk/~majm/bib/selberg.pdf
-- Hugh L. Montgomery. “The Pair Correlation of Zeros of the Zeta Function.” In *Analytic Number Theory*, Proceedings of Symposia in Pure Mathematics 24 (1973): 181–193.
-- Andrew M. Odlyzko. “Correspondence about the Hilbert-Polya Conjecture,” zeta-zero tables, and related papers. https://www-users.cse.umn.edu/~odlyzko/
+- Hugh L. Montgomery. “The Pair Correlation of Zeros of the Zeta Function.” In *Analytic Number Theory*, Proceedings of Symposia in Pure Mathematics 24 (1973): 181–193. https://doi.org/10.1090/pspum/024/9944
+- Andrew M. Odlyzko. “Correspondence about the origins of the Hilbert-Polya Conjecture,” zeta-zero tables, and related papers. https://www-users.cse.umn.edu/~odlyzko/polya/
 - Bernhard Riemann. “On the Number of Primes Less Than a Given Magnitude” (1859), manuscript and English translation hosted by the Clay Mathematics Institute. https://www.claymath.org/collections/riemanns-1859-manuscript/
 - André Weil. Commentary on “Sur les ‘formules explicites’ de la théorie des nombres premiers,” *Œuvres scientifiques / Collected Papers*, vol. II, historical source for the Hellinger–Hilbert recollection.
 - Institute for Advanced Study. “50 Years of Number Theory and Random Matrix Theory.” https://www.ias.edu/math/events/50yntrmt
