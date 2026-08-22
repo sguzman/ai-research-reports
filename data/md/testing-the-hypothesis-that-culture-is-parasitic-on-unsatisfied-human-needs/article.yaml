@@ -49,7 +49,7 @@ library_of_congress_classification:
   description: Sociology, social psychology, cultural theory, and media systems.
   label: Sociology
 license: CC0-1.0
-linkTitle: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
+linkTitle: 'The Hungry Mirror: Culture and Unmet Human Need'
 number-sections: false
 publishDate: '2026-06-30'
 publisher: Marginalia
@@ -96,7 +96,7 @@ report:
   - conceptual analysis
   - causal-claim decomposition
   - counterexample testing
-  name: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
+  name: 'The Hungry Mirror: Culture and Unmet Human Need'
   notes: >-
     Earlier cleanup repaired converted asset paths, tracking URLs, academic self-reference, and reference-export
     residue. The 2026-08-21 final audit substantially rewrote the report around three distinguishable claims:
@@ -132,7 +132,7 @@ report:
   time_span: twentieth century-present
   topic: Culture and unmet human needs
   type: report
-  version: 1.0.2
+  version: 1.0.3
   year: 2026
 report-no: '115'
 report-number: '115'
@@ -141,7 +141,7 @@ report_no: 115
 report_number: 115
 report_year: 2026
 resources: []
-revision: 1.0.2
+revision: 1.0.3
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 115
@@ -173,7 +173,7 @@ tags:
 - media-critique
 - attention-economy
 - self-determination
-title: Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs
+title: 'The Hungry Mirror: Culture and Unmet Human Need'
 toc: true
 toc-depth: 3
 toc-title: Contents
