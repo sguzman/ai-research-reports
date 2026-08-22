@@ -4,6 +4,25 @@ This is the repository-level operational history of corpus cleanup. It complemen
 
 ## 2026-08-21
 
+### PR #44 — Finalize Aesthetics for the Maimed stylized essay
+
+Packages:
+- `culture-gothic`
+
+Result:
+- reclassified the inherited neutral-looking research-report shell as an intentionally stylized/polemical essay so its severe cadence, metaphor, aphoristic compression, and moral judgment remain protected authorial features rather than academic-style defects;
+- replaced the totalizing claim that liberal modernity deliberately manufactures and preserves wounded people with a source-bounded institutional-incentive thesis: cultural systems can become highly capable of turning suffering into information, identity, representation, and engagement without coordinated intent to keep anyone sick;
+- grounded widespread social-disconnection context in the 2025 WHO Commission on Social Connection while explicitly rejecting a single-cause story in which liberalism intentionally produces loneliness;
+- added preregistered social-reinforcement and engagement-ranking evidence showing how feedback and optimization can amplify moral outrage, negative emotion, partisanship, and out-group hostility without conspiracy;
+- added a cross-ideological symmetry check using left/right news evidence showing that negative affect and its engagement advantage are not uniquely liberal or progressive;
+- placed trauma narrative and haunting in a longer literary and Gothic history using Whitehead and Smith, and retained “liberal gothic” only as a proposed bounded contemporary mode rather than an established genre;
+- incorporated a systematic review of fiction and social cognition as counterevidence to the inherited claim that trauma-centered representation is inherently necrotic or socially useless;
+- formalized diagnostic, necrotic, and restorative culture as analytic distinctions, defining necrosis as recurring conversion of injury into attention/status/revenue without corresponding gains in causal understanding or agency rather than simply art that is dark or sad;
+- removed unsupported mind-reading about creators secretly requiring non-recovery, uncomplicated nostalgia for inherited orders as a healthy control case, and the inference that depicting suffering proves an appetite for suffering;
+- added explicit empirical conditions under which the wound-market thesis would weaken or fail, so the polemic remains contestable rather than immunized against evidence;
+- reviewed `liberal-gothic-an-analytical-report` and `liberal-gothic-quick-facts` as related functional forks rather than duplicates, retaining this package as the independent stylized essay;
+- added a rich package changelog, confirmed that no local assets are required, advanced revision/version to 1.0.1 and legacy lifecycle `complete` → `ready` / `draft: false`, and advanced the ordinary queue to the U.S. postwar-boom report.
+
 ### PR #43 — Record Proudhon, meme, and population publications
 
 Packages:
