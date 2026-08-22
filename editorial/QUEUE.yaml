@@ -244,7 +244,7 @@ articles:
       - added comparative counterevidence showing that population aging can raise aggregate pension spending while restraining benefit generosity per retiree
       - strengthened the housing channel with direct evidence on homeowner turnout, local meeting participation, opposition to new supply, and representative voting
       - replaced three converted diagram assets with native analytical structure and removed the obsolete PNG files
-      - removed escaped numbered-link citations, the duplicated conversion reference export, and tracked conversion URLs
+      - removed escaped numbered-link citations, the duplicated reference export, and tracked conversion URLs
       - completed duplicate review as independent/keep-separate and advanced review to ready at revision 1.0.2
       - verified build-derived deployment at /research/intergenerational-extraction-in-liberal-democracies/ and recorded ready to published
     blockers: []
