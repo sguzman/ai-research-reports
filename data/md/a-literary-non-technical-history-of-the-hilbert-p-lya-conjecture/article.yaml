@@ -1,28 +1,209 @@
 ---
-abstract: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+title: The Unheard Instrument
+linkTitle: The Unheard Instrument
+subtitle: Hilbert, Pólya, and the Spectral Dream Behind the Riemann Zeros
+slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
 aliases: []
+date: '2026-01-25'
+lastmod: '2026-08-22'
+publishDate: '2026-01-25'
+draft: false
+status: ready
+type: essay
+editorial_profile: stylized
+voice: literary-analytic
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Mathematics
+- History of Mathematics
+- Mathematical Physics
+tags:
+- riemann-hypothesis
+- hilbert-polya
+- spectral-theory
+- random-matrix-theory
+- quantum-chaos
+- history-of-mathematics
+keywords:
+- The Unheard Instrument
+- Hilbert–Pólya conjecture
+- Riemann Hypothesis
+- Riemann zeta function
+- spectral theory
+- self-adjoint operator
+- Montgomery pair correlation
+- random matrix theory
+- Selberg trace formula
+- quantum chaos
+- noncommutative geometry
+subject:
+- Mathematics
+- History of mathematics
+- Mathematical physics
+subjects:
+- Riemann Hypothesis
+- Hilbert–Pólya program
+- Spectral theory
+- Random matrix theory
+- History of mathematics
+summary: >-
+  A literary but source-disciplined history of the spectral dream behind the Riemann zeros, from the retrospective
+  Hilbert and Pólya anecdotes through Selberg, Montgomery–Dyson, random matrices, Berry–Keating, and Connes, with a
+  strict distinction between evidence for spectral analogy and evidence for an actual Hilbert–Pólya realization.
+description: >-
+  The Riemann zeros look uncannily spectral, but no accepted hidden instrument has been found. A nontechnical history
+  of why Hilbert–Pólya remains compelling, what the strongest analogies really establish, and where metaphor stops.
+abstract: >-
+  The Hilbert–Pólya idea proposes that the Riemann Hypothesis might follow from a natural spectral structure whose
+  self-adjointness or positivity forces the zeta zeros onto the critical line. This essay preserves the traditional
+  musical metaphor while auditing its historical and mathematical limits. The Pólya attribution is traced to his
+  1982 letter to Andrew Odlyzko recalling a 1910s conversation with Landau; the Hilbert attribution is treated as the
+  more indirect Hellinger-to-Weil recollection. Selberg trace formulas and the function-field Riemann Hypothesis are
+  presented as genuine nearby spectral/geometric precedents, Montgomery–Dyson and Odlyzko as powerful statistical
+  evidence, and Berry–Keating and Connes as sophisticated but incomplete realizations. Candidate Hamiltonians are
+  evaluated against explicit requirements for independent definition, exact spectral correspondence,
+  self-adjointness/positivity, explanatory trace structure, and freedom from circular assumptions.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Mathematics
-- History of Mathematics
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - a-history-of-functional-analysis
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+    rationale: >-
+      Corpus title and topic review found no second package centered on the Hilbert–Pólya spectral program or its
+      historical development. `a-history-of-functional-analysis` overlaps only in the background history of Hilbert
+      spaces and operator theory and is retained as a conceptual neighbor rather than duplicate or merge candidate.
+report:
+  number: '001'
+  year: 2026
+  type: essay
+  version: 1.0.1
+  kind: literary mathematical-history essay
+  collection: mathematics-history
+  discipline: mathematics
+  subdiscipline: history of mathematics and mathematical physics
+  domain: analytic number theory and spectral theory
+  topic: The Unheard Instrument
+  subject: the Hilbert–Pólya spectral program and the Riemann zeros
+  audience: general mathematically curious reader
+  intent: >-
+    preserve the imaginative power of the music/instrument metaphor while separating historical evidence,
+    mathematical analogy, numerical support, conditional constructions, and what would actually constitute a proof.
+  method: >-
+    Literary historical synthesis bounded by direct source checks on Riemann's 1859 paper, surviving Hilbert–Pólya
+    origin evidence, Montgomery's pair-correlation work, Selberg spectral analogies, the function-field case,
+    random-matrix evidence, candidate Hamiltonians, and modern spectral/trace-formula programs.
+  methods:
+  - history of mathematics
+  - source-to-claim audit
+  - conceptual explanation
+  - mathematical analogy analysis
+  - counterevidence and boundary-condition testing
+  emphasis:
+  - provenance of the Hilbert–Pólya attribution
+  - distinction between spectral analogy and spectral realization
+  - self-adjointness and positivity
+  - Selberg and function-field precedents
+  - Montgomery–Dyson random-matrix statistics
+  - modern candidate operators and trace formulas
+  focus: >-
+    why the Riemann zeros look spectral, why that resemblance is mathematically important, and why it remains
+    insufficient to establish the missing operator or the Riemann Hypothesis
+  scope:
+  - Riemann's 1859 zeta-function problem
+  - Hilbert and Pólya historical attribution
+  - self-adjoint spectral interpretation
+  - Selberg trace formula
+  - function-field analogies
+  - Montgomery pair correlation and Dyson random matrices
+  - Odlyzko computations
+  - Berry–Keating xp dynamics
+  - Connes noncommutative geometry
+  - candidate Hamiltonian failure modes
+  period: 1859 through 2026 status context
+  period_covered: nineteenth-century origins through contemporary mathematical physics
+  population_focus: mathematicians, mathematical physicists, and the mathematical ideas themselves
+  primary_texts:
+  - Riemann's 1859 paper
+  - Pólya–Odlyzko correspondence
+  - Montgomery's 1973 pair-correlation paper
+  - Connes's trace-formula paper
+  region: international mathematical community
+  region_focus: Europe and the United States where historically relevant
+  scope_years: 1859-2026
+  stance: literary and analytic with explicit evidentiary boundaries
+  structure: >-
+    literary opening, Riemann background, origin history, self-adjointness, Selberg, function fields,
+    Montgomery–Dyson, computation, quantum chaos, Connes, candidate operators, proof criteria, evidence ledger,
+    current status, and conclusion
+  time_scope: historical and current-status synthesis
+  time_span: 1859-present
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: false
+  id: urn:marginalia:a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+  conversion:
+    date: '2026-04-20'
+    source_docx: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-22 final audit reclassified the inherited neutral-looking report as a stylized literary-analytic essay.
+    The music, vibration, wall, and unseen-instrument imagery are intentional framing devices; they are not evidence
+    claims. The rewrite sharply qualifies the origins of the eponym: Pólya's account survives in a retrospective
+    1982 letter, while Hilbert's survives indirectly through Hellinger and Weil, with no published joint conjecture
+    or candidate operator from either mathematician. It distinguishes exact spectral realization from random-matrix
+    statistics, finite numerical verification, asymptotic zero counting, and analogy. Selberg and function-field
+    cases are retained as real mathematical precedents but not presented as literal solutions of the classical
+    problem. Modern Berry–Keating, Connes, and Hamiltonian proposals are described at the level their results support,
+    and a dedicated evidence ledger records what each development does and does not establish. No assets are required.
+report-no: '001'
+report-number: '001'
+report-year: '2026'
+report_no: 1
+report_number: 1
+report_year: 2026
+series: Marginalia Reports
+series-number: 1
+series-title: Marginalia Reports
+series_number: 1
+series_title: Marginalia Reports
+identifier: urn:marginalia:a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+dataset_id: mathematics-history
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-01-25'
-description: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -30,113 +211,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
 isCJKLanguage: false
-keywords:
-- A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-- Mathematics
-- History of Mathematics
-lang: en
-language: English
-lastmod: '2026-01-25'
 layout: ''
-library_of_congress_classification:
-  class: QA
-  description: Mathematics, mathematical history, and mathematical methods.
-  label: Mathematics
-license: CC0-1.0
-linkTitle: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-01-25'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general mathematically literate reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx
-    tool: pandoc 3.6
-  discipline: mathematics
-  domain: mathematics
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-  intent: ''
-  is_report: true
-  kind: historical survey
-  level: ''
-  method: ''
-  methods: []
-  name: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-  notes: ''
-  number: '001'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: mathematical history and theory
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '001'
-report-number: '001'
-report-year: '2026'
-report_no: 1
-report_number: 1
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 1
-series-title: Marginalia Reports
-series_number: 1
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-status: complete
-subject:
-- Mathematics
-- History of mathematics
-subjects:
-- Mathematics
-- History of mathematics
-subtitle: ''
-summary: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-tags:
-- a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-- mathematics
-- history-of-mathematics
-- math-history
-title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
