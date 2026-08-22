@@ -155,7 +155,7 @@ packages:
     - duplicate_review_unresolved
   american-conservatism:
     title: Conserving a Revolution
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -479,7 +479,7 @@ packages:
     - duplicate_review_unresolved
   culture-gothic:
     title: Aesthetics for the Maimed
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: essay
     editorial_profile: stylized
@@ -624,7 +624,7 @@ packages:
     - raw_diagram_source
   emptiness-of-deleuze:
     title: The Emptiness of Deleuze
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -2072,7 +2072,7 @@ packages:
     - duplicate_review_unresolved
   the-u-s-post-world-war-ii-boom-1945-1975:
     title: 'The American High Tide: The Postwar Boom and Its Breaking Point, 1945–1975'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
