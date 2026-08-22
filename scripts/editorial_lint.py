@@ -26,6 +26,15 @@ KNOWN_STATUSES = PUBLIC_STATUSES | DRAFT_STATUSES | {"complete", "archived"}
 H1_RE = re.compile(r"^#\s+(.+?)\s*$", re.M)
 URL_RE = re.compile(r"https?://", re.I)
 PROMPTISH_TITLE_RE = re.compile(r"\b(report request|research scope|prompt)\b", re.I)
+PROCESS_TITLE_RE = re.compile(
+    r"\btesting\s+(?:the|a|an)\s+[^:\n]{0,120}\bhypothes(?:is|es)\b|"
+    r"(?:^|:\s*)(?:a|an)\s+(?:research|analytical|methodological)\s+"
+    r"(?:report|framework|overview)\b|"
+    r"\b(?:research|analytical)\s+report\b|"
+    r"\bresearch\s+framework\b|"
+    r"(?:^|:\s*)a\s+comprehensive\s+guide\b",
+    re.I,
+)
 RAW_CHAT_CITATION_RE = re.compile(r"【[^】]*\d+[^】]*】")
 PANDOC_NUMBERED_LINK_RE = re.compile(r"\[\\\[\d+\\\]\]\(https?://", re.I)
 BROKEN_SCHEME_RE = re.compile(r"\[[^\]]+\]\(\s*https?:\s+//", re.I)
@@ -245,6 +254,7 @@ def check_package(folder: Path) -> tuple[list[Finding], str]:
     body = body_path.read_text(encoding="utf-8", errors="replace")
     text = prose_only(body)
     title = scalar(meta.get("title"))
+    link_title = scalar(meta.get("linkTitle"))
     meta_slug = scalar(meta.get("slug"))
     status = scalar(meta.get("status")).lower()
     profile = scalar(meta.get("editorial_profile")).lower()
@@ -280,6 +290,13 @@ def check_package(folder: Path) -> tuple[list[Finding], str]:
     if title and PROMPTISH_TITLE_RE.search(title):
         add(findings, "warning", "promptish_title", slug,
             "title resembles generation/intake framing", meta_path)
+
+    for field_name, field_value in (("title", title), ("linkTitle", link_title)):
+        if field_value and PROCESS_TITLE_RE.search(field_value):
+            severity = "error" if status in PUBLIC_STATUSES else "warning"
+            add(findings, severity, "process_title", slug,
+                f"{field_name} resembles AI/research-process framing rather than a public-facing title: {field_value!r}",
+                meta_path)
 
     h1s = H1_RE.findall(body)
     if not h1s:

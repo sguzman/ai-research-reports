@@ -47,10 +47,39 @@ For every batch:
 5. Apply the declared profile's rules.
 6. Verify factual/current claims to the depth required by the subject and lifecycle target.
 7. Repair/migrate assets and diagrams when needed.
-8. Update metadata and lifecycle conservatively.
-9. **Update `data/md/<slug>/CHANGELOG.md` for every changed article package in the same PR.**
-10. Update `editorial/QUEUE.yaml` and append the batch to `editorial/BATCH_LOG.md` after the batch disposition is known.
-11. Publish only from canonical `ready`/`published` source through the one-way Marginalia boundary.
+8. Audit the public-facing title as an editorial object, not as generation metadata.
+9. Update metadata and lifecycle conservatively.
+10. **Update `data/md/<slug>/CHANGELOG.md` for every changed article package in the same PR.**
+11. Update `editorial/QUEUE.yaml` and append the batch to `editorial/BATCH_LOG.md` after the batch disposition is known.
+12. Publish only from canonical `ready`/`published` source through the one-way Marginalia boundary.
+
+## Title quality rule
+
+A title is part of the article, not a transcript of the assignment that produced it. Before an article can be `ready`, inspect `title`, `linkTitle`, and the body H1 for generation/process language.
+
+Prefer titles that are **memorable, evocative, sharp, or immediately useful**. A good title should name the intellectual object, tension, image, mechanism, event, or argument. Academic articles may be plain and descriptive; stylized articles may be romantic, severe, strange, funny, or beautiful. In either case, the title should sound chosen by an author rather than emitted by a task runner.
+
+Avoid titles whose main function is to narrate the research process or document type, especially generic constructions such as:
+
+- `Testing the Hypothesis That ...`
+- `Testing a ... Hypothesis: A Research Framework`
+- `An Analytical Report on ...`
+- `A Research Report on ...`
+- `A Comprehensive Guide to ...`
+- `Exploring ...`
+- `Investigating ...`
+- `A Study of ...`
+
+These phrases are not absolutely forbidden when the research method or document form is genuinely the subject, but they require an affirmative editorial reason. "This is technically a report/framework/guide" is not enough.
+
+Prefer transformations such as:
+
+- `Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs` → `The Hungry Mirror: Culture and Unmet Human Need`
+- `Testing a “Borderer” Meme-Style Hypothesis: A Research Framework` → `The Borderer Signal: Separating Meme Style from Ideology`
+
+Stable slugs and URLs do **not** need to change when a display title improves. Treat the slug as plumbing and the title as prose. When retitling, keep `title`, `linkTitle`, the body H1, and any title-bearing report metadata coherent; update the package changelog in the same PR.
+
+The editorial linter treats obvious process-title patterns as warnings for non-public work and as errors for `ready`/`published` packages. The heuristic is intentionally narrow: human editorial judgment remains responsible for titles that are technically lint-clean but still dead, generic, pompous, or obviously machine-made.
 
 ## Article changelog invariant
 
