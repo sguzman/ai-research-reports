@@ -171,7 +171,7 @@ Result:
 - removed the inherited inference that debt is automatically a one-for-one transfer to future taxpayers, distinguishing current-consumption borrowing from productive investment and grounding the forward-burden channel in future investment, output, interest-cost, and fiscal-space effects;
 - reframed Federal Reserve and Bundesbank age-wealth profiles as life-cycle evidence rather than proof of cohort exploitation;
 - added Tepe and Vanhuysse as comparative counterevidence to a simple gerontocracy model, distinguishing demographic increases in aggregate pension spending from benefit generosity per retiree;
-- made housing the strongest directly observed political mechanism using evidence on homeowner turnout, local meeting participation, opposition to new supply, and representative voting;
+- made housing the strongest directly observed political mechanism using evidence on homeowner turnout, local meeting participation, opposition to new construction, and representative voting;
 - updated the four-country comparison around demographic pressure, fiscal exposure, pension adjustment, and electoral-age structure rather than a synthetic extraction ranking;
 - removed escaped numbered-link citations, the duplicated conversion reference export, tracked source URLs, and three obsolete converted diagram assets;
 - completed duplicate review as independent/keep-separate, advanced revision/version to 1.0.2 and lifecycle `review` → `ready` / `draft: false`, and advanced the persistent queue to Puritan moral psychology followed by Proudhon mutualism.
