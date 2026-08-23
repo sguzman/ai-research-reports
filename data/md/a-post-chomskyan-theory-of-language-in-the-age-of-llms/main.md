@@ -378,16 +378,16 @@ These are not rhetorical concessions. They are the mechanism by which the theory
 
 ## Relationship to the evidence-audit companion
 
-This article is the constructive fork of `how-llms-challenge-chomskyan-assumptions-analytical-report`, retitled **The Learner in the Corpus**.
+The constructive framework is paired with `how-llms-challenge-chomskyan-assumptions-analytical-report`, retitled **The Learner in the Corpus**.
 
-The companion asks what existing LLM evidence actually establishes about Chomskyan claims. This article deliberately begins one step later. It asks what research program follows once the evidence is treated with those limits.
+The companion asks what existing LLM evidence actually establishes about Chomskyan claims. The constructive program begins one step later and asks what research design follows once the evidence is treated with those limits.
 
 The division is:
 
 - **The Learner in the Corpus:** adjudication of existing evidence;
 - **Language Under Constraint:** a positive framework for future linguistic theory and experiments.
 
-The two should remain separate because a constructive program should not be allowed to manufacture its own empirical verdict.
+The two remain separate because a constructive program should not be allowed to manufacture its own empirical verdict.
 
 ## Conclusion
 
