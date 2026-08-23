@@ -1730,26 +1730,21 @@ packages:
     - raw_diagram_source
     - h1_count_not_one
   prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850:
-    title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-    lifecycle: complete
+    title: 'What Knowledge Was Worth: Office, Patronage, and Technical Power in Europe, c.1100–1850'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 46671
+    body_bytes: 36278
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
-    - raw_diagram_source
+    mechanical_flags: []
   proudhon-mutualism-report:
     title: 'Proudhon’s Mutualism: Property, Reciprocity, and Mutual Credit'
     lifecycle: published
