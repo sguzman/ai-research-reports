@@ -1,35 +1,220 @@
 ---
-abstract: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist
-  who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques
-  for solving circuit and field problems. He started as a telegraph operator and, after deafness forced
-  him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk
-  Maxwell’s cumbersome 20-equation system into the four-vector equations used today[\[1\]](https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables),
-  introduced the “operational calculus” (treating \$d/dt\$ as an algebraic symbol) to analyze circuits[\[2\]](https://mathshistory.st-andr…
-aliases: []
+title: 'The Calculus of the Wire: Oliver Heaviside and the Engineering of Electromagnetism'
+linkTitle: The Calculus of the Wire
+subtitle: Signals, Fields, and Operators from Maxwell to the Telephone Line
+slug: heaviside
+aliases:
+- /research/oliver-heaviside/
+date: '2026-03-04'
+lastmod: '2026-08-22'
+publishDate: '2026-03-04'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- History of Science
+- Electrical Engineering
+- History of Mathematics
+tags:
+- oliver-heaviside
+- maxwell-equations
+- electromagnetism
+- telegraphy
+- transmission-lines
+- operational-calculus
+- vector-analysis
+- telecommunications
+keywords:
+- The Calculus of the Wire
+- Oliver Heaviside
+- Maxwell equations
+- Maxwellians
+- transmission line equations
+- Heaviside condition
+- operational calculus
+- vector analysis
+- telegraphy
+- long-distance telephony
+subject:
+- History of electromagnetism
+- Mathematical engineering
+- Telecommunications theory
+subjects:
+- Oliver Heaviside
+- Maxwellian electrodynamics
+- Transmission lines
+- Operational calculus
+- Vector analysis
+summary: >-
+  A source-audited history of Oliver Heaviside as a mathematical engineer who helped recast Maxwellian field theory,
+  developed distributed transmission-line analysis and the distortionless-line condition, and built an operational
+  calculus for solving circuit and field problems before its mathematical foundations were fully understood.
+description: >-
+  Heaviside's achievement was not merely simplifying Maxwell. He built a mathematical interface between electromagnetic
+  field theory and the engineering problem of sending signals through real wires.
+abstract: >-
+  This report reconstructs Oliver Heaviside's work around three connected contributions: the field-centered vector
+  reformulation of Maxwellian electromagnetism, distributed transmission-line theory, and operational methods for
+  differential equations. It rejects the popular story that Heaviside single-handedly compressed a finished set of
+  Maxwell's twenty equations into today's four, placing his work instead among the Maxwellians and the parallel rise of
+  vector analysis associated with figures such as J. Willard Gibbs and Heinrich Hertz. The telegraph and telephone line
+  is treated as the unifying problem: resistance, inductance, capacitance, and leakage act continuously along a cable,
+  producing delay and distortion. Heaviside's condition R/L = G/C showed why inductance could be deliberately increased
+  to preserve signal shape, while later loading systems involved engineers including George Campbell and Michael Pupin.
+  His operational calculus is described as a powerful pre-rigorous symbolic technology rather than simply an early
+  Laplace transform; Carson's 1922 analysis and later transform and operational theories clarified substantial parts of
+  its mathematical basis. Royal Society records show both contemporary recognition and legitimate concerns about
+  exposition, while the 1902 Kennelly-Heaviside atmospheric-layer proposal is kept separate from later experimental
+  confirmation. The result treats Heaviside neither as a lone persecuted genius nor as a footnote to Maxwell, but as a
+  major architect of the calculational interface between electromagnetic physics and communications engineering.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Mathematics
-- History of Mathematics
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - maxwells-equations-a-human-centered-historical-and-scientific-analysis
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: heaviside
+    rationale: >-
+      Corpus review found no second Heaviside package. `maxwells-equations-a-human-centered-historical-and-scientific-analysis`
+      is a related but distinct broad history of Faraday, Maxwell, the field equations, and later electromagnetism;
+      this package is centered specifically on Heaviside's mathematical engineering of Maxwellian theory, signal
+      propagation, and operational methods. The two should remain separate and cross-related rather than merged.
+report:
+  number: '063'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: historical mathematical-engineering report
+  collection: history-of-science
+  discipline: history of science and engineering
+  subdiscipline: electromagnetism, telecommunications, and mathematical methods
+  domain: electrical engineering and mathematical physics
+  topic: The Calculus of the Wire
+  subject: Oliver Heaviside and the mathematical engineering of electromagnetism
+  audience: general technically literate reader, engineer, physicist, and history-of-science reader
+  intent: >-
+    replace the inherited lone-genius and intuition-versus-rigor narrative with a historically bounded account of how
+    Heaviside transformed Maxwellian field theory into calculational tools for waves, transmission lines, and transients.
+  method: >-
+    Historical and technical source audit using Heaviside's collected works, IET archival biography, Royal Society
+    election and referee records, Hunt's history of the Maxwellians, historical accounts of the modern vector Maxwell
+    equations, engineering literature on the distortionless-line condition, and Carson's 1922 reconstruction of the
+    Heaviside operational calculus. Popular claims are separated into attribution, theoretical contribution, practical
+    implementation, and later mathematical justification.
+  methods:
+  - history of science
+  - source-to-claim audit
+  - mathematical exposition
+  - engineering-history comparison
+  - attribution analysis
+  emphasis:
+  - Maxwellian field reformulation
+  - vector analysis
+  - transmission-line equations
+  - distortionless signalling
+  - inductive loading
+  - operational calculus
+  - rigor and engineering practice
+  - institutional recognition
+  focus: >-
+    how Heaviside's mathematical representations connected electromagnetic field theory to the practical dynamics of
+    long-distance communication systems
+  scope:
+  - telegraph career and Maxwellian context
+  - modern vector reformulation of Maxwell's theory
+  - distributed RLCG line model
+  - Heaviside distortionless condition
+  - loading theory and later implementation
+  - operational calculus and later mathematical foundations
+  - Royal Society reception
+  - Kennelly-Heaviside atmospheric-layer proposal
+  period: late nineteenth and early twentieth centuries
+  period_covered: 1868-1925 with later mathematical-historical interpretation
+  population_focus: Oliver Heaviside and the Maxwellian/electrical-engineering communities around his work
+  primary_texts:
+  - Heaviside, Electrical Papers
+  - Heaviside, Electromagnetic Theory
+  - Heaviside, Electromagnetic Induction and Its Propagation
+  - Heaviside, On the Forces, Stresses, and Fluxes of Energy in the Electromagnetic Field
+  region: United Kingdom with transatlantic telecommunications context
+  region_focus: Britain and international electrical engineering
+  scope_years: 1868-1925
+  stance: neutral analytical
+  structure: >-
+    thesis, telegraph context, Maxwell reformulation, distributed transmission line, distortionless condition,
+    operational calculus, rigor and reception, Maxwellian network, additional field contributions, claim audit,
+    interpretive synthesis, conclusion, and named sources
+  time_scope: historical synthesis with later mathematical clarification
+  time_span: Victorian electrical science through early twentieth-century communications engineering
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:heaviside
+  conversion:
+    date: '2026-04-20'
+    source_docx: heaviside.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-22 final audit retitled the package **The Calculus of the Wire** and normalized the canonical slug from
+    inherited `oliver-heaviside` to the actual folder `heaviside`, preserving the old public route as an alias. The
+    rewrite removes the simplistic `twenty equations into four` attribution, lone-genius framing, broad claims that
+    Heaviside invented vector calculus or single-handedly enabled long-distance telephony, and the idea that his
+    operational calculus was simply the modern Laplace transform under another notation. Maxwell reformulation is
+    placed in the Maxwellian, Hertz, and Gibbs/vector-analysis context; transmission theory distinguishes Heaviside's
+    distributed-line and inductive-loading insights from later Campbell/Pupin implementation; and operational calculus
+    is treated as a successful symbolic engineering method whose domain of validity was clarified by Carson, transform
+    theory, and later operational mathematics. The inherited raw timeline, escaped numbered citation lattice,
+    duplicated reference export, speculative relativity/subatomic side claims, and unprovenanced generic Laplace-transform
+    conversion schematic were removed. The schematic was deleted from `assets/media/rId50.png`; no local assets remain.
+report-no: '063'
+report-number: '063'
+report-year: '2026'
+report_no: 63
+report_number: 63
+report_year: 2026
+series: Marginalia Reports
+series-number: 63
+series-title: Marginalia Reports
+series_number: 63
+series_title: Marginalia Reports
+identifier: urn:marginalia:heaviside
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-03-04'
-description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical
-  physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful
-  symbolic techniques for solving circuit and fiel…
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -37,115 +222,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:oliver-heaviside
 isCJKLanguage: false
-keywords:
-- Oliver Heaviside
-- Mathematics
-- History of Mathematics
-lang: en
-language: English
-lastmod: '2026-03-04'
 layout: ''
-library_of_congress_classification:
-  class: QA
-  description: Mathematics, mathematical history, and mathematical methods.
-  label: Mathematics
-license: CC0-1.0
-linkTitle: Oliver Heaviside
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-03-04'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general mathematically literate reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: heaviside.docx
-    tool: pandoc 3.6
-  discipline: mathematics
-  domain: mathematics
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:oliver-heaviside
-  intent: ''
-  is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: Oliver Heaviside
-  notes: ''
-  number: '063'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: mathematical history and theory
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Oliver Heaviside
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '063'
-report-number: '063'
-report-year: '2026'
-report_no: 63
-report_number: 63
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 63
-series-title: Marginalia Reports
-series_number: 63
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: oliver-heaviside
-status: complete
-subject:
-- Mathematics
-- History of mathematics
-subjects:
-- Mathematics
-- History of mathematics
-subtitle: ''
-summary: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist
-  who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques
-  for solving circuit and fiel…
-tags:
-- oliver-heaviside
-- mathematics
-- history-of-mathematics
-- math-history
-title: Oliver Heaviside
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
