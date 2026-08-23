@@ -124,7 +124,7 @@ packages:
     has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 29383
+    body_bytes: 29375
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
