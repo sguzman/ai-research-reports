@@ -1,37 +1,212 @@
 ---
-abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural
-  worlds” are realized very differently. Martin builds **dynamic human conflict** on a mostly **static
-  backdrop**, whereas Tolkien weaves **mythic ecology** into the very fabric of his world. In Martin’s
-  work the focus is on **power struggles and personal histories**; nature mostly serves as a setting or
-  symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on
-  his own affection for pastoral England and medieval lore) imbues landscapes with character – from the
-  fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture,
-  language, and values into ecology.
-aliases: []
+title: 'The World Beneath the War: Material Reality in Westeros and Middle-earth'
+linkTitle: The World Beneath the War
+subtitle: Causal Realism, Long Winters, and Two Ways of Making Fantasy Matter
+slug: grrm-deconstructed
+aliases:
+- /research/george-r-r-martin-deconstructed/
+date: '2026-03-04'
+lastmod: '2026-08-22'
+publishDate: '2026-03-04'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Literary Criticism
+- Fantasy Literature
+- Worldbuilding
+tags:
+- george-r-r-martin
+- j-r-r-tolkien
+- a-song-of-ice-and-fire
+- lord-of-the-rings
+- worldbuilding
+- ecology
+- material-causality
+- realism
+keywords:
+- The World Beneath the War
+- George R. R. Martin
+- J. R. R. Tolkien
+- Westeros
+- Middle-earth
+- fantasy realism
+- worldbuilding
+- long winters
+- ecology
+- logistics
+- material causality
+subject:
+- Fantasy literature
+- Worldbuilding
+- Material and environmental causality
+subjects:
+- George R. R. Martin
+- J. R. R. Tolkien
+- A Song of Ice and Fire
+- The Lord of the Rings
+- Fantasy worldbuilding
+summary: >-
+  Compares material realism in Westeros and Middle-earth using causal integration rather than encyclopedic detail.
+  Martin foregrounds scarcity, logistics, rule, and war while leaving some civilization-wide consequences of multi-year
+  seasons abstract; Tolkien foregrounds landscape, memory, stewardship, and ecological damage without offering a
+  quantitative agronomic simulation.
+description: >-
+  Martin and Tolkien do not differ simply as realist versus mythmaker. They make different parts of material reality
+  causally active: scarcity and rule in Westeros, landscape and stewardship in Middle-earth.
+abstract: >-
+  This report replaces a checklist-based comparison of George R. R. Martin and J. R. R. Tolkien with a causal model of
+  material worldbuilding. Realism is evaluated through descriptive texture, causal integration, institutional response,
+  system closure, and symbolic load rather than through the presence of soil chemistry, crop yields, or other technical
+  inventories. A Song of Ice and Fire is shown to model food, storage, famine, war damage, travel, geography, and
+  political scarcity more deeply than the inherited critique admitted; Martin's own comments on northern winters
+  explicitly invoke granaries, preserved food, fishing, glass gardens, false springs, migration, and starvation. The
+  remaining weakness is narrower: civilizations exposed for centuries to unpredictable multi-year seasons would likely
+  develop more visible demographic, energy, livestock, storage, and resilience institutions than the novels model.
+  Tolkien is likewise recast: Middle-earth is not a more complete agricultural simulation, but landscape repeatedly
+  functions as a historical and moral actor through Fangorn, Isengard, Mordor, the Shire, destruction, and restoration.
+  The comparison concludes that Martin foregrounds material constraint where it intersects with conflict and rule,
+  whereas Tolkien foregrounds material place where it intersects with memory, corruption, stewardship, and belonging.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Culture
-- Media Studies
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: grrm-deconstructed
+    rationale: >-
+      The current 115-package census contains no second George R. R. Martin-titled package and no competing canonical
+      Martin/Tolkien material-world comparison. Other literary and historical artifacts do not duplicate this article's
+      causal-worldbuilding question.
+report:
+  number: '062'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: comparative literary and worldbuilding analysis
+  collection: literary-criticism
+  discipline: literary studies
+  subdiscipline: fantasy literature, ecocriticism, medievalism, and worldbuilding analysis
+  domain: speculative fiction
+  topic: The World Beneath the War
+  subject: material causality in Westeros and Middle-earth
+  audience: general reader, fantasy writer, and literary/worldbuilding critic
+  intent: >-
+    replace the inherited technical-checklist verdict with a source-audited comparison of how Martin and Tolkien make
+    environment, scarcity, logistics, place, and institutions causally active in different ways.
+  method: >-
+    Comparative close reading of the published A Song of Ice and Fire and major Middle-earth narratives, checked against
+    Martin's recorded commentary on rule and multi-year winters, scholarship on Martin's medievalism, winter-ecology and
+    military-logistics research used only as bounded stress tests, and Tolkien ecocriticism. Missing technical details
+    are not treated as defects unless their absence prevents major premises from propagating through the fictional
+    world's institutions and consequences.
+  methods:
+  - comparative literary analysis
+  - worldbuilding analysis
+  - ecocritical comparison
+  - source-to-claim audit
+  - counterexample analysis
+  emphasis:
+  - causal integration rather than inventory realism
+  - food, famine, war, geography, and logistics in Westeros
+  - institutional implications of multi-year seasons
+  - landscape, memory, stewardship, and damage in Middle-earth
+  - limits of the Aragorn tax-policy critique
+  focus: >-
+    which dimensions of material reality Martin and Tolkien allow to constrain action, institutions, political order,
+    moral judgment, and historical memory
+  scope:
+  - Martin's tax-policy/ruling-hard commentary
+  - northern food storage and multi-year winters
+  - war logistics and geographical friction
+  - demographic, energy, livestock, and urban-system abstractions
+  - Tolkien's landscape ethics and material restoration
+  - comparative worldbuilding standards
+  period: twentieth- and twenty-first-century fantasy literature
+  period_covered: Tolkien's Middle-earth fiction and Martin's published A Song of Ice and Fire novels
+  population_focus: fictional societies, rulers, armies, households, environments, and institutions
+  primary_texts:
+  - A Song of Ice and Fire
+  - The Hobbit
+  - The Lord of the Rings
+  region: fictional Westeros/Essos and Middle-earth
+  region_focus: constructed fantasy worlds
+  scope_years: ''
+  stance: neutral analytical
+  structure: >-
+    thesis, realism standard, tax-policy context, food and winter, war and geography, selective abstractions, Tolkien's
+    material place, comparison matrix, rebound test, worldbuilding principles, conclusion, and named sources
+  time_scope: literary and conceptual comparison
+  time_span: modern fantasy literature
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:grrm-deconstructed
+  conversion:
+    date: '2026-04-20'
+    source_docx: grrm-deconstructed.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-22 final audit rejects the inherited claim that Martin builds dynamic human conflict on a mostly static
+    natural backdrop and that Tolkien supplies a comparatively complete ecological model. The rewrite distinguishes
+    causal integration from encyclopedic detail and removes soil-pH, exact-yield, irrigation, and similar checklist
+    demands as invalid standalone realism tests. Martin's own archived winter correspondence establishes that northern
+    material consequences include preservation, granaries, fishing, glass gardens, false springs, maester advice,
+    migration, famine, and starvation. The remaining criticism is restricted to incomplete system closure: recurring
+    multi-year seasons would plausibly produce more visible demographic, fuel, livestock, storage, trade, and resilience
+    institutions. Tolkien is treated not as an agronomic simulator but as a writer whose landscape repeatedly acts in
+    moral and historical causality. The inherited escaped citation lattice, raw comparison diagrams, weak fan/wiki
+    source chains, unsupported quantitative worldbuilding requirements, and generic `Deconstructed` title were removed.
+    No local assets are required. The package folder `grrm-deconstructed` is the canonical slug; the inherited
+    `george-r-r-martin-deconstructed` public path is retained as an alias.
+report-no: '062'
+report-number: '062'
+report-year: '2026'
+report_no: 62
+report_number: 62
+report_year: 2026
+series: Marginalia Reports
+series-number: 62
+series-title: Marginalia Reports
+series_number: 62
+series_title: Marginalia Reports
+identifier: urn:marginalia:grrm-deconstructed
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-03-04'
-description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their
-  “natural worlds” are realized very differently. Martin builds **dynamic human conflict** on a mostly
-  **static backdrop**, whereas Tolkien weaves **m…
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -39,115 +214,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:george-r-r-martin-deconstructed
 isCJKLanguage: false
-keywords:
-- George R.R. Martin Deconstructed
-- Culture
-- Media Studies
-- Literature and media studies
-lang: en
-language: English
-lastmod: '2026-03-04'
 layout: ''
-library_of_congress_classification:
-  class: PN
-  description: Literature, media studies, criticism, and cultural analysis.
-  label: Literature and media studies
-license: CC0-1.0
-linkTitle: George R.R. Martin Deconstructed
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-03-04'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: grrm-deconstructed.docx
-    tool: pandoc 3.6
-  discipline: media and cultural studies
-  domain: culture
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:george-r-r-martin-deconstructed
-  intent: ''
-  is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: George R.R. Martin Deconstructed
-  notes: ''
-  number: '062'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: criticism and interpretation
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: George R.R. Martin Deconstructed
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '062'
-report-number: '062'
-report-year: '2026'
-report_no: 62
-report_number: 62
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 62
-series-title: Marginalia Reports
-series_number: 62
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: george-r-r-martin-deconstructed
-status: complete
-subject:
-- Culture
-- Media studies
-subjects:
-- Culture
-- Media studies
-subtitle: ''
-summary: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural
-  worlds” are realized very differently. Martin builds **dynamic human conflict** on a mostly **static
-  backdrop**, whereas Tolkien weaves **m…
-tags:
-- george-r-r-martin-deconstructed
-- culture
-- media-studies
-title: George R.R. Martin Deconstructed
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
