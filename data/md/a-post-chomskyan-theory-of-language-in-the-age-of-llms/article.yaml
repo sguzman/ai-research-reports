@@ -1,28 +1,218 @@
 ---
-abstract: A Post-Chomskyan Theory of Language in the Age of LLMs
+title: 'Language Under Constraint: A Post-Chomskyan Theory for the LLM Era'
+linkTitle: Language Under Constraint
+subtitle: Learning, Inductive Bias, Representation, and Grounding
+slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
 aliases: []
+date: '2026-03-03'
+lastmod: '2026-08-22'
+publishDate: '2026-03-03'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Linguistics
+- Cognitive Science
+- Artificial Intelligence
+tags:
+- post-chomskyan
+- language-acquisition
+- large-language-models
+- inductive-bias
+- learnability
+- linguistic-theory
+- cognitive-modeling
+- grounding
+keywords:
+- Language Under Constraint
+- post-Chomskyan linguistics
+- large language models
+- language acquisition
+- inductive bias
+- learnability
+- Universal Grammar
+- computational linguistics
+- formal linguistic competence
+- grounded language
+subject:
+- Linguistic theory
+- Computational language acquisition
+- Cognitive modeling
+subjects:
+- Learnability
+- Inductive bias
+- Language acquisition
+- Large language models
+- Universal Grammar
+- Grounding
+summary: >-
+  A constructive post-Chomskyan research program that treats language acquisition as constrained learnability rather
+  than a binary contest between innate grammar and statistics. The framework separates learnability, representation,
+  performance, and grounding and requires competing learners to succeed or fail under explicit developmental conditions.
+description: >-
+  Language theory after LLMs should ask which learner and environmental constraints are actually necessary to reproduce
+  the human language trajectory—and should allow experiments to strengthen innate-bias hypotheses as well as weaken them.
+abstract: >-
+  This report proposes a positive language-science program for the LLM era. Its basic object is a learner-input-target
+  triple: a specified learner with explicit inductive biases, a developmentally characterized experience stream, and a
+  target human generalization or trajectory. The framework separates four explanatory levels—learnability,
+  representation, use/performance, and grounding/functional competence—so success at one is not inflated into a theory
+  of all cognition. Architecture is treated as bias rather than as prior-free statistics; developmentally realistic
+  quantity, distribution, ordering, modality, and interaction are treated as theoretical variables; and human-model
+  convergence is evaluated through generalization, sample efficiency, learning curves, error profiles, impossible-
+  language selectivity, causal representations, and cross-linguistic replication. The program is deliberately symmetric:
+  robust success by relatively general learners weakens the need for rich language-specific priors, while repeated
+  child-scale failures repaired by targeted structural priors strengthen them. The result preserves the generative
+  question of how finite experience yields productive competence while replacing broad impossibility claims with
+  adversarial computational comparison.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Computing
-- Technology
+relationships:
+  exact_duplicates: []
+  near_duplicates:
+  - how-llms-challenge-chomskyan-assumptions-analytical-report
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - how-llms-challenge-chomskyan-assumptions-analytical-report
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: fork
+    disposition: keep-separate
+    canonical_slug: ''
+    rationale: >-
+      This package and `how-llms-challenge-chomskyan-assumptions-analytical-report` inherited extensive duplicated
+      Chomsky/LLM background. The final review gives them distinct functions: the companion is the empirical audit of
+      what current computational evidence actually establishes, whereas this package begins after that audit and builds
+      a constructive theory of constrained learnability, representation, developmental realism, performance, and
+      grounding. They remain functional forks and near-duplicates rather than a merge cluster so long as this division
+      of labor is preserved.
+report:
+  number: '055'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: constructive theoretical report
+  collection: language-and-ai
+  discipline: linguistics
+  subdiscipline: language acquisition, computational linguistics, and cognitive science
+  domain: linguistic theory and computational modeling
+  topic: Language Under Constraint
+  subject: a constrained-learnability program for language theory after LLMs
+  audience: linguists, cognitive scientists, AI researchers, philosophers of language, and technically curious readers
+  intent: >-
+    replace the inherited anti-Chomskyan manifesto and generic LLM capability survey with a falsifiable positive program
+    for identifying the smallest well-supported set of learner and environmental constraints that reproduces human
+    language acquisition.
+  method: >-
+    Conceptual synthesis disciplined by peer-reviewed computational learnability results. The framework derives
+    experimental requirements from the evidence audit: explicit learner/input/target specification, developmentally
+    constrained data, competing inductive biases, out-of-distribution diagnostics, impossible-language controls,
+    causal representation tests, human learning curves and errors, and cross-linguistic replication.
+  methods:
+  - theoretical synthesis
+  - computational learnability design
+  - adversarial model comparison
+  - falsification analysis
+  - developmental constraint analysis
+  emphasis:
+  - learner-input-target triples
+  - inductive bias rather than bias-free learning
+  - developmentally realistic data
+  - learnability versus representation
+  - competence and performance
+  - grounding and functional competence
+  - causal model interpretation
+  - symmetric evidence for richer or leaner innate structure
+  focus: >-
+    how linguistic theory can use computational learners to identify which constraints on learners and environments are
+    genuinely necessary for human-like acquisition rather than presupposing either rich innate grammar or statistical sufficiency
+  scope:
+  - learnability experiments
+  - representation and causal intervention
+  - performance constraints
+  - grounded and functional language use
+  - sample efficiency and BabyLM-style data constraints
+  - possible and impossible languages
+  - explanatory adequacy
+  - future status of Universal Grammar
+  period: contemporary linguistic theory with generative background
+  period_covered: classic generative questions through computational evidence available in 2026
+  population_focus: human language learners and computational learner families where theoretically compared
+  primary_texts:
+  - Chomsky, Aspects of the Theory of Syntax
+  - Chomsky, The Minimalist Program
+  region: international research literature
+  region_focus: linguistics, cognitive science, and computational language research
+  scope_years: 1965-2026
+  stance: constructive and theory-pluralist
+  structure: >-
+    proposal, meaning of post-Chomskyan, four explanatory levels, learner-input-target model, inductive bias,
+    developmental realism, evidence for richer and leaner priors, possible-language ranking, causal representation,
+    human-model convergence, formal competence, experimental protocol, explanatory adequacy, Universal Grammar,
+    falsifiers, companion relationship, conclusion, and named sources
+  time_scope: theoretical program informed by current evidence
+  time_span: generative linguistics through 2026
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:a-post-chomskyan-theory-of-language-in-the-age-of-llms
+  conversion:
+    date: '2026-04-20'
+    source_docx: A Post-Chomskyan Theory of Language in the Age of LLMs.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-22 final audit removed the inherited capability timeline, benchmark triumphalism, ethics/safety filler,
+    raw timeline source, escaped numbered citation lattice, blanket claims that LLMs refute Chomsky, and the equation of
+    no hand-coded grammatical rules with no inductive bias. The positive framework now treats architecture, input,
+    objective, memory, modality, and social-developmental conditions as explicit constraints. It separates learnability,
+    representation, performance, and grounding; defines a learner-input-target triple as the core experimental object;
+    ranks evidence by human-model convergence; and gives symmetric falsifiers for rich-innateness and lean-bias theories.
+    The similarly scoped `how-llms-challenge-chomskyan-assumptions-analytical-report` is retained as a functional fork
+    responsible for empirical adjudication, while this artifact is responsible for the constructive research program.
+    No local assets are required.
+report-no: '055'
+report-number: '055'
+report-year: '2026'
+report_no: 55
+report_number: 55
+report_year: 2026
+series: Marginalia Reports
+series-number: 55
+series-title: Marginalia Reports
+series_number: 55
+series_title: Marginalia Reports
+identifier: urn:marginalia:a-post-chomskyan-theory-of-language-in-the-age-of-llms
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-03-03'
-description: A Post-Chomskyan Theory of Language in the Age of LLMs
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -30,113 +220,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:a-post-chomskyan-theory-of-language-in-the-age-of-llms
 isCJKLanguage: false
-keywords:
-- A Post-Chomskyan Theory of Language in the Age of LLMs
-- Computing
-- Technology
-- Computer science
-lang: en
-language: English
-lastmod: '2026-03-03'
 layout: ''
-library_of_congress_classification:
-  class: QA76
-  description: Computer science, software, web standards, and computing history.
-  label: Computer science
-license: CC0-1.0
-linkTitle: A Post-Chomskyan Theory of Language in the Age of LLMs
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-03-03'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general technically literate reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: A Post-Chomskyan Theory of Language in the Age of LLMs.docx
-    tool: pandoc 3.6
-  discipline: computer science
-  domain: computing
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:a-post-chomskyan-theory-of-language-in-the-age-of-llms
-  intent: ''
-  is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: A Post-Chomskyan Theory of Language in the Age of LLMs
-  notes: ''
-  number: '055'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: computing history and software systems
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: A Post-Chomskyan Theory of Language in the Age of LLMs
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '055'
-report-number: '055'
-report-year: '2026'
-report_no: 55
-report_number: 55
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 55
-series-title: Marginalia Reports
-series_number: 55
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
-status: complete
-subject:
-- Computer science
-- Technology
-subjects:
-- Computer science
-- Technology
-subtitle: ''
-summary: A Post-Chomskyan Theory of Language in the Age of LLMs
-tags:
-- a-post-chomskyan-theory-of-language-in-the-age-of-llms
-- computing
-- technology
-title: A Post-Chomskyan Theory of Language in the Age of LLMs
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
