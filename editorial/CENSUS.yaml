@@ -840,26 +840,22 @@ packages:
     - changelog_missing
     - duplicate_review_unresolved
   heaviside:
-    title: Oliver Heaviside
-    lifecycle: complete
+    title: 'The Calculus of the Wire: Oliver Heaviside and the Engineering of Electromagnetism'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
-    asset_files: 1
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 0
     legacy_media_files: 0
-    body_bytes: 34659
+    body_bytes: 29898
     h1_count: 1
     local_link_or_image_count: 0
-    risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
-    - absolute_path_in_body
+    risk_hints:
+    - engineering_or_physical_safety
+    mechanical_flags: []
   highway-engineering:
     title: From Dirt Track to Durable Highway
     lifecycle: published
