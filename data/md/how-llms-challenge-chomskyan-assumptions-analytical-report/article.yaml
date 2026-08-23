@@ -1,34 +1,211 @@
 ---
-abstract: '**Executive Summary:** Noam Chomsky’s linguistic framework hinges on strong innate structures
-  (Universal Grammar) and a sharp distinction between internal *competence* and observable *performance*.
-  He has long argued that children learn language “from hearing it” with minimal instruction[\[1\]](https://plato.stanford.edu/archives/sum2010/entries/innateness-language/#:~:text=knowledge%20of%20how%20elements%20with,the%20right%20sorts%20of%20exemplars)[\[2\]](https://en.wikipedia.org/wiki/Poverty_of_the_stimulus#:~:text=Linguistic%20nativism%20is%20the%20theory,the%20broader%20argument%20for%20linguistic),
-  using inborn grammatical principles to compensate for the sparse, error-prone input (the **poverty of
-  the stimulus**). In this view, a true linguistic theory must achieve *explanatory adeq…'
+title: 'The Learner in the Corpus: What LLMs Actually Show About Chomsky'
+linkTitle: The Learner in the Corpus
+subtitle: Poverty of Stimulus, Impossible Languages, and the Limits of the Refutation
+slug: how-llms-challenge-chomskyan-assumptions-analytical-report
 aliases: []
+date: '2026-03-03'
+lastmod: '2026-08-22'
+publishDate: '2026-03-03'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Linguistics
+- Cognitive Science
+- Artificial Intelligence
+tags:
+- chomsky
+- large-language-models
+- poverty-of-the-stimulus
+- language-acquisition
+- syntactic-learnability
+- inductive-bias
+- impossible-languages
+- computational-linguistics
+keywords:
+- The Learner in the Corpus
+- Noam Chomsky
+- large language models
+- poverty of the stimulus
+- Universal Grammar
+- language acquisition
+- syntactic learnability
+- inductive bias
+- impossible languages
+- BabyLM
+subject:
+- Linguistic theory
+- Language acquisition
+- Computational learnability
+subjects:
+- Noam Chomsky
+- Large language models
+- Poverty of the stimulus
+- Universal Grammar
+- Computational linguistics
+summary: >-
+  A source-audited assessment of what neural language models actually establish about Chomskyan learnability claims.
+  Specific computational results weaken some poverty-of-the-stimulus and impossible-language arguments, while child-scale
+  data, model inductive bias, harder syntactic phenomena, and cognitive mismatch block a blanket `Chomsky refuted` verdict.
+description: >-
+  LLMs have not settled the innateness debate. They have turned many claims about what language can or cannot be learned
+  from experience into experiments that can succeed, fail, and discriminate among competing theories.
+abstract: >-
+  This report separates five questions often collapsed in arguments about LLMs and Chomsky: whether a linguistic pattern
+  is learnable at all, whether it is learnable from developmentally realistic input, what inductive biases are required,
+  whether a successful learner models human cognition, and whether linguistic competence implies broader thought or
+  grounding. Wilcox, Futrell, and Levy's neural acquisition of filler-gap dependencies and island sensitivity weakens a
+  poverty-of-the-stimulus argument for that particular structure. Lan, Chemla, and Katzir's 2026 extension to parasitic
+  gaps and across-the-board movement finds important failures under realistic input and tentative evidence in the other
+  direction. Kallini et al.'s impossible-language experiments challenge categorical claims of neural indifference to
+  possible versus impossible systems, while Hunter's 2025 critique limits the strongest inference. BabyLM motivates
+  developmentally constrained data regimes, Katzir clarifies the difference between engineering success and a theory of
+  human linguistic cognition, and Mahowald et al. separate formal linguistic competence from broader functional language
+  use. The resulting position treats LLMs as adversarial learnability experiments rather than decisive replacements for
+  linguistic theory.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Computing
-- Technology
+relationships:
+  exact_duplicates: []
+  near_duplicates:
+  - a-post-chomskyan-theory-of-language-in-the-age-of-llms
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - a-post-chomskyan-theory-of-language-in-the-age-of-llms
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: fork
+    disposition: keep-separate
+    canonical_slug: ''
+    rationale: >-
+      This package and `a-post-chomskyan-theory-of-language-in-the-age-of-llms` inherited substantial duplicated
+      Chomsky/LLM background, but they can perform distinct editorial functions. This package is the empirical evidence
+      audit: it asks what current computational results actually weaken, preserve, or leave unresolved in specific
+      Chomskyan claims. The companion is retained as a constructive methodological program that begins after this audit
+      rather than repeating its benchmark history. They are therefore functional forks and near-duplicates, not a merge
+      cluster, provided the revised division of labor is maintained.
+report:
+  number: '056'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: evidence-audit report
+  collection: language-and-ai
+  discipline: linguistics
+  subdiscipline: language acquisition, computational linguistics, and cognitive modeling
+  domain: linguistic theory and machine learning
+  topic: The Learner in the Corpus
+  subject: what LLM evidence establishes about Chomskyan learnability claims
+  audience: linguists, cognitive scientists, AI researchers, and technically curious general readers
+  intent: >-
+    replace the inherited blanket `LLMs refute Chomsky` argument with phenomenon-specific tests of learnability,
+    developmentally realistic input, inductive bias, cognitive plausibility, and possible-language selectivity.
+  method: >-
+    Source-to-claim audit centered on peer-reviewed learnability studies. Positive and negative neural-model results are
+    compared at the level of the linguistic phenomenon, input regime, learner, and diagnostic; broad claims about
+    innateness or cognition are accepted only when they follow from that experimental scope.
+  methods:
+  - evidence audit
+  - computational learnability analysis
+  - source-to-claim review
+  - adversarial hypothesis testing
+  - counterevidence analysis
+  emphasis:
+  - poverty of the stimulus
+  - developmentally realistic data
+  - inductive bias
+  - filler-gap dependencies and islands
+  - parasitic gaps and across-the-board movement
+  - possible and impossible languages
+  - competence, performance, and cognitive scope
+  focus: >-
+    how modern computational learners change the evidentiary burden for claims that particular linguistic knowledge
+    cannot arise from experience without specified prior structure
+  scope:
+  - Chomskyan poverty-of-the-stimulus reasoning
+  - neural syntactic learnability
+  - child-scale language-model training
+  - impossible-language experiments
+  - competence and performance
+  - formal versus functional linguistic competence
+  period: contemporary computational linguistics with generative-theory background
+  period_covered: classic generative claims through peer-reviewed evidence available in 2026
+  population_focus: computational learners and human language learners where directly compared
+  primary_texts:
+  - Chomsky, Aspects of the Theory of Syntax
+  - Chomsky, The Minimalist Program
+  region: international research literature
+  region_focus: linguistics, cognitive science, and NLP research communities
+  scope_years: 1965-2026
+  stance: neutral analytical
+  structure: >-
+    argument, claim separation, poverty-of-stimulus method, positive and negative learnability results, data scale,
+    inductive bias, impossible languages, competence/performance, language/thought, evidence ledger, experimental
+    standard, companion relationship, conclusion, and named sources
+  time_scope: historical theory evaluated with current evidence
+  time_span: generative linguistics through 2026
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
+  conversion:
+    date: '2026-04-20'
+    source_docx: How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-22 final audit removed the inherited process title, capability timeline, model-size speculation,
+    Wikipedia/blog/Reddit citation chains, escaped numbered citation lattice, raw timeline source, prestige-motive
+    speculation, and blanket claim that LLMs refute Chomskyan linguistics. The rewrite makes the empirical unit the
+    phenomenon-specific learnability experiment. Wilcox et al. is retained as evidence against a poverty-of-stimulus
+    argument for one filler-gap/island domain; Lan, Chemla, and Katzir 2026 supplies counterevidence on parasitic gaps
+    and across-the-board movement; Kallini et al. and Hunter are paired so impossible-language evidence is not
+    overclaimed; BabyLM bounds the data-efficiency problem; and Katzir plus Mahowald et al. separate learnability from
+    cognitive identity and formal linguistic competence from broader thought. The similarly scoped post-Chomskyan
+    package is retained as a functional fork with a constructive rather than evidentiary role. No local assets are required.
+report-no: '056'
+report-number: '056'
+report-year: '2026'
+report_no: 56
+report_number: 56
+report_year: 2026
+series: Marginalia Reports
+series-number: 56
+series-title: Marginalia Reports
+series_number: 56
+series_title: Marginalia Reports
+identifier: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-03-03'
-description: '**Executive Summary:** Noam Chomsky’s linguistic framework hinges on strong innate structures
-  (Universal Grammar) and a sharp distinction between internal *competence* and observable *performance*.
-  He has long argued that children learn la…'
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -36,115 +213,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
 isCJKLanguage: false
-keywords:
-- How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-- Computing
-- Technology
-- Computer science
-lang: en
-language: English
-lastmod: '2026-03-03'
 layout: ''
-library_of_congress_classification:
-  class: QA76
-  description: Computer science, software, web standards, and computing history.
-  label: Computer science
-license: CC0-1.0
-linkTitle: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-03-03'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general technically literate reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx
-    tool: pandoc 3.6
-  discipline: computer science
-  domain: computing
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
-  intent: ''
-  is_report: true
-  kind: analytical report
-  level: ''
-  method: ''
-  methods: []
-  name: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-  notes: ''
-  number: '056'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: computing history and software systems
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '056'
-report-number: '056'
-report-year: '2026'
-report_no: 56
-report_number: 56
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 56
-series-title: Marginalia Reports
-series_number: 56
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: how-llms-challenge-chomskyan-assumptions-analytical-report
-status: complete
-subject:
-- Computer science
-- Technology
-subjects:
-- Computer science
-- Technology
-subtitle: ''
-summary: '**Executive Summary:** Noam Chomsky’s linguistic framework hinges on strong innate structures
-  (Universal Grammar) and a sharp distinction between internal *competence* and observable *performance*.
-  He has long argued that children learn la…'
-tags:
-- how-llms-challenge-chomskyan-assumptions-analytical-report
-- computing
-- technology
-title: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
