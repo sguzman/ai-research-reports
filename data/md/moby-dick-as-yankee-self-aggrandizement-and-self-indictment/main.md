@@ -1,4 +1,4 @@
-# The Yankee Leviathan: Grandeur and Self-Indictment in *Moby-Dick*
+# The Yankee Leviathan: Grandeur and Self-Indictment in Moby-Dick
 
 ## Argument in brief
 
@@ -10,7 +10,7 @@ The strongest version of the argument is therefore narrower than the inherited r
 
 ## What "Yankee" can mean here
 
-In this essay, **Yankee** refers primarily to the New England and northeastern American world that gives the novel much of its material and rhetorical infrastructure: Nantucket and New Bedford whaling, Quaker commercial culture, Protestant preaching, maritime capitalism, republican-national language, and an American command class presiding over an international workforce. It does **not** mean that every American trait in the novel is uniquely New England, nor that Melville supplies a stable sociological theory called "Yankee culture."
+Here, **Yankee** refers primarily to the New England and northeastern American world that gives the novel much of its material and rhetorical infrastructure: Nantucket and New Bedford whaling, Quaker commercial culture, Protestant preaching, maritime capitalism, republican-national language, and an American command class presiding over an international workforce. It does **not** mean that every American trait in the novel is uniquely New England, nor that Melville supplies a stable sociological theory called "Yankee culture."
 
 The material setting is not imaginary. New Bedford became the dominant American whaling center as nineteenth-century voyages expanded across the globe. The National Park Service describes New Bedford as the world's largest whaling port and documents a workforce that included African American, Wampanoag, Cape Verdean, Azorean, Pacific Islander, European, and other mariners. Pay and authority were structured chiefly by shipboard position, even while racial hierarchy and exclusion remained real on land and within the industry. See the National Park Service histories of [New Bedford's whaling heritage](https://www.nps.gov/nebe/learn/historyculture/whalingheritage.htm), [life aboard whaleships](https://www.nps.gov/nebe/learn/historyculture/whaleship.htm), and [African American participation](https://www.nps.gov/nebe/learn/historyculture/african-american-history.htm).
 
@@ -38,7 +38,7 @@ The chapter therefore does more than praise a hardy regional people. It converts
 
 Chapter 24 is the central exhibit because the self-aggrandizement is explicit. Ishmael begins as counsel for a disreputable trade and rapidly expands the defense until whaling becomes a civilizational office. The chapter's sources and revisions are documented by the scholarly [Melville Electronic Library edition of "The Advocate"](https://melville.electroniclibrary.org/editions/versions-of-moby-dick/24-the-advocate), which also shows Melville drawing on earlier whaling literature.
 
-The rhetorical escalation is comic and serious at once. Whaling rises from dirty labor to heroic vocation; its history is linked to scripture, Parliament, exploration, royalty, science, commerce, and national expansion. Ishmael declares, "Whaling is imperial!" and later gives the whale-ship the status of an elite education: it was his "Yale College and my Harvard." The point is not merely that he is joking. The joke works because the defense has real emotional force. The sea has educated him; the whaling world has given him a scale of experience unavailable to respectable society; and a supposedly low occupation does possess global reach.
+The rhetorical escalation is comic and serious at once. Whaling rises from dirty labor to heroic vocation; its history is linked to scripture, Parliament, exploration, royalty, science, commerce, and national expansion. Ishmael declares, "Whaling is imperial!" and later treats the whale-ship as his equivalent of Yale and Harvard. The point is not merely that he is joking. The joke works because the defense has real emotional force. The sea has educated him; the whaling world has given him a scale of experience unavailable to respectable society; and a supposedly low occupation does possess global reach.
 
 The chapter's most revealing move is its civilizing claim. Whalers are represented as pathbreakers for merchants and missionaries, agents whose movement opens the world. This rhetoric converts commercial penetration into benefaction. It is exactly the kind of move that makes the inherited "self-aggrandizement" thesis worth retaining: local labor is not merely dignified but transformed into a warrant for planetary importance.
 
