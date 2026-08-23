@@ -114,26 +114,21 @@ packages:
     risk_hints: []
     mechanical_flags: []
   a-post-chomskyan-theory-of-language-in-the-age-of-llms:
-    title: A Post-Chomskyan Theory of Language in the Age of LLMs
-    lifecycle: complete
+    title: 'Language Under Constraint: A Post-Chomskyan Theory for the LLM Era'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 41712
+    body_bytes: 29383
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
-    - raw_diagram_source
+    mechanical_flags: []
   algebra-evolution:
     title: The Evolution and Frontiers of Algebra
     lifecycle: draft
@@ -965,25 +960,21 @@ packages:
     - duplicate_review_unresolved
     - absolute_path_in_body
   how-llms-challenge-chomskyan-assumptions-analytical-report:
-    title: How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-    lifecycle: complete
+    title: 'The Learner in the Corpus: What LLMs Actually Show About Chomsky'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 63390
+    body_bytes: 28185
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
+    mechanical_flags: []
   html-history:
     title: History of HTML (1990--2025)
     lifecycle: published
