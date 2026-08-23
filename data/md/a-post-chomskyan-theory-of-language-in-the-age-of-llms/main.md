@@ -1,246 +1,424 @@
-# A Post-Chomskyan Theory of Language in the Age of LLMs
+# Language Under Constraint: A Post-Chomskyan Theory for the LLM Era
 
-## Executive Summary
+## The proposal
 
-This manifesto argues that modern large language models (LLMs) fundamentally reshape our understanding of language acquisition and competence, and thus require a “post-Chomskyan” theory. Since 2018, models like GPT-3, PaLM, and GPT-4 have achieved human-level performance on translation, reasoning, and even professional exam benchmarks[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we)[\[2\]](https://openai.com/index/gpt-4-research/#:~:text=We%E2%80%99ve%20created%20GPT%E2%80%914%2C%20the%20latest,iteratively%C2%A0aligning%20%E2%81%A0%C2%A0GPT%E2%80%914%C2%A0using%20lessons%20from%20our). These successes challenge core Chomskyan assumptions (innate Universal Grammar, poverty of stimulus, sharp competence/performance divide) because LLMs learn complex grammar and semantics from raw text alone[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible)[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we). We present a positive research program: linguistic theory should **integrate empirical machine-learning evidence** and treat large-scale predictive accuracy as evidence about language structure, rather than dismissing it. This requires revising our epistemological standards (valuing predictive success and hybrid explanations) and rethinking cognitive assumptions (e.g. humans may use strong statistical learning with only mild innate biases). We outline how LLM findings imply concrete changes in theory, propose testable hypotheses about learning and meaning, and sketch a research agenda with new data, benchmarks, and interdisciplinary methods. Key elements include:
+The most useful lesson of large language models is not that Chomsky was wrong and statistics were right. That framing preserves the old argument by merely swapping the winner.
 
-- **Empirical Pillar:** LLMs (e.g. BERT, GPT-2/3/4, PaLM, LLaMA, Claude) now capture many syntactic and semantic phenomena. They achieve state-of-the-art results on GLUE/SuperGLUE, MMLU, and even beat fine-tuned SOTA on reasoning tasks[\[4\]](https://arxiv.org/abs/2204.02311#:~:text=demonstrate%20continued%20benefits%20of%20scaling,source%20code%20generation%2C%20which%20we)[\[5\]](https://aclanthology.org/N19-1423/#:~:text=abstract%20%3D%20,art%20results%20on%20eleven%20natural). They generalize compositionally in ways that refute the strongest “innateness required” claims[\[6\]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#:~:text=The%20LAMBADA%20dataset%20,of%20the%20sentence%2C%20but%20are)[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible). We tabulate LLM capabilities (Table 1) and show that what Chomsky called “impossible” grammars can be learned by these models in practice.
-- **Epistemological Pillar:** We question Chomsky’s demand for *explanatory* adequacy over performance. In science, predictive accuracy is a valid form of knowledge. A modern theory of language can be informed by models that work well on the data. We propose criteria for theory-evaluation that incorporate both predictive fit and interpretability, and treat large-scale LLM success as strong evidence to update linguistic hypotheses.
-- **Cognitive Pillar:** We draw implications for how children learn language. LLMs show that with enough data and capacity, many linguistic patterns can be learned without richly-encoded language-specific rules[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible)[\[7\]](https://arxiv.org/abs/2302.13971#:~:text=,models%20to%20the%20research%20community). This suggests hybrid models: general statistical learning mechanisms plus minimal inductive biases (e.g. symbol-like architectures, pragmatic priors). We outline testable predictions (e.g. probing which features must be innate vs emergent, how to measure child vs model learning curves).
-- **Philosophical Pillar:** We address meaning, grounding, and agency. LLMs lack world grounding, but we view this as a solvable gap. We endorse research directions like causal/world models and multimodal grounding to impart semantics to LMs. We also propose a view of language as a pragmatic tool, with norms and intentions, that extends beyond mere string prediction.
-- **Methodology:** We recommend new experimental methods: e.g. designing benchmarks that distinguish innate-rule vs learned-pattern predictions; developing formal mappings between model representations and linguistic abstractions; and tightly controlled child vs model learning comparisons. We suggest interdisciplinary “hybrid” methodologies combining NLP engineering with psycholinguistic experiment.
-- **Research Agenda:** We chart short- (improving LLM interpretability, assembling more child-like corpora), medium- (building grounded multimodal LMs, cognitive architecture studies) and long-term projects (integrating LMs with robotics/cognition, neuro-cognitive measurements). Datasets for such research might include child-directed speech corpora, diverse multimodal dialogues, and psycholinguistic elicitation tasks (some still to be developed).
-- **Risks & Ethics:** We acknowledge LLM limitations (hallucinations, bias, data privacy, societal misuse) and call for mitigation (e.g. transparency standards, bias audits[\[8\]](https://arxiv.org/abs/2204.02311#:~:text=step%20reasoning%20tasks%2C%20and%20outperforming,and%20discuss%20potential%20mitigation%20strategies)[\[9\]](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1807664/abstract#:~:text=oversight%20and%20legal%20guidelines%20,systems%20trained%20on%20historical%20data), clarity on data provenance). These challenges do not invalidate the scientific importance of LLMs but must be addressed.
+A more productive theory begins from a different premise:
 
-**Conclusion & Principles:** We conclude that language science must pivot from Chomsky’s old strictures toward a synthesis that fully recognizes LLM evidence. Concretely, we propose these principles: (1) Empirical success is evidence – treat LLMs’ task performance as data about language. (2) Hybrid models – allow a mix of learned structure and minimal innate biases. (3) Multimodal grounding – incorporate world knowledge into language models. (4) Theory iteration – update linguistic theories in light of model behavior via formal hypotheses and tests (see Flowchart 1). (5) Interdisciplinary rigor – use cognitive, computational, and neuroscientific methods in tandem. (6) Ethical reflection – ensure applications and research address bias, transparency, and societal impact.
+> **Language acquisition is a constrained learnability problem.**
 
-The rest of the report elaborates these points, with extensive citations to LLM literature, Chomsky’s own statements, and recent analyses. We aim for a **comprehensive reorientation**: moving beyond simply critiquing Chomsky, to building the next-generation theory of language in the age of AI.
+A learner encounters a finite, structured stream of experience. The learner itself is not neutral: it has memory, architecture, perceptual channels, representational capacities, objectives, attentional tendencies, and developmental history. Out of that interaction comes a system capable of open-ended linguistic generalization. The scientific task is to determine **which constraints on the learner and the input are necessary to produce the human result**.
 
-## Goals and Scope
+Large language models matter because they have expanded the set of learning systems that can be experimentally compared. They show that predictive learning from exposure can produce much richer linguistic structure than many earlier debates assumed. But they also make the residual questions sharper. Their success depends on inductive bias and often enormous data; their failures can be highly structured; their internal representations and developmental trajectories need not match humans; and formal linguistic competence can diverge from grounded, goal-directed language use.
 
-This manifesto aims to **reformulate theories of language** in light of LLM advances. We seek to:  
-- **Defend and extend** what LLMs have shown (their empirical robustness) rather than merely critiquing limitations.  
-- **Revise theoretical assumptions:** explicitly acknowledge the legitimacy of data-driven generalizations in language theory.  
-- **Bridge disciplines:** integrate insights from AI, cognitive science, and linguistics to form a coherent post-Chomskyan framework.
+A genuinely post-Chomskyan program should therefore preserve one of generative linguistics' deepest questions—**how finite experience yields structured, productive competence**—while replacing broad impossibility claims and binary nature-versus-statistics arguments with explicit competitions among learners.
 
-The scope is broad: encompassing syntax, semantics, acquisition, and the philosophy of language. We do **not** assert that LLMs are perfect theories of mind, but we take their achievements seriously. This report does *not* focus on narrow engineering details; instead, it uses LLM successes as **evidence about language and cognition**. The audience includes linguists, AI researchers, cognitive scientists, and philosophers interested in how language theory should evolve.
+This is not a manifesto for abandoning theory in favor of benchmarks. It is a proposal for making theory more falsifiable.
 
-## Empirical Pillar: Survey of LLM Capabilities (2018–2026)
+## What “post-Chomskyan” means here
 
-Since 2018, a rapid series of breakthroughs has reshaped what machines can do with text. Below is a non-exhaustive timeline of major milestones in LLM development, focusing on publicly documented models and papers:
+The term does not mean that the history of generative linguistics should be discarded or that every concept associated with Chomsky has been refuted. Chomsky's own program changed substantially from early transformational grammar through Principles and Parameters and Minimalism. Treating “Universal Grammar” as one frozen list of 1960s rules would be historically and theoretically careless.
 
-    timeline
-        title Timeline of Large Language Model Milestones
-        2017 : Transformer introduced (Vaswani et al., 2017)[10]  
-        2018 : BERT (Devlin et al. 2019) – deep bidirectional Transformer achieves SOTA on GLUE, SQuAD[5]  
-        2019 : GPT-2 (Radford et al. 2019) – 1.5B parameters, shows startling zero-shot abilities (e.g. LAMBADA reading task, see Table 3)[6]  
-        2020 : GPT-3 (Brown et al. 2020) – 175B parameters; strong few-shot learning (translation, QA, arithmetic) without fine-tuning[1]  
-        2021 : Switch Transformers, scaled LMs; continued incremental gains on benchmarks  
-        2022 : PaLM (Chowdhery et al., 2022) – 540B parameters; state-of-art few-shot reasoning, surpasses human average on some BIG-bench tasks[4]  
-        2022 : ChatGPT (OpenAI Nov 2022) – GPT-3.5 fine-tuned on dialogue; spawns public interest  
-        2023 : LLaMA (Touvron et al., 2023) – 7–65B models; 13B outperforms GPT-3 on benchmarks[7]  
-        2023 : GPT-4 (OpenAI Mar 2023) – multimodal; passes Bar Exam (~top 10% percentile)[2]; strong code and reasoning capabilities  
-        2023 : Claude 1/2 (Anthropic) and other 70B+ models; Gemini (DeepMind, 2024)  
-        2024–25 : Ongoing improvements (GPT-4.5/5, Llama 2, etc.); multimodal, retrieval-augmented, agentic systems.  
+The break proposed here is methodological.
 
-Major LLMs (open or closed-source) from 2018–2023, with representative capabilities:
+A post-Chomskyan theory should reject three habits:
 
-| **Model (Year)** | **Size/Type** | **Key Achievements** |
-|----|----|----|
-| Transformer (2017)[\[10\]](https://arxiv.org/abs/1706.03762#:~:text=,improving%20over%20the%20existing%20best) | – (Attention architecture) | Founded modern LMs; outperformed RNNs in translation. |
-| GPT-2 (2019)[\[6\]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#:~:text=The%20LAMBADA%20dataset%20,of%20the%20sentence%2C%20but%20are) | 1.5B, autoregressive | First to generate realistic paragraphs; closed forms for interpolation tasks. Surpasses previous in LAMBADA (long-range text)[\[6\]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#:~:text=The%20LAMBADA%20dataset%20,of%20the%20sentence%2C%20but%20are). |
-| BERT (2019)[\[5\]](https://aclanthology.org/N19-1423/#:~:text=abstract%20%3D%20,art%20results%20on%20eleven%20natural) | 0.34B, bidirectional | Fine-tuned to SOTA on GLUE (80.5), MultiNLI, SQuAD (~93 F1)[\[5\]](https://aclanthology.org/N19-1423/#:~:text=abstract%20%3D%20,art%20results%20on%20eleven%20natural). |
-| GPT-3 (2020)[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we) | 175B, autoregressive | Few-shot learning: strong on QA, translation, arithmetic. Generates news articles almost human-like[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we). |
-| PaLM (2022)[\[4\]](https://arxiv.org/abs/2204.02311#:~:text=demonstrate%20continued%20benefits%20of%20scaling,source%20code%20generation%2C%20which%20we) | 540B, autoregressive | Achieves SOTA on multi-step reasoning, code generation, surpasses human avg on BIG-bench[\[4\]](https://arxiv.org/abs/2204.02311#:~:text=demonstrate%20continued%20benefits%20of%20scaling,source%20code%20generation%2C%20which%20we). |
-| GPT-4 (2023)[\[2\]](https://openai.com/index/gpt-4-research/#:~:text=We%E2%80%99ve%20created%20GPT%E2%80%914%2C%20the%20latest,iteratively%C2%A0aligning%20%E2%81%A0%C2%A0GPT%E2%80%914%C2%A0using%20lessons%20from%20our) | 1.8T (approx.), multimodal | Human-level on standardized tests (bar, GRE). Highly capable text+image. Outperforms GPT-3.5 on benchmarks[\[2\]](https://openai.com/index/gpt-4-research/#:~:text=We%E2%80%99ve%20created%20GPT%E2%80%914%2C%20the%20latest,iteratively%C2%A0aligning%20%E2%81%A0%C2%A0GPT%E2%80%914%C2%A0using%20lessons%20from%20our). |
-| LLaMA (2023)[\[7\]](https://arxiv.org/abs/2302.13971#:~:text=,models%20to%20the%20research%20community) | 7–65B, autoregressive | Open foundation models. LLaMA-13B **exceeds** GPT-3 on most tests; 65B rival to PaLM/Chinchilla[\[7\]](https://arxiv.org/abs/2302.13971#:~:text=,models%20to%20the%20research%20community). |
-| Claude (2023) | (size undisclosed) | Improved safety; excels at dialogue; strong on coding and reasoning tasks (Anthropic claims). |
-| Gemini (2023) | (multi-modal) | Advanced reasoning and planning; demonstration-level capabilities (DeepMind). |
+1. **Innateness by incredulity.** A structure should not be declared unlearnable merely because no obvious surface cue explains it.
+2. **Statistical triumphalism.** A model should not be declared a theory of human acquisition merely because it achieves high predictive accuracy after enormous training.
+3. **Benchmark substitution.** Success on generic NLP tasks should not stand in for reproducing the particular generalizations, error patterns, data efficiency, and developmental constraints that a linguistic theory is supposed to explain.
 
-**Benchmarks and Capabilities:** Modern LLMs display proficiency across syntax, semantics, and world knowledge tasks: - **Benchmarks:** They set new records on GLUE/SuperGLUE, MMLU (multi-subject exam), HellaSwag, translation tasks, code challenges (HumanEval), etc. GPT-4 scores ~90% on MMLU (57 subjects)[\[11\]](https://openai.com/index/gpt-4-research/#:~:text=Many%20existing%20ML%20benchmarks%20are,as%20Latvian%2C%20Welsh%2C%20and%20Swahili).  
-- **Generalization:** LLMs can perform **zero-shot and few-shot** learning: GPT-3 solved word unscrambling and arithmetic via prompt instructions[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we). They show *compositional understanding* (e.g. chain-of-thought prompting emerges spontaneously[\[12\]](https://openai.com/index/gpt-4-research/#:~:text=GPT%E2%80%914%20can%20accept%20a%20prompt,research%20preview%20and%20not%20publicly)).  
-- **Long-range Dependencies:** GPT-2/3 markedly improved predictions requiring 50+ token context (LAMBADA dataset)[\[6\]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#:~:text=The%20LAMBADA%20dataset%20,of%20the%20sentence%2C%20but%20are).  
-- **Semantic Coherence:** LLMs produce coherent discourse. GPT-3 outputs can fool humans as human-written news[\[13\]](https://arxiv.org/abs/2005.14165#:~:text=well%20as%20some%20datasets%20where,societal%20impacts%20of%20this%20finding).  
-- **Failures and Limits:** Nevertheless, LLMs still hallucinate facts and struggle with some logical puzzles. OpenAI notes GPT-4 “still is not fully reliable (it ‘hallucinates’ facts and makes reasoning errors)[\[14\]](https://openai.com/index/gpt-4-research/#:~:text=Limitations).” Issues include rare-word prediction errors, biases, sensitivity to phrasing, and brittleness outside training distribution.
+In their place, the field can use a more demanding principle:
 
-Overall, **empirical evidence** is that statistical LMs with no explicit innate grammar can **acquire rich linguistic competence**. They handle hierarchical syntax (negation, agreement, relative clauses) and nuanced semantics (co-reference, entailment) in practice. For example, the 540B PaLM “figures out much of how language works” simply via pattern learning[\[4\]](https://arxiv.org/abs/2204.02311#:~:text=demonstrate%20continued%20benefits%20of%20scaling,source%20code%20generation%2C%20which%20we)[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible). These findings challenge key Chomskyan claims (see Table 1 below).
+> A proposed linguistic constraint earns explanatory weight when removing or weakening it makes human-like acquisition fail across realistic inputs and credible competing learners.
 
-## Epistemological Pillar: Explanation vs Prediction
+The inverse matters too:
 
-Traditionally, Chomskyan linguistics demanded *explanatory adequacy* – theories that not only fit the data but explain how competence arises from innate principles[\[15\]](https://en.wikipedia.org/wiki/Aspects_of_the_Theory_of_Syntax#:~:text=Additionally%2C%20Chomsky%20sets%20forth%20another,syntactic%20constructions). However, in many sciences (physics, biology), highly predictive models are valued even if they are “black boxes” (e.g. statistical mechanics, deep learning of vision). We argue that language science must likewise **value empirical predictive success** as evidence. LLM performance is not just engineering fluff – it reveals lawful patterns in language use.
+> A proposed innate constraint loses explanatory weight when diverse, relatively general learners repeatedly acquire the target generalization from realistic experience without it.
 
-- **Redefining Adequacy:** A post-Chomskyan theory would treat high accuracy on language tasks as a form of adequacy. Just as statistical physics was accepted for predicting gas behaviors, a statistical model of language is a valid explanans if it correctly captures phenomena. In linguistics, this means an LLM that consistently predicts well is evidence of underlying structure it has implicitly learned.
-- **Predictive Power as Data:** Predictions from LLMs can generate hypotheses about language. For instance, if an LLM consistently prefers X over Y syntactic structure, that suggests humans might too, guiding empirical tests. Thus, model predictions become a new source of data for theory building.
-- **Science of Language:** We reconcile Chomsky’s ideals with practice: a theory can include mechanistic or algorithmic components discovered from data. The fact that LLMs “figure out much of how language works” from data[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible) means theory must account for this mechanism, not ignore it.
-- **Evaluation Standards:** We propose criteria that blend statistical adequacy with interpretability. For example, a hypothesis (e.g. “subject-verb agreement requires number projection”) should predict LLM output distribution, and the hypothesis’s structural simplicity should factor into its evaluation. Big picture: both **fit** and **parsimony** matter.
+This makes computational learning evidence symmetrical. Models are not machines for proving empiricism. They are experimental adversaries for any necessity claim.
 
-In short, we invert Chomsky’s stance: rather than dismissing data-centric models as “not explanatory,” we say: **prediction is a form of explanation** when backed by rigorous testing. If LLMs solve a task, the burden is on prior theory to explain *how they could* without UG, or else adapt. This epistemological shift means linguistic theories must be responsive to large-scale behavioral data from models and humans alike.
+## Four levels that language theory should keep separate
 
-## Cognitive Pillar: Acquisition and Hybrid Models
+A major source of confusion is the tendency to ask one model to answer every question about language at once. A more disciplined theory separates at least four levels.
 
-Chomsky asserted that children’s sparse input forces strong nativism[\[16\]](https://chomsky.info/20230424-2/#:~:text=acquisition,frequency%20distribution%20is%20considered)[\[17\]](https://chomsky.info/20230424-2/#:~:text=It%20is%20absurd%20beyond%20discussion,the%20enormous%20corpus%20they%20analyze). The LLM evidence suggests a more nuanced picture: human learners likely combine statistical learning with some inductive biases, but those biases may be **weaker or more general** than traditionally thought.
+### 1. Learnability
 
-- **Data Efficiency:** Children learn from *orders of magnitude* less data than GPT-3 (which saw ~45TB of text)[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible). This implies humans use powerful inductive biases or superior learning algorithms. However, LLM success demonstrates that *given enough data or experience*, similar linguistic competence can emerge. This shifts focus to: what minimal biases (e.g. hierarchical processing, memorization limits) are required for child-like learning from data-size of a child’s environment (e.g. million-word scale)? We should investigate scaled-down LLMs or incremental learning from limited data as a proxy for child learning.
-- **Inductive Biases and Structure:** It remains plausible that humans have domain-general biases (e.g. preference for hierarchical over linear rules, or predisposition for certain mappings). A modern theory might posit relatively *flat* priors (e.g. favor continuity, locality) instead of full UG. Some proposals include combining LLMs with symbolic components (e.g. augmenting GPT-4 with a small kernel of structured rules). We should formalize “hybrid” models (e.g. neural network with a small grammar-like module) and derive predictions.
-- **Testable Predictions:** The manifesto advocates designing critical tests. For instance, create a synthetic language with just enough structure that an unconstrained LLM fails but a system with a particular bias would succeed. If humans learn such a language, that suggests the needed bias. Another test: examine LLMs and children on systematicity tasks (e.g. transforming passive voice with novel verbs). If LLMs and toddlers behave differently, that pinpoints differences in their biases.
-- **Role of Grounding:** Human learning is situated (grounded in perception and action) more than pure text. We therefore consider that some of the “innate” aspects might arise from embodied experience (e.g. learning word meaning from seeing objects). LLMs are disembodied; hence we predict humans still outperform LLMs on tasks requiring sensorimotor grounding unless LLMs are multimodal. This calls for research into models that learn language alongside vision or interaction, as proxies for child learning.
+**What can be acquired from what experience by what learner?**
 
-Overall, the cognitive pillar recommends reframing acquisition: children and LLMs might use similar data-driven machinery, but with different resource/bias regimes. Future psycholinguistic work should **quantify the alignment** between LLM learning curves and child development, guiding how to incorporate any necessary priors into models.
+This is the level most directly transformed by modern language modeling. A learnability claim specifies the input, learner, target phenomenon, and success criterion. It can be tested by changing one component while holding the others fixed.
 
-## Philosophical Pillar: Meaning, Grounding, and Agency
+Questions at this level include:
 
-Chomsky famously sidestepped meaning and pragmatics, focusing on syntax[\[15\]](https://en.wikipedia.org/wiki/Aspects_of_the_Theory_of_Syntax#:~:text=Additionally%2C%20Chomsky%20sets%20forth%20another,syntactic%20constructions). In a post-Chomskyan view, language’s **meaningful use** is central. LLMs, being text-only, highlight the gap between form and meaning, but they also suggest ways forward:
+- Can a learner infer filler-gap dependencies from realistic exposure?
+- What data support island sensitivity?
+- Which aspects of morphology emerge under a given tokenization?
+- Does a learner prefer humanly possible structures over carefully controlled impossible alternatives?
+- How much experience is required before the generalization appears?
 
-- **Meaning is Not Mysterious:** LLMs acquire substantial *distributional semantics*. They capture synonyms, analogies, and even polysemy to a surprising degree[\[18\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=combinations,they%20parallel%20the%20language%20network)[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we). This supports the idea that much of semantics can be learned from language itself. The remaining challenge is tying language to *grounded concepts*. We propose research on grounded LMs (text+vision or robotics) to simulate how word meanings relate to world features, enabling “true” semantics.
-- **Pragmatics and Context:** LLMs struggle with discourse coherence and intention, reminding us that language is use in context. Our manifesto embraces pragmatics: language understanding involves speaker goals, belief modeling, social norms. We can incorporate theory-of-mind modules or reinforcement learning with human feedback (as in RLHF) to model these aspects. For instance, aligning LLM output with intended meanings via interactive training is a research direction that aligns with how children learn language in social context.
-- **Agency and Normativity:** Language use is generative and purposeful. Human language is not just guesswork; it follows conversational maxims and norms. We should integrate theories from pragmatics and philosophy of language (e.g. Gricean maxims) into model evaluation. For example, testing LLMs on tasks requiring sincerity or irony, and using those results to refine theories.
-- **Causal and Symbolic Extensions:** Philosophers often point out that LLMs lack causal understanding. We consider future research embedding LLMs in causal reasoning systems. While LLMs may never fully model human agency, studying how adding even simple symbolic/causal components (like chain-of-thought or external memory) changes performance can inform how to merge the best of both worlds.
+Learnability is where poverty-of-the-stimulus arguments should live or die.
 
-In essence, the philosophical pillar demands extending the manifesto beyond form: any post-Chomskyan theory must account for *meaningful use*. We propose a research program bridging distributional language with grounded cognition, so that a future theory treats LLMs not as perfect minds but as clues to the interplay of statistical structure with human-like semantics.
+### 2. Representation
 
-## Methodology and Evaluation
+**What internal structure supports the acquired behavior?**
 
-This manifesto calls for new empirical methods that unite computational and linguistic rigor:
+Two learners can reach similar outputs through very different representations. A model that passes grammaticality tests may encode hierarchical structure, shallow distributional shortcuts, memorized templates, or some mixture.
 
-- **Benchmarks for Innateness Hypotheses:** Create controlled test languages (like formal “impossible languages”) to pit LLMs against infants. Example: generate a tiny grammar with unnatural constraints, train an LLM and a human child (via interactive simulations), and see which fails. An existing effort along these lines (Kallini et al. 2024) found GPT-2 does *worse* on designed impossible grammars[\[19\]](https://aclanthology.org/2024.acl-long.787/#:~:text=word%20positions,these%20cognitive%20and%20typological%20investigations), contradicting Chomsky’s claim. We advocate expanding such experiments.
-- **Psycholinguistic Probes for LLMs:** Use established human experiments (e.g. garden-path sentences, speeded comprehension) as probes on LLMs. If LLMs display similar “surprisal” or error patterns, that informs shared biases.
-- **Interpretability Tools:** Combine probing classifiers, layer attention analysis, and causal interventions to identify what LLMs learn. For example, see if hidden states correspond to parts of speech or tree structures[\[20\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=In%20this%20section%2C%20we%20evaluate,are%20informative%20for%20linguistic%20theorizing). This can test specific generative hypotheses (like the existence of a Merge operation).
-- **Human-vs-Model Data:** Build datasets aligned between child learners and LLMs. For instance, use child-directed speech corpora to train smaller LMs (“mini GPTs”) and compare their generalizations to child behavior on the same input.
-- **Evaluation Metrics:** Move beyond generic accuracy. Use measures of *systematicity* (can novel sentences be parsed?), *compositional generalization*, *poverty-of-the-stimulus gaps*, and *learning curve extrapolations*. For semantics, evaluate grounded consistency and robustness to paraphrase. These metrics should be part of standard benchmarks to directly adjudicate innatist vs emergentist claims.
+A linguistic theory should therefore ask not only whether behavior is correct, but whether the internal organization supports the same kinds of generalization under intervention. Useful tests include representation probing, causal interventions, ablations, novel lexical substitutions, structural recombination, and out-of-distribution evaluation.
 
-Overall, the methodology is: **Empirically connect model and human data**. We should use LLMs *as tools* to generate hypotheses, and test those hypotheses against linguistic data and psych experiments. Collaboration between NLP benchmarks and cognitive experiments will be key.
+This level prevents performance from being mistaken for mechanism.
 
-    flowchart LR
-        A([LLM Empirical Data (syntax, semantics, learning behavior)])
-        B{Matches current theories?}
-        C([Update theoretical frameworks (hybrid models, weaker priors)])
-        D([Refine traditional models])
-        E([New experiments & benchmarks])
-        A --> B
-        B -- Yes --> D
-        B -- No  --> C
-        C --> E
-        D --> E
-        E --> A
+### 3. Use and performance
 
-*Flowchart 1: Iterative loop where LLM results prompt evaluation of existing theories. Depending on match/mismatch with predictions (column B), theories are either revised (C) or refined (D). New experiments (E) then generate more data (A), driving further theory updating.*
+**How is linguistic knowledge expressed under finite memory, attention, processing time, task demands, and noise?**
 
-## Research Agenda (Short, Medium, Long Term)
+Human speakers know constructions they sometimes fail to process or produce correctly. A useful cognitive theory needs a story about those divergences. Neural models also have context limits, decoding procedures, interference, and task-sensitive errors, but these need not correspond to human performance constraints.
 
-1.  **Short-Term (1–2 years):**
+The competence-performance distinction therefore should be treated as an empirical decomposition rather than a slogan. Researchers can ask which model errors arise from representation, which from processing, and which resemble human resource limitations.
 
-2.  **Benchmark Development:** Curate tasks that isolate specific linguistic phenomena (e.g. tiny-scale grammars, child-comprehension analogues). For example, sequence-learning tasks analogous to child word-learning experiments, now to test LLMs. (*Datasets: specify grammar schemata, controlled corpora.*)
+### 4. Grounding and functional competence
 
-3.  **Model Probing:** Systematically analyze existing LLMs. Use XAI tools to map internal representations to grammar rules and meanings. Publish clear reports linking model components to linguistic constructs.
+**How does language connect to perception, action, world knowledge, social inference, goals, and shared situations?**
 
-4.  **Child Model Alignment:** Train “child-scale” LMs on realistic amounts of data (e.g. 100M tokens) and compare with child language acquisition data. Leverage existing child corpora (CHILDES, ELMo, etc.).
+Kyle Mahowald and colleagues' distinction between formal and functional linguistic competence is useful here. A model can become highly competent at linguistic form without thereby possessing the full machinery required for human language use in the world.
 
-5.  **Interdisciplinary Workshops:** Bring together linguists, AI, cognitive scientists to define standards for theory evaluation. Create shared evaluation suites that include human experiments and LLM tasks side-by-side.
+Grounding should not be invoked as a mystical veto on text-based models. It should be decomposed experimentally: reference, perceptual categories, action consequences, speaker intentions, common ground, social prediction, causal world models, and interaction can each be tested.
 
-6.  **Medium-Term (3–5 years):**
+These four levels interact, but collapsing them produces bad arguments. A model's failure at grounded reasoning does not erase evidence about syntactic learnability. Its syntactic success does not establish a theory of human thought.
 
-7.  **Multimodal and Interactive LMs:** Develop grounded language models (e.g. paired with vision or robotics) to study semantics. Test them on language tasks that require world knowledge (e.g. “understand instructions about the physical environment”).
+## The central unit: a learner-input-target triple
 
-8.  **Hybrid Architectures:** Build and test models that combine LLMs with symbolic or rule-based modules. For instance, an LLM augmented with a small parser or with explicit variable-binding. Compare performance to pure LLMs on compositional tasks.
+The basic object of the theory is not “language” in the abstract. It is a **learner-input-target triple**:
 
-9.  **Neurocognitive Studies:** Measure brain/behavior correlations. E.g. fMRI studies comparing human language regions to LLM activation patterns[\[21\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=In%20a%202019%20interview%2C%20Chomsky,54%20%2C%20%2077). Use LLM-derived predictions to design new psycholinguistic experiments.
+\[
+(L, D, T)
+\]
 
-10. **Theory Testing via Interventions:** Use interventions on LLMs (e.g. ablating attention heads, re-training with alternate objectives) to simulate “what if” scenarios (like no UG, or different innateness levels) and see how language learning is affected.
+where:
 
-11. **Long-Term (5+ years):**
+- \(L\) is a learner with specified architecture, memory, objective, and inductive biases;
+- \(D\) is the learner's experience, including amount, distribution, modality, ordering, and social context;
+- \(T\) is a target human generalization or developmental pattern.
 
-12. **Integrated Cognitive Models:** Aim for unified cognitive architectures where language learning is embedded in broader cognition (e.g. combine LLM with reasoning engine, memory module, perception). Use this to test ideas about how language fits into the mind.
+The central empirical question is whether training \(L\) on \(D\) yields behavior matching \(T\).
 
-13. **Simulation of Child Development:** Develop simulation platforms that mimic real-world language learning (virtual babies learning a language environment). Evaluate what inductive biases yield child-like learning curves.
+This sounds simple, but it changes the grammar of the debate. Statements such as “children could not learn this from experience” or “Transformers learn syntax from data” are incomplete until the relevant \(L\), \(D\), and \(T\) are specified.
 
-14. **Neural-symbolic Understanding:** Formalize how LLMs might implement symbolic-like structures. E.g. derive grammars from trained networks via algorithms, bridging the symbolic/statistical divide.
+The same target can then be tested across a family of learners:
 
-15. **Policy and Ethics Research:** Study the societal impact of shifting language theory. e.g. how should education adapt if language competence is partly algorithmic? Plan guidelines for ethical AI that reflect our new understanding of language as fluid and learned.
+\[
+L_1, L_2, \ldots, L_n
+\]
 
-Required resources and collaborations: large-scale computing (GPUs/TPUs) for training and fine-tuning models; diverse, multilingual corpora (both text and multimodal) – *specific sizes/datasets unspecified*; experimental platforms for human studies; partnerships between AI labs and psycholinguistics groups.
+and a family of input regimes:
 
-## Risks, Limitations, and Ethical Considerations
+\[
+D_1, D_2, \ldots, D_m.
+\]
 
-While LLMs offer scientific insight, they pose real-world risks that any manifesto must acknowledge:
+The result is not a single benchmark score but a **learnability surface**: a map of which combinations produce the human generalization, how much data they require, which errors they make, and which counterfactual patterns they also learn.
 
-- **Bias and Fairness:** LLMs trained on historical text inherit its biases. Studies find gender/racial biases in medical and hiring contexts[\[9\]](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1807664/abstract#:~:text=oversight%20and%20legal%20guidelines%20,systems%20trained%20on%20historical%20data). Mitigation requires bias auditing and fairness-aware training.
-- **Hallucination and Misinformation:** As noted by OpenAI, models like GPT-4 still “hallucinate” facts[\[14\]](https://openai.com/index/gpt-4-research/#:~:text=Limitations). This limits high-stakes use (medicine, law) and means outputs should be verified. We advocate developing uncertainty quantification and grounding checks.
-- **Data Privacy:** Large models may memorize and regurgitate private training data. Future models should explore data vetting and privacy-preserving learning.
-- **Accountability:** If models are used in decision-making, responsibility is unclear. We support research into explainable AI and human-in-loop systems (as in GPT-4’s manual review emphasis[\[14\]](https://openai.com/index/gpt-4-research/#:~:text=Limitations)).
-- **Societal Impact:** Educational systems must adapt (plagiarism vs learning). We note Chomsky’s critique that ChatGPT enables plagiarism[\[22\]](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html#:~:text=As%20the%20rel%C2%ADe%C2%ADvant%20tech%C2%ADnol%C2%ADo%C2%ADgy%20now,he%20him%C2%ADself%20did%20when%20he), and call for updated pedagogical methods. Furthermore, displacement of jobs by AI-generated text or code is a concern; policies for workforce transition should be part of the agenda.
-- **Dual-Use and Safety:** Powerful LMs can be misused (deepfakes, disinformation, automated hacking). The research agenda must include adversarial testing and technical controls (watermarking, rate limits) to mitigate malicious use, as well as societal guidelines.
+A structural prior becomes scientifically interesting when it changes that surface in a way that aligns with humans.
 
-We believe these risks do not undermine the scientific value of LLM research but necessitate **responsible AI** principles. The manifesto encourages openness (shared models and data to study bias), interdisciplinary oversight (ethics committees, regulatory frameworks), and designing AI with human values in mind.
+## Architecture is bias
 
-## Conclusion: Actionable Principles
+The phrase “learned from data alone” should largely disappear from serious discussion.
 
-The manifesto’s core message is that **language science must adapt**: large-scale statistical learning is here to stay, and we must transform our theories accordingly. Our **actionable principles** are:
+No learner encounters data alone. A Transformer imposes a computational form. A recurrent network imposes another. A child arrives with a body, sensory systems, memory capacities, attention, motivation, social orientation, and a developmental trajectory. Even a simple Bayesian learner has a hypothesis space and prior.
 
-1.  **Empirical Primacy:** *Treat LLM success as evidence.* New theories should explain why predictive models work. Fit empirical data first, then abstract to underlying principles.
-2.  **Hybrid Explanations:** *Embrace mixed models.* Combine statistical learning mechanisms with only the minimal necessary innate biases. Test which biases are genuinely needed and which were over-hypothesized.
-3.  **Grounded Semantics:** *Integrate meaning & context.* Pursue multimodal and interactive learning models so that language is inherently tied to perception and goals.
-4.  **Iterative Theory Revision:** *Let data guide theory.* Adopt an iterative loop (Flowchart 1) where model behavior repeatedly informs theoretical revisions, not the other way around.
-5.  **Interdisciplinary Rigor:** *Foster collaboration.* Linguists, AI researchers, cognitive scientists, and philosophers should jointly construct the new paradigm, using each other’s tools and data.
-6.  **Ethical Responsibility:** *Prioritize safety.* Develop and deploy LLMs in ways that respect fairness, privacy, and human values, recognizing their societal impact.
+The meaningful dispute is therefore not whether language requires bias. It is **how much of the relevant bias must be specifically linguistic**.
 
-In sum, we call for a **post-Chomskyan turn in linguistics**: one that retains rigorous theorizing but anchors it in the rich empirical lessons of AI. Language theory after LLMs should be a synthesis: open to the world’s data, grounded in cognition, and ever-responsive to the machines that now learn language.
+Several possibilities should be placed in competition:
 
-**Sources:** All claims above are backed by primary literature. Key references include Transformer/BERT/GPT papers[\[10\]](https://arxiv.org/abs/1706.03762#:~:text=,improving%20over%20the%20existing%20best)[\[5\]](https://aclanthology.org/N19-1423/#:~:text=abstract%20%3D%20,art%20results%20on%20eleven%20natural)[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we), LLaMA and PaLM studies[\[4\]](https://arxiv.org/abs/2204.02311#:~:text=demonstrate%20continued%20benefits%20of%20scaling,source%20code%20generation%2C%20which%20we)[\[7\]](https://arxiv.org/abs/2302.13971#:~:text=,models%20to%20the%20research%20community), Chomsky’s recent interviews[\[23\]](https://chomsky.info/20230424-2/#:~:text=Noam%20Chomsky%3A%C2%A0I%E2%80%99ve%20seen%20a%20few,acquisition%20that%20I%20know%20of)[\[17\]](https://chomsky.info/20230424-2/#:~:text=It%20is%20absurd%20beyond%20discussion,the%20enormous%20corpus%20they%20analyze), Piantadosi (2024)[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible), and analyses of LLM linguistic behavior[\[6\]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#:~:text=The%20LAMBADA%20dataset%20,of%20the%20sentence%2C%20but%20are)[\[20\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=In%20this%20section%2C%20we%20evaluate,are%20informative%20for%20linguistic%20theorizing). Each section cites these sources to ground our arguments.
+- rich language-specific structural constraints;
+- weak language-specific priors combined with strong general sequence-learning biases;
+- domain-general hierarchy or memory constraints;
+- perceptual and motor structure that indirectly favors linguistic regularities;
+- social-pragmatic biases toward communicative interpretations;
+- architectural biases emerging from efficient prediction or compression;
+- combinations of these.
 
-------------------------------------------------------------------------
+This reframing improves both sides of the old debate. Generative linguists no longer need to defend an all-or-nothing “innate grammar” object. Statistical learners no longer get to hide architecture inside the word *general*.
 
-[\[1\]](https://arxiv.org/abs/2005.14165#:~:text=approaches.%20Specifically%2C%20we%20train%20GPT,At%20the%20same%20time%2C%20we) [\[13\]](https://arxiv.org/abs/2005.14165#:~:text=well%20as%20some%20datasets%20where,societal%20impacts%20of%20this%20finding) \[2005.14165\] Language Models are Few-Shot Learners
+## Developmental realism is part of the theory
 
-<https://arxiv.org/abs/2005.14165>
+A model trained on a trillion tokens and a child exposed to years of multimodal social interaction are not comparable simply because both eventually produce grammatical English.
 
-[\[2\]](https://openai.com/index/gpt-4-research/#:~:text=We%E2%80%99ve%20created%20GPT%E2%80%914%2C%20the%20latest,iteratively%C2%A0aligning%20%E2%81%A0%C2%A0GPT%E2%80%914%C2%A0using%20lessons%20from%20our) [\[11\]](https://openai.com/index/gpt-4-research/#:~:text=Many%20existing%20ML%20benchmarks%20are,as%20Latvian%2C%20Welsh%2C%20and%20Swahili) [\[12\]](https://openai.com/index/gpt-4-research/#:~:text=GPT%E2%80%914%20can%20accept%20a%20prompt,research%20preview%20and%20not%20publicly) [\[14\]](https://openai.com/index/gpt-4-research/#:~:text=Limitations) GPT-4 \| OpenAI
+The BabyLM research program is important because it treats **sample efficiency** as a first-class scientific variable. Constraining models to much smaller corpora forces architecture, objectives, data composition, and learning strategy to do more explanatory work.
 
-<https://openai.com/index/gpt-4-research/>
+A post-Chomskyan program should push this further. Developmental realism has several dimensions:
 
-[\[3\]](https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf#:~:text=Perhaps%20most%20notably%2C%20modern%20language,resulting%20systems%20are%20incredibly%20flexible) pemt.ru
+### Quantity
 
-<https://pemt.ru/wp-content/uploads/2023/06/piantadosi_modern-lang.pdf>
+How many words, utterances, interactions, or hours of experience are available before the human target behavior appears?
 
-[\[4\]](https://arxiv.org/abs/2204.02311#:~:text=demonstrate%20continued%20benefits%20of%20scaling,source%20code%20generation%2C%20which%20we) [\[8\]](https://arxiv.org/abs/2204.02311#:~:text=step%20reasoning%20tasks%2C%20and%20outperforming,and%20discuss%20potential%20mitigation%20strategies) \[2204.02311\] PaLM: Scaling Language Modeling with Pathways
+### Distribution
 
-<https://arxiv.org/abs/2204.02311>
+Children do not receive a uniform sample of the web. Their input is concentrated in recurring speakers, environments, constructions, routines, and communicative needs.
 
-[\[5\]](https://aclanthology.org/N19-1423/#:~:text=abstract%20%3D%20,art%20results%20on%20eleven%20natural) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - ACL Anthology
+### Order
 
-<https://aclanthology.org/N19-1423/>
+Experience arrives through time. A model that succeeds only when late, complex structures are mixed into training from the beginning may be learning under a developmental regime unlike the human one.
 
-[\[6\]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#:~:text=The%20LAMBADA%20dataset%20,of%20the%20sentence%2C%20but%20are) Language Models are Unsupervised Multitask Learners
+### Modality
 
-<https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf>
+Children hear prosody, see gestures and objects, track gaze, act on the world, and participate in shared situations. Text-only corpora strip away information that might either simplify or complicate acquisition.
 
-[\[7\]](https://arxiv.org/abs/2302.13971#:~:text=,models%20to%20the%20research%20community) \[2302.13971\] LLaMA: Open and Efficient Foundation Language Models
+### Interaction
 
-<https://arxiv.org/abs/2302.13971>
+Human learners can alter their future input by attending, responding, asking, imitating, and acting. Their data distribution is partly endogenous.
 
-[\[9\]](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1807664/abstract#:~:text=oversight%20and%20legal%20guidelines%20,systems%20trained%20on%20historical%20data) Frontiers \| Editorial: Ethical Considerations of Large Language Models: Challenges and Best Practices
+A useful computational theory should gradually add these dimensions instead of assuming that “more realistic” always means “more data.” Sometimes additional modalities reduce ambiguity and make learning easier; sometimes they impose new integration problems. That too is empirical.
 
-<https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1807664/abstract>
+## The evidence can support richer innateness
 
-[\[10\]](https://arxiv.org/abs/1706.03762#:~:text=,improving%20over%20the%20existing%20best) \[1706.03762\] Attention Is All You Need
+A post-Chomskyan program should be designed so that a strong innateness result is possible.
 
-<https://arxiv.org/abs/1706.03762>
+Suppose researchers identify a human generalization that emerges reliably and early. They construct developmentally realistic corpora containing the evidence plausibly available to learners. A broad family of high-capacity, domain-general learners repeatedly fails. Adding more generic capacity does not help. Enlarging the corpus within realistic bounds does not help. But introducing a specific structural prior causes rapid, human-like acquisition while also improving the learner's rejection of impossible alternatives.
 
-[\[15\]](https://en.wikipedia.org/wiki/Aspects_of_the_Theory_of_Syntax#:~:text=Additionally%2C%20Chomsky%20sets%20forth%20another,syntactic%20constructions) Aspects of the Theory of Syntax - Wikipedia
+That would be evidence **for** the prior.
 
-<https://en.wikipedia.org/wiki/Aspects_of_the_Theory_of_Syntax>
+The conclusion would be stronger than an argument from intuition because competing learners had been allowed to try.
 
-[\[16\]](https://chomsky.info/20230424-2/#:~:text=acquisition,frequency%20distribution%20is%20considered) [\[17\]](https://chomsky.info/20230424-2/#:~:text=It%20is%20absurd%20beyond%20discussion,the%20enormous%20corpus%20they%20analyze) [\[23\]](https://chomsky.info/20230424-2/#:~:text=Noam%20Chomsky%3A%C2%A0I%E2%80%99ve%20seen%20a%20few,acquisition%20that%20I%20know%20of) ChatGPT and human intelligence: Noam Chomsky responds to critics
+Nur Lan, Emmanuel Chemla, and Roni Katzir's 2026 work on parasitic gaps and across-the-board movement illustrates the shape of such an argument. Their current networks fail on important parts of wh-movement under natural training conditions, while enrichment of the relevant evidence improves performance. They appropriately treat the result as tentative rather than final because failure may still belong to the learner rather than the input. The post-Chomskyan response is not to dismiss the failure. It is to build better competing learners and see whether the result survives.
 
-<https://chomsky.info/20230424-2/>
+A theory becomes more credible when it can win an adversarial experiment rather than an argument over plausibility.
 
-[\[18\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=combinations,they%20parallel%20the%20language%20network) [\[20\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=In%20this%20section%2C%20we%20evaluate,are%20informative%20for%20linguistic%20theorizing) [\[21\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/#:~:text=In%20a%202019%20interview%2C%20Chomsky,54%20%2C%20%2077) Dissociating language and thought in large language models - PMC
+## The evidence can also dissolve proposed innate structure
 
-<https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/>
+The reverse path is equally important.
 
-[\[19\]](https://aclanthology.org/2024.acl-long.787/#:~:text=word%20positions,these%20cognitive%20and%20typological%20investigations) Mission: Impossible Language Models - ACL Anthology
+Wilcox, Futrell, and Levy's work on filler-gap dependencies and island constraints shows that autoregressive models can acquire nontrivial hierarchical behavior from exposure, weakening a poverty-of-the-stimulus argument for that particular structure. If such successes replicate across architectures, child-scale data regimes, languages, and stronger diagnostics, the explanatory burden on a rich innate constraint should decline.
 
-<https://aclanthology.org/2024.acl-long.787/>
+This does not imply a blank slate. The successful learner has biases. But the location of explanation moves. What once appeared to require a language-specific prohibition may instead emerge from more general properties of prediction, memory, representation, or distribution.
 
-[\[22\]](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html#:~:text=As%20the%20rel%C2%ADe%C2%ADvant%20tech%C2%ADnol%C2%ADo%C2%ADgy%20now,he%20him%C2%ADself%20did%20when%20he) Noam Chomsky on ChatGPT: It's "Basically High-Tech Plagiarism" and "a Way of Avoiding Learning" \| Open Culture
+The correct theoretical reaction is not embarrassment. It is compression: remove machinery that no longer earns its keep.
 
-<https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html>
+A good post-Chomskyan theory should be willing to become **less innate** or **more innate** phenomenon by phenomenon.
+
+## Possible languages as a ranking problem
+
+Generative linguistics has long asked why human languages occupy only a restricted region of the space of logically possible communication systems. LLMs create a new way to operationalize that question.
+
+Instead of demanding that a learner assign a binary label—possible or impossible—the theory can study a **learnability ranking**. Given synthetic languages controlled for superficial complexity, how rapidly does the learner acquire each one? How much data does it require? How robustly does it generalize? Does the ranking correlate with human typological plausibility?
+
+Kallini and colleagues' 2024 impossible-language experiments are an early example of this approach: GPT-2-small models found several manipulated languages harder to learn than English. Tim Hunter's subsequent criticism of a confounded comparison is equally important. The lesson is not that the experiment failed; it is that the possible-language problem now has experimental design criteria.
+
+A stronger program would require:
+
+- multiple independently motivated impossible-language transformations;
+- controls for description length and statistical complexity;
+- different architectures and tokenizations;
+- human artificial-language learning where feasible;
+- held-out structural generalization rather than training loss alone;
+- preregistered predictions about which systems should be easy or hard;
+- replication across natural languages.
+
+The target is not to rediscover a traditional Universal Grammar by neural network. It is to identify which constraints repeatedly emerge as necessary to reproduce the shape of the human language space.
+
+## Representation should be tested causally
+
+Behavioral benchmarks alone are too permissive. A model can arrive at the right answer for the wrong reason.
+
+A stronger linguistic model should survive **causal representation tests**. Researchers can intervene on internal states, remove heads or pathways, alter memory, substitute lexical items, scramble irrelevant cues, and construct minimal pairs designed to destroy surface heuristics while preserving structure.
+
+Theoretical concepts such as dependency, constituent, feature, agreement, reference, and scope should earn their place by supporting interventions and predictions, not merely by being recoverable from a linear probe after training.
+
+This creates a productive exchange between symbolic linguistic theory and neural modeling. Linguistic categories propose candidate causal abstractions; models provide systems in which those abstractions can be searched for and manipulated.
+
+The goal is neither “the network secretly contains X-bar theory” nor “the network is uninterpretable but scores well.” It is to discover representations with **causal explanatory leverage**.
+
+## Human-model convergence is stronger evidence than model success
+
+A model becomes more informative about human language when several dimensions converge at once.
+
+A useful hierarchy of evidence is:
+
+| Evidence | What it supports |
+| --- | --- |
+| High next-token or benchmark performance | the model predicts the evaluated data well |
+| Correct novel structural generalization | the model learned something beyond local memorization |
+| Success under realistic data limits | the input may contain enough information for that learner |
+| Human-like learning curve | acquisition difficulty may be similarly ordered |
+| Human-like error profile | learner limitations may overlap |
+| Human-like impossible-language selectivity | inductive biases may align |
+| Causally similar internal representations | mechanism may overlap more deeply |
+| Cross-linguistic and developmental replication | explanation is less likely to be English- or benchmark-specific |
+
+No single row is a magic threshold. But the evidentiary claim should scale with the degree of convergence.
+
+This prevents the word *human-like* from doing unlimited work.
+
+## Formal competence should be allowed to stand on its own
+
+A recurring mistake in arguments about LLMs is to treat language as invalid unless it comes bundled with a complete theory of thought.
+
+Mahowald and colleagues' distinction between formal and functional linguistic competence gives a cleaner architecture for theory. A system may model syntax, morphology, lexical relationships, and combinatorial semantics impressively while remaining weak at persistent world models, social reasoning, perception, or action.
+
+For linguistic science, that is not a disqualification. It is a decomposition.
+
+The post-Chomskyan program should therefore resist two temptations:
+
+- **inflation:** claiming that formal linguistic success proves understanding, agency, or general intelligence;
+- **deflation:** claiming that imperfect grounding makes formal linguistic success theoretically irrelevant.
+
+Text-only language models can answer questions about the learnability and representation of linguistic form. Grounded multimodal and interactive systems can answer additional questions about how those forms connect to the world.
+
+The models should be judged against the level they are being asked to explain.
+
+## A concrete experimental protocol
+
+The constructive program can be expressed as a repeatable research cycle.
+
+### Step 1: choose a target phenomenon
+
+Define a human generalization narrowly enough to test: a syntactic dependency, morphological pattern, semantic inference, pragmatic expectation, phonological restriction, or developmental error.
+
+### Step 2: characterize human behavior
+
+Measure judgments, production, comprehension, learning age, variability, and characteristic errors rather than relying on an idealized rule alone.
+
+### Step 3: construct realistic input regimes
+
+Estimate what relevant evidence is available to learners. Include alternative corpora with different assumptions about quantity, distribution, modality, and developmental order.
+
+### Step 4: specify competing learner families
+
+Use learners that differ in the bias under dispute. Do not compare a richly engineered neural architecture with an imaginary blank slate.
+
+### Step 5: predeclare diagnostic predictions
+
+Specify what each theoretical position predicts before training. A benchmark becomes much more probative when it can distinguish hypotheses rather than simply rank systems.
+
+### Step 6: train and evaluate out of distribution
+
+Test novel lexical items, structural recombinations, rare environments, and counterfactual constructions. Include possible and impossible alternatives.
+
+### Step 7: intervene on representations
+
+Use ablations and causal manipulations to determine which internal mechanisms support the behavior.
+
+### Step 8: compare data efficiency and learning trajectory
+
+Ask not only whether the final model succeeds but when, with how much evidence, and in what order.
+
+### Step 9: update the theory
+
+If generic learners succeed robustly, reduce the weight assigned to rich domain-specific prior structure. If they fail robustly and a targeted prior repairs the failure, increase it.
+
+### Step 10: replicate across languages and modalities
+
+A theory of human language should not depend on one English benchmark or one model family.
+
+This cycle is deliberately boring compared with declarations of a new paradigm. That is a virtue. It makes theoretical change cumulative.
+
+## What happens to explanatory adequacy?
+
+Chomsky's distinction between descriptive and explanatory adequacy should not be thrown away. It should be computationally sharpened.
+
+A system that predicts observed sentences may be descriptively impressive without explaining why a human learner converges on one grammar rather than countless alternatives. The post-Chomskyan answer is not that prediction itself equals explanation. It is that **a learning system becomes explanatory when its priors, input, and learning dynamics jointly account for human convergence**.
+
+Explanatory adequacy can therefore be decomposed into questions:
+
+- Why does this learner prefer the attested generalization?
+- Which alternatives does it reject?
+- What information in the input drives the transition?
+- Which prior biases are indispensable?
+- Why does acquisition occur at roughly the observed data scale?
+- Why do the learner's errors resemble or differ from human errors?
+- Does the account generalize cross-linguistically?
+
+A neural system that answers those questions may be explanatorily useful even if it does not look like a traditional grammar. A formal grammar that cannot survive realistic learnability tests may be descriptively elegant without explaining acquisition.
+
+The standard should be reciprocal.
+
+## What happens to Universal Grammar?
+
+Universal Grammar becomes a hypothesis space rather than a sacred object or a defeated relic.
+
+At the richest end, human language acquisition may require highly specific structural priors. At the leanest end, much apparent linguistic specificity may emerge from general learning architecture, memory, perception, communication, and the statistical structure of human languages. The empirical program should locate different phenomena along that continuum.
+
+This may produce a **mosaic theory of innateness**:
+
+- some constraints arise from domain-general computation;
+- some from perceptual or memory limits;
+- some from communicative pressures;
+- some from historically accumulated properties of languages adapted to learners;
+- some may still require language-specific biological structure.
+
+There is no scientific requirement that one answer govern every level.
+
+That possibility is more interesting than the old binary because it turns the contents of human linguistic preparedness into a research output rather than a premise.
+
+## Falsifiers for the post-Chomskyan program
+
+A theory that celebrates every result cannot fail. This program needs explicit conditions that would weaken it.
+
+### It would weaken if generic learner comparison stops discriminating theories
+
+If radically different learner families always reproduce the same patterns whenever scaled sufficiently, computational comparison may reveal little about human priors unless developmental constraints restore discrimination.
+
+### It would weaken if human linguistic targets cannot be specified reliably
+
+A learnability experiment is only as meaningful as the phenomenon it attempts to reproduce. If judgments, developmental data, or cross-linguistic generalizations are unstable, the target itself needs revision.
+
+### It would weaken if internal model explanations remain causally opaque
+
+Behavioral similarity without mechanistic understanding limits cognitive inference. Better interpretability is therefore not optional when claims move from learnability to representation.
+
+### A lean-bias theory would be weakened by repeated child-scale failures
+
+If diverse, high-capacity, domain-general learners repeatedly fail on human generalizations under realistic input while targeted language-specific priors consistently repair those failures, the evidence should move toward richer innate linguistic structure.
+
+### A rich-UG theory would be weakened by repeated generic success
+
+If diverse learners repeatedly acquire supposedly unlearnable structures from realistic input, reproduce human developmental order, reject impossible alternatives, and do so without the proposed language-specific machinery, those constraints should lose explanatory status.
+
+These are not rhetorical concessions. They are the mechanism by which the theory changes.
+
+## Relationship to the evidence-audit companion
+
+This article is the constructive fork of `how-llms-challenge-chomskyan-assumptions-analytical-report`, retitled **The Learner in the Corpus**.
+
+The companion asks what existing LLM evidence actually establishes about Chomskyan claims. This article deliberately begins one step later. It asks what research program follows once the evidence is treated with those limits.
+
+The division is:
+
+- **The Learner in the Corpus:** adjudication of existing evidence;
+- **Language Under Constraint:** a positive framework for future linguistic theory and experiments.
+
+The two should remain separate because a constructive program should not be allowed to manufacture its own empirical verdict.
+
+## Conclusion
+
+The LLM era does not require linguistics to choose between Chomsky and the machine.
+
+It creates the possibility of a more demanding science.
+
+The lasting Chomskyan question remains: how does a finite learner exposed to finite experience acquire a system capable of structured, open-ended language? What changes is the evidentiary standard. Proposed necessities can increasingly be tested against actual learners. Statistical success can be forced to survive child-scale data, impossible-language controls, developmental trajectories, and causal representation tests. Model failures can become evidence for stronger priors rather than embarrassing exceptions.
+
+A post-Chomskyan theory should therefore be neither anti-innate nor anti-statistical. It should be **constraint-seeking**.
+
+Its central question is:
+
+> **What is the smallest, best-supported set of learner and environmental constraints that reproduces the human language trajectory—and what experiment would prove that set insufficient?**
+
+That is a theory of language capable of learning from the machines without mistaking the machines for the answer.
+
+## Sources and further reading
+
+### Empirical foundations
+
+- Ethan Gotlieb Wilcox, Richard Futrell, and Roger Levy, [“Using Computational Models to Test Syntactic Learnability”](https://direct.mit.edu/ling/article/55/4/805/113304/Using-Computational-Models-to-Test-Syntactic), *Linguistic Inquiry* 55, no. 4 (2024): 805–848. DOI: 10.1162/ling_a_00491.
+- Nur Lan, Emmanuel Chemla, and Roni Katzir, [“Large Language Models and the Argument from the Poverty of the Stimulus”](https://doi.org/10.1162/ling_a_00533), *Linguistic Inquiry* 57, no. 2 (2026): 315–342.
+- Julie Kallini, Isabel Papadimitriou, Richard Futrell, Kyle Mahowald, and Christopher Potts, [“Mission: Impossible Language Models”](https://aclanthology.org/2024.acl-long.787/), *Proceedings of ACL 2024*, 14691–14714.
+- Tim Hunter, [“Kallini et al. (2024) Do Not Compare Impossible Languages with Constituency-based Ones”](https://aclanthology.org/2025.cl-2.7/), *Computational Linguistics* 51 (2025): 641–650.
+- Michael Y. Hu et al., eds., [*The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning*](https://aclanthology.org/2024.conll-babylm/), Association for Computational Linguistics, 2024.
+
+### Cognitive and theoretical boundaries
+
+- Roni Katzir, [“Why Large Language Models Are Poor Theories of Human Linguistic Cognition: A Reply to Piantadosi”](https://doi.org/10.5964/bioling.13153), *Biolinguistics* 17 (2023), e13153.
+- Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, and Evelina Fedorenko, [“Dissociating Language and Thought in Large Language Models”](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416727/), *Trends in Cognitive Sciences* 28, no. 6 (2024): 517–540.
+- Steven T. Piantadosi, “Modern Language Models Refute Chomsky's Approach to Language,” in *From Fieldwork to Linguistic Theory: A Tribute to Dan Everett*, Language Science Press, 2024.
+- Noam Chomsky, *Aspects of the Theory of Syntax*, MIT Press, 1965.
+- Noam Chomsky, *The Minimalist Program*, MIT Press, 1995.
