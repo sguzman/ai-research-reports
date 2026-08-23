@@ -1554,26 +1554,21 @@ packages:
     risk_hints: []
     mechanical_flags: []
   moby-dick-as-yankee-self-aggrandizement-and-self-indictment:
-    title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-    lifecycle: complete
+    title: 'The Yankee Leviathan: Grandeur and Self-Indictment in Moby-Dick'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
-    body_bytes: 48115
+    body_bytes: 27445
     h1_count: 1
     local_link_or_image_count: 0
     risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
-    - raw_diagram_source
+    mechanical_flags: []
   modern-progressive-marxism:
     title: Formalizing the Connection Between Modern Progressive Politics and Marxism
     lifecycle: complete
