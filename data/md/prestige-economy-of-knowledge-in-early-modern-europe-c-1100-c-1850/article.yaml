@@ -1,36 +1,216 @@
 ---
-abstract: '**Executive Summary:** In medieval and early modern Europe, a discipline’s prestige depended
-  largely on its *convertibility* into real power and status. Law attained immense prestige from c.1100–1700
-  because it underpinned kings’ and nobles’ claims, property, and administration. Mastery of law – through
-  universities, courts, and legal offices – was a direct route to high office and even hereditary nobility
-  (e.g. France’s *noblesse de robe*[\[1\]](https://www.britannica.com/topic/noblesse-de-robe#:~:text=noblesse%20de%20robe%2C%20,were%20the%20officers%20of%20such)[\[2\]](https://www.britannica.com/topic/noblesse-de-robe#:~:text=Because%20of%20their%20bourgeois%20background%2C,lead%20in%20opposition%20to%20reform)).
-  From the 17th century onward, however, mathematics began rising in prestig…'
+title: 'What Knowledge Was Worth: Office, Patronage, and Technical Power in Europe, c.1100–1850'
+linkTitle: What Knowledge Was Worth
+subtitle: Institutional Exchange Rates for Learning from Bologna to École Polytechnique
+slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
 aliases: []
+date: '2026-04-11'
+lastmod: '2026-08-22'
+publishDate: '2026-04-11'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- History of Knowledge
+- European History
+- History of Science
+- Legal History
+tags:
+- history-of-knowledge
+- universities
+- law
+- mathematics
+- patronage
+- academies
+- technical-education
+- professions
+keywords:
+- What Knowledge Was Worth
+- history of knowledge
+- learned professions
+- medieval universities
+- Bologna law
+- venality of office
+- scientific patronage
+- practical mathematics
+- Académie des Sciences
+- École Polytechnique
+- professionalization
+subject:
+- European history of knowledge
+- Learned professions
+- Institutions and expertise
+subjects:
+- Medieval universities
+- Legal professions
+- Scientific patronage
+- Practical mathematics
+- Academies
+- Technical education
+summary: >-
+  A source-audited history of how European institutions converted different forms of knowledge into office,
+  jurisdiction, property, patronage, clients, corporate recognition, and technical-state careers from c.1100 to
+  c.1850. Rejects a simple law-to-mathematics succession in favor of multiple, overlapping prestige exchange rates.
+description: >-
+  Law did not hand its prestige to mathematics. Universities, venal offices, courts, markets, academies, and technical
+  schools created different exchange rates between knowing something and being able to turn that knowledge into power.
+abstract: >-
+  This report reconstructs the social value of learned expertise in Europe from the rise of Bologna's law schools to
+  the early nineteenth-century technical state. Prestige is treated not as a fixed property of disciplines but as an
+  institutional exchange rate: the capacity to convert recognized knowledge into scarce goods such as office,
+  jurisdiction, hereditary advantage, patronage, professional income, academy membership, or state technical service.
+  Bologna demonstrates the unusually high convertibility of jurisprudence into governmental and ecclesiastical
+  careers; ancien-régime French venal office shows that legal status depended on property, credit, and family strategy
+  as well as learning; Padua provides direct counterevidence to a universal rise of mathematics because medicine
+  remained institutionally dominant during Galileo's career. Court patronage, London's practical mathematicians, the
+  Académie des Sciences, and École Polytechnique then illustrate distinct routes by which mathematical and scientific
+  knowledge acquired new social returns. The result is a history of multiplying knowledge-status markets rather than
+  a linear succession of disciplinary winners.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Politics
-- History
-- Political Theory
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - a-history-of-functional-analysis
+  - maxwells-equations-a-human-centered-historical-and-scientific-analysis
+  - heaviside
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+    rationale: >-
+      The current 115-package census contains no second title containing either `knowledge` or `prestige`, and corpus
+      title review found no competing package centered on the institutional convertibility of learned disciplines from
+      medieval universities through the early technical state. Mathematical-history packages concern particular
+      fields or figures and are topical neighbors only.
+report:
+  number: '087'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: historical analytical report
+  collection: history-of-knowledge
+  discipline: history
+  subdiscipline: history of knowledge, professions, institutions, science, and law
+  domain: European intellectual and institutional history
+  topic: What Knowledge Was Worth
+  subject: institutional conversion of learned expertise into status and power
+  audience: general intellectually curious reader
+  intent: >-
+    test the useful intuition that learned prestige depends on convertibility into power while rejecting the inherited
+    linear story in which law dominated until 1700 and mathematics/science then replaced it.
+  method: >-
+    Comparative institutional history using scholarship on medieval universities and jurisprudence, French venal
+    office and state credit, university disciplinary hierarchy, court patronage, practical mathematics, royal
+    academies, and revolutionary technical education. Strong claims are tested against counterexamples and against the
+    persistence of multiple simultaneous status regimes.
+  methods:
+  - comparative institutional history
+  - history of knowledge
+  - source-to-claim audit
+  - counterexample analysis
+  - conceptual model testing
+  emphasis:
+  - institutional exchange rates for knowledge
+  - jurisprudence and university privilege
+  - venal office, property, and family strategy
+  - disciplinary hierarchy in universities
+  - court patronage and scientific credibility
+  - practical mathematics and market careers
+  - academies and corporate recognition
+  - technical schools and state service
+  focus: >-
+    how different institutions made forms of knowledge convertible into office, jurisdiction, income, property,
+    patronage, corporate recognition, and technical authority without producing one universal prestige ladder
+  scope:
+  - Bologna and medieval law faculties
+  - Bologna and Paris as different university archetypes
+  - ancien-régime French venal office
+  - medicine and mathematics at Padua
+  - Galileo and court patronage
+  - London practical mathematicians
+  - French Académie des Sciences
+  - École Polytechnique and technical-state service
+  period: c.1100-c.1850
+  period_covered: medieval through early industrial Europe
+  population_focus: jurists, university masters, physicians, mathematicians, practical practitioners, academicians, engineers, and officeholding families
+  primary_texts: []
+  region: Europe
+  region_focus: Italy, France, and England with Europe-wide institutional implications
+  scope_years: 1100-1850
+  stance: neutral analytical
+  structure: >-
+    thesis, exchange-rate model, medieval law, institutional plurality, venal office, persistence of law, mathematics
+    counterexample, court patronage, practical mathematics, academies, technical state, comparative map, propositions,
+    conclusion, and named sources
+  time_scope: historical comparative synthesis
+  time_span: c.1100-c.1850
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+  conversion:
+    date: '2026-04-20'
+    source_docx: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-22 final audit retitled the artifact to correct the inherited chronological error: c.1100-c.1850 is
+    not an `early modern` period. The rewrite preserves `prestige economy` only as a bounded analytical model and
+    replaces the inherited law-then-mathematics succession with multiple institutional exchange rates. Bologna's legal
+    regime is retained as a strong case of jurisprudence converting into corporate privilege and government service,
+    but Paris and other university structures prevent generalizing Bologna into a universal medieval hierarchy.
+    French robe-nobility is reframed around venal office, office-property, public credit, and family strategy rather
+    than legal mastery automatically producing nobility. Padua's medicine-over-mathematics faculty hierarchy provides
+    a direct negative case against a simple Scientific Revolution status takeover. Court patronage, practical
+    mathematics, the Académie des Sciences, and École Polytechnique are treated as distinct new conversion channels.
+    The Bernoulli family anecdote, raw diagrams, escaped conversion citations, and duplicated reference export were
+    removed because they did not carry the argument to the same evidentiary standard. No local assets are required.
+report-no: '087'
+report-number: '087'
+report-year: '2026'
+report_no: 87
+report_number: 87
+report_year: 2026
+series: Marginalia Reports
+series-number: 87
+series-title: Marginalia Reports
+series_number: 87
+series_title: Marginalia Reports
+identifier: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-04-11'
-description: '**Executive Summary:** In medieval and early modern Europe, a discipline’s prestige depended
-  largely on its *convertibility* into real power and status. Law attained immense prestige from c.1100–1700
-  because it underpinned kings’ and noble…'
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -38,117 +218,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
 isCJKLanguage: false
-keywords:
-- Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-- Politics
-- History
-- Political Theory
-- Political science (General)
-lang: en
-language: English
-lastmod: '2026-04-11'
 layout: ''
-library_of_congress_classification:
-  class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
-license: CC0-1.0
-linkTitle: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-04-11'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx
-    tool: pandoc 3.6
-  discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-  intent: ''
-  is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-  notes: ''
-  number: 087
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: 087
-report-number: 087
-report-year: '2026'
-report_no: 87
-report_number: 87
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 87
-series-title: Marginalia Reports
-series_number: 87
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-status: complete
-subject:
-- Politics
-- History
-subjects:
-- Politics
-- History
-subtitle: ''
-summary: '**Executive Summary:** In medieval and early modern Europe, a discipline’s prestige depended
-  largely on its *convertibility* into real power and status. Law attained immense prestige from c.1100–1700
-  because it underpinned kings’ and noble…'
-tags:
-- prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-- politics
-- history
-- political-theory
-title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
