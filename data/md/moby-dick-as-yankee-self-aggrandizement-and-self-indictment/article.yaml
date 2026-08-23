@@ -1,5 +1,11 @@
 ---
-abstract: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+abstract: >-
+  A source-audited literary and historical reading of Moby-Dick that preserves the insight that Melville both
+  performs and indicts forms of Yankee and American self-aggrandizement while rejecting a totalizing folkway
+  explanation. The analysis centers on New England whaling, sermonic authority, the imperial rhetoric of
+  "The Advocate," the American "brains" and international "muscles" hierarchy, the cosmopolitan crew,
+  Ishmael's unfinished cetology, Ahab's interpretive sovereignty, and the explicit property-and-conquest logic
+  of "Fast-Fish and Loose-Fish."
 aliases: []
 author:
 - Salvador Guzman
@@ -11,95 +17,123 @@ build:
   list: always
   publishResources: true
   render: always
-cascade: {}
 categories:
-- Politics
-- History
-- Political Theory
-cover-image: ''
-cover_image: ''
+- Literary Criticism
+- American Literature
+- U.S. History
 creator:
 - Salvador Guzman
-dataset_id: ''
 date: '2026-03-21'
-description: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+description: >-
+  Melville lets New England and American grandeur speak at full rhetorical volume, then subjects its claims of
+  moral mission, intellectual command, property, and sovereignty to cosmopolitan, democratic, epistemic, and
+  catastrophic counterpressure.
 draft: false
 edition: '1'
-epub-chapter-level: 0
-epub-cover-image: ''
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: ''
-expiryDate: ''
+editorial_profile: academic
 format: markdown
-headless: false
-highlight-style: tango
 identifier: urn:marginalia:moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-isCJKLanguage: false
 keywords:
-- Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-- Politics
-- History
-- Political Theory
-- Political science (General)
+- Moby-Dick
+- Herman Melville
+- Yankee
+- New England
+- whaling
+- American empire
+- cosmopolitanism
+- Ahab
+- Ishmael
+- literary criticism
 lang: en
 language: English
-lastmod: '2026-03-21'
-layout: ''
+lastmod: '2026-08-22'
 library_of_congress_classification:
-  class: JA
-  description: Politics, political history, social theory, and public debate.
-  label: Political science (General)
+  class: PS
+  description: American literature
+  label: American literature
 license: CC0-1.0
-linkTitle: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-markup: ''
-number-sections: false
-outputs: []
-plate_id: ''
+linkTitle: 'The Yankee Leviathan: Grandeur and Self-Indictment in Moby-Dick'
+number-sections: true
 publishDate: '2026-03-21'
 publisher: Marginalia
-reference-section-title: References
+reference-section-title: Sources and further reading
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
+  - yankee-left
+  - yankee-white-supremacy
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
+    rationale: >-
+      Corpus title review found no second Moby-Dick or Melville package. The other Yankee-labelled artifacts concern
+      legal institutions, political genealogy, or racial history rather than literary interpretation of Melville.
+      They are thematic neighbors only and do not duplicate this article's primary-text argument.
 report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment.docx
-    tool: pandoc 3.6
-  discipline: political science
-  domain: politics
-  emphasis: ''
-  focus: ''
+  audience: general intellectually curious reader
+  discipline: literary studies and American intellectual history
+  domain: nineteenth-century American literature
+  emphasis: rhetoric, whaling, nationalism, empire, cosmopolitanism, sovereignty, and epistemic limits
+  focus: how Moby-Dick performs American and New England self-magnification while generating internal forms of critique
   id: urn:marginalia:moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-  intent: ''
+  intent: >-
+    Preserve the strongest version of the Yankee self-aggrandizement/self-indictment reading while separating direct
+    textual evidence, historical whaling context, scholarly political interpretation, and broader folkway inference.
   is_report: true
-  kind: research report
-  level: ''
-  method: ''
-  methods: []
-  name: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-  notes: ''
+  kind: literary-historical analytical report
+  method: >-
+    Close reading of Moby-Dick chapters 8, 14, 24, 27, 32, 36, 89, and the ending, checked against the Melville
+    Electronic Library and Project Gutenberg text; historical contextualization using National Park Service whaling
+    history; and comparison with recent scholarship on Melville's democracy, cosmopolitanism, race, empire, property,
+    and political sovereignty. Interpretive claims are bounded where the novel supplies counterevidence.
+  methods:
+  - close reading
+  - literary criticism
+  - historical contextualization
+  - reception and scholarship review
+  - counterevidence analysis
+  name: 'The Yankee Leviathan: Grandeur and Self-Indictment in Moby-Dick'
+  notes: >-
+    The 2026-08-22 final audit replaced the inherited escaped numbered-link lattice and the totalizing claim that
+    Moby-Dick simply exposes a distinctive Yankee psychology. The rewritten article retains the strongest textual
+    evidence for American self-magnification: the sermonic architecture of authority, Nantucket boosterism, "Whaling
+    is imperial," the American "brains" versus international "muscles" hierarchy, Ahab's conversion of interpretation
+    into command, and Chapter 89's explicit extension of whaling property law to slavery, Texas, Mexico, India,
+    Ireland, and conquest. It adds counterevidence from the cosmopolitan crew, skilled non-American labor, Ishmael's
+    unfinished epistemology, and scholarship on democratic/cosmopolitan possibilities. "Yankee" is now explicitly a
+    bounded interpretive lens rather than an essential or exhaustive causal category. No local assets are required.
   number: '073'
   organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
+  period: antebellum United States and nineteenth-century whaling
+  period_covered: 1840s-1851, with later critical reception used only as scholarship
+  population_focus: literary characters, narrators, whaling communities, and political imaginaries in Moby-Dick
+  primary_texts:
+  - Moby-Dick; or, The Whale
+  region: United States
+  region_focus: New England, the United States, and the global whaling world
+  scope: >-
+    New England whaling, Protestant rhetoric, national and imperial boasting, shipboard hierarchy, cosmopolitan labor,
+    classification and knowledge, Ahab's sovereignty, property law, conquest, and the Pequod's destruction
+  scope_years: 1840s-1851
   series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: history and social analysis
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+  stance: neutral analytical
+  structure: argument, scope of Yankee lens, close readings, historical counterevidence, limits of thesis, model, ending, conclusion, and named sources
+  subdiscipline: nineteenth-century American literary criticism
+  subject: Moby-Dick, American self-mythologizing, and internal critique
+  time_scope: historical literary analysis
+  time_span: antebellum United States
+  topic: Moby-Dick and Yankee/American self-aggrandizement
   type: report
-  version: 1.0.0
+  version: 1.0.1
   year: 2026
 report-no: '073'
 report-number: '073'
@@ -108,38 +142,48 @@ report_no: 73
 report_number: 73
 report_year: 2026
 resources: []
-revision: 1.0.0
+revision: 1.0.1
 rights: CC0-1.0
 series: Marginalia Reports
 series-number: 73
 series-title: Marginalia Reports
 series_number: 73
 series_title: Marginalia Reports
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
 slug: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-status: complete
+status: ready
 subject:
-- Politics
-- History
+- Moby-Dick
+- American literature
+- New England whaling
+- American nationalism
+- Literary politics
 subjects:
-- Politics
-- History
-subtitle: ''
-summary: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+- Herman Melville
+- Moby-Dick
+- American literature
+- Whaling
+- Cosmopolitanism
+- Empire
+subtitle: American Grandeur, Cosmopolitan Countercurrents, and the Failure of Command
+summary: >-
+  Reads Moby-Dick as a double-action text that magnifies New England and American moral, intellectual, commercial,
+  and political authority while building its own countercase through cosmopolitan labor, democratic federation,
+  epistemic incompletion, anti-imperial property satire, and the destruction of Ahab's command regime.
 tags:
-- moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-- politics
-- history
-- political-theory
-title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-toc: false
-toc-depth: 0
-toc-title: ''
-translationKey: ''
+- moby-dick
+- herman-melville
+- literary-criticism
+- yankee
+- whaling
+- american-empire
+- cosmopolitanism
+- ahab
+- ishmael
+title: 'The Yankee Leviathan: Grandeur and Self-Indictment in Moby-Dick'
+toc: true
+toc-depth: 3
+toc-title: Contents
 type: report
-url: ''
+voice: neutral
 weight: 0
 ...
