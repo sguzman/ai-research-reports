@@ -99,7 +99,7 @@ packages:
     - raw_diagram_source
   a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture:
     title: The Unheard Instrument
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: essay
     editorial_profile: stylized
