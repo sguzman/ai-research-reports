@@ -2,8 +2,9 @@
 title: 'The World Beneath the War: Material Reality in Westeros and Middle-earth'
 linkTitle: The World Beneath the War
 subtitle: Causal Realism, Long Winters, and Two Ways of Making Fantasy Matter
-slug: george-r-r-martin-deconstructed
-aliases: []
+slug: grrm-deconstructed
+aliases:
+- /research/george-r-r-martin-deconstructed/
 date: '2026-03-04'
 lastmod: '2026-08-22'
 publishDate: '2026-03-04'
@@ -97,7 +98,7 @@ editorial:
     status: reviewed
     relationship: independent
     disposition: keep-separate
-    canonical_slug: george-r-r-martin-deconstructed
+    canonical_slug: grrm-deconstructed
     rationale: >-
       The current 115-package census contains no second George R. R. Martin-titled package and no competing canonical
       Martin/Tolkien material-world comparison. Other literary and historical artifacts do not duplicate this article's
@@ -165,7 +166,7 @@ report:
   organization: Marginalia
   series: Marginalia Reports
   is_report: true
-  id: urn:marginalia:george-r-r-martin-deconstructed
+  id: urn:marginalia:grrm-deconstructed
   conversion:
     date: '2026-04-20'
     source_docx: grrm-deconstructed.docx
@@ -181,7 +182,8 @@ report:
     institutions. Tolkien is treated not as an agronomic simulator but as a writer whose landscape repeatedly acts in
     moral and historical causality. The inherited escaped citation lattice, raw comparison diagrams, weak fan/wiki
     source chains, unsupported quantitative worldbuilding requirements, and generic `Deconstructed` title were removed.
-    No local assets are required.
+    No local assets are required. The package folder `grrm-deconstructed` is the canonical slug; the inherited
+    `george-r-r-martin-deconstructed` public path is retained as an alias.
 report-no: '062'
 report-number: '062'
 report-year: '2026'
@@ -193,7 +195,7 @@ series-number: 62
 series-title: Marginalia Reports
 series_number: 62
 series_title: Marginalia Reports
-identifier: urn:marginalia:george-r-r-martin-deconstructed
+identifier: urn:marginalia:grrm-deconstructed
 language: English
 lang: en
 toc: true
