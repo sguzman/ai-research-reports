@@ -93,7 +93,7 @@ The LLM era therefore does not replace poverty-of-the-stimulus reasoning with a 
 
 ## Data scale is not a technical footnote
 
-The inherited version of this report repeatedly treated an LLM trained on web-scale text as if it were a direct counterexample to child language acquisition. That inference is too strong.
+A common overreach treats an LLM trained on web-scale text as if it were a direct counterexample to child language acquisition. That inference is too strong.
 
 Large production models are ordinarily trained on vastly more text than a child hears or reads during language development. A model that succeeds only after consuming an enormous corpus may demonstrate that a pattern is present in the statistical structure of language while saying little about whether a human learner could infer it from developmentally realistic exposure.
 
@@ -105,7 +105,7 @@ Conversely, a model that fails under such conditions should not immediately be d
 
 ## No neural learner is “without priors”
 
-Another inherited overclaim was that LLMs learn language through “statistics alone” with no innate structure. That phrasing confuses the absence of hand-coded linguistic rules with the absence of inductive bias.
+Another common overclaim is that LLMs learn language through “statistics alone” with no innate structure. That phrasing confuses the absence of hand-coded linguistic rules with the absence of inductive bias.
 
 Transformers impose strong assumptions about computation. They process token sequences through particular attention and feed-forward operations; they use positional information, finite context, specific training objectives, and optimization procedures; and their tokenization determines which regularities are visible at the input level. Even apparently generic architectural choices can favor some patterns over others.
 
@@ -145,7 +145,7 @@ The key advance is not a final verdict. It is that **possible-language bias can 
 
 ## Competence and performance are not erased by prediction
 
-The inherited report also treated LLM success as though it refuted the distinction between linguistic competence and performance. It does not.
+LLM success does not refute the distinction between linguistic competence and performance.
 
 Chomsky's distinction was intended to separate a speaker's linguistic knowledge from the contingent limitations and disturbances involved in actual language use. Whether that exact formulation is the best theory is contestable, but the general scientific need to distinguish **knowledge from the process that expresses knowledge under finite resources** remains.
 
@@ -206,7 +206,7 @@ A method that can produce evidence for either side is scientifically more valuab
 
 ## What LLMs have not established
 
-Several stronger claims in the inherited article do not survive review.
+Several stronger claims do not survive review.
 
 | Claim | Status after review |
 | --- | --- |
@@ -242,14 +242,14 @@ The argument becomes cumulative rather than theatrical.
 
 ## Relationship to the constructive companion essay
 
-This report is deliberately an **evidence audit**, not a replacement theory of language. Its companion package, `a-post-chomskyan-theory-of-language-in-the-age-of-llms`, develops the positive research program that follows from the audit.
+The empirical audit and `a-post-chomskyan-theory-of-language-in-the-age-of-llms` are deliberately separated by function.
 
 The division of labor is important:
 
-- **this article:** What has LLM evidence actually weakened, preserved, or left unresolved in Chomskyan arguments?
-- **the companion:** What should a language theory look like once computational learnability becomes a first-class source of evidence?
+- **The Learner in the Corpus:** What has LLM evidence actually weakened, preserved, or left unresolved in Chomskyan arguments?
+- **Language Under Constraint:** What should a language theory look like once computational learnability becomes a first-class source of evidence?
 
-Keeping the two artifacts separate prevents a manifesto from predetermining the empirical verdict.
+Keeping the two artifacts separate prevents a constructive program from predetermining the empirical verdict.
 
 ## Conclusion
 
