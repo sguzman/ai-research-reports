@@ -168,7 +168,7 @@ That distinction also prevents a second teleology. Hertz did not invent radio co
 
 Oliver Heaviside deserves special treatment because the compact modern equations are often projected backward onto Maxwell precisely by forgetting Heaviside.
 
-Heaviside stripped away much of the potential-centered machinery he found cumbersome and pushed electric and magnetic fields to the center of calculation. He used vector methods to express local field relations compactly and applied Maxwellian theory to practical signal propagation. The separate article [**The Calculus of the Wire: Oliver Heaviside and the Engineering of Electromagnetism**](../heaviside/) follows that engineering transformation in detail.
+Heaviside stripped away much of the potential-centered machinery he found cumbersome and pushed electric and magnetic fields to the center of calculation. He used vector methods to express local field relations compactly and applied Maxwellian theory to practical signal propagation. The separate article **The Calculus of the Wire: Oliver Heaviside and the Engineering of Electromagnetism** follows that engineering transformation in detail.
 
 The division of labor between the two histories is straightforward:
 
