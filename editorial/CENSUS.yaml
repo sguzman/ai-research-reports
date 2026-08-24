@@ -115,7 +115,7 @@ packages:
     mechanical_flags: []
   a-post-chomskyan-theory-of-language-in-the-age-of-llms:
     title: 'Language Under Constraint: A Post-Chomskyan Theory for the LLM Era'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -786,7 +786,7 @@ packages:
     mechanical_flags: []
   grrm-deconstructed:
     title: 'The World Beneath the War: Material Reality in Westeros and Middle-earth'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -841,7 +841,7 @@ packages:
     - duplicate_review_unresolved
   heaviside:
     title: 'The Calculus of the Wire: Oliver Heaviside and the Engineering of Electromagnetism'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -957,7 +957,7 @@ packages:
     - absolute_path_in_body
   how-llms-challenge-chomskyan-assumptions-analytical-report:
     title: 'The Learner in the Corpus: What LLMs Actually Show About Chomsky'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -1537,7 +1537,7 @@ packages:
     mechanical_flags: []
   moby-dick-as-yankee-self-aggrandizement-and-self-indictment:
     title: 'The Yankee Leviathan: Grandeur and Self-Indictment in Moby-Dick'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
@@ -1713,7 +1713,7 @@ packages:
     - h1_count_not_one
   prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850:
     title: 'What Knowledge Was Worth: Office, Patronage, and Technical Power in Europe, c.1100–1850'
-    lifecycle: ready
+    lifecycle: published
     draft: false
     type: report
     editorial_profile: academic
