@@ -1,133 +1,265 @@
-# Executive Summary
+# The Attention of Wounds: What the Evidence Can—and Cannot—Show
 
-- Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a *commodification of trauma*: an industry incentives structure where personal wounds attract attention, engagement, and profits[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising)[\[2\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=What%20if%20I%20told%20you,cash%20in%20on%20our%20misery).
+## Bottom line
 
-- **Key Concepts:** We define *“liberal gothic”* as media that emphasizes individual suffering and social alienation in a contemporary (often progressive) context, while *“decadent culture”* refers to a hollow, pleasure-seeking cultural moment fixated on style and decline. We introduce a typology: **diagnostic culture** identifies and names societal ills, **necrotic culture** exploits those ills for profit without healing them, and **restorative culture** aims to heal or solve problems.
+There is good evidence for a narrower proposition than the inherited “trauma economy” thesis:
 
-- **Theoretical Framework:** We trace recurring social wounds to structural forces: capitalist *alienation* (Marxist theory) leaves people estranged and broken[\[3\]](https://oup.silverchair-cdn.com/article-minimal/8488708#:~:text=work%20in%20the%2019th%20century,estrangement%20of%20human%20beings%20from); digital-age isolation and algorithmic design exacerbate loneliness (a public-health crisis per WHO)[\[4\]](https://www.edweek.org/leadership/teens-are-the-loneliest-people-in-the-world-a-new-report-finds-why/2025/08#:~:text=One%20in%206%20people%20worldwide,school%2C%20the%20report%20also%20found)[\[5\]](https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing#:~:text=Social%20media%20platforms%20today%20use,or%20provocative%20content%20over%20time); and identity anxieties (economic precarity, climate anxiety, social fragmentation) produce widespread trauma.
+> **Digital attention systems can reward negative, morally arousing, and socially reinforced expression.**
 
-- **Market Incentives:** Media industries profit from vulnerability. Personal trauma narratives “resonate” and drive clicks, so platforms and advertisers reward content featuring pain[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising)[\[5\]](https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing#:~:text=Social%20media%20platforms%20today%20use,or%20provocative%20content%20over%20time). Algorithms funnel users toward ever more shocking emotional content[\[5\]](https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing#:~:text=Social%20media%20platforms%20today%20use,or%20provocative%20content%20over%20time)[\[6\]](https://atypica.ai/study/9HxfJPjRnp6KDtyd/share?replay=1#:~:text=,emotional%20connection%20and%20educational%20depth). Industries (from Netflix to influencer marketing to advertising) therefore systematically turn audience suffering into markets (the “trauma economy”)[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising)[\[7\]](https://atypica.ai/study/9HxfJPjRnp6KDtyd/share?replay=1#:~:text=Overall%2C%20the%20%E2%80%9Ctrauma%20economy%E2%80%9D%20is,emotional%20impact%20on%20diverse%20audiences).
+That proposition is supported by experiments on headline negativity, observational and experimental work on outrage reinforcement, and large-scale studies of partisan social-media engagement. It is not the same as saying that trauma stories generally outperform non-trauma stories, that platforms create psychological wounds in order to monetize them, or that liberal/progressive culture uniquely profits from suffering.
 
-- **Case Studies:** Across TV, film, music, literature and social media, high-profile examples illustrate this pattern (see table below). For instance, Netflix’s *13 Reasons Why* (2017) dramatizes teen suicide and became a top-viewed series[\[8\]](https://en.wikipedia.org/wiki/13_Reasons_Why#:~:text=The%20first%20season%20was%20released,6); Precious (film, 2009) about child abuse grossed ~\$63M[\[9\]](https://en.wikipedia.org/wiki/Precious_(film)#:~:text=Lionsgate%20gave%20the%20film%20a,1); XXXTentacion’s “Sad!” (2018) – about depression and suicide – has 2+ billion streams[\[10\]](https://en.wikipedia.org/wiki/Sad!#:~:text=than%202%20billion%20streams%20on,personal%20regrets%20about%20his%20past); Tara Westover’s *Educated* (memoir, 2018) of childhood abuse sold over 2 million copies[\[11\]](https://medium.com/@SimonSays_AI/educated-a-conversation-with-tara-westover-aspen-ideas-festival-2019-23a84ff7fd40#:~:text=a%20lot%20of%20people%20grew,in%20the%20United%20States%20alone); TikTok influencer Sophie Fergie (18, 5.9M followers) blends personal trauma into entertainment[\[12\]](https://stationlm.com/analysis/ce37ee4d-fede-49f0-98b5-121105f2add3#:~:text=Sophie%20Fergie). These works target audiences formed around shared wounds, generating engagement and revenue (see table).
+The distinction matters because the stronger story is intuitively seductive. A successful memoir about abuse, a popular series about grief, a viral post about loneliness, or a brand campaign about mental health can all be described after the fact as examples of “monetized pain.” But the existence of revenue and the presence of suffering do not establish a causal **trauma premium**. To establish that, comparable content would have to perform differently *because* of the wound-centered feature rather than because of celebrity, quality, genre, franchise, marketing, controversy, novelty, or dozens of other variables.
 
-- **Industry Patterns:** Platforms and advertisers reinforce the cycle. Dating apps like Hinge launched campaigns “combatting Gen Z loneliness” with dedicated funds[\[13\]](https://www.marketingdive.com/news/hinge-dating-app-one-more-hour-social-initiative-gen-z-marketing/701848/#:~:text=,person%20activations), yet their business model still profits from users’ social needs. Beauty brands (e.g. Nivea) frame campaigns around the “loneliness epidemic”[\[14\]](https://cosmeticsbusiness.com/nivea-addresses-loneliness-epidemic-in-new-campaign#:~:text=Nivea%20has%20unveiled%20a%20new,the%20importance%20of%20social%20connection)[\[15\]](https://cosmeticsbusiness.com/nivea-addresses-loneliness-epidemic-in-new-campaign#:~:text=It%20revealed%20that%20one%20in,felt%20isolated%20at%20some%20point). Meanwhile, activist media highlight the hypocrisy: guerrilla ads demanded a “Big Tech Tax” to fund youth mental health[\[16\]](https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign#:~:text=A%20similar%20design%20to%20the,worse%2C%20it%E2%80%99s%20working%2C%E2%80%9D%20it%20says)[\[17\]](https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign#:~:text=What%20does%20the%20Mad%20Youth,Organise%20campaign%20want). In social media, content with captions like *“If you’ve been through this, you’re not alone”* racks up millions of views[\[18\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=The%20Performance%20of%20Pain), illustrating the viral appeal of trauma.
+This briefing therefore separates three claims:
 
-- **Ethical/Political Implications:** This “necrotic” approach risks trivializing suffering and diverting attention from root causes. As one analyst observes, media often presents trauma as “a spectacle to consume”[\[19\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=,%E2%80%9Cshocking%2C%E2%80%9D%20to%20bait%20your%20click), using a “broken protagonist” trope for cheap depth[\[20\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=The%20entertainment%20industry%E2%80%99s%20love%20affair,requires%20no%20effort%20to%20build). Simplistic victim/villain binaries erase systemic issues[\[21\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=Victims%20vs). Populist and advocacy debates can become mired in contesting personal narratives rather than policy solutions. On the other hand, a few platforms/campaigns explicitly urge focusing on connection and cure – e.g. branding strategies that “design for togetherness, not just traffic” to actually reduce loneliness[\[22\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=,solving%20for%20connection%E2%80%94or%20simulating%20it)[\[23\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=3,because%20an%20algorithm%20rewards%20oversharing).
+1. **negative and morally arousing content can receive attention advantages in some settings** — supported;
+2. **social feedback can reinforce the future production of outrage** — supported;
+3. **wound-centered cultural production as a broad class receives a durable market premium and therefore encourages institutions to preserve or manufacture wounds** — not established by the evidence reviewed here.
 
-- **Counterexamples and Limits:** Not all culture is necrotic. Many works seek healing or community. For example, Netflix’s *Queer Eye* (2018–) uses personal stories for empowerment and diversity-awareness rather than pure catharsis. Comedy and art can reframe trauma (e.g. Hannah Gadsby’s standup on autism). Public-health media (PSAs, charitable campaigns) diagnose issues without profit motives. Some advertising campaigns sincerely promote social welfare (Dove’s self-esteem campaign, Coca-Cola’s 1971 “Hilltop” embracing unity). However, even restorative content often sits uneasily in a profit-driven industry, and truly systemic change is rare.
+## What headline experiments actually show
 
-- **Empirical Tests and Metrics:** We suggest measurable indicators of the hypothesis. Content analysis could track the prevalence of trauma themes in top-rated media (e.g. % of hits on streaming platforms with PTSD, abuse, or heartbreak as plot). Social-media and Google Trends data could quantify spikes in *“trauma narrative”* hashtags vs. life-satisfaction surveys. One could correlate audience data (views, streams) with content features: do more-traumatic shows consistently score higher engagement? Surveys might assess whether consumers **expect** streaming services or influencers to provide emotional validation. Industry datasets (Nielsen ratings, Spotify streams, publishing sales) paired with content tags can test if trauma-themed works outperform others. Controlled experiments could compare audience well-being after exposure to “liberal gothic” media vs. uplifting content. Finally, policy-style metrics (e.g. mental health spending, social cohesion indices) could be studied alongside market indicators to see if trauma-centric media relates to societal health.
+A strong causal result comes from a large field experiment on Upworthy headlines published in *Nature Human Behaviour*. Across more than 105,000 headline variants and hundreds of millions of impressions, headlines containing more negative language were more likely to be clicked. The authors estimated that, for an average-length headline, each additional negative word increased click-through rate by about 2.3 percent. See Robertson et al., [“Negativity drives online news consumption”](https://www.nature.com/articles/s41562-023-01538-4).
 
-- **Recommendations:** To counter excessive “trauma commodification,” we advise: (1) **Media makers** should portray suffering with context and hope – emphasize coping, support and systemic causes, not just emotive spectacle. (2) **Platforms** should tweak algorithms to avoid grinding vulnerable users on high-arousal content (e.g. opt-in content warnings, promoting peer support channels). (3) **Advertisers and brands** ought to focus on genuine connection (as Hinge and Nivea suggest) rather than facile pity – measure impact on well-being, not clicks[\[22\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=,solving%20for%20connection%E2%80%94or%20simulating%20it). (4) **Policymakers and educators** should support media literacy about “trauma porn,” fund social services addressing roots of distress (loneliness, inequality), and consider regulations (like a “mental health duty” for tech platforms). (5) **Audiences** can also change habits: seek restorative media, maintain offline communities, and critically question content that glamorizes pain. By recognizing these market forces and incentives, creators and consumers can push culture from “necrotic” narratives toward more **restorative** uses of storytelling[\[23\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=3,because%20an%20algorithm%20rewards%20oversharing).
+This matters because randomized headline tests control much better for story identity than ordinary comparisons of successful cultural works. The result demonstrates a causal attention effect for negative wording in a real media environment.
 
-| Medium | Example (Year, Creator) | Wound(s) | Monetization (Revenue/Audience) | Culture Type |
-|----|----|----|----|----|
-| **TV (Streaming)** | *13 Reasons Why* (2017–20, Brian Yorkey) | Teen suicide, bullying, sexual assault | Netflix subscription model; 2nd-most-watched series on release[\[8\]](https://en.wikipedia.org/wiki/13_Reasons_Why#:~:text=The%20first%20season%20was%20released,6) | Necrotic |
-| **TV (Network)** | *This Is Us* (2016–22, Dan Fogelman) | Family grief (death, illness), identity crisis | NBC network/ad-supported; ~10 M US viewers at debut (Nielsen) | Diagnostic/Restorative |
-| **Film (Drama)** | *Precious* (2009, Lee Daniels) | Child sexual/physical abuse, poverty | Box office (gross ~\$63 M on \$10 M budget)[\[9\]](https://en.wikipedia.org/wiki/Precious_(film)#:~:text=Lionsgate%20gave%20the%20film%20a,1) | Restorative |
-| **Music (Streaming)** | “Sad!” (2018, XXXTentacion) | Depression, suicidal ideation, heartbreak | Streaming (Spotify 2+ billion streams)[\[10\]](https://en.wikipedia.org/wiki/Sad!#:~:text=than%202%20billion%20streams%20on,personal%20regrets%20about%20his%20past) | Necrotic |
-| **Book (Memoir)** | *Educated* (2018, Tara Westover) | Childhood abuse, isolation, family trauma | Publishing sales (2 M+ US hardcover sold)[\[11\]](https://medium.com/@SimonSays_AI/educated-a-conversation-with-tara-westover-aspen-ideas-festival-2019-23a84ff7fd40#:~:text=a%20lot%20of%20people%20grew,in%20the%20United%20States%20alone) | Restorative |
-| **Social Media** | Sophie Fergie (TikTok influencer) (2020s) | Personal trauma/disability narratives (e.g. neurodivergence) | Influencer economy (brand deals; 5.9 M followers)[\[12\]](https://stationlm.com/analysis/ce37ee4d-fede-49f0-98b5-121105f2add3#:~:text=Sophie%20Fergie) | Diagnostic |
+But it supports only a bounded inference:
 
-    graph LR
-        A[Modern Society\n(alienation, tech, inequality)] --> B[Widespread Individual Wounds\n(loneliness, anxiety, trauma)];
-        B --> C[Media & Influencers\n(Dramas, memoirs, social posts)];
-        C --> D[Audience Formation & Engagement];
-        D --> E[Monetization Flow\n(ad revenue, subscriptions, merchandise)];
-        E --> F[Industry Profits & Investment];
-        F --> C;
-    timeline
-        title Timeline of “Liberal Gothic” Trends
-        2010: Rise of social media and smartphones, youth connect less in person
-        2015: Research shows youth mental health declining (anxiety, loneliness)
-        2016: NBC’s *This Is Us* premieres (family trauma drama, strong ratings)
-        2017: Netflix’s *13 Reasons Why* (teen suicide drama) goes viral[8]
-        2018: Memoir *Educated* (childhood abuse) hits 2M+ sales[11]
-        2019: #MeToo media surge (*Bombshell*, *Unbelievable*); streaming focus on prestige drama
-        2020: COVID-19 lockdowns spike loneliness globally; online trauma content soars
-        2023: U.S. Surgeon General calls loneliness a public-health crisis; #MeToo art continues
-        2024: Brands (Hinge, Nivea) launch campaigns addressing “loneliness epidemic”[13][14]
-        2026: Activists confront Meta/TikTok over youth mental health[16]
+- it concerns **news headlines**, not novels, films, memoirs, games, or personal trauma narratives;
+- it measures **click-through**, not long-term satisfaction, revenue, well-being, or cultural influence;
+- “negative words” are not equivalent to traumatic disclosure;
+- an attention advantage at the headline stage does not establish that producers benefit from keeping audiences psychologically injured.
 
-**Sources & Data:** We prioritize industry data and peer-reviewed analyses. For example, a WHO report found ~21% of teenagers feel chronically lonely[\[4\]](https://www.edweek.org/leadership/teens-are-the-loneliest-people-in-the-world-a-new-report-finds-why/2025/08#:~:text=One%20in%206%20people%20worldwide,school%2C%20the%20report%20also%20found); Spotify confirms XXXTentacion’s “Sad!” has 2+ billion plays[\[10\]](https://en.wikipedia.org/wiki/Sad!#:~:text=than%202%20billion%20streams%20on,personal%20regrets%20about%20his%20past); Tara Westover’s publisher reported *Educated* sold ~2 million copies[\[11\]](https://medium.com/@SimonSays_AI/educated-a-conversation-with-tara-westover-aspen-ideas-festival-2019-23a84ff7fd40#:~:text=a%20lot%20of%20people%20grew,in%20the%20United%20States%20alone). We also cite contemporary critiques: *The New Socialist* on trauma commodification[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising), a Psychiatric Times piece on algorithms amplifying violence and despair[\[5\]](https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing#:~:text=Social%20media%20platforms%20today%20use,or%20provocative%20content%20over%20time), and an Advertising Week analysis of how brand “connection theater” often deepens loneliness[\[24\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=We%20say%20we%20are,community%20but%20feel%20like%20comparison)[\[25\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=Connection%20Theater%20Is%20Not%20the,Same%20as%20Actual%20Connection). While data on revenues is scattered, the examples above illustrate the pattern of high audience engagement with trauma-themed media.
+The study is evidence for an attention asymmetry, not for a general theory of necrotic culture.
 
-**Analysis:** Taken together, these findings support the hypothesis: modern culture largely *diagnoses* social injury (making wounds visible) but in a *necrotic* way (profiting from them) rather than resolving underlying problems. A “liberal gothic” media logic curates and recycles societal pain as content[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising)[\[26\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=Let%E2%80%99s%20talk%20about%20the%20term,heartstrings%20%E2%80%93%20and%20your%20wallet). To validate this rigorously, future research could quantify the “trauma focus” of top media catalogs, correlate content with engagement metrics, and survey audiences on their reactions. Proposed indicators include frequency of trauma-related keywords in top films/series, viewer ratings of catharsis vs. distress, and longitudinal tracking of mental health trends alongside media consumption. By systematically measuring these, one can test whether “brokenness” is being reproduced by culture (as victim demographics grow) or alleviated.
+## Outrage can be reinforced by social reward
 
-**Recommendations:** Creators and policymakers should shift emphasis from spectacle to solutions: portray trauma with nuance and hope[\[23\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=3,because%20an%20algorithm%20rewards%20oversharing), invest in community bonds (as some brands now advocate[\[22\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=,solving%20for%20connection%E2%80%94or%20simulating%20it)), and critically regulate platforms so they do not exploit vulnerability. Creative industries can still address real suffering, but should frame stories to empower rather than merely monetize audiences’ pain. The annotated sources below offer further evidence and context for these points.
+A second important mechanism concerns learning from social feedback.
 
-**Annotated Sources (key studies and reports):**
+William Brady and colleagues studied moral-outrage expression on social media using observational analyses and preregistered experiments. Their work found that positive social feedback for outrage expression predicted more outrage in later posts, and experimental manipulation showed that people learned from social rewards. Norms in a person's social network also shaped expression. See Brady et al., [“How social learning amplifies moral outrage expression in online social networks”](https://www.science.org/doi/10.1126/sciadv.abe5641).
 
-- [**\[1\]**](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising) *The New Socialist* (2020): Investigative critique *“The Commodification of Trauma”* explaining how media and brands package personal pain into clickbait narratives.
-- [**\[7\]**](https://atypica.ai/study/9HxfJPjRnp6KDtyd/share?replay=1#:~:text=Overall%2C%20the%20%E2%80%9Ctrauma%20economy%E2%80%9D%20is,emotional%20impact%20on%20diverse%20audiences) Social-media analysis (Atypica, 2021): *“Trauma Economy on Social Media”* discusses how algorithms and influencers negotiate between genuine healing and exploitation of user vulnerability.
-- [**\[5\]**](https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing#:~:text=Social%20media%20platforms%20today%20use,or%20provocative%20content%20over%20time) *Psychiatric Times* (2026): “Empathy Crisis: How Social Media Algorithms Drive Emotional Numbing” – documents how recommendation engines escalate users toward ever more extreme/emotional content.
-- [**\[3\]**](https://oup.silverchair-cdn.com/article-minimal/8488708#:~:text=work%20in%20the%2019th%20century,estrangement%20of%20human%20beings%20from) Musolino & van den Berg, *Health Promotion Int.* (2026): Review of Marxist **alienation**, linking capitalist work/consumption structures to rising mental health inequities.
-- [**\[4\]**](https://www.edweek.org/leadership/teens-are-the-loneliest-people-in-the-world-a-new-report-finds-why/2025/08#:~:text=One%20in%206%20people%20worldwide,school%2C%20the%20report%20also%20found) Education Week (2025): News report citing WHO data that ~21% of 13–17-year-olds worldwide feel lonely, the highest of any age group.
-- **[\[2\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=What%20if%20I%20told%20you,cash%20in%20on%20our%20misery)[\[23\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=3,because%20an%20algorithm%20rewards%20oversharing)** *Medium* essay by “Rita” (2025): Reflects on media’s use of trauma, coining “trauma porn,” and advocating shifting focus to recovery and systemic solutions.
-- [**\[10\]**](https://en.wikipedia.org/wiki/Sad!#:~:text=than%202%20billion%20streams%20on,personal%20regrets%20about%20his%20past) Wikipedia entry on XXXTentacion’s “Sad!” – verifies 2+ billion Spotify streams and its theme of depression/suicidality.
-- [**\[11\]**](https://medium.com/@SimonSays_AI/educated-a-conversation-with-tara-westover-aspen-ideas-festival-2019-23a84ff7fd40#:~:text=a%20lot%20of%20people%20grew,in%20the%20United%20States%20alone) Transcript of Tara Westover interview (2020) – notes *Educated* sold \>2 million copies, highlighting its mass appeal as a trauma memoir.
-- [**\[9\]**](https://en.wikipedia.org/wiki/Precious_(film)#:~:text=Lionsgate%20gave%20the%20film%20a,1) *Precious* (film) Wikipedia – confirms its ~\$63M box office on a \$10M budget, indicating strong audience engagement with a film about abuse.
-- [**\[13\]**](https://www.marketingdive.com/news/hinge-dating-app-one-more-hour-social-initiative-gen-z-marketing/701848/#:~:text=,person%20activations) *Marketing Dive* (2023): News on Hinge’s \$1M “One More Hour” initiative against Gen Z loneliness, an example of brands acknowledging and addressing social pain.
-- **[\[27\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=In%202023%2C%20the%20U,true%20ownership%20of%20this%20issue)[\[25\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=Connection%20Theater%20Is%20Not%20the,Same%20as%20Actual%20Connection)** *Advertising Week* (2025): Industry commentary on the “loneliness epidemic,” criticizing how marketing often simulates connection without solving disconnection.
-- **[\[16\]](https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign#:~:text=A%20similar%20design%20to%20the,worse%2C%20it%E2%80%99s%20working%2C%E2%80%9D%20it%20says)[\[17\]](https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign#:~:text=What%20does%20the%20Mad%20Youth,Organise%20campaign%20want)** *Fast Company* (2026): Story of activist “Mad Youth Organise” guerrilla ads blaming Meta/TikTok for youth mental health harm, highlighting backlash against platforms’ role in social wounds.
+This is stronger than the vague claim that “algorithms reward outrage.” It identifies a concrete behavioral pathway:
 
-------------------------------------------------------------------------
+\[
+\text{expression} \rightarrow \text{social feedback} \rightarrow \text{learning} \rightarrow \text{future expression}.
+\]
 
-[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising) The Commodification of Trauma // New Socialist
+The mechanism can operate even without a platform engineer deliberately selecting for outrage. Users learn what receives approval inside their network and adapt.
 
-<https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/>
+Again, the scope matters. Moral outrage is not identical to trauma disclosure. The result demonstrates that feedback environments can shape emotional expression; it does not show that personal injury narratives are uniquely reinforced or that people must remain harmed for the reinforcement loop to continue.
 
-[\[2\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=What%20if%20I%20told%20you,cash%20in%20on%20our%20misery) [\[18\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=The%20Performance%20of%20Pain) [\[19\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=,%E2%80%9Cshocking%2C%E2%80%9D%20to%20bait%20your%20click) [\[20\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=The%20entertainment%20industry%E2%80%99s%20love%20affair,requires%20no%20effort%20to%20build) [\[21\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=Victims%20vs) [\[23\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=3,because%20an%20algorithm%20rewards%20oversharing) [\[26\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=Let%E2%80%99s%20talk%20about%20the%20term,heartstrings%20%E2%80%93%20and%20your%20wallet) Media’s Favorite Emotional Tool: Trauma \| by Rita \| Medium
+## Out-groups are unusually engaging
 
-<https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09>
+Large-scale political-media research supplies another bounded attention result. Rathje, Van Bavel, and van der Linden analyzed millions of social-media posts from U.S. political actors and news media and found that language referring to political out-groups was a particularly strong predictor of engagement. In their datasets, each out-group term substantially increased the odds that a post would be shared or retweeted, and the effect was not restricted to one political orientation. See [“Out-group animosity drives engagement on social media”](https://www.pnas.org/doi/10.1073/pnas.2024292118).
 
-[\[3\]](https://oup.silverchair-cdn.com/article-minimal/8488708#:~:text=work%20in%20the%2019th%20century,estrangement%20of%20human%20beings%20from) oup.silverchair-cdn.com
+This symmetry is important for the broader cultural theory. Negative social attention cannot simply be classified as a liberal pathology. Political camps with very different ideologies can receive engagement rewards from hostility toward opponents.
 
-<https://oup.silverchair-cdn.com/article-minimal/8488708>
+A related study of news shared on social media found that politically biased outlets on both the left and right tended to produce more high-arousal negative content, and that such content was more likely to spread. See Robertson et al., [“Negativity and political bias in online news”](https://www.nature.com/articles/s41562-023-01656-z).
 
-[\[4\]](https://www.edweek.org/leadership/teens-are-the-loneliest-people-in-the-world-a-new-report-finds-why/2025/08#:~:text=One%20in%206%20people%20worldwide,school%2C%20the%20report%20also%20found) Teens Are the Loneliest People in the World, a New Report Finds. Why?
+The empirical lesson is therefore broader and less flattering to any one faction: **attention systems interact readily with threat, hostility, moral arousal, and negative affect across ideological boundaries**.
 
-<https://www.edweek.org/leadership/teens-are-the-loneliest-people-in-the-world-a-new-report-finds-why/2025/08>
+## Visibility can distort what people think others feel
 
-[\[5\]](https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing#:~:text=Social%20media%20platforms%20today%20use,or%20provocative%20content%20over%20time) The Empathy Crisis: How Social Media Algorithms Drive Emotional Numbing \| Psychiatric Times
+Attention dynamics do not merely affect what becomes visible. They can change beliefs about the social world.
 
-<https://www.psychiatrictimes.com/view/the-empathy-crisis-how-social-media-algorithms-drive-emotional-numbing>
+Research on moral outrage has found that observers can overperceive how outraged other people actually are because extreme expressions are disproportionately visible. The resulting picture of the out-group can become more hostile than the underlying population. See Brady et al., [“Overperception of moral outrage in online social networks inflates beliefs about intergroup hostility”](https://www.nature.com/articles/s41562-023-01582-0).
 
-[\[6\]](https://atypica.ai/study/9HxfJPjRnp6KDtyd/share?replay=1#:~:text=,emotional%20connection%20and%20educational%20depth) [\[7\]](https://atypica.ai/study/9HxfJPjRnp6KDtyd/share?replay=1#:~:text=Overall%2C%20the%20%E2%80%9Ctrauma%20economy%E2%80%9D%20is,emotional%20impact%20on%20diverse%20audiences) Analysis of the "Trauma Economy" on Social Media: Algorithms, Engagement, and Ethical Implication... \| atypica.AI
+This matters for wound-centered media because visibility and prevalence are different quantities. A feed full of pain, outrage, grievance, or confession does not by itself establish that society contains more of those states than before. Selection and amplification can change the apparent emotional composition of a population.
 
-<https://atypica.ai/study/9HxfJPjRnp6KDtyd/share?replay=1>
+That gives a useful research distinction:
 
-[\[8\]](https://en.wikipedia.org/wiki/13_Reasons_Why#:~:text=The%20first%20season%20was%20released,6) 13 Reasons Why - Wikipedia
+\[
+\text{experienced prevalence}
+\neq
+\text{population prevalence}.
+\]
 
-<https://en.wikipedia.org/wiki/13_Reasons_Why>
+A cultural theory that infers rising social injury directly from rising visibility can therefore be badly misled.
 
-[\[9\]](https://en.wikipedia.org/wiki/Precious_(film)#:~:text=Lionsgate%20gave%20the%20film%20a,1) Precious (film) - Wikipedia
+## Loneliness is context, not proof of platform causation
 
-<https://en.wikipedia.org/wiki/Precious_(film)>
+The 2025 WHO Commission on Social Connection reported that loneliness affects roughly one in six people worldwide and is associated with substantial health and social consequences. See the [WHO Commission report and summary](https://www.who.int/groups/commission-on-social-connection).
 
-[\[10\]](https://en.wikipedia.org/wiki/Sad!#:~:text=than%202%20billion%20streams%20on,personal%20regrets%20about%20his%20past) Sad! - Wikipedia
+That is important context for any theory concerned with social disconnection. It does **not** establish a simple causal chain in which social media created loneliness and then monetized it. WHO's treatment of digital technology is more cautious: digital tools can support connection and can also contribute to harms depending on design, use, age, context, and behavior. The evidence is heterogeneous and causal interpretation remains difficult.
 
-<https://en.wikipedia.org/wiki/Sad!>
+The correct use of the loneliness evidence is therefore:
 
-[\[11\]](https://medium.com/@SimonSays_AI/educated-a-conversation-with-tara-westover-aspen-ideas-festival-2019-23a84ff7fd40#:~:text=a%20lot%20of%20people%20grew,in%20the%20United%20States%20alone) Educated - A Conversation with Tara Westover \| Aspen Ideas Festival, 2019 \| by Simon Says \| Medium
+- social disconnection is a real and widespread condition;
+- platforms operate inside that condition and can mediate it;
+- the existence of loneliness does not identify its cause;
+- platform revenue generated in a lonely society is not, by itself, evidence that platforms created or preserve loneliness.
 
-<https://medium.com/@SimonSays_AI/educated-a-conversation-with-tara-westover-aspen-ideas-festival-2019-23a84ff7fd40>
+## The “trauma plot” is criticism, not prevalence data
 
-[\[12\]](https://stationlm.com/analysis/ce37ee4d-fede-49f0-98b5-121105f2add3#:~:text=Sophie%20Fergie) Why Gen Z Kids Are Selling Their Lives Online
+Parul Sehgal's essay [“The Case Against the Trauma Plot”](https://www.newyorker.com/magazine/2022/01/03/the-case-against-the-trauma-plot) identifies a recognizable narrative convention in contemporary fiction: behavior and personality are increasingly explained by a disclosed traumatic past. The criticism is valuable because it gives a concrete formal hypothesis that could be measured.
 
-<https://stationlm.com/analysis/ce37ee4d-fede-49f0-98b5-121105f2add3>
+But the essay is not a time-series content analysis. It does not establish that trauma plots have increased by a quantified amount across all media, that they outperform other stories commercially, or that liberal institutions uniquely produce them.
 
-[\[13\]](https://www.marketingdive.com/news/hinge-dating-app-one-more-hour-social-initiative-gen-z-marketing/701848/#:~:text=,person%20activations) Hinge dating app launches \$1M initiative combatting Gen Z loneliness \| Marketing Dive
+A serious empirical program would therefore treat “trauma plot” or the proposed “liberal gothic” morphology as **features to code**, not as already measured social trends.
 
-<https://www.marketingdive.com/news/hinge-dating-app-one-more-hour-social-initiative-gen-z-marketing/701848/>
+## Evidence ledger
 
-[\[14\]](https://cosmeticsbusiness.com/nivea-addresses-loneliness-epidemic-in-new-campaign#:~:text=Nivea%20has%20unveiled%20a%20new,the%20importance%20of%20social%20connection) [\[15\]](https://cosmeticsbusiness.com/nivea-addresses-loneliness-epidemic-in-new-campaign#:~:text=It%20revealed%20that%20one%20in,felt%20isolated%20at%20some%20point) Nivea addresses ‘loneliness epidemic’ in new campaign
+| Claim | Status | What the current evidence supports |
+| --- | --- | --- |
+| Negative wording can increase news-headline clicks. | **Supported** | Large randomized field experiments show a bounded causal negativity advantage for click-through. |
+| Social rewards can reinforce later outrage expression. | **Supported** | Observational and preregistered experimental evidence identifies social learning from feedback. |
+| Out-group language can increase political social-media engagement. | **Supported** | Large-scale studies find strong engagement effects across ideological orientations. |
+| High-arousal negative political news can spread more readily. | **Supported in studied settings** | Cross-partisan news analyses find virality advantages for high-arousal negative content. |
+| Online visibility can make populations appear more outraged than they are. | **Supported in studied settings** | Selection and amplification can distort perceived intergroup emotion. |
+| Loneliness is widespread. | **Supported** | WHO reports substantial global prevalence and health consequences. |
+| Social media is the dominant cause of contemporary loneliness. | **Not established** | Effects vary by person, platform, behavior, and context; causal identification is incomplete. |
+| Trauma-themed entertainment generally earns more than comparable non-trauma entertainment. | **Not established** | Anecdotes about successful works cannot identify a trauma premium. |
+| Platforms deliberately keep users wounded because wounded users are more profitable. | **Not established** | Existing engagement mechanisms do not demonstrate this intentional or system-level causal claim. |
+| Liberal/progressive media uniquely monetizes suffering. | **Contradicted as a monopoly claim / otherwise untested** | Negative and out-group engagement mechanisms appear across political orientations. |
+| “Liberal gothic” is increasing over time. | **Untested** | Requires preregistered longitudinal content coding. |
+| Wound-centered media exposure generally worsens audience well-being. | **Not established as a general rule** | Requires outcome-specific causal studies rather than engagement measures. |
 
-<https://cosmeticsbusiness.com/nivea-addresses-loneliness-epidemic-in-new-campaign>
+## Revenue examples do not establish a wound premium
 
-[\[16\]](https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign#:~:text=A%20similar%20design%20to%20the,worse%2C%20it%E2%80%99s%20working%2C%E2%80%9D%20it%20says) [\[17\]](https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign#:~:text=What%20does%20the%20Mad%20Youth,Organise%20campaign%20want) TikTok and Meta make us lonely, says subversive UK ad campaign - Fast Company
+The inherited briefing relied heavily on examples such as successful films about abuse, popular memoirs, high-streaming sad songs, viral mental-health content, and platform campaigns around loneliness.
 
-<https://www.fastcompany.com/91508692/tiktok-meta-lonely-mental-health-subversive-uk-ad-campaign>
+These examples are descriptively interesting and causally weak.
 
-[\[22\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=,solving%20for%20connection%E2%80%94or%20simulating%20it) [\[24\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=We%20say%20we%20are,community%20but%20feel%20like%20comparison) [\[25\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=Connection%20Theater%20Is%20Not%20the,Same%20as%20Actual%20Connection) [\[27\]](https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/#:~:text=In%202023%2C%20the%20U,true%20ownership%20of%20this%20issue) Loneliness: The Crisis Brands Keep Ignoring – Advertising Week
+Suppose a film about grief earns \$100 million. That observation contains at least two variables of interest:
 
-<https://advertisingweek.com/loneliness-the-crisis-brands-keep-ignoring/>
+\[
+\text{wound-centered content}=1,\qquad
+\text{commercial success}=1.
+\]
+
+It does not identify
+
+\[
+P(\text{success}\mid\text{wound})
+-
+P(\text{success}\mid\text{matched non-wound content}).
+\]
+
+Without the matched comparison, the example cannot tell whether suffering helped, hurt, or had no independent effect on commercial performance.
+
+The same problem applies to influencer follower counts, book sales, streams, and television viewership. Selection on successful examples guarantees that the table will look persuasive even if the underlying association is zero.
+
+For this reason, isolated commercial successes should be removed from the evidentiary core of the trauma-economy hypothesis.
+
+## Diagnostic, necrotic, and restorative are interpretations, not measured classes
+
+The broader cultural project has used a three-part distinction:
+
+- **diagnostic:** representation makes a wound or social failure more legible;
+- **necrotic:** representation repeatedly converts injury into attention, status, or revenue without corresponding gains in understanding or agency;
+- **restorative:** representation contributes to coping, repair, institutional response, connection, or expanded agency.
+
+The distinction can be analytically useful, but it is not yet a validated coding scheme. A commercially successful trauma narrative is not automatically necrotic, and a hopeful ending is not automatically restorative.
+
+To use these categories empirically, researchers would need observable criteria. For example:
+
+| Dimension | Possible measure |
+| --- | --- |
+| Attention conversion | impressions, watch time, shares, CTR, subscriptions, sales |
+| Repetition | repeated use of wound-centered framing by creator/platform over time |
+| Explanatory gain | audience knowledge of causes, uncertainty, or institutional context |
+| Agency | changes in coping efficacy, help-seeking, collective action, or perceived options |
+| Commercial dependence | revenue or retention change causally attributable to wound-centered framing |
+| Recovery representation | whether improvement is possible, impossible, penalized, or narratively irrelevant |
+
+Even then, normative interpretation remains. The framework should therefore be presented as a research program, not a discovered market taxonomy.
+
+## How to test whether a trauma premium exists
+
+A credible test needs to measure content **before** looking at success.
+
+### 1. Define the feature independently
+
+Pre-register a coding scheme for wound centrality, traumatic backstory, confession, diagnosis, moral injury, grief, and related features. Coders should not see performance metrics.
+
+### 2. Build a representative sample
+
+Sample releases from streaming television, film, publishing, games, podcasts, or social media by time window and platform. Do not begin with famous wound-centered works.
+
+### 3. Match the comparison set
+
+Compare works within genre, release period, creator status, budget, franchise status, marketing exposure, platform placement, critical reception, and other major predictors of success.
+
+### 4. Separate outcomes
+
+Clicks, completion rate, sharing, subscription retention, box office, sales, critical prestige, and self-reported emotional impact are different outcomes. A “premium” on one does not imply a premium on the others.
+
+### 5. Use experiments where possible
+
+Headline, thumbnail, synopsis, trailer, or recommendation-card experiments can manipulate wound-centered framing while holding the underlying work constant. That design is much closer to the Upworthy negativity evidence than post-hoc comparison of unrelated titles.
+
+### 6. Code ideology separately
+
+Do not infer ideology from the presence of trauma. Code political cues independently and test interaction effects. Include conservative, religious, nationalist, populist, and nonpolitical wound narratives as symmetry controls.
+
+### 7. Separate engagement from well-being
+
+If the theory claims that wound-centered content leaves audiences worse off, measure downstream outcomes directly. High engagement alone cannot establish harm.
+
+### 8. Pre-register falsifiers
+
+The market-premium claim should weaken if wound-centered features have no independent performance effect after matching, if effects reverse across media, or if positive/restorative framing performs equally well or better.
+
+## What a platform-level theory would additionally need
+
+Even evidence for a trauma premium would not automatically prove that platforms preserve wounds.
+
+A stronger system-level claim requires a chain like:
+
+\[
+\text{existing wound}
+\rightarrow
+\text{wound-centered expression}
+\rightarrow
+\text{platform amplification}
+\rightarrow
+\text{higher retention/revenue}
+\rightarrow
+\text{design adaptation favoring the expression}
+\rightarrow
+\text{reduced recovery or increased wound prevalence}.
+\]
+
+Evidence currently exists for pieces of analogous attention and reinforcement loops. The final arrows—especially **reduced recovery** or **increased injury caused by the profitable loop**—cannot be assumed.
+
+That is the difference between saying “a system can monetize negative emotion” and saying “the system requires people to remain psychologically damaged.” The first can be true while the second is false.
+
+## Relationship to the other Liberal Gothic artifacts
+
+The three surviving artifacts have different jobs.
+
+**The Haunted Interior** is a morphology paper. It asks whether there is a coherent cross-media mode in which Gothic haunting migrates into wound-centered psychological legibility, intimate space, confession, and recognition.
+
+**Aesthetics for the Maimed** is a stylized polemic. It preserves the severe cultural intuition that institutions can become proficient at converting suffering into identity, representation, and attention while bounding claims of intentional injury-production or ideological monopoly.
+
+**The Attention of Wounds** is the empirical brake. It asks what evidence would be necessary to move from a plausible mechanism of negative attention toward a claim of a trauma premium or wound-dependent political economy.
+
+The artifacts should remain separate because genre morphology, polemical interpretation, and causal market evidence are different questions.
+
+## Conclusion
+
+The strongest surviving empirical claim is not that contemporary culture runs on trauma.
+
+It is that attention environments repeatedly demonstrate **asymmetries**: negative words can win clicks; social rewards can teach people to express more outrage; out-group hostility can generate engagement; high-arousal negative news can spread; and visible outrage can distort beliefs about how hostile other people are.
+
+Those mechanisms make a wound-market hypothesis worth testing. They do not complete the proof.
+
+A defensible theory has to keep four questions separate:
+
+1. **Is suffering culturally visible?**
+2. **Does wound-centered framing receive more attention than matched alternatives?**
+3. **Does that attention convert into durable institutional or commercial advantage?**
+4. **Does the advantage cause institutions to preserve, intensify, or produce the underlying wound?**
+
+Current evidence is strongest on adjacent parts of questions 1 and 2, weaker on 3, and far from establishing 4 as a general law.
+
+That is not a disappointment. It is a research program.
+
+## Sources and further reading
+
+- Claire E. Robertson et al., [“Negativity drives online news consumption”](https://www.nature.com/articles/s41562-023-01538-4), *Nature Human Behaviour* 7 (2023).
+- William J. Brady et al., [“How social learning amplifies moral outrage expression in online social networks”](https://www.science.org/doi/10.1126/sciadv.abe5641), *Science Advances* 7 (2021).
+- Steve Rathje, Jay J. Van Bavel, and Sander van der Linden, [“Out-group animosity drives engagement on social media”](https://www.pnas.org/doi/10.1073/pnas.2024292118), *PNAS* 118 (2021).
+- Claire E. Robertson et al., [“Negativity and political bias in online news”](https://www.nature.com/articles/s41562-023-01656-z), *Nature Human Behaviour* (2023).
+- William J. Brady et al., [“Overperception of moral outrage in online social networks inflates beliefs about intergroup hostility”](https://www.nature.com/articles/s41562-023-01582-0), *Nature Human Behaviour* 7 (2023).
+- World Health Organization, [Commission on Social Connection](https://www.who.int/groups/commission-on-social-connection), 2025 report and supporting materials.
+- Parul Sehgal, [“The Case Against the Trauma Plot”](https://www.newyorker.com/magazine/2022/01/03/the-case-against-the-trauma-plot), *The New Yorker*, 2021.
