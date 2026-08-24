@@ -1,28 +1,222 @@
 ---
-abstract: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
+title: 'The Light in the Field: Maxwell, Faraday, and the Making of Electromagnetism'
+linkTitle: The Light in the Field
+subtitle: From Lines of Force to the Equations Maxwell Did Not Quite Write
+slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
 aliases: []
+date: '2026-03-04'
+lastmod: '2026-08-24'
+publishDate: '2026-03-04'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- History of Science
+- Physics
+- History of Mathematics
+tags:
+- james-clerk-maxwell
+- michael-faraday
+- maxwell-equations
+- electromagnetism
+- field-theory
+- electromagnetic-waves
+- light
+- maxwellians
+keywords:
+- The Light in the Field
+- James Clerk Maxwell
+- Michael Faraday
+- Maxwell equations
+- electromagnetic field
+- electromagnetic waves
+- displacement current
+- Heinrich Hertz
+- Oliver Heaviside
+- vector analysis
+- special relativity
+subject:
+- History of electromagnetism
+- Electromagnetic field theory
+- Mathematical physics
+subjects:
+- James Clerk Maxwell
+- Michael Faraday
+- Maxwell equations
+- Electromagnetic waves
+- Maxwellians
+summary: >-
+  A source-audited history of how Faraday's experimental field concepts became Maxwell's dynamical electromagnetic
+  theory, how Maxwell identified light with electromagnetic propagation, and how later Maxwellians and vector analysis
+  produced the compact four-equation form now taught under Maxwell's name.
+description: >-
+  Maxwell's deepest achievement was not writing the exact four equations in today's textbooks. He made electricity,
+  magnetism, and light parts of one dynamical field theory; later Maxwellians gave that theory much of its modern form.
+abstract: >-
+  This report reconstructs the development of Maxwellian electromagnetism without projecting the modern four-vector
+  textbook equations backward into Maxwell's 1860s papers. Faraday's induction experiments and lines of force supplied
+  both empirical constraints and a local physical picture. Maxwell's 1855–1856, 1861–1862, and 1865 work progressively
+  mathematized that picture, developed electric displacement as part of a dynamical theory, and derived transverse
+  electromagnetic propagation at a speed matching light. The resulting electromagnetic theory of light was Maxwell's
+  major unification. The modern four-equation set is presented as a later canonical descendant: Maxwell's own theory
+  used components, potentials, constitutive assumptions, and mechanical models, while Heaviside, Hertz, FitzGerald,
+  Lodge, Gibbs, and the wider Maxwellian/vector-analysis tradition recast and stabilized the field-centered formalism.
+  Hertz's experiments are separated from later wireless engineering, Einstein's 1905 special relativity is connected
+  to the moving-body problems of Maxwellian electrodynamics rather than reduced to a single light-speed motivation,
+  and classical Maxwell theory is distinguished from later quantum electrodynamics. Two generic converted field/wave
+  diagrams are removed because they carry no unique historical evidence or provenance.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Mathematics
-- History of Mathematics
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - heaviside
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: independent
+    disposition: keep-separate
+    canonical_slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
+    rationale: >-
+      The corpus contains a related Heaviside package but no second broad Maxwell/Faraday history. `heaviside` is centered
+      on Oliver Heaviside's mathematical engineering of Maxwellian theory, transmission lines, and operational calculus;
+      this package is centered on Faraday's field concepts, Maxwell's formation of the dynamical electromagnetic field
+      theory and electromagnetic theory of light, and the later historical emergence of the modern four-equation form.
+      Their overlap on equation reformulation is complementary context rather than duplicated editorial function.
+report:
+  number: '064'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: historical scientific analysis
+  collection: history-of-science
+  discipline: history of physics
+  subdiscipline: electromagnetism, optics, and mathematical physics
+  domain: classical field theory
+  topic: The Light in the Field
+  subject: Maxwell, Faraday, and the formation of electromagnetic field theory
+  audience: general technically literate reader, physicist, engineer, and history-of-science reader
+  intent: >-
+    replace the inherited four-equations origin myth and technological triumphalism with a historically precise account
+    of how experimental induction, field representation, displacement, wave propagation, and later Maxwellian
+    reformulation produced modern classical electromagnetism.
+  method: >-
+    Historical and technical source audit centered on Maxwell's `On Faraday's Lines of Force`, `On Physical Lines of
+    Force`, and 1865 `A Dynamical Theory of the Electromagnetic Field`; Royal Institution Faraday materials; scholarship
+    on Maxwell's 1865 paper and the Maxwellians; modern equation exposition used only to distinguish current notation
+    from historical formulation; and Einstein's 1905 moving-body electrodynamics for the relativity connection.
+  methods:
+  - history of science
+  - primary-text analysis
+  - source-to-claim audit
+  - mathematical exposition
+  - attribution analysis
+  emphasis:
+  - Faraday's induction and lines of force
+  - Maxwell's dynamical electromagnetic field
+  - electric displacement and charge continuity
+  - electromagnetic theory of light
+  - historical versus modern Maxwell equations
+  - Hertz and experimental electromagnetic waves
+  - Heaviside and the Maxwellians
+  - relativity and limits of classical theory
+  focus: >-
+    how Maxwell transformed a network of electrical, magnetic, and optical phenomena into a dynamical field theory and
+    how later physicists transformed that theory into its canonical modern mathematical representation
+  scope:
+  - Faraday's 1831 induction work and field concepts
+  - Maxwell's 1855–1865 electromagnetic papers
+  - displacement current and field dynamics
+  - electromagnetic wave speed and light
+  - modern four-equation notation
+  - Hertzian experimental confirmation
+  - Maxwellian and vector-analysis reformulation
+  - special relativity as a later reorganization of electrodynamics
+  - classical versus quantum electromagnetic scope
+  period: nineteenth-century physics with twentieth-century afterlife
+  period_covered: 1820-1905 with later classical/quantum interpretive boundary
+  population_focus: Faraday, Maxwell, the Maxwellians, and later physicists where directly relevant
+  primary_texts:
+  - Maxwell, On Faraday's Lines of Force
+  - Maxwell, On Physical Lines of Force
+  - Maxwell, A Dynamical Theory of the Electromagnetic Field
+  - Maxwell, A Treatise on Electricity and Magnetism
+  - Einstein, On the Electrodynamics of Moving Bodies
+  region: Europe
+  region_focus: Britain and Germany with later international physics context
+  scope_years: 1820-1905
+  stance: neutral analytical
+  structure: >-
+    thesis, pre-Maxwell experimental field, Faraday-to-Maxwell representation, dynamical field theory, light,
+    historical versus modern equations, explanation of the four modern equations, Hertz, Heaviside/Maxwellians,
+    relativity, quantum boundary, evidence map, historical lessons, conclusion, and named sources
+  time_scope: historical synthesis with modern mathematical clarification
+  time_span: nineteenth-century electromagnetism through early relativity
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:maxwells-equations-a-human-centered-historical-and-scientific-analysis
+  conversion:
+    date: '2026-04-20'
+    source_docx: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-24 final audit retitled the artifact **The Light in the Field** and replaced the inherited claim that
+    Maxwell directly formulated today's four equations in 1865–1873. The rewrite treats Maxwell's major accomplishment
+    as the formation of a dynamical electromagnetic field theory and the identification of light with electromagnetic
+    propagation, while the compact vector equation set is identified as a later Maxwellian/vector-analysis descendant.
+    Faraday is treated as a disciplined experimental and conceptual theorist rather than a merely intuitive precursor;
+    displacement current is tied to dynamical consistency and charge continuity rather than decorative symmetry;
+    Hertz's wave experiments are separated from later wireless-system engineering; and Einstein's 1905 relativity is
+    grounded in moving-body electrodynamics rather than reduced to a single reaction to a constant light speed. The
+    inherited raw timeline, escaped numbered citation lattice, duplicated source export, generic technology genealogy,
+    and absolute-workstation image references were removed. Both converted diagrams (`rId33.png` and `rId41.png`) were
+    deleted because they were generic explanatory illustrations with no recorded provenance and no unique evidentiary
+    role. No local assets remain. `heaviside` is retained as an independent related neighbor.
+report-no: '064'
+report-number: '064'
+report-year: '2026'
+report_no: 64
+report_number: 64
+report_year: 2026
+series: Marginalia Reports
+series-number: 64
+series-title: Marginalia Reports
+series_number: 64
+series_title: Marginalia Reports
+identifier: urn:marginalia:maxwells-equations-a-human-centered-historical-and-scientific-analysis
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-03-04'
-description: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -30,113 +224,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:maxwells-equations-a-human-centered-historical-and-scientific-analysis
 isCJKLanguage: false
-keywords:
-- Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
-- Mathematics
-- History of Mathematics
-lang: en
-language: English
-lastmod: '2026-03-04'
 layout: ''
-library_of_congress_classification:
-  class: QA
-  description: Mathematics, mathematical history, and mathematical methods.
-  label: Mathematics
-license: CC0-1.0
-linkTitle: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-03-04'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general mathematically literate reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx
-    tool: pandoc 3.6
-  discipline: mathematics
-  domain: mathematics
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:maxwells-equations-a-human-centered-historical-and-scientific-analysis
-  intent: ''
-  is_report: true
-  kind: analytical report
-  level: ''
-  method: ''
-  methods: []
-  name: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
-  notes: ''
-  number: '064'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: mathematical history and theory
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '064'
-report-number: '064'
-report-year: '2026'
-report_no: 64
-report_number: 64
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 64
-series-title: Marginalia Reports
-series_number: 64
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
-status: complete
-subject:
-- Mathematics
-- History of mathematics
-subjects:
-- Mathematics
-- History of mathematics
-subtitle: ''
-summary: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
-tags:
-- maxwells-equations-a-human-centered-historical-and-scientific-analysis
-- mathematics
-- history-of-mathematics
-- math-history
-title: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
