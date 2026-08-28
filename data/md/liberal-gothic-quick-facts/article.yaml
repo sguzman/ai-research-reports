@@ -26,7 +26,7 @@ date: '2026-04-13'
 description: '- Modern Anglophone media increasingly foreground personal pain and suffering (“liberal
   gothic”), often packaging trauma as consumable content. Critics argue this reflects a *commodification
   of trauma*: an industry incentives structure whe…'
-draft: false
+draft: true
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -81,7 +81,10 @@ report:
   method: ''
   methods: []
   name: 'Liberal Gothic: Quick Facts'
-  notes: ''
+  notes: >-
+    Retired on 2026-08-28 as a weak, redundant quick-facts conversion artifact. Preserve for provenance only; do not
+    publish or revive as an independent article. Substantive Liberal Gothic analysis belongs in
+    `liberal-gothic-an-analytical-report` and related reviewed cultural-theory work.
   number: 089
   organization: Marginalia
   period: ''
@@ -122,7 +125,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0
 slug: liberal-gothic-quick-facts
-status: complete
+status: archived
 subject:
 - Culture
 - Media studies
