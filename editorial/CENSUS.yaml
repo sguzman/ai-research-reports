@@ -1209,13 +1209,13 @@ packages:
     - absolute_path_in_body
   liberal-gothic-quick-facts:
     title: 'Liberal Gothic: Quick Facts'
-    lifecycle: complete
-    draft: false
+    lifecycle: archived
+    draft: true
     type: briefing
     editorial_profile: null
     voice: null
     duplicate_review: null
-    has_changelog: false
+    has_changelog: true
     asset_files: 0
     legacy_media_files: 0
     body_bytes: 29109
@@ -1223,9 +1223,7 @@ packages:
     local_link_or_image_count: 0
     risk_hints: []
     mechanical_flags:
-    - legacy_or_unknown_lifecycle
     - editorial_profile_unresolved
-    - changelog_missing
     - duplicate_review_unresolved
     - raw_diagram_source
   liberalism-as-political-domestication:
