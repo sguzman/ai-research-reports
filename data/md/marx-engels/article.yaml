@@ -1,168 +1,35 @@
 ---
-abstract: 'In the mid-19th century, Karl Marx and Friedrich Engels recast the relationship between "socialism"
-  and "communism" by presenting their program as "scientific socialism": an approach grounded in historical
-  materialism, class antagonism, and the analysis of capitalist development rather than in moral appeals
-  or invented utopias. Using the 1848 Communist Manifesto as the central text, this essay traces how Marx
-  and Engels deliberately adopted the label "communist" to distinguish their doctrine from rival socialist
-  currents, then follows early reception through correspondence, press reactions, and key events from
-  1846 to 1860. It supplements close reading with a lightweight textual/network scan of recurring terms
-  (e.g., bourgeoisie, proletariat, class, property) to surface thematic clusters and to show how "communism"
-  was framed as the advanced, scientifically justified form of socialism.'
-aliases: []
+title: 'Before “Scientific Socialism”: Marx, Engels, and the Communist Manifesto'
+linkTitle: Marx, Engels, and the Communist Manifesto
+subtitle: Communist Self-Designation, Historical Method, and Engels’s Later Codification
+slug: marx-engels
+aliases:
+- marx-engels-scientific-socialism
+date: '2026-02-12'
+lastmod: '2026-08-29'
+publishDate: '2026-02-12'
+draft: false
+status: ready
+type: research-essay
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
-build:
-  list: always
-  publishResources: true
-  render: always
-cascade: {}
-categories:
-- Political theory
-- Intellectual history
-- Marxism
-- Socialism and communism
-- 19th century Europe
-cover-image: cover.png
-cover_image: cover.png
 creator:
 - Salvador Guzman
-dataset_id: marx-engels-scientific-socialism
-date: '2026-02-12'
-description: How Marx and Engels distinguished "scientific socialism" from utopian and reformist socialisms,
-  using the Communist Manifesto, early correspondence, and mid-19th-century press reception.
-draft: false
-edition: '1'
-epub-chapter-level: 2
-epub-cover-image: cover.png
-epub-stylesheet: epub.css
-epub-title-page: false
-epub_cover_image: cover.png
-expiryDate: ''
-format: text/markdown
-headless: false
-highlight-style: tango
-identifier: gva:marx-engels-scientific-socialism
-isCJKLanguage: false
-keywords:
-- Karl Marx
-- Friedrich Engels
-- scientific socialism
-- utopian socialism
-- historical materialism
-- class struggle
-- bourgeoisie
-- proletariat
-- Communist Manifesto
-- 1848 revolutions
-- Cologne Communist Trial
-- First International
-- press reception
-- textual analysis
-lang: en
-language: English
-lastmod: '2026-02-12'
-layout: ''
-library_of_congress_classification:
-  class: HX
-  description: Socialism, communism, anarchism, and related intellectual history.
-  label: Socialism. Communism. Anarchism
-  note: Broad topical classification for shelving/metadata; not an official LoC assignment.
-  topic: Socialism. Communism. Marxism
-license: CC0-1.0
-linkTitle: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
-markup: ''
-number-sections: true
-outputs: []
-plate_id: marx-engels-0001
-publishDate: '2026-02-12'
-publisher: Marginalia
-reference-section-title: Bibliography
-report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: ''
-    source_docx: ''
-    tool: ''
-  discipline: political theory
-  domain: political theory
-  emphasis: ''
-  focus: ''
-  id: gva:marx-engels-scientific-socialism
-  intent: ''
-  is_report: true
-  kind: research-essay
-  level: ''
-  method: ''
-  methods:
-  - close reading
-  - timeline synthesis
-  - textual frequency/co-occurrence scan
-  name: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
-  notes: ''
-  number: '036'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts:
-  - Manifesto of the Communist Party (1848)
-  - Selected Marx-Engels correspondence (1846-1852)
-  region: ''
-  region_focus: ''
-  scope: Scientific socialism, terminology, and early reception around the Communist Manifesto
-  scope_years: ''
-  series: Gold, Velvet and Ashes Essays
-  stance: ''
-  structure: ''
-  subdiscipline: socialist and radical thought
-  subject: ''
-  time_scope: 1846-1860 (with later prefaces for context)
-  time_span: ''
-  topic: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
-  type: research-essay
-  version: '1'
-  year: 2026
-report-no: '036'
-report-number: '036'
-report-year: '2026'
-report_no: 36
-report_number: 36
-report_year: 2026
-resources: []
-revision: '1'
-rights: CC0-1.0
-series: Gold, Velvet and Ashes Essays
-series-number: 36
-series-title: Gold, Velvet and Ashes Essays
-series_number: 36
-series_title: Gold, Velvet and Ashes Essays
-sitemap:
-  changefreq: ''
-  filename: sitemap.xml
-  priority: 0
-slug: marx-engels-scientific-socialism
-status: complete
-subject:
+categories:
+- Political Theory
+- Intellectual History
 - Marxism
-- Socialism
-- Communism
-- Political ideology
-- 19th century intellectual history
-subjects:
-- Marxism
-- Socialism
-- Communism
-- Political ideology
-- 19th century intellectual history
-subtitle: Scientific socialism, terminology, and early reception around the Communist Manifesto
-summary: How Marx and Engels distinguished "scientific socialism" from utopian and reformist socialisms,
-  using the Communist Manifesto, early correspondence, and mid-19th-century press reception.
+- Socialism and Communism
 tags:
 - marx
 - engels
@@ -170,18 +37,202 @@ tags:
 - scientific-socialism
 - utopian-socialism
 - historical-materialism
-- class-struggle
-- bourgeoisie
-- proletariat
-- press-history
-- '1848'
+- communism
+- socialism
 - intellectual-history
-title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+keywords:
+- Karl Marx
+- Friedrich Engels
+- Communist Manifesto
+- Manifesto of the Communist Party
+- scientific socialism
+- utopian socialism
+- communism
+- socialism
+- historical materialism
+- class struggle
+- Communist League
+subject:
+- Marxism
+- Socialism
+- Communism
+- Political theory
+- Nineteenth-century intellectual history
+subjects:
+- Communist Manifesto
+- Marx and Engels
+- Scientific socialism
+- Utopian socialism
+- Historical materialism
+summary: >-
+  A source-audited reconstruction of the relationship between the 1848 Communist Manifesto and the later label
+  “scientific socialism,” separating Marx and Engels’s communist self-designation from Engels’s 1880 codification of
+  the utopian/scientific contrast.
+description: >-
+  Examines why Marx and Engels chose the name “communist” in 1847–48, what historical and political claims the
+  Communist Manifesto actually makes, how Section III treats rival socialisms, and how Engels later organized those
+  ideas under the explicit label “scientific socialism.”
+abstract: >-
+  The Communist Manifesto is often described retrospectively as a foundational statement of scientific socialism, but
+  the 1848 pamphlet does not use that label. This essay separates three historical layers: the Communist League-era
+  choice of “communist” over “socialist”; the Manifesto’s materialist account of capitalist development, class conflict,
+  and communism as an immanent movement rather than an invented blueprint; and Engels’s later codification of the
+  utopian/scientific distinction in Anti-Dühring and the 1880 pamphlet Socialism: Utopian and Scientific. It also
+  corrects the inherited translation chronology, distinguishes explanatory ambition from deterministic prediction,
+  and removes an unreproducible textual-frequency/network analysis that lacked its claimed script, corpus snapshot,
+  tokenizer specification, stop list, or generated data.
+build:
+  list: always
+  publishResources: true
+  render: always
+relationships:
+  exact_duplicates:
+  - marx-engels-manifesto-analysis
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: marx-engels
+    rationale: >-
+      `marx-engels-manifesto-analysis` contains the same substantive inherited report in a different DOCX/Pandoc
+      conversion format, including the same executive summary, timeline, textual-frequency claims, close reading,
+      historical discussion, conclusion, citation errors, and bibliography. This package has the stronger political-
+      theory identity and is retained as the canonical source for the audited rewrite; the duplicate is archived for
+      provenance only.
+report:
+  number: '036'
+  year: 2026
+  type: research-essay
+  version: 1.0.1
+  kind: source-audited intellectual-history essay
+  collection: ideology-studies
+  discipline: political theory and intellectual history
+  subdiscipline: Marxist and socialist thought
+  domain: political theory
+  topic: Marx, Engels, and the Communist Manifesto
+  subject: the historical relationship between the Communist Manifesto and later scientific-socialist terminology
+  audience: general reader, political-theory reader, and intellectual historian
+  intent: >-
+    distinguish the 1847–48 communist self-designation from the later explicit vocabulary of scientific socialism,
+    identify which features of the Manifesto genuinely anticipate Engels’s later formulation, and remove unsupported
+    or unreproducible claims inherited from the conversion-era report.
+  method: >-
+    Close reading and chronological source comparison across Engels’s Principles of Communism, the 1848 Manifesto,
+    Marx and Engels’s later Manifesto prefaces, Engels’s Anti-Dühring-derived 1880 pamphlet, Marx’s introduction to its
+    French edition, and modern scholarship on Marx’s materialist theory of history.
+  methods:
+  - primary-text close reading
+  - terminology chronology
+  - intellectual-history comparison
+  - source-to-claim audit
+  - duplicate review
+  - reproducibility audit
+  emphasis:
+  - communist versus socialist self-designation in 1847–48
+  - historical and material explanation
+  - class struggle and capitalist development
+  - Section III taxonomy of rival socialisms
+  - utopian versus scientific socialism
+  - later authorial prefaces
+  - prediction versus explanatory method
+  - reproducibility limits of inherited computational claims
+  focus: >-
+    what the Communist Manifesto itself says, what Engels later said it meant, and when “scientific socialism” became an
+    explicit organizing label rather than a retrospective description
+  scope:
+  - Engels’s Principles of Communism
+  - Communist League commission and 1848 Manifesto
+  - Manifesto Sections I–III
+  - 1872, 1883, 1888, and 1890 authorial prefaces where relevant
+  - 'Anti-Dühring and Socialism: Utopian and Scientific'
+  - publication and translation chronology
+  - limits of deterministic readings
+  period: nineteenth-century European socialist thought
+  period_covered: 1847–1890, with modern scholarly interpretation where necessary
+  population_focus: selected primary texts rather than a statistical corpus
+  primary_texts:
+  - The Principles of Communism (1847)
+  - Manifesto of the Communist Party (1848)
+  - Prefaces to later editions of the Communist Manifesto (1872–1890)
+  - Anti-Dühring (1876–1878)
+  - 'Socialism: Utopian and Scientific (1880)'
+  region: Europe
+  region_focus: German, French, and British contexts relevant to Marx and Engels
+  scope_years: 1847–1890
+  stance: neutral analytical
+  structure: >-
+    thesis correction, 1847–48 naming context, Manifesto close reading, Section III taxonomy, later scientific-socialist
+    codification, retrospective prefaces, corrected publication chronology, interpretive cautions, reproducibility audit,
+    and final assessment
+  time_scope: historical intellectual analysis
+  time_span: 1847–1890
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:marx-engels
+  conversion:
+    date: ''
+    source_docx: ''
+    tool: ''
+  notes: >-
+    The 2026-08-29 final audit established `marx-engels-manifesto-analysis` as an exact duplicate conversion of this
+    report and archived it. The canonical rewrite corrects the inherited retrojection of “scientific socialism” into
+    the 1848 Manifesto: the Manifesto does not use the phrase, though it contains historical/materialist and anti-utopian
+    arguments Engels later organized under that label. The rewrite also corrects the first French translation from 1851
+    to before the June 1848 insurrection, removes unsupported press-reception claims and weak secondary links, and deletes
+    the unreproducible exact word-frequency/co-occurrence results. The inherited metadata slug
+    `marx-engels-scientific-socialism` was corrected to match the package folder and preserved as an alias. The declared
+    `cover.png` was removed from metadata because no such asset exists. No local assets are required.
+report-no: '036'
+report-number: '036'
+report-year: '2026'
+report_no: 36
+report_number: 36
+report_year: 2026
+series: Marginalia Reports
+series-number: 36
+series-title: Marginalia Reports
+series_number: 36
+series_title: Marginalia Reports
+identifier: urn:marginalia:marx-engels
+dataset_id: ideology-studies
+language: English
+lang: en
 toc: true
 toc-depth: 3
 toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
+cover-image: ''
+cover_image: ''
+edition: '1'
+epub-chapter-level: 0
+epub-cover-image: ''
+epub-stylesheet: epub.css
+epub-title-page: false
+epub_cover_image: ''
+expiryDate: ''
+headless: false
+highlight-style: tango
+isCJKLanguage: false
+layout: ''
+markup: ''
+outputs: []
+plate_id: ''
+sitemap:
+  changefreq: ''
+  filename: sitemap.xml
+  priority: 0
 translationKey: ''
-type: research-essay
 url: ''
 weight: 0
 ...

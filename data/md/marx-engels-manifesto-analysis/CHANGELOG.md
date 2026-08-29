@@ -1,0 +1,5 @@
+# Changelog
+
+| Timestamp | Summary |
+| --- | --- |
+| 2026-08-29 12:43:00 CST | Retired this package after direct comparison established it as an exact substantive duplicate of `marx-engels`. Both inherited bodies contain the same executive summary, timeline, textual-frequency/co-occurrence claims, close reading, historical discussion, conclusion, citation errors, and bibliography; differences are conversion/formatting and legacy metadata rather than a separate argument. Set `draft: true`, moved legacy `complete` → `archived`, declared `academic / neutral`, recorded `exact-duplicate / archive-duplicate` with canonical slug `marx-engels`, and corrected the inherited Mathematics/History of Mathematics classification to political theory and intellectual history for archival discovery. Preserved the body in its inherited conversion state rather than spending editorial effort rehabilitating a noncanonical copy; its numbered citation lattice, unsupported computational output, and other source weaknesses remain provenance only and must not be revived as an independent article. Advanced archival revision/version 1.0.0 → 1.0.1. |

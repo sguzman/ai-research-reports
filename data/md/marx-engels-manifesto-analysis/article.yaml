@@ -1,35 +1,154 @@
 ---
-abstract: '**Executive Summary** In the mid-19th century, Karl Marx and Friedrich Engels redefined the
-  relationship between “socialism” and “communism,” positioning their own doctrine as *scientific socialism*.
-  Prior to 1848, “socialism” was often associated with utopian or middle-class reformers, whereas “communism”
-  signified the radical, working-class movement[\[1\]](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=Germany,act%20of%20the%20working%20class).
-  In the **Communist Manifesto** (Feb 1848), Marx and Engels deliberately chose the term “Communist” to
-  distinguish their program from what they saw as sentimental, utopian schemes[\[2\]](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=match%20at%20L429%20that%20of,%…'
+title: Marx Engels Manifesto Analysis
+linkTitle: Marx Engels Manifesto Analysis
+subtitle: Archived Duplicate Conversion
+slug: marx-engels-manifesto-analysis
 aliases: []
+date: '2026-01-25'
+lastmod: '2026-08-29'
+publishDate: '2026-01-25'
+draft: true
+status: archived
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Political Theory
+- Intellectual History
+- Marxism
+tags:
+- marx
+- engels
+- communist-manifesto
+- archived-duplicate
+keywords:
+- Marx Engels Manifesto Analysis
+- Communist Manifesto
+- archived duplicate
+subject:
+- Marxism
+- Socialism
+- Communism
+- Intellectual history
+subjects:
+- Archived duplicate of marx-engels
+summary: >-
+  Archived duplicate conversion of the canonical `marx-engels` report, retained for provenance and migration history
+  rather than independent publication.
+description: >-
+  Provenance-only DOCX/Pandoc conversion duplicating the inherited Marx/Engels Manifesto analysis now reviewed and
+  rewritten canonically in `marx-engels`.
+abstract: >-
+  This package contains the same substantive inherited report as `marx-engels`, with differences concentrated in DOCX/
+  Pandoc conversion formatting and legacy metadata. Duplicate review on 2026-08-29 established `marx-engels` as the
+  canonical package because it had the stronger political-theory identity and was selected for the source-audited
+  rewrite. This duplicate remains archived without substantive rehabilitation of its conversion-era body.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Mathematics
-- History of Mathematics
+relationships:
+  exact_duplicates:
+  - marx-engels
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related: []
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: exact-duplicate
+    disposition: archive-duplicate
+    canonical_slug: marx-engels
+    rationale: >-
+      This package and `marx-engels` contain the same inherited executive summary, timeline, textual-frequency and
+      co-occurrence claims, close reading, historical discussion, conclusion, citation errors, and bibliography. The
+      differences are conversion and metadata packaging rather than substantive authorship. `marx-engels` is canonical;
+      this package is retained solely as migration provenance.
+report:
+  number: '006'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: archived duplicate conversion
+  collection: ideology-studies
+  discipline: political theory and intellectual history
+  subdiscipline: Marxist and socialist thought
+  domain: political theory
+  topic: Marx and Engels Manifesto analysis
+  subject: archived duplicate of canonical marx-engels package
+  audience: provenance and editorial maintenance only
+  intent: preserve conversion and migration history without independent publication
+  method: inherited conversion artifact; substantive claims are not independently validated here
+  methods: []
+  emphasis:
+  - archived duplicate provenance
+  focus: exact-duplicate relationship to canonical marx-engels report
+  scope:
+  - duplicate preservation
+  period: nineteenth-century socialist thought
+  period_covered: duplicate of canonical Marx/Engels Manifesto report
+  population_focus: ''
+  primary_texts: []
+  region: Europe
+  region_focus: ''
+  scope_years: ''
+  stance: neutral analytical
+  structure: inherited duplicate conversion body
+  time_scope: historical intellectual analysis
+  time_span: ''
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:marx-engels-manifesto-analysis
+  conversion:
+    date: '2026-04-20'
+    source_docx: Marx Engels Manifesto Analysis.docx
+    tool: pandoc 3.6
+  notes: >-
+    Retired on 2026-08-29 after direct body comparison established that this package is an exact substantive duplicate of
+    `marx-engels`. The body is intentionally left in its inherited conversion state for provenance; its numbered citation
+    lattice, unsupported computational results, and other weaknesses are not a second canonical research artifact and
+    should not be revived independently. The earlier mathematics/History of Mathematics metadata was a classification
+    error and has been replaced with the correct political-theory/intellectual-history identity for archival discovery.
+report-no: '006'
+report-number: '006'
+report-year: '2026'
+report_no: 6
+report_number: 6
+report_year: 2026
+series: Marginalia Reports
+series-number: 6
+series-title: Marginalia Reports
+series_number: 6
+series_title: Marginalia Reports
+identifier: urn:marginalia:marx-engels-manifesto-analysis
+dataset_id: ideology-studies
+language: English
+lang: en
+toc: false
+toc-depth: 0
+toc-title: ''
+number-sections: false
+reference-section-title: References
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-01-25'
-description: '**Executive Summary** In the mid-19th century, Karl Marx and Friedrich Engels redefined
-  the relationship between “socialism” and “communism,” positioning their own doctrine as *scientific
-  socialism*. Prior to 1848, “socialism” was often as…'
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -37,115 +156,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:marx-engels-manifesto-analysis
 isCJKLanguage: false
-keywords:
-- Marx Engels Manifesto Analysis
-- Mathematics
-- History of Mathematics
-lang: en
-language: English
-lastmod: '2026-01-25'
 layout: ''
-library_of_congress_classification:
-  class: QA
-  description: Mathematics, mathematical history, and mathematical methods.
-  label: Mathematics
-license: CC0-1.0
-linkTitle: Marx Engels Manifesto Analysis
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-01-25'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general mathematically literate reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: Marx Engels Manifesto Analysis.docx
-    tool: pandoc 3.6
-  discipline: mathematics
-  domain: mathematics
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:marx-engels-manifesto-analysis
-  intent: ''
-  is_report: true
-  kind: analytical report
-  level: ''
-  method: ''
-  methods: []
-  name: Marx Engels Manifesto Analysis
-  notes: ''
-  number: '006'
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: mathematical history and theory
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Marx Engels Manifesto Analysis
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: '006'
-report-number: '006'
-report-year: '2026'
-report_no: 6
-report_number: 6
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 6
-series-title: Marginalia Reports
-series_number: 6
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: marx-engels-manifesto-analysis
-status: complete
-subject:
-- Mathematics
-- History of mathematics
-subjects:
-- Mathematics
-- History of mathematics
-subtitle: ''
-summary: '**Executive Summary** In the mid-19th century, Karl Marx and Friedrich Engels redefined the
-  relationship between “socialism” and “communism,” positioning their own doctrine as *scientific socialism*.
-  Prior to 1848, “socialism” was often as…'
-tags:
-- marx-engels-manifesto-analysis
-- mathematics
-- history-of-mathematics
-- math-history
-title: Marx Engels Manifesto Analysis
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
