@@ -259,7 +259,7 @@ This taxonomy does not claim that:
 
 Those stronger claims require different evidence.
 
-The companion essay [*Aesthetics for the Maimed*](/research/culture-gothic/) addresses the separate question of whether modern institutions and media incentives can convert injury into recurring cultural and commercial form. That is an incentives argument. This report is a formal taxonomy. Keeping the two functions separate is part of the editorial correction.
+The companion essay *Aesthetics for the Maimed* addresses the separate question of whether modern institutions and media incentives can convert injury into recurring cultural and commercial form. That is an incentives argument. This report is a formal taxonomy. Keeping the two functions separate is part of the editorial correction.
 
 ## A practical test for future works
 
