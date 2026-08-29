@@ -1,808 +1,396 @@
-# Liberalism, Equality, and the Leftward Drift Thesis
-
-## Executive summary
-
-The claim that liberalism is inherently unstable because its own
-promises of equality push it leftward contains a **real but limited**
-truth. The limited truth is that liberalism is universalist: once it
-affirms that persons are equal bearers of rights and that government
-rests on consent rather than inherited status, it creates recurring
-pressure to widen the circle of inclusion and to ask whether merely
-formal equality is enough. That pressure helped drive expansions of
-suffrage, labor protection, welfare provision, anti-discrimination law,
-and social citizenship. The French Declaration's language of free and
-equal rights was quickly extended by figures such as Olympe de Gouges;
-late-19th- and 20th-century liberalism increasingly argued that poverty,
-ignorance, disease, and private domination can be as freedom-limiting as
-old state privilege; and Rawlsian liberalism makes the "fair value" of
-political liberties and fair equality of opportunity central rather than
-optional. [\[1\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-The stronger version of the claim---that liberalism tends naturally
-toward **socialism or Marxism**, and is therefore "completed" by
-them---is not well supported. Marx himself treated liberal political
-emancipation as a major advance over feudalism, but also argued that it
-had to be **surpassed**, not simply fulfilled, because liberal rights
-and equality remained tied to "bourgeois" property relations and merely
-political emancipation. In the *Communist Manifesto*, Marx and Engels
-define communism not as the completion of liberal property-rights
-arguments but as the abolition of bourgeois private property; in the
-*Critique of the Gotha Programme*, Marx argues that equal right remains
-a "bourgeois" standard that must eventually be crossed. That is a
-relationship of genealogy and negation, not straightforward perfection.
-[\[2\]](https://plato.stanford.edu/entries/marx/)
-
-Historically, liberal societies have more often moved toward **social
-liberalism, welfare capitalism, or social democracy** than toward
-revolutionary Marxism. Bismarckian social insurance, the British Liberal
-reforms of 1906--1914, Beveridge's postwar settlement, and Scandinavian
-social democracy all show leftward expansion inside constitutional,
-electoral, and property-respecting frameworks. The revolutionary Marxist
-path was most likely not where liberal logic simply unfolded on its own,
-but where liberal states suffered **war, state collapse, weak
-legitimacy, class polarization, or imperial crisis**, as in Russia in
-1917.
-[\[3\]](https://www.britannica.com/topic/history-of-Germany/Germany-from-1871-to-1918)
-
-The best overall judgment, therefore, is this: **liberalism is not
-stable in the sense of being morally static**, because its commitments
-generate repeated pressures for broader inclusion and more substantive
-forms of equality. But it is also **not unstable in the deterministic
-sense** that it culminates in Marxism. Liberalism has its own internal
-brakes: property, consent, limited government, individual rights, value
-pluralism, rule of law, party competition, and constitutional reform.
-These mechanisms often redirect egalitarian pressure into reformist
-rather than revolutionary channels.
-[\[4\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-
-A concise judgment on the core subclaims appears below.
-
-  -----------------------------------------------------------------------
-  Subclaim                Assessment              Short reason
-  ----------------------- ----------------------- -----------------------
-  Liberalism contains     **Largely true**        Rights language,
-  universal promises that                         democratic inclusion,
-  generate pressure for                           and anti-status
-  broader equality                                principles repeatedly
-                                                  support claims for
-                                                  wider suffrage, labor
-                                                  rights, welfare, and
-                                                  anti-colonial
-                                                  self-determination.
-
-  Liberalism is therefore **Only partly true**    It is contestable and
-  unstable in a strong                            revision-prone, but it
-  sense                                           has durable
-                                                  institutional and
-                                                  philosophical
-                                                  stabilizers.
-
-  Liberalism tends        **Sometimes, under      The stronger historical
-  specifically toward     crisis**                pattern is reformist
-  socialism/Marxism                               social democracy, not
-                                                  revolutionary
-                                                  communism.
-
-  Communism/Marxism       **Mostly false**        Marxism inherits and
-  "perfects" liberalism                           radicalizes some
-                                                  emancipatory themes,
-                                                  but rejects core
-                                                  liberal commitments to
-                                                  private property,
-                                                  pluralism, and limited
-                                                  government.
-  -----------------------------------------------------------------------
-
-Table synthesized from primary texts and major reference works.
-[\[5\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-## Scope and analytical frame
-
-This report takes the scope exactly as specified: it focuses on
-**political and philosophical mechanisms**, not econometric tests or
-growth modeling; it is geographically global, but emphasizes **Europe
-and Anglophone cases**, with selected postcolonial examples where they
-illuminate the argument. Within that scope, "leftward expansion" is
-treated as a spectrum ranging from **social liberalism** and **social
-democracy** to **democratic socialism** and **Marxism-Leninism**. That
-distinction matters, because many liberal developments moved left
-without becoming anti-liberal regimes.
-[\[6\]](https://www.britannica.com/topic/liberalism)
-
-Analytically, the claim can mean at least three different things. It can
-mean: first, a **moral** thesis, that equality before the law logically
-invites more substantive equality; second, an **institutional** thesis,
-that liberal freedoms of speech, association, and suffrage enable
-socialist organization; or third, a **historical** thesis, that liberal
-regimes in practice destabilize themselves and are then displaced by
-more radical left movements. The report treats these separately because
-they have different evidentiary standards and different historical
-records. [\[7\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-A further clarification is necessary. Liberalism is not one doctrine.
-Both the Stanford Encyclopedia and Britannica stress that liberalism
-includes related but competing traditions and that its historical
-development moved from suspicion of state power to, in many versions,
-willingness to use state power to remove obstacles to freedom. Any
-argument about "liberalism's instability" therefore has to specify
-**which liberalism** is under discussion.
-[\[8\]](https://plato.stanford.edu/entries/liberalism/)
-
-## Liberalism and its variants
-
-Liberalism's core commitments are remarkably stable across variants. The
-Declaration of the Rights of Man and of the Citizen states that persons
-are born free and equal in rights; that the end of political association
-is the preservation of liberty, property, security, and resistance to
-oppression; and that sovereignty resides in the nation. Locke similarly
-grounds lawful government in the consent of free and equal persons and
-makes the preservation of property a central end of government. Mill,
-from a different angle, centers the individual's protected sphere by
-arguing that coercion is justified only to prevent harm to others. These
-are the main liberal constants: **individual rights, equality before
-law, property, and consent**.
-[\[9\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-At the same time, liberalism divides over what freedom requires.
-Classical liberalism ties freedom closely to non-interference, private
-property, market order, and limited government. The Stanford
-Encyclopedia notes that, for classical liberals, liberty and private
-property are "intimately related," and that property is often treated as
-both a component and a protector of liberty. Britannica likewise
-describes classical liberals as seeing the state as the primary threat
-to freedom and limiting it mainly to rights-protection.
-[\[10\]](https://plato.stanford.edu/entries/liberalism/)
-
-Social liberalism, by contrast, argues that freedom can be blocked not
-only by the state but also by poverty, disease, discrimination,
-ignorance, and private power. Britannica's account of modern liberalism
-says that liberals increasingly treated such conditions as obstacles to
-the exercise of basic rights and autonomy, while the Stanford
-Encyclopedia's discussion of positive liberty explicitly ties effective
-freedom to material capacity and resources. Rawls develops the same
-family of thought by insisting not only on equal basic liberties, but on
-the **fair value** of political liberties and fair equality of
-opportunity regardless of whether citizens were born rich or poor.
-[\[11\]](https://www.britannica.com/topic/liberalism)
-
-Neoliberalism is not identical with either of those traditions.
-Britannica defines it as an ideology centered on free-market
-competition, limited state intervention, and freer trade and capital
-movement, while distinguishing it from modern liberalism. The Stanford
-Encyclopedia adds that neoliberal thinkers such as Hayek, Friedman, and
-Buchanan reassert the **rule of law**, equal treatment before law, and
-limits on administrative state expansion partly as arguments against
-both social-democratic liberalism and socialism. Yet even here the
-tradition is more flexible than polemics often assume: Hayek defended
-various welfare-state measures, including social insurance, a minimum
-income, and public health-related interventions.
-[\[12\]](https://www.britannica.com/money/neoliberalism)
-
-The comparison below is the clearest way to see where the instability
-thesis gets its traction.
-
-  -----------------------------------------------------------------------------------------------------
-  Liberal variant Primary conception   Equality      Property and markets Typical     Relevance to the
-                  of freedom           emphasis                           state role  claim
-  --------------- -------------------- ------------- -------------------- ----------- -----------------
-  Classical       Non-interference;    Formal legal  Strong protection of Limited     Weakest leftward
-  liberalism      protected private    equality and  property as          state for   pull; strongest
-                  sphere               consent       liberty-protecting   rights,     resistance to
-                                                                          law, and    redistribution
-                                                                          security    
-
-  Social          Effective autonomy;  Formal        Property accepted    Active      Strongest liberal
-  liberalism      freedom requires     equality plus but regulated;       state to    route to welfare,
-                  usable capacities    fair          markets can create   remove      labor rights, and
-                                       opportunity   domination           obstacles   social democracy
-                                       and social                         to freedom  
-                                       conditions                                     
-
-  Neoliberalism   Market freedom, rule Equality      Strong market        Limited but Often a
-                  of law,              before        orientation;         not zero    countermovement
-                  anti-arbitrariness   general       anti-discretionary   state;      against leftward
-                                       rules,        administration       safety net  drift, but can
-                                       skepticism                         possible    generate new left
-                                       toward                                         reactions when
-                                       outcome                                        inequality rises
-                                       equality                                       
-  -----------------------------------------------------------------------------------------------------
-
-Table synthesized from SEP and Britannica entries on liberalism and
-neoliberalism. [\[13\]](https://plato.stanford.edu/entries/liberalism/)
-
-## Why the claim has force
-
-### The philosophical tensions inside liberalism
-
-The instability thesis is strongest where liberalism's own internal
-distinctions become visible. One fault line is **political versus social
-equality**. The French Declaration established equal legal citizenship,
-but it also elevated property and left the legislature as the main judge
-of its own actions. Britannica notes that, despite the framers' limited
-aims, the Declaration's principles could be "extended logically" toward
-political and even social democracy. Tocqueville, meanwhile, argued that
-the movement toward equality of conditions seemed historically
-irreversible, yet insisted that equality could ally with **despotism as
-well as liberty**. In other words, the pressure for greater equality is
-real, but its destination is indeterminate.
-[\[14\]](https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen)
-
-A second tension is **formal versus substantive equality**. Liberal
-rights can establish equal legal standing while leaving large
-inequalities in the actual capacity to use those rights. The Stanford
-Encyclopedia's discussion of positive freedom points precisely to this
-issue: the formally uncoerced but materially deprived person may still
-lack effective power to act. Rawls radicalizes the point from within the
-liberal tradition by insisting that political liberties must not merely
-exist on paper, but have fair value, and that citizens similarly endowed
-should have similar prospects regardless of wealth. That is the core
-philosophical route by which liberalism can move left without ceasing to
-be liberal. [\[15\]](https://plato.stanford.edu/entries/liberalism/)
-
-A third tension is **rights versus redistribution**. Locke's version of
-liberalism makes property and consent constitutive of legitimate
-authority: taxation without consent threatens the end of government
-itself. Nozick later sharpened that line by arguing that any patterned
-distribution will be undone by free exchanges, so liberty itself "upsets
-patterns." Rawls, by contrast, allows inequality only when it benefits
-the least advantaged and openly says that justice as fairness favors
-either a property-owning democracy or a liberal democratic socialism.
-The result is not one liberal answer, but a structured dispute internal
-to liberalism over whether equality requires redistribution and how far
-it may go.
-[\[16\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-
-Marx's critique is powerful precisely because it presses on these
-liberal tensions. The SEP entry on Marx states that Marx saw liberal
-political emancipation as a major advance over feudal and religious
-domination, but also as something that had to be transcended in the
-direction of human emancipation. In the *Manifesto*, Marx and Engels
-present communism as abolishing **bourgeois** private property, and in
-the *Critique of the Gotha Programme* Marx argues that "equal right"
-remains bourgeois right because equal standards applied to unequal
-people still reproduce inequality. This is the classic formulation of
-the thought that liberal equality contains unresolved promises that
-point beyond itself. [\[17\]](https://plato.stanford.edu/entries/marx/)
-
-### The main pathways from liberalism to leftward expansion
-
-The first pathway is **moral universalization**. Once a regime proclaims
-that all are free and equal in rights, exclusion becomes harder to
-justify. The French Declaration's universal language invited extension
-beyond the intentions of its authors; de Gouges's 1791 declaration did
-exactly that by demanding equal citizenship rights for women, broader
-public participation, and stronger property and family claims for women.
-Similar dynamics recur in later civil rights, anti-discrimination, and
-social-rights movements.
-[\[18\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-The second pathway is **democratic incorporation**. Liberal
-institutions---press freedom, association, elections, and parliamentary
-representation---allow workers and subordinate groups to organize inside
-the system. That does not automatically make the system socialist, but
-it often makes it more egalitarian. The 1848 revolutions quickly
-revealed the split between a democratic republic and a "democratic and
-social" republic; the German SPD became Europe's archetypal mass
-socialist party; and liberal and conservative governments alike
-increasingly adopted social legislation as workers entered politics.
-[\[19\]](https://www.britannica.com/event/Revolutions-of-1848)
-
-The third pathway is **private-power critique**. Social liberals argue
-that domination can come from employers, monopolists, inherited wealth,
-or structurally unequal access to education and politics, not just from
-state officials. That thought was already visible in the transition from
-old to new liberalism, where property rights came to be seen by some
-liberals not simply as guardians of freedom but also as potential
-sources of unjust power. Rawls's insistence on the fair value of
-political liberties is one sophisticated expression of this critique.
-[\[20\]](https://plato.stanford.edu/entries/liberalism/)
-
-The fourth pathway is **crisis radicalization**. When liberal or
-quasi-liberal regimes cannot deliver peace, land, work, or legitimacy,
-socialist or communist movements can claim that only a deeper rupture
-will satisfy liberalism's own unfulfilled promises. This was Lenin's
-opportunity in 1917. The liberal Provisional Government was born after
-the tsar's fall, but it failed to solve the core issues of war, land,
-and economic breakdown. Lenin's April Theses therefore rejected support
-for the Provisional Government and pushed toward bank nationalization,
-soviet power, and control over production and distribution. Here,
-leftward movement came not from liberal logic alone, but from liberal
-failure under catastrophic strain.
-[\[21\]](https://www.britannica.com/topic/Russian-Provisional-Government)
-
-The fifth pathway is **decolonizing universalism**. Liberal ideas of
-self-determination and equal personhood could be---and were---turned
-against empire. The UN's 1960 Declaration on the Granting of
-Independence to Colonial Countries and Peoples states that colonial
-subjection is a denial of fundamental human rights and that all peoples
-have the right to determine their political status and pursue their
-economic, social, and cultural development. In several postcolonial
-contexts, that universalist and anti-imperial language fused with
-socialist programs of development and economic sovereignty, as in
-"African socialism."
-[\[22\]](https://legal.un.org/avl/ha/dicc/dicc.html)
-
-The mechanism map below summarizes the point.
-
-  -----------------------------------------------------------------------------------------------------------------
-                                             ![Rendered Mermaid diagram
-   1](data/md/liberalism-equality-and-the-leftward-drift-thesis/media/media/rId36.png){width="5.833333333333333in"
-                                            height="3.096707130358705in"}
-
-  -----------------------------------------------------------------------------------------------------------------
-
-This diagram synthesizes the main pathways discussed in liberal,
-Marxist, and historical sources.
-[\[23\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-## Historical record
-
-The historical record is mixed, and it is mixed in a way that matters
-for the thesis. The French Revolution is the clearest early example of
-liberal universalism generating wider demands. The 1789 Declaration
-fused equality, liberty, property, and national sovereignty; yet
-property remained "inviolable," and rights were bounded by law and
-public order. Precisely because its language was universal, it became
-vulnerable to further universalization. De Gouges's declaration in 1791
-claimed the same natural and sacred rights for women, including equal
-public participation and stronger legal and property standing. In that
-sense, liberalism did contain seeds of further egalitarian expansion.
-But the French case does not show a straight line to Marxism. Rather, it
-shows that liberal rights language can mutate into competing democratic,
-nationalist, and social projects.
-[\[24\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-The Revolutions of 1848 deepen the point. Across Europe, liberal,
-democratic, nationalist, and social demands converged briefly and then
-split. In France, universal manhood suffrage arrived with the Second
-Republic, but the clash between the proponents of a democratic republic
-and a democratic-and-social republic ended in the June workers'
-insurrection and repression. Across the continent, the immediate
-aftermath included the withdrawal of liberal-democratic concessions and
-intensified policing by regimes frightened by socialist proposals. This
-is strong evidence for the claim that liberal-democratic opening can
-generate left pressure; it is equally strong evidence that such pressure
-can produce reaction as easily as socialist advance.
-[\[25\]](https://www.britannica.com/event/Revolutions-of-1848)
-
-Late-19th-century Europe points less toward Marxist completion than
-toward **reformist incorporation**. In imperial Germany,
-industrialization expanded the working class rapidly; by 1911 Bismarck's
-welfare legislation covered approximately 13.2 million workers, but
-industrial workers still lacked full political rights and many voted for
-the socialist party. The German SPD became the largest single party in
-Reichstag voting strength by 1912. What this shows is not that
-liberalism inevitably becomes Marxism, but that liberal-capitalist
-states often respond to democratic pressure by combining repression,
-welfare, and selective inclusion, while socialist parties themselves
-often move into parliamentary competition rather than insurrection.
-[\[26\]](https://www.britannica.com/topic/history-of-Germany/Germany-from-1871-to-1918)
-
-The British path is even clearer. Parliament's own historical materials
-describe the Liberal reforms of 1906--1914 as early measures aimed at
-poverty, unemployment, sickness, low wages, and poor working conditions;
-those reforms were criticized at the time for not going far enough, yet
-Parliament also notes that they formed a starting point for a
-state-funded support network. Beveridge's 1942 report then supplied the
-blueprint for postwar British social policy, on the explicit premise
-that philanthropy was insufficient and coherent state action was
-required. This is leftward development inside a recognizably liberal
-constitutional order, not a collapse into Marxism.
-[\[27\]](https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/case-study-so-davies-and-workplace-compensation/workplace-compensation-legislation/early-life-in-mining-communities2/)
-
-Long-run welfare-state data reinforce that interpretation. OECD and Our
-World in Data materials show that social expenditure became an
-increasingly central part of advanced capitalist democracies over the
-20th century, and OECD data report high levels of public social spending
-across many member states in recent years. This broad pattern fits the
-idea that liberal-democratic systems often answer egalitarian pressure
-by institutionalizing welfare commitments rather than abandoning
-constitutional capitalism.
-[\[28\]](https://www.oecd.org/en/publications/is-the-european-welfare-state-really-more-expensive_5kg2d2d4pbf0-en.html)
-
-Scandinavian and German social democracy add a final important
-distinction. Britannica describes social democracy as having originally
-aimed at a peaceful transition from capitalism to socialism through
-political processes, but also as having become, in many countries, a
-more moderate doctrine of regulation and welfare. The Swedish Social
-Democratic Party remained committed to an egalitarian society and
-governed Sweden for much of the period after 1932. In historical
-practice, then, the leftward development incubated by liberal-democratic
-politics often culminated in **social democracy**---a hybrid formation
-that keeps elections, rights, and pluralism---rather than Marxist
-abolition of liberal institutions.
-[\[29\]](https://www.britannica.com/topic/social-democracy)
-
-Russia in 1917 is the strongest case for the claimant's intuition, but
-also the clearest warning against overgeneralization. The Provisional
-Government began as a liberal-led government after imperial collapse.
-Soviets, however, emerged alongside it; Lenin condemned the Provisional
-Government as incapable of satisfying the urgent demands for peace,
-land, and social change; and by autumn the government had lost popular
-support. The Bolshevik path to power therefore illustrates how liberal
-or liberalizing regimes can be overrun by the revolutionary left when
-they govern amid war, state breakdown, and dual power. But that
-mechanism is crisis-specific. It is not the normal development of stable
-liberal orders.
-[\[21\]](https://www.britannica.com/topic/Russian-Provisional-Government)
-
-Postcolonial politics partly revive the leftward logic, but on a
-different terrain. The UN decolonization framework explicitly links
-human rights, self-determination, and economic, social, and cultural
-development. In Africa, Britannica notes, anticolonial nationalism often
-gave way after independence to "African socialism" as a unifying and
-developmental program. This supports the thesis that universal
-egalitarian promises can move beyond strictly juridical equality toward
-economic transformation. Yet again, the outcomes were multiple: some
-regimes turned socialist, some nationalist-authoritarian, some
-developmentalist, and many blended liberal and illiberal elements. The
-path was not singular.
-[\[22\]](https://legal.un.org/avl/ha/dicc/dicc.html)
-
-The neoliberal era shows the cycle continuing in reverse. From the late
-1970s, Thatcherism and Reagan-era policy revived market-centered liberal
-arguments, weakened organized labor, privatized state assets, and
-reduced some social commitments. An IMF *Finance & Development* article
-later argued that some neoliberal policies increased inequality and
-thereby jeopardized durable expansion. In Latin America, left-leaning
-responses were visible in the Pink Tide that began in the late 1990s and
-early 2000s. Here again, liberal retrenchment did not end ideological
-struggle; it reactivated it. That supports the weaker instability
-thesis---that liberal orders generate recurrent left reactions---without
-proving the stronger thesis of necessary Marxist completion.
-[\[30\]](https://www.britannica.com/topic/Thatcherism)
-
-A compact timeline helps situate the pattern.
-
-  -----------------------------------------------------------------------------------------------------------------
-                                             ![Rendered Mermaid diagram
-   2](data/md/liberalism-equality-and-the-leftward-drift-thesis/media/media/rId45.png){width="5.833333333333333in"
-                                           height="1.7283945756780403in"}
-
-  -----------------------------------------------------------------------------------------------------------------
-
-Timeline synthesized from primary documents and standard historical
-reference works.
-[\[31\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-
-The case-study comparison below compresses the main findings.
-
-  ------------------------------------------------------------------------------------------
-  Case           Initial liberal      Leftward development  Outcome         What it shows
-                 promise or opening                                         
-  -------------- -------------------- --------------------- --------------- ----------------
-  French         Equal rights,        Expansion of claims   Mixed: liberal, Universal rights
-  Revolution     liberty, property,   to women and broader  democratic,     create pressure
-                 sovereignty of the   democracy             national, and   beyond framers'
-                 nation                                     proto-social    intentions
-                                                            trajectories    
-
-  Europe in 1848 Constitutionalism,   "Democratic and       Split,          Liberal openings
-                 suffrage, national   social" demands,      repression,     can radicalize
-                 self-rule            workers' insurrection partial         and also provoke
-                                                            retention of    reaction
-                                                            reforms         
-
-  Germany and    Parliamentary        Labor politics,       Social          Most common
-  Britain, late  competition and      welfare, social       democracy and   liberal-left
-  19th to        reform               insurance,            welfare         trajectory is
-  mid-20th                            welfare-state         capitalism      reformist, not
-  century                             building                              Marxist
-
-  Russia, 1917   Liberal Provisional  Bolshevik call for    Revolutionary   Marxist outcome
-                 Government after     soviet power, land,   socialist       is likelier
-                 imperial collapse    peace,                seizure of      under war,
-                                      nationalization       power           collapse, and
-                                                                            state failure
-
-  Postcolonial   Universal            Economic sovereignty, Diverse hybrids Rights language
-  states         self-determination   developmental                         often widened
-                 and anti-colonial    socialism, African                    into
-                 rights               socialism                             socio-economic
-                                                                            transformation
-
-  Neoliberal era Market-centered      Left responses to     Pink Tide and   Retrenchment can
-                 liberal retrenchment inequality and        renewed         regenerate left
-                                      deindustrialization   egalitarian     pressure
-                                                            politics        
-  ------------------------------------------------------------------------------------------
-
-Table synthesized from historical and official sources cited in this
-section.
-[\[32\]](https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen)
-
-## Counterarguments and anti-socialist stabilizers
-
-The strongest counterargument is philosophical rather than historical:
-**liberalism is not a monist doctrine of human perfection**, whereas
-Marxism often is. Isaiah Berlin's liberalism is rooted in the
-distinction between negative and positive liberty, but more
-fundamentally in a defense of pluralism against monism and collectivism.
-The SEP entry emphasizes that Berlin's target was not positive liberty
-as such, but its transformation into doctrines that justify overriding
-actual persons in the name of a higher collective self or a single true
-end. On that view, Marxism is not liberalism perfected; it is exactly
-the sort of monist politics liberal pluralism is designed to resist.
-[\[33\]](https://plato.stanford.edu/entries/berlin/)
-
-A second counterargument is constitutional. Locke makes property and
-consent integral to political legitimacy, not provisional expedients on
-the way to collective ownership. His *Second Treatise* says the supreme
-power cannot take property without consent and that the end of
-government is the secure enjoyment of properties. This is a principled
-anti-socialist mechanism, not a temporary stage. It can be modified
-within liberalism, but abolishing it means leaving key liberal premises
-behind.
-[\[34\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-
-A third counterargument is moral and institutional. Mill's liberalism
-combines strong concern for individuality with distrust of paternalist
-or overbearing administration. He defends a protected area of
-self-regarding conduct and warns that states can turn people into
-"docile instruments" by substituting official action for individual
-development. This does not rule out all reform, but it does show that
-liberal arguments for autonomy can cut sharply against collectivist
-administration even when the ends are benevolent.
-[\[35\]](https://oll.libertyfund.org/quotes/j-s-mill-s-great-principle-was-that-over-himself-over-his-own-body-and-mind-the-individual-is-sovereign-1859)
-
-A fourth counterargument comes from Rawls. Rawls pushes liberalism
-leftward more than classical liberals would accept, but he does so while
-preserving equal basic liberties, priority rules, constitutionalism, and
-an explicitly **political** rather than comprehensive liberalism. The
-SEP entry notes that justice as fairness can favor either a
-property-owning democracy or a liberal democratic socialism, while
-Rawls's first principle bars sacrificing equal liberty for aggregate
-gains. This is a major reason the strong thesis fails: the most
-egalitarian liberal theories do not naturally become Marxism; they build
-a distinct liberal-left position instead.
-[\[36\]](https://plato.stanford.edu/entries/rawls/)
-
-Neoliberal and libertarian arguments add a fifth stabilizer: **rule of
-law and limits on discretionary bureaucracy**. The SEP entry on
-neoliberalism states that neoliberals explicitly deploy the rule of law
-against social-democratic and socialist enlargement of the
-administrative state, on the ground that extensive discretionary
-planning invites arbitrary power. Hayek's most famous formulation was
-that direct pursuit of a substantive distributive pattern destroys
-rule-of-law conditions. One does not have to agree with that argument to
-see its relevance: it is a standing liberal mechanism for resisting the
-slide from equality of status toward centralized economic control.
-[\[37\]](https://plato.stanford.edu/archives/fall2025/entries/neoliberalism/)
-
-Finally, there is a historical counterargument. Tocqueville warned that
-democratizing equality does not naturally culminate in socialism; it may
-culminate in a mild but suffocating administrative despotism. His image
-of an "immense and tutelary power" governing a crowd of similar and
-equal men suggests that the danger latent in egalitarian mass democracy
-is not uniquely leftist. It may equally produce paternalism,
-technocracy, or depoliticized centralization. That point is important
-because it breaks the deterministic chain from equality to socialism.
-The chain does not exist in that simple form.
-[\[38\]](https://oll.libertyfund.org/quotes/tocqueville-warns-how-administrative-despotism-might-come-to-a-democracy-like-america-1840)
-
-## Overall judgment and prioritized sources
-
-The most defensible final judgment is that the claim is **too strong if
-stated as a necessity, but illuminating if restated as a recurrent
-tendency**. Liberalism does contain unresolved promises of equality, and
-those promises repeatedly generate demands for broader inclusion, social
-rights, and constraints on private domination. In that sense, liberalism
-is not morally at rest. But the assertion that communism or Marxism
-simply "perfects" liberalism is misleading. Marxism emerges from a
-critique of liberalism's limits, yet it also rejects liberal pluralism,
-liberal property rights, liberal limits on power, and often liberal
-constitutionalism itself. Historically, the most common endpoint of
-liberal egalitarian development has been **social democracy or social
-liberalism**, not Soviet-style communism.
-[\[39\]](https://plato.stanford.edu/entries/marx/)
-
-Put differently: liberalism is **expansionary**, **contestable**, and
-often **left-generating**, but not simply **self-cancelling**. Its
-universal rights claims make exclusions unstable; its institutions
-enable mobilization; and its failures can radicalize politics. Yet its
-own internal resources---rights, consent, pluralism, constitutional
-limits, rule of law, welfare reform, and electoral incorporation---also
-allow it to absorb egalitarian pressure without ceasing to be liberal.
-That is why liberal history is best read not as a one-way road to
-Marxism, but as a recurring struggle among **classical-liberal,
-social-liberal, social-democratic, neoliberal, and socialist** answers
-to the same problem: what equal freedom actually requires.
-[\[40\]](https://www.britannica.com/topic/liberalism)
-
-### Prioritized sources
-
-The sources below were the most important for assessing the claim.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Type                    Source                  Why it matters
-  ----------------------- ----------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  Primary                 Locke, *Second Treatise Canonical statements of consent, majority rule, property, and the end of government.
-                          of Government* via      [\[34\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-                          University of Chicago   
-                          Press                   
-
-  Primary                 *Declaration of the     Core revolutionary liberal text; shows both universal rights language and the centrality of property, law, and sovereignty.
-                          Rights of Man and of    [\[41\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-                          the Citizen* via Yale   
-                          Avalon; Britannica      
-                          commentary              
-
-  Primary                 J.S. Mill, *On Liberty* Classic defense of individual sovereignty and anti-paternalist limits on state action.
-                          via Liberty Fund        [\[35\]](https://oll.libertyfund.org/quotes/j-s-mill-s-great-principle-was-that-over-himself-over-his-own-body-and-mind-the-individual-is-sovereign-1859)
-
-  Primary / interpretive  Alexis de Tocqueville,  Crucial for the tension between equality and liberty, and for the possibility of administrative despotism.
-                          *Democracy in America*  [\[42\]](https://oll.libertyfund.org/pages/tocqueville-s-democracy-in-america)
-                          via Liberty Fund and    
-                          Britannica              
-
-  Primary / scholarly     Isaiah Berlin via SEP   Best single source for the pluralist liberal rebuttal to monist "completion" narratives. [\[33\]](https://plato.stanford.edu/entries/berlin/)
-
-  Primary / scholarly     John Rawls via SEP      Shows how far liberalism can move toward equality without becoming Marxist. [\[43\]](https://plato.stanford.edu/entries/rawls/)
-
-  Primary / scholarly     Marx and Engels via SEP Essential for the claim itself, because Marx explicitly treats liberal emancipation as real but insufficient and attacks bourgeois property and bourgeois
-                          and Marxists Archive    right. [\[2\]](https://plato.stanford.edu/entries/marx/)
-
-  Major reference         SEP and Britannica      Best synoptic sources for defining variants and situating disputes within the liberal tradition. [\[44\]](https://plato.stanford.edu/entries/liberalism/)
-                          entries on liberalism,  
-                          neoliberalism, social   
-                          democracy               
-
-  Official / historical   UK Parliament, OECD,    Ground the report's institutional and historical claims about welfare states, neoliberalism, and decolonization.
-                          IMF, UN materials       [\[45\]](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/coll-9-health/)
-
-  Historical reference    Britannica on 1848,     Provides compact historically reliable case-study coverage across Europe and postcolonial contexts.
-                          Russian Revolution,     [\[46\]](https://www.britannica.com/event/Revolutions-of-1848)
-                          SPD, SAP, African       
-                          socialism, Pink Tide    
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Open questions and limitations
-
-This report did not attempt formal economic modeling of whether welfare
-expansion, redistribution, or market concentration systematically
-produce socialist outcomes. It also did not exhaust the enormous
-national literatures on every postcolonial case, Latin American
-dependency theory, or later welfare-state retrenchment. The broad
-conclusions are nevertheless high-confidence within the requested scope:
-liberalism's universalism creates recurring egalitarian pressures, but
-the historical evidence supports **contested adaptation** far more
-strongly than **deterministic culmination in Marxism**.
-[\[47\]](https://www.britannica.com/topic/liberalism)
-
-------------------------------------------------------------------------
-
-[\[1\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[5\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[7\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[9\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[18\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[23\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[24\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[31\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-[\[41\]](https://avalon.law.yale.edu/18th_century/rightsof.asp)
-https://avalon.law.yale.edu/18th_century/rightsof.asp
-
-<https://avalon.law.yale.edu/18th_century/rightsof.asp>
-
-[\[2\]](https://plato.stanford.edu/entries/marx/)
-[\[17\]](https://plato.stanford.edu/entries/marx/)
-[\[39\]](https://plato.stanford.edu/entries/marx/)
-https://plato.stanford.edu/entries/marx/
-
-<https://plato.stanford.edu/entries/marx/>
-
-[\[3\]](https://www.britannica.com/topic/history-of-Germany/Germany-from-1871-to-1918)
-[\[26\]](https://www.britannica.com/topic/history-of-Germany/Germany-from-1871-to-1918)
-https://www.britannica.com/topic/history-of-Germany/Germany-from-1871-to-1918
-
-<https://www.britannica.com/topic/history-of-Germany/Germany-from-1871-to-1918>
-
-[\[4\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-[\[16\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-[\[34\]](https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html)
-https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html
-
-<https://press-pubs.uchicago.edu/founders/documents/amendV_due_processs6.html>
-
-[\[6\]](https://www.britannica.com/topic/liberalism)
-[\[11\]](https://www.britannica.com/topic/liberalism)
-[\[40\]](https://www.britannica.com/topic/liberalism)
-[\[47\]](https://www.britannica.com/topic/liberalism)
-https://www.britannica.com/topic/liberalism
-
-<https://www.britannica.com/topic/liberalism>
-
-[\[8\]](https://plato.stanford.edu/entries/liberalism/)
-[\[10\]](https://plato.stanford.edu/entries/liberalism/)
-[\[13\]](https://plato.stanford.edu/entries/liberalism/)
-[\[15\]](https://plato.stanford.edu/entries/liberalism/)
-[\[20\]](https://plato.stanford.edu/entries/liberalism/)
-[\[44\]](https://plato.stanford.edu/entries/liberalism/)
-https://plato.stanford.edu/entries/liberalism/
-
-<https://plato.stanford.edu/entries/liberalism/>
-
-[\[12\]](https://www.britannica.com/money/neoliberalism)
-https://www.britannica.com/money/neoliberalism
-
-<https://www.britannica.com/money/neoliberalism>
-
-[\[14\]](https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen)
-[\[32\]](https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen)
-https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen
-
-<https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen>
-
-[\[19\]](https://www.britannica.com/event/Revolutions-of-1848)
-[\[25\]](https://www.britannica.com/event/Revolutions-of-1848)
-[\[46\]](https://www.britannica.com/event/Revolutions-of-1848)
-https://www.britannica.com/event/Revolutions-of-1848
-
-<https://www.britannica.com/event/Revolutions-of-1848>
-
-[\[21\]](https://www.britannica.com/topic/Russian-Provisional-Government)
-https://www.britannica.com/topic/Russian-Provisional-Government
-
-<https://www.britannica.com/topic/Russian-Provisional-Government>
-
-[\[22\]](https://legal.un.org/avl/ha/dicc/dicc.html)
-https://legal.un.org/avl/ha/dicc/dicc.html
-
-<https://legal.un.org/avl/ha/dicc/dicc.html>
-
-[\[27\]](https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/case-study-so-davies-and-workplace-compensation/workplace-compensation-legislation/early-life-in-mining-communities2/)
-https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/case-study-so-davies-and-workplace-compensation/workplace-compensation-legislation/early-life-in-mining-communities2/
-
-<https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/case-study-so-davies-and-workplace-compensation/workplace-compensation-legislation/early-life-in-mining-communities2/>
-
-[\[28\]](https://www.oecd.org/en/publications/is-the-european-welfare-state-really-more-expensive_5kg2d2d4pbf0-en.html)
-https://www.oecd.org/en/publications/is-the-european-welfare-state-really-more-expensive_5kg2d2d4pbf0-en.html
-
-<https://www.oecd.org/en/publications/is-the-european-welfare-state-really-more-expensive_5kg2d2d4pbf0-en.html>
-
-[\[29\]](https://www.britannica.com/topic/social-democracy)
-https://www.britannica.com/topic/social-democracy
-
-<https://www.britannica.com/topic/social-democracy>
-
-[\[30\]](https://www.britannica.com/topic/Thatcherism)
-https://www.britannica.com/topic/Thatcherism
-
-<https://www.britannica.com/topic/Thatcherism>
-
-[\[33\]](https://plato.stanford.edu/entries/berlin/)
-https://plato.stanford.edu/entries/berlin/
-
-<https://plato.stanford.edu/entries/berlin/>
-
-[\[35\]](https://oll.libertyfund.org/quotes/j-s-mill-s-great-principle-was-that-over-himself-over-his-own-body-and-mind-the-individual-is-sovereign-1859)
-https://oll.libertyfund.org/quotes/j-s-mill-s-great-principle-was-that-over-himself-over-his-own-body-and-mind-the-individual-is-sovereign-1859
-
-<https://oll.libertyfund.org/quotes/j-s-mill-s-great-principle-was-that-over-himself-over-his-own-body-and-mind-the-individual-is-sovereign-1859>
-
-[\[36\]](https://plato.stanford.edu/entries/rawls/)
-[\[43\]](https://plato.stanford.edu/entries/rawls/)
-https://plato.stanford.edu/entries/rawls/
-
-<https://plato.stanford.edu/entries/rawls/>
-
-[\[37\]](https://plato.stanford.edu/archives/fall2025/entries/neoliberalism/)
-https://plato.stanford.edu/archives/fall2025/entries/neoliberalism/
-
-<https://plato.stanford.edu/archives/fall2025/entries/neoliberalism/>
-
-[\[38\]](https://oll.libertyfund.org/quotes/tocqueville-warns-how-administrative-despotism-might-come-to-a-democracy-like-america-1840)
-https://oll.libertyfund.org/quotes/tocqueville-warns-how-administrative-despotism-might-come-to-a-democracy-like-america-1840
-
-<https://oll.libertyfund.org/quotes/tocqueville-warns-how-administrative-despotism-might-come-to-a-democracy-like-america-1840>
-
-[\[42\]](https://oll.libertyfund.org/pages/tocqueville-s-democracy-in-america)
-https://oll.libertyfund.org/pages/tocqueville-s-democracy-in-america
-
-<https://oll.libertyfund.org/pages/tocqueville-s-democracy-in-america>
-
-[\[45\]](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/coll-9-health/)
-https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/coll-9-health/
-
-<https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/coll-9-health/>
+# Liberalism, Equality, and the Leftward-Drift Thesis
+
+## Argument in brief
+
+The claim that liberalism contains a built-in **leftward drift** is plausible only after the claim is broken into parts.
+
+Liberalism does create recurring pressure toward broader equal standing. A political order that treats persons as free and equal, rejects inherited political rank, subjects authority to justification, and protects association and political participation gives excluded groups unusually powerful materials with which to challenge exclusion. Liberal traditions have also repeatedly divided over whether equal legal liberty is enough when wealth, private power, education, discrimination, or dependency make formally equal rights difficult to use.
+
+But three stronger claims do **not** follow automatically.
+
+First, liberal equality does not logically require equality of income, property, condition, or outcome. Liberal traditions disagree sharply about what equality is for and what liberty requires. Classical liberals often treat private property and decentralized markets as safeguards of freedom; egalitarian liberals can defend extensive redistribution, property-owning democracy, or liberal socialism while still assigning priority to basic liberties and political pluralism.
+
+Second, the historical development of liberal democracies is not a one-way ideological ratchet. Democratic publics, parties, courts, markets, social movements, organized religion, business, unions, and inherited institutions all push in different directions. Political-science research on **thermostatic responsiveness** is especially damaging to a monotonic drift thesis: when policy moves substantially in one direction, public demand often moves in the opposite direction. Liberal-democratic politics can generate reform, backlash, retrenchment, and renewed reform.
+
+Third, Marxism is not simply liberalism completed. Marx inherits universal emancipatory language and takes liberal political emancipation seriously, but his critique targets the limits of liberal rights, bourgeois property, and merely political equality. Revolutionary socialism therefore belongs partly to liberalism's genealogy and partly to its negation.
+
+The strongest defensible thesis is narrower:
+
+> **Liberalism creates a recurrent equality-expansion mechanism, but not a determinate leftward destination. Its universal status claims supply arguments for inclusion; its freedoms enable organization; and some liberal theories reinterpret freedom in increasingly substantive terms. Yet property, pluralism, constitutional limits, counter-mobilization, competing moral traditions, and thermostatic democratic feedback prevent those pressures from forming a one-way road to socialism.**
+
+The difference between **generating claims** and **determining outcomes** is the center of the argument.
+
+## 1. Four different leftward-drift theses
+
+“Liberalism moves left” can mean at least four different things. They should not be treated as interchangeable.
+
+| Thesis | Claim | Assessment |
+| --- | --- | --- |
+| **Normative opening** | Liberal commitments to free and equal persons make some exclusions increasingly difficult to justify. | **Strong** |
+| **Institutional amplification** | Liberal rights of speech, association, suffrage, litigation, and organization give egalitarian movements tools to press new claims. | **Strong but conditional** |
+| **Historical ratchet** | Liberal democracies tend over time to move policy monotonically toward the political left. | **Weak as a general law** |
+| **Terminal completion** | Liberal equality naturally culminates in socialism or Marxism. | **False as a necessary implication** |
+
+The first thesis is philosophical. The second is institutional. The third is empirical. The fourth is genealogical and ideological. Evidence for one cannot simply be transferred to the others.
+
+This distinction also removes an ambiguity in the word **left**. Political conflict is multidimensional. A society can become more egalitarian in civic status while becoming more market-oriented economically; more permissive on private conduct while tightening immigration; more redistributive while strengthening policing; or more democratic while decentralizing public provision. Contemporary research on representation likewise warns that left-right labels can conceal issue-specific disagreement. A serious drift thesis must therefore name the dimension that is supposedly drifting.
+
+For this report, “leftward” refers principally to three possible movements:
+
+1. extension of **equal civic status** to groups previously excluded;
+2. movement from formal legal equality toward **substantive opportunity, anti-domination, or redistribution**; and
+3. movement from regulated capitalism toward **socialist ownership or revolutionary anti-capitalism**.
+
+These movements can occur together, but historically they often do not.
+
+## 2. Liberalism is not one equality doctrine
+
+The first reason to reject a deterministic thesis is conceptual. Liberalism is internally divided.
+
+The current [Stanford Encyclopedia of Philosophy entry on liberalism](https://plato.stanford.edu/entries/liberalism/) describes a family of competing views rather than a single program. Liberals dispute the meaning of liberty, the place of private property and markets, the scope of democracy, whether liberalism is a comprehensive moral doctrine or only a political framework, and how far liberal principles should extend across communities.
+
+What unifies the family is not a commitment to equal outcomes. It is closer to a presumption that coercion and political authority require justification among persons who possess a morally significant freedom and standing.
+
+That starting point matters because **basic moral equality is underdetermining**. The [SEP entry on equality](https://plato.stanford.edu/entries/equality/) emphasizes that equality immediately raises further questions: equality of what, among whom, and for what reason? The newer [SEP entry on egalitarianism](https://plato.stanford.edu/entries/egalitarianism/) makes the distinction sharper. Contemporary egalitarian theories often defend substantive distributive or relational equality, but basic equality by itself does not tell us whether justice requires equal resources, opportunities, welfare, capabilities, social standing, or some other metric.
+
+So a liberal commitment to equal status can generate disputes about material inequality without logically resolving them.
+
+### Classical-liberal restraint
+
+Classical liberalism supplies an internal brake on egalitarian expansion. In that tradition, private property, contract, decentralized exchange, and limits on discretionary state power are not temporary concessions awaiting a more egalitarian stage. They are often treated as constitutive protections of liberty.
+
+The SEP liberalism entry summarizes the classical argument in two forms: property is itself an exercise of liberty, and dispersed private ownership protects citizens from concentrations of political power. From this perspective, a state that continually rearranges holdings in pursuit of substantive equality may violate the very freedom and legal predictability liberalism was meant to secure.
+
+This position can be criticized from within liberalism, but its existence matters for the drift thesis. Liberalism contains principles that can resist redistribution, not merely principles that demand more of it.
+
+### Egalitarian-liberal expansion
+
+The opposite pressure is equally real. “New,” social, and egalitarian liberalisms argue that formal non-interference can coexist with relations that leave people unable to exercise meaningful freedom.
+
+The same SEP entry traces a liberal transition in which property itself could be treated as a source of unequal power rather than only as a defense against the state. John Rawls pushes that development far beyond ordinary welfare-state liberalism. His theory gives priority to equal basic liberties while also requiring fair equality of opportunity and arranging inequalities to benefit the least advantaged.
+
+The important point is how far this can go **without becoming Marxism**. The SEP discussion of Rawls's difference principle notes that Rawls regarded either a **property-owning democracy** or **liberal market socialism** as potentially compatible with justice as fairness, while rejecting laissez-faire capitalism, command-economy communism, and even ordinary welfare-state capitalism as adequate realizations of his principles.
+
+Rawls is therefore excellent evidence for a leftward potential internal to liberalism. He is also evidence against the claim that the potential has only one endpoint. A theory can become radically egalitarian while retaining basic liberties, constitutional democracy, pluralism, and constraints on political power.
+
+## 3. The strongest mechanism: universalization
+
+The drift thesis is strongest when stated not as a law of history but as a **recurrent argumentative mechanism**.
+
+The 1789 [Declaration of the Rights of Man and of the Citizen](https://avalon.law.yale.edu/18th_century/rightsof.asp) famously begins from free and equal rights, national sovereignty, liberty, property, security, and resistance to oppression. Its authors did not thereby settle who would count as a full political participant or what social equality would require. But universal language creates a characteristic political vulnerability: excluded people can ask why the announced rule does not apply to them.
+
+That structure recurs far beyond the French Revolution. Once a regime claims that status should not depend on inherited rank, it must either widen the category of equal membership or produce a new justification for exclusion. The justification may survive. It may even harden. But exclusion can no longer rely as easily on bare hierarchy.
+
+This mechanism is better described as **universalization** than as leftward drift.
+
+Universalization explains why liberal principles can be turned against liberal practice. It also explains why later movements need not accept the entire liberal package. Feminists, abolitionists, labor movements, anticolonial movements, civil-rights movements, socialists, religious reformers, and conservatives have all sometimes used the language of equal dignity or equal standing while disagreeing profoundly about markets, family, nation, religion, property, and the state.
+
+The mechanism therefore predicts **claim expansion**, not ideological convergence.
+
+## 4. A second mechanism: from formal liberty to effective liberty
+
+A different leftward pressure appears when formal rights are judged insufficient because unequal social conditions affect people's capacity to use them.
+
+Suppose two citizens possess the same legal right to speak, vote, work, contract, or pursue education. They can still differ dramatically in wealth, health, time, bargaining power, information, social status, or exposure to discrimination. Liberal theory then faces a choice: treat those differences as largely outside the political meaning of freedom, or ask whether some of them undermine equal liberty itself.
+
+Classical and egalitarian liberals answer differently. That disagreement generates an internal route from legal equality toward social policy.
+
+Rawls's concern with the **fair value** of political liberties is a clear case. Merely granting identical formal political rights is not enough if concentrations of wealth make political influence radically unequal. Fair equality of opportunity likewise moves beyond a rule against legal caste toward institutions intended to reduce the effect of social starting positions.
+
+This movement can yield welfare provision, anti-discrimination law, public education, social insurance, labor regulation, or predistribution. But again, none of those policies is logically dictated by the premise of equal liberty. Different liberals can agree on the problem while preferring different institutional responses.
+
+The drift thesis is therefore strongest as a prediction of **recurring argument**: liberal societies repeatedly reopen the question of whether formally equal liberty is substantively usable.
+
+## 5. Liberal institutions amplify pressures they do not create
+
+Liberal-democratic institutions can also make left organization easier.
+
+Freedom of speech, association, press, assembly, union organization, electoral competition, litigation, and suffrage provide tools through which movements can recruit, coordinate, publicize grievances, bargain, and win office. Historically, socialist and labor parties often used precisely these openings.
+
+But this is an **institutional opportunity** thesis, not a logical implication of liberal philosophy. The same institutions also enable conservative parties, religious movements, nationalist organizations, property-rights groups, anti-tax movements, market liberals, and movements opposed to previous egalitarian reforms.
+
+Liberal institutions are therefore better thought of as **conflict multipliers**. They lower the cost of organized contestation for many actors. Which side gains depends on resources, coalitions, electoral rules, economic conditions, institutional veto points, and public opinion.
+
+This point changes how democratic incorporation should be interpreted. Expanding suffrage can increase the political power of workers and poorer citizens, but it does not mechanically produce socialist policy. Parties adapt; interests cross-cut class; voters care about religion, nation, status, race, culture, security, and taxation as well as economic distribution; and organized groups compete to define what equality itself requires.
+
+## 6. Welfare-state growth is not proof of a liberal ratchet
+
+The inherited version of this report used the historical growth of welfare states as major evidence that liberal societies naturally move left. That inference is too simple.
+
+Welfare states did grow dramatically within constitutional capitalist societies. That fact matters. It demonstrates that extensive social provision can become compatible with liberal-democratic institutions and private-property economies.
+
+It does **not** establish that welfare provision is the unfolding logic of liberalism alone.
+
+Bryan Fanning's [*Three Roads to the Welfare State*](https://academic.oup.com/policy-press-scholarship-online/book/42362) treats **liberalism, social democracy, and Christian democracy** as distinct ideological routes into European social policy. The [*Oxford Handbook of the Welfare State* chapter on intellectual roots](https://academic.oup.com/edited-volume/41629/chapter-abstract/353472064) likewise emphasizes that welfare-state origins are diverse and contested; early welfare measures often arose from liberal or conservative forces as well as socialist ones.
+
+That matters for causal interpretation. Bismarckian social insurance, Christian-democratic welfare institutions, reform liberalism, social-democratic programs, union pressure, industrialization, war mobilization, demographic change, administrative capacity, and electoral competition can all contribute to social-policy expansion. A later welfare state may be **compatible with liberalism** without being **caused by liberal equality**.
+
+The more defensible historical claim is therefore institutional:
+
+> Liberal democracy proved capable of absorbing many egalitarian demands without abolishing constitutional competition or private ownership.
+
+That is evidence against the terminal-completion thesis as much as it is evidence for leftward pressure.
+
+## 7. Social democracy shows incorporation, not inevitability
+
+The development of social democracy is especially revealing because it runs in both directions.
+
+European socialist parties emerged from labor and socialist movements, not simply from philosophical liberalism. Yet many of them increasingly pursued transformation through elections, parliaments, unions, welfare institutions, and negotiated reform. Fanning's account of social democracy emphasizes that important parties either broke from Marxism or developed with limited Marxist influence, while revisionists such as Eduard Bernstein defended gradual democratic change.
+
+This can be described as liberalism moving left. It can equally be described as socialism becoming **constitutionalized, electoral, and reformist**.
+
+Both descriptions capture part of the interaction.
+
+That is why “social democracy proves liberalism tends to socialism” is poorly specified. Social democracy historically represents a hybridization: socialist egalitarian goals were pursued through institutions associated with liberal democracy, while liberal constitutional orders accepted forms of social protection and economic management earlier liberals would often have rejected.
+
+The process is reciprocal. The left changes liberalism, and liberal institutions change the left.
+
+## 8. Marxism is genealogically related to liberalism—and a rupture from it
+
+The strongest version of the leftward-drift thesis says communism or Marxism **completes** liberalism. That is too strong.
+
+Marx's relationship to liberal emancipation is ambivalent. He treats political emancipation from feudal, religious, and status domination as a real historical achievement, but argues that it leaves deeper forms of social power intact. Liberal rights, in his critique, abstract citizens from the economic relations and private dependencies of bourgeois society.
+
+The *Communist Manifesto* likewise does not present communism as the final extension of ordinary liberal property rights. It calls for abolition of **bourgeois private property** and for proletarian political power. In the *Critique of the Gotha Programme*, Marx attacks an apparently egalitarian distribution according to equal right because equal standards applied to unequal individuals can reproduce inequality.
+
+There is therefore a genuine genealogy: Marx radicalizes questions about freedom, equality, emancipation, arbitrary privilege, and human development that are also present in liberal modernity.
+
+But genealogy is not entailment.
+
+Marxism rejects or radically reconstructs several commitments that many liberals regard as constitutive: robust private property, plural competing centers of authority, liberal neutrality, and constraints on political power designed to protect individuals against collective purposes. Twentieth-century Marxist-Leninist regimes went further still by abolishing multiparty competition and suppressing liberal civil institutions.
+
+The relationship is best described as **inheritance plus negation**. Marxism can emerge from the same modern emancipatory field without being liberalism's logically completed form.
+
+## 9. The largest empirical problem: politics has negative feedback
+
+A one-way drift thesis also performs poorly as a theory of democracy because democratic systems contain feedback.
+
+Christopher Wlezien's classic 1995 study, [“The Public as Thermostat”](https://www.icpsr.umich.edu/web/ICPSR/studies/1104), models citizens as responding to policy itself. If government spending or policy moves farther in one direction than the public wants, demand for “more” of that policy tends to decline; if policy moves the other way, demand can rise. The metaphor is a thermostat rather than a ratchet.
+
+The mechanism has continued to receive empirical support. Matt Grossmann and Christopher Wlezien's 2024 study of U.S. congressional elections finds electoral backlash against parties that push policy farther to **either the left or the right**. Comparative work has found related forms of dynamic or thermostatic representation in other democracies, including research on Britain and Denmark, Spain, Uruguay, and Western European immigration policy.
+
+This does not mean every issue responds symmetrically or immediately. Publics can lag, become polarized, or react differently across domains. Institutions can also be biased or unresponsive. But the existence of negative feedback destroys a simple cumulative story in which each egalitarian reform mechanically produces demand for another reform in the same direction.
+
+A liberal-democratic system can contain both:
+
+- **universalizing pressure**, which generates new claims; and
+- **thermostatic pressure**, which generates reaction when citizens believe policy has moved too far.
+
+The political trajectory is the result of their interaction, not one mechanism alone.
+
+## 10. Why reversals do not refute universalization
+
+The opposite mistake would be to infer from conservative victories or market-oriented reforms that no leftward pressure exists.
+
+A society can institutionalize a new baseline of equal status and then move rightward on taxation, regulation, welfare generosity, labor law, crime, immigration, or administrative power. Some reforms become difficult to reverse; others are retrenched; still others are reinterpreted by new coalitions.
+
+This is why “leftward” needs a baseline.
+
+A polity may be historically farther left than it was a century earlier on women's civic equality while being farther right than it was forty years earlier on union power or top marginal tax rates. It may have a larger welfare state but more marketized delivery. It may protect same-sex marriage while also strengthening border enforcement. Such combinations are normal in multidimensional politics.
+
+The correct empirical image is therefore not an arrow but a **layered settlement**. Some universalized status claims become durable constitutional or moral commitments. Economic and administrative policies remain more reversible. New conflicts then arise around the meaning, cost, and extension of the settlement.
+
+This explains how a real equality-expansion mechanism can coexist with substantial rightward movement.
+
+## 11. Counterforces inside liberalism
+
+The drift thesis becomes much more useful once the counterforces are named explicitly.
+
+### Property and decentralized power
+
+Classical liberals argue that dispersed private ownership and markets protect individuals from centralized political power. On this view, aggressive distributive planning can undermine liberty even when pursued in the name of equality.
+
+### Pluralism
+
+Liberal pluralists reject the idea that political life has one final human end. Values can conflict: equality, autonomy, religious commitment, family, property, security, national attachment, and democratic choice need not be reducible to a single scale. Isaiah Berlin's pluralism is especially important because it attacks the idea that one comprehensive conception of emancipation may legitimately override actual persons for their supposedly higher freedom.
+
+### Constitutional rights and veto points
+
+Courts, federal structures, bicameralism, property protections, procedural rights, independent institutions, and supermajoritarian rules can slow both left and right projects. Whether particular veto points are desirable is a separate question. Their existence makes cumulative policy transformation harder.
+
+### Electoral competition
+
+Parties that move policy can provoke opposition. Elections can replace them, and opposition parties can preserve, reverse, or redirect reforms.
+
+### Competing universal moral traditions
+
+Liberalism does not monopolize universal moral claims. Christianity, socialism, republicanism, nationalism, conservatism, feminism, and other traditions can all generate claims about dignity, solidarity, membership, duty, or justice. Welfare institutions, for example, have historically been defended through Christian-democratic as well as liberal and socialist reasoning.
+
+### Institutional learning and policy failure
+
+Programs create constituencies, but they also create costs, administrative burdens, and unintended effects. Failures can strengthen arguments for more intervention, different intervention, decentralization, privatization, or repeal. Policy feedback has no guaranteed ideological sign.
+
+These counterforces are not external accidents. Several are themselves liberal institutions or liberal arguments.
+
+## 12. What the thesis gets right
+
+After those qualifications, there remains a meaningful leftward-drift insight.
+
+### Equal standing is generative
+
+A society organized around inherited rank can answer an excluded group with “you are not our equal.” A liberal order has more difficulty doing so once it publicly grounds legitimacy in equal civic standing. It must explain why the claimant falls outside the category, why the difference is relevant, or why another liberty overrides the claim.
+
+That justificatory burden is politically powerful.
+
+### Rights create tools for further rights claims
+
+Speech, association, voting, litigation, assembly, and a free press do not choose winners, but they make organized challenge easier. Liberal institutions can therefore incubate movements that demand more substantive equality than incumbent liberals intended.
+
+### Freedom can be reinterpreted through power
+
+Once private coercion, monopoly, inherited wealth, discrimination, or dependency are treated as threats to effective freedom, liberalism can move substantially toward regulation and redistribution without abandoning liberal vocabulary.
+
+### Successful inclusion changes the baseline
+
+When a previously contested equality becomes widely accepted, later politics often begins from a new baseline. That can make universalization look like a ratchet in domains such as formal civic status even when economic policy remains cyclical.
+
+These are real mechanisms. They justify retaining the phrase **leftward drift** as a hypothesis—provided it is not confused with an iron law.
+
+## 13. What the thesis gets wrong when overextended
+
+The thesis fails when it makes any of four jumps.
+
+### From equal status to equal outcomes
+
+No logical bridge automatically connects the proposition that persons have equal moral standing to a specific distribution of wealth, income, property, or welfare. That bridge has to be argued.
+
+### From permission to causation
+
+Liberal institutions may permit socialist organization without being the primary cause of socialist belief or labor militancy. Industrialization, class structure, war, religion, nationalism, empire, state capacity, and economic crisis can matter independently.
+
+### From compatibility to origin
+
+A welfare institution functioning inside a liberal democracy is not thereby evidence that liberalism produced it. Conservative and Christian-democratic welfare traditions are obvious counterexamples to a single-ideology origin story.
+
+### From sequence to inevitability
+
+Even when legal equality is followed by democratization, welfare expansion, and stronger redistribution, chronological sequence does not prove that the first step logically or causally compelled the next. Counter-movements and reversals must be included in the model.
+
+## 14. A better model: universalization plus contestation
+
+The most useful replacement for the one-way drift thesis is a two-process model.
+
+| Process | Mechanism | Likely effect |
+| --- | --- | --- |
+| **Universalization** | Equal-status principles are extended to new persons, domains, or forms of power. | Generates new egalitarian claims. |
+| **Institutional amplification** | Rights and democratic organization make claims politically actionable. | Converts some claims into movements and policy. |
+| **Substantive reinterpretation** | Formal liberty is judged insufficient when material or private power blocks effective agency. | Can move liberalism toward social liberalism or liberal egalitarianism. |
+| **Coalitional contestation** | Parties, classes, religions, movements, firms, unions, and identities compete over meaning and cost. | Makes direction contingent. |
+| **Constitutional constraint** | Rights, property, procedures, veto points, and plural institutions limit rapid transformation. | Slows or redirects both left and right projects. |
+| **Thermostatic feedback** | Public demand reacts to enacted policy and governing direction. | Produces backlash and reversibility. |
+| **Policy feedback** | Reforms create beneficiaries, costs, expectations, and administrative structures. | Can entrench, expand, redirect, or delegitimize prior policy. |
+
+This model predicts something subtler than permanent drift.
+
+Liberal regimes are often **normatively restless** because universal principles invite new applications. They are also **politically oscillatory** because citizens and institutions contest those applications and react to policy outcomes.
+
+The combination can produce long-run expansion in some dimensions, reversal in others, and hybrid settlements that would look incoherent if politics were truly moving on one left-right line.
+
+## 15. Historical illustrations
+
+A few cases are enough to test the model. A catalog of every welfare reform or revolution adds less than it appears to.
+
+### 1789 and the problem of universal language
+
+The French Declaration joins equality and liberty to property, law, and national sovereignty. Its importance for the drift thesis lies in that combination. It announces universal status while preserving commitments that later egalitarians would challenge.
+
+The document therefore contains neither a socialist destination nor a static settlement. It supplies a language whose scope can be contested.
+
+### Nineteenth- and twentieth-century “new liberalism”
+
+The transition from laissez-faire or classical liberal arguments toward reform liberalism demonstrates genuine internal change. Industrialization and democratization altered what many liberals believed freedom required. State action once regarded primarily as a threat to liberty could be defended as a means of securing effective liberty.
+
+This is one of the strongest historical cases for an internal liberal leftward movement.
+
+Yet even here the counterfactual matters. Reform was also shaped by socialist competition, union organization, public-health crises, administrative development, Christian social thought, and electoral incorporation. The change cannot be derived from philosophy alone.
+
+### The postwar welfare settlement
+
+Postwar welfare capitalism demonstrates that liberal democracy can coexist with extensive social provision. It also demonstrates ideological pluralism: liberal, social-democratic, and Christian-democratic parties built different welfare regimes for different reasons.
+
+The case supports **institutional absorption** of egalitarian pressure more clearly than it supports a single liberal causal ratchet.
+
+### Market-liberal retrenchment
+
+The late-twentieth-century revival of market liberalism is a direct counterexample to monotonicity. Liberal arguments themselves supplied intellectual resources for privatization, deregulation, limits on unions, skepticism toward planning, and renewed emphasis on property and market coordination.
+
+A tradition that can generate both Rawls and Hayek cannot be modeled as a one-directional ideological machine without specifying which internal branch is dominant and why.
+
+## 16. Liberalism, the left, and ideological ownership
+
+One final conceptual mistake should be avoided: treating every expansion of equality as evidence that “the left won because liberalism is secretly left.”
+
+Equal citizenship has become part of the moral vocabulary of many modern conservatives as well as liberals and socialists. Political victories can alter the language available to every later coalition. Once an equality norm becomes widely legitimate, the right may defend it in different terms rather than seek its repeal.
+
+The reverse also occurs. Market competition, individual choice, decentralization, civil liberties, and skepticism of state power can be adopted by parties that otherwise favor expansive social rights.
+
+Political traditions learn from, absorb, and steal from one another.
+
+That makes **ideological ownership** a poor proxy for causal origin. A policy can begin on the left and become centrist; a liberal institution can be defended by conservatives; a socialist movement can become social democratic; a conservative welfare institution can later be narrated as a triumph of social citizenship.
+
+The drift thesis should therefore track **mechanisms and institutional changes**, not merely whether later observers place a policy on the left side of a contemporary spectrum.
+
+## 17. How the thesis could be tested rather than asserted
+
+A stronger empirical research design would distinguish domains and compare trajectories rather than compiling examples that fit the hypothesis.
+
+A serious test would ask:
+
+1. **What is the baseline liberal commitment?** Equal legal status, suffrage, speech, property, market freedom, fair opportunity, or something else?
+2. **What counts as movement left?** Broader civic inclusion, more redistribution, stronger labor power, public ownership, cultural permissiveness, or administrative expansion?
+3. **What is the comparison set?** Liberal democracies versus non-liberal regimes, or changes within liberal democracies over time?
+4. **What alternative causes are controlled conceptually?** Industrialization, war, religious institutions, class organization, demographic change, state capacity, crisis, and international diffusion.
+5. **Is policy movement monotonic?** Retrenchment and reversal must count against a ratchet claim.
+6. **Does public opinion respond to policy?** Thermostatic feedback should be treated as part of the causal system.
+7. **Are civic, economic, and cultural dimensions moving together?** If not, a single left-right score may conceal the actual pattern.
+8. **Does the proposed endpoint retain liberal constraints?** Social liberalism, social democracy, liberal socialism, and Marxist-Leninist rule should not be collapsed merely because all can be placed to the economic left of classical liberalism.
+
+Under that design, the most likely finding is not “liberalism always moves left” but **domain-specific asymmetry**: some equal-status norms may show strong long-run expansion, while economic and administrative policy exhibits much more cycling and cross-national variation.
+
+That is an empirical proposition worth testing.
+
+## 18. Relationship to the companion liberalism report
+
+This report is deliberately separate from *Liberalism, Social Disembedding, and Managed Dependency*.
+
+The companion report asks how liberal-capitalist modernity shifts dependency away from inherited persons and communities toward markets, welfare institutions, credentials, bureaucracies, and digital infrastructures, and when those forms of mediation are contestable. Its core problem is **dependency and institutional legibility**.
+
+The present report asks a different question: whether liberal equality contains mechanisms that systematically push political claims and institutions leftward. Its core problem is **ideological direction and feedback**.
+
+The two can interact. Welfare institutions can be both responses to egalitarian pressure and new forms of administrative dependency. But neither thesis subsumes the other.
+
+The previously separate *Liberalism as Political Domestication* package has already been merged into the social-disembedding report and archived as provenance; it is not a competing version of this article.
+
+## Conclusion
+
+The leftward-drift thesis survives, but only in a bounded form.
+
+Liberalism is **generative**. Equal standing invites universalization. Protected contestation gives movements tools. The distinction between formal and effective freedom repeatedly creates arguments for extending liberal concern from state coercion to private power, opportunity, social conditions, and political influence. Those mechanisms can and often do push liberal politics toward broader inclusion and more substantive equality.
+
+Liberalism is not, however, a **one-way ratchet**. Equality is underdetermined; private property and pluralism are internal liberal commitments; welfare institutions have multiple ideological origins; political conflict is multidimensional; socialist movements transform liberal orders while liberal institutions also transform socialist movements; and democratic publics can respond thermostatically against policy movement in either direction.
+
+Nor is Marxism liberalism perfected. It is historically related to the same modern emancipatory field, but it crosses boundaries many liberals regard as constitutive.
+
+The cleanest final formulation is therefore:
+
+> **Liberalism tends to reopen the question of equality more reliably than it determines the answer.**
+
+That is the real source of its apparent drift. Its universal principles make settled exclusions contestable. Its institutions make contestation actionable. But the result is recurring political struggle—sometimes leftward, sometimes rightward, often hybrid—rather than an inevitable march from Locke to Rawls to Marx.
+
+## Sources and further reading
+
+- Gerald Gaus, Shane D. Courtland, and David Schmidtz, [“Liberalism,” *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/liberalism/), substantive revision 2026. The clearest synoptic account of liberalism's internal disputes over liberty, property, social justice, pluralism, and political liberalism.
+- [“Equality,” *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/equality/). Useful for the underdetermination of equality: equality of what, among whom, and under which principle.
+- [“Egalitarianism,” *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/egalitarianism/), 2025. Distinguishes basic moral equality from substantive distributive and relational egalitarianism.
+- [“The Argument for the Difference Principle and the Four Stage Sequence,” *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/original-position/difference-principle.html). On Rawls's preference for property-owning democracy or liberal market socialism over laissez-faire capitalism, command economy, and welfare-state capitalism.
+- [*Declaration of the Rights of Man and of the Citizen* (1789)](https://avalon.law.yale.edu/18th_century/rightsof.asp), Yale Avalon Project. Primary text joining free and equal rights with liberty, property, security, law, and national sovereignty.
+- Karl Marx, [“On the Jewish Question” (1844)](https://www.marxists.org/archive/marx/works/1844/jewish-question/). Primary source for Marx's distinction between political emancipation and a more radical human emancipation.
+- Karl Marx and Friedrich Engels, [*Manifesto of the Communist Party* (1848)](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/). Primary source for the communist critique of bourgeois property and class society.
+- Karl Marx, [*Critique of the Gotha Programme* (1875)](https://www.marxists.org/archive/marx/works/1875/gotha/). Primary source for Marx's critique of equal right as still bearing a bourgeois limitation.
+- Bryan Fanning, [*Three Roads to the Welfare State: Liberalism, Social Democracy and Christian Democracy*](https://academic.oup.com/policy-press-scholarship-online/book/42362), Policy Press, 2021. Comparative intellectual history showing multiple ideological roads into European welfare institutions.
+- [“Intellectual Roots of the Welfare State,” *The Oxford Handbook of the Welfare State*](https://academic.oup.com/edited-volume/41629/chapter-abstract/353472064), 2021 online edition. On the diverse liberal, conservative, social-democratic, and national roots of welfare-state development.
+- Christopher Wlezien, [“The Public as Thermostat: Dynamics of Preferences for Spending”](https://www.icpsr.umich.edu/web/ICPSR/studies/1104), *American Journal of Political Science* 39(4), 1995; replication archive at ICPSR. Foundational statement of negative policy feedback in democratic public opinion.
+- Matt Grossmann and Christopher Wlezien, [“A Thermostatic Model of Congressional Elections”](https://journals.sagepub.com/doi/10.1177/1532673X241253813), *American Politics Research*, 2024. Finds electoral backlash against parties that push policy farther in either ideological direction.
+- Sara B. Hobolt and Robert Klemmensen, [“Responsive Government? Public Opinion and Government Policy Preferences in Britain and Denmark”](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9248.2005.00534.x), *Political Studies* 53(2), 2005. Comparative evidence on dynamic democratic responsiveness.
+- Eliana Alvarez et al., [“Policy Mood and Thermostatic Representation in Developing Democracies: Taking the Temperature in Uruguay”](https://www.tandfonline.com/doi/full/10.1080/17457289.2023.2243586), *Journal of Elections, Public Opinion and Parties*. Evidence that policy mood can respond thermostatically outside the usual advanced-democracy cases.
+- Jan Rosset and Christian Stecker, [“How well are citizens represented by their governments? Issue congruence and inequality in Europe”](https://www.cambridge.org/core/journals/european-political-science-review/article/abs/how-well-are-citizens-represented-by-their-governments-issue-congruence-and-inequality-in-europe/4FCE7A0C8503A85A496B17428C096E78), *European Political Science Review*, 2019. Useful warning that issue-level congruence is more complex than a single left-right dimension suggests.
