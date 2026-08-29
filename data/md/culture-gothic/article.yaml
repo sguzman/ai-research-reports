@@ -83,7 +83,6 @@ relationships:
   merged_into: ''
   related:
   - liberal-gothic-an-analytical-report
-  - liberal-gothic-quick-facts
 editorial:
   duplicate_review:
     status: reviewed
@@ -91,10 +90,12 @@ editorial:
     disposition: keep-separate
     canonical_slug: ''
     rationale: >-
-      The three Liberal Gothic artifacts share terminology but perform distinct functions. `culture-gothic` is an
-      intentionally stylized polemical essay; `liberal-gothic-an-analytical-report` attempts a cross-media genre and
-      case-study analysis; `liberal-gothic-quick-facts` is an empirical/market-incentive briefing. Their overlap is
-      conceptual rather than duplicative, so all remain separate pending independent review of the two related artifacts.
+      `culture-gothic` and `liberal-gothic-an-analytical-report` share the proposed term but now have an explicit division
+      of labor. This package is the published stylized polemic about trauma markets, institutional incentives,
+      diagnostic/necrotic/restorative culture, ideological symmetry, and the limits of cultural indictment. The reviewed
+      analytical package is a neutral formal taxonomy with operational criteria, exclusions, boundary cases, and
+      cross-media tests. `liberal-gothic-quick-facts` was retired on 2026-08-28 as an archived provenance artifact and is
+      no longer an active fork or competing canonical article.
 report:
   number: 090
   year: 2026
@@ -167,8 +168,10 @@ report:
     unsupported claims that liberalism intentionally manufactures wounds, that creators coordinate to preserve
     non-recovery, or that negative emotional engagement is uniquely left/liberal. The essay now treats “liberal gothic”
     as a proposed bounded mode, uses cross-ideological evidence as a symmetry check, includes restorative counterevidence,
-    and provides explicit conditions under which the wound-market thesis would weaken or fail. The two similarly named
-    Liberal Gothic artifacts were reviewed as related functional forks rather than duplicates. No assets are required.
+    and provides explicit conditions under which the wound-market thesis would weaken or fail. The 2026-08-29 corpus
+    reconciliation records the completed review of `liberal-gothic-an-analytical-report` as a separate formal taxonomy
+    and removes the retired quick-facts package from the active related-fork set. No prose, sources, assets, revision, or
+    publication status changed in that reconciliation. No assets are required.
 report-no: 090
 report-number: 090
 report-year: '2026'

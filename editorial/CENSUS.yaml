@@ -1187,26 +1187,22 @@ packages:
     - conversion_or_chatgpt_marker
     - raw_diagram_source
   liberal-gothic-an-analytical-report:
-    title: Liberal Gothic_ An Analytical Report
-    lifecycle: complete
+    title: 'Liberal Gothic: A Diagnostic Taxonomy'
+    lifecycle: ready
     draft: false
     type: report
-    editorial_profile: null
-    voice: null
-    duplicate_review: null
-    has_changelog: false
-    asset_files: 2
+    editorial_profile: academic
+    voice: neutral
+    duplicate_review: reviewed
+    has_changelog: true
+    asset_files: 0
     legacy_media_files: 0
-    body_bytes: 42596
+    body_bytes: 30455
     h1_count: 1
     local_link_or_image_count: 0
-    risk_hints: []
-    mechanical_flags:
-    - legacy_or_unknown_lifecycle
-    - editorial_profile_unresolved
-    - changelog_missing
-    - duplicate_review_unresolved
-    - absolute_path_in_body
+    risk_hints:
+    - time_sensitive_policy_or_market
+    mechanical_flags: []
   liberal-gothic-quick-facts:
     title: 'Liberal Gothic: Quick Facts'
     lifecycle: archived

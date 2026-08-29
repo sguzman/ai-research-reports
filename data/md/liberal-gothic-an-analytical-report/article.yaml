@@ -1,35 +1,216 @@
 ---
-abstract: '**Executive Summary.** *“Liberal gothic”* is a proposed narrative mode marked by **educated,
-  often progressive protagonists** who foreground personal trauma and existential malaise in hushed, introspective
-  settings. Unlike classical Gothic (emphasis on supernatural terror and architecture[\[1\]](https://en.wikipedia.org/wiki/Gothic_fiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1))
-  or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy[\[2\]](https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)),
-  liberal gothic narratives use *ordinary* liminal spaces (e.g. forests, empty homes) and realistic dialogue
-  to stage em…'
+title: 'Liberal Gothic: A Diagnostic Taxonomy'
+linkTitle: Liberal Gothic
+subtitle: Operational Criteria, Boundary Cases, and Cross-Media Tests
+slug: liberal-gothic-an-analytical-report
 aliases: []
+date: '2026-04-13'
+lastmod: '2026-08-29'
+publishDate: '2026-04-13'
+draft: false
+status: ready
+type: report
+editorial_profile: academic
+voice: neutral
+revision: 1.0.1
+license: CC0-1.0
+rights: CC0-1.0
+publisher: Marginalia
 author:
 - Salvador Guzman
 - ChatGPT
 authors:
 - Salvador Guzman
 - ChatGPT
+creator:
+- Salvador Guzman
+categories:
+- Cultural Criticism
+- Media Studies
+- Gothic Studies
+tags:
+- liberal-gothic
+- contemporary-gothic
+- trauma-fiction
+- wounded-protagonist
+- narrative-games
+- media-taxonomy
+keywords:
+- Liberal Gothic
+- contemporary Gothic
+- trauma fiction
+- trauma plot
+- wounded protagonist
+- Gothic recurrence
+- limited mastery
+- OXENFREE II Lost Signals
+- What Remains of Edith Finch
+- Gone Home
+- Firewatch
+subject:
+- Contemporary Gothic
+- Cultural criticism
+- Narrative theory
+subjects:
+- Proposed liberal-gothic mode
+- Gothic recurrence and trauma
+- Wounded interpretation
+- Cross-media narrative taxonomy
+summary: >-
+  A bounded diagnostic taxonomy of “liberal gothic” as a proposed mode in which Gothic recurrence, wounded
+  interpretation, and limited mastery converge, with explicit exclusion tests and cross-media boundary cases.
+description: >-
+  This report replaces a broad equation of introspective progressive media with “liberal gothic” by defining a narrower
+  formal mode: unresolved pasts return, wounded protagonists gain partial interpretive knowledge, and recognition exceeds
+  the power to repair compromised institutions or unsafe intimacy.
+abstract: >-
+  “Liberal gothic” is treated here as a proposed critical label rather than an established scholarly genre. The report
+  requires three core structures—Gothic recurrence, wounded interpretation, and limited mastery—and treats compromised
+  institutions, unsafe intimacy, and modern therapeutic/recognitional moral language as supporting criteria. Sadness,
+  trauma, progressive politics, middle-class protagonists, slow plots, and prestige-indie aesthetics are explicitly
+  insufficient on their own. OXENFREE II: Lost Signals and What Remains of Edith Finch are analyzed as strong members;
+  Gone Home and Firewatch as boundary cases; and A Little Life and BoJack Horseman as adjacent or negative controls.
+  The report also distinguishes a restrained form that preserves opacity and ambiguity from a degraded form in which
+  injury becomes an automatic credential for depth or moral authority. The broader market/incentive argument remains in
+  the separate published essay `culture-gothic`; the retired `liberal-gothic-quick-facts` package is not treated as a
+  competing canonical article.
 build:
   list: always
   publishResources: true
   render: always
-cascade: {}
-categories:
-- Culture
-- Media Studies
+relationships:
+  exact_duplicates: []
+  near_duplicates: []
+  derived_from: []
+  derivatives: []
+  merged_from: []
+  merged_into: ''
+  related:
+  - culture-gothic
+editorial:
+  duplicate_review:
+    status: reviewed
+    relationship: fork
+    disposition: keep-separate
+    canonical_slug: liberal-gothic-an-analytical-report
+    rationale: >-
+      `culture-gothic` and this package share the proposed term but now perform deliberately separate functions.
+      `culture-gothic` is a published stylized polemic about trauma markets, institutional incentives, diagnostic versus
+      necrotic versus restorative culture, and the limits of causal indictment. This report is a neutral formal taxonomy
+      with operational membership criteria, exclusions, and cross-media case tests. `liberal-gothic-quick-facts` was
+      independently retired on 2026-08-28 as an archived provenance artifact and is not a competing canonical package.
+report:
+  number: '088'
+  year: 2026
+  type: report
+  version: 1.0.1
+  kind: conceptual taxonomy and cross-media analysis
+  collection: cultural-theory
+  discipline: media and cultural studies
+  subdiscipline: Gothic studies, narrative theory, and criticism
+  domain: culture and media
+  topic: Liberal Gothic
+  subject: a proposed contemporary Gothic mode organized around wounded interpretation and limited mastery
+  audience: general reader, critic, media scholar, and narrative designer
+  intent: >-
+    turn the inherited “liberal gothic” intuition into a bounded and falsifiable formal category rather than a synonym
+    for sad, introspective, progressive-coded, or trauma-centered prestige media.
+  method: >-
+    Conceptual taxonomy grounded in contemporary Gothic and trauma-fiction scholarship, followed by cross-media
+    inclusion, boundary, adjacency, and negative-control tests using primary works and reputable critical commentary.
+  methods:
+  - conceptual analysis
+  - genre and mode comparison
+  - inclusion and exclusion testing
+  - boundary-case analysis
+  - source-to-claim audit
+  - relationship review
+  emphasis:
+  - Gothic recurrence
+  - wounded interpretation
+  - limited mastery
+  - compromised institutions
+  - unsafe intimacy
+  - liberal-therapeutic moral vocabulary
+  - restrained versus degraded form
+  - negative controls
+  focus: >-
+    when haunting, psychological injury, compromised trust, and incomplete agency form one narrative structure rather
+    than merely co-occurring as melancholy subject matter
+  scope:
+  - contemporary Gothic and trauma-fiction context
+  - operational diagnostic criteria
+  - exclusion tests
+  - 'OXENFREE II: Lost Signals'
+  - What Remains of Edith Finch
+  - Gone Home
+  - Firewatch
+  - A Little Life
+  - BoJack Horseman
+  period: contemporary media with historical Gothic context
+  period_covered: late twentieth- and twenty-first-century narrative culture with historical comparison
+  population_focus: selected cross-media narrative works used as diagnostic cases rather than a statistical corpus
+  primary_texts:
+  - 'OXENFREE II: Lost Signals'
+  - What Remains of Edith Finch
+  - Gone Home
+  - Firewatch
+  - A Little Life
+  - BoJack Horseman
+  region: primarily Anglophone media
+  region_focus: Anglophone literature, television, film, and narrative games
+  scope_years: contemporary works through 2026 review context
+  stance: neutral analytical
+  structure: >-
+    thesis, conceptual boundaries, required/supporting criteria, insufficiency tests, strong cases, boundary cases,
+    negative controls, case matrix, restrained/degraded forms, neighboring modes, modifier audit, practical test,
+    conclusion, and named sources
+  time_scope: contemporary cultural analysis
+  time_span: contemporary media with Gothic and trauma-fiction antecedents
+  organization: Marginalia
+  series: Marginalia Reports
+  is_report: true
+  id: urn:marginalia:liberal-gothic-an-analytical-report
+  conversion:
+    date: '2026-04-20'
+    source_docx: Liberal Gothic_ An Analytical Report.docx
+    tool: pandoc 3.6
+  notes: >-
+    The 2026-08-29 final audit replaced the inherited twelve-work catalog and broad “educated progressive protagonists
+    foreground trauma” definition with a diagnostic taxonomy. Political/demographic vibe-coding is rejected as evidence;
+    sadness, therapy language, mental illness, slow plotting, and prestige-indie aesthetics are explicitly insufficient.
+    The rewrite requires Gothic recurrence, wounded interpretation, and limited mastery; uses compromised institutions,
+    unsafe intimacy, and modern recognitional/therapeutic moral language only as supporting evidence; introduces strong,
+    boundary, adjacent, and negative-control cases; and separates restrained ambiguity from a degraded prestige-trauma
+    variant. The report is now functionally distinct from the published polemical essay `culture-gothic`. The archived
+    `liberal-gothic-quick-facts` package remains provenance-only. Both inherited Edith Finch conversion screenshots were
+    deleted because no provenance or license was recorded and neither was necessary to the argument. Raw escaped numbered
+    citations, duplicate source export, vague bibliography prompts, prompt/user residue, and absolute workstation image
+    paths were removed.
+report-no: '088'
+report-number: '088'
+report-year: '2026'
+report_no: 88
+report_number: 88
+report_year: 2026
+series: Marginalia Reports
+series-number: 88
+series-title: Marginalia Reports
+series_number: 88
+series_title: Marginalia Reports
+identifier: urn:marginalia:liberal-gothic-an-analytical-report
+dataset_id: cultural-theory
+language: English
+lang: en
+toc: true
+toc-depth: 3
+toc-title: Contents
+number-sections: true
+reference-section-title: Sources and further reading
+format: markdown
+resources: []
 cover-image: ''
 cover_image: ''
-creator:
-- Salvador Guzman
-dataset_id: ''
-date: '2026-04-13'
-description: '**Executive Summary.** *“Liberal gothic”* is a proposed narrative mode marked by **educated,
-  often progressive protagonists** who foreground personal trauma and existential malaise in hushed, introspective
-  settings. Unlike classical Gothic…'
-draft: false
 edition: '1'
 epub-chapter-level: 0
 epub-cover-image: ''
@@ -37,115 +218,18 @@ epub-stylesheet: epub.css
 epub-title-page: false
 epub_cover_image: ''
 expiryDate: ''
-format: markdown
 headless: false
 highlight-style: tango
-identifier: urn:marginalia:liberal-gothic-an-analytical-report
 isCJKLanguage: false
-keywords:
-- Liberal Gothic_ An Analytical Report
-- Culture
-- Media Studies
-- Literature and media studies
-lang: en
-language: English
-lastmod: '2026-04-13'
 layout: ''
-library_of_congress_classification:
-  class: PN
-  description: Literature, media studies, criticism, and cultural analysis.
-  label: Literature and media studies
-license: CC0-1.0
-linkTitle: Liberal Gothic_ An Analytical Report
 markup: ''
-number-sections: false
 outputs: []
 plate_id: ''
-publishDate: '2026-04-13'
-publisher: Marginalia
-reference-section-title: References
-report:
-  audience: general reader
-  code: ''
-  collection: ''
-  conversion:
-    date: '2026-04-20'
-    source_docx: Liberal Gothic_ An Analytical Report.docx
-    tool: pandoc 3.6
-  discipline: media and cultural studies
-  domain: culture
-  emphasis: ''
-  focus: ''
-  id: urn:marginalia:liberal-gothic-an-analytical-report
-  intent: ''
-  is_report: true
-  kind: analytical report
-  level: ''
-  method: ''
-  methods: []
-  name: Liberal Gothic_ An Analytical Report
-  notes: ''
-  number: 088
-  organization: Marginalia
-  period: ''
-  period_covered: ''
-  population_focus: ''
-  primary_texts: []
-  region: ''
-  region_focus: ''
-  scope: ''
-  scope_years: ''
-  series: Marginalia Reports
-  stance: ''
-  structure: ''
-  subdiscipline: criticism and interpretation
-  subject: ''
-  time_scope: ''
-  time_span: ''
-  topic: Liberal Gothic_ An Analytical Report
-  type: report
-  version: 1.0.0
-  year: 2026
-report-no: 088
-report-number: 088
-report-year: '2026'
-report_no: 88
-report_number: 88
-report_year: 2026
-resources: []
-revision: 1.0.0
-rights: CC0-1.0
-series: Marginalia Reports
-series-number: 88
-series-title: Marginalia Reports
-series_number: 88
-series_title: Marginalia Reports
 sitemap:
   changefreq: ''
   filename: sitemap.xml
   priority: 0
-slug: liberal-gothic-an-analytical-report
-status: complete
-subject:
-- Culture
-- Media studies
-subjects:
-- Culture
-- Media studies
-subtitle: ''
-summary: '**Executive Summary.** *“Liberal gothic”* is a proposed narrative mode marked by **educated,
-  often progressive protagonists** who foreground personal trauma and existential malaise in hushed, introspective
-  settings. Unlike classical Gothic…'
-tags:
-- liberal-gothic-an-analytical-report
-- culture
-- media-studies
-title: Liberal Gothic_ An Analytical Report
-toc: false
-toc-depth: 0
-toc-title: ''
 translationKey: ''
-type: report
 url: ''
 weight: 0
 ...
